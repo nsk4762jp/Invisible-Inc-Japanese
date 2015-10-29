@@ -1,0 +1,3 @@
+locale = Japanese(WIP)
+poFile = ja_JP.po
+id = Japanese_Language_Pack_WIP
