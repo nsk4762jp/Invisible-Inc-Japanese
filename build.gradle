@@ -1,0 +1,63 @@
+task install {
+  description = 'Invisible, Inc. 日本語化パックをインストールします。'
+  
+  doLast {
+  
+    //作業用フォルダを作成
+    File workDir = file(getProperty('work.dir'))
+    if (workDir.exists()) {
+      workDir.deleteDir()
+    }
+    workDir.mkdir()
+    
+    //フォント画像データをコピー
+    copy {
+      from getProperty('resource.fonts')
+      into getProperty('work.fonts')
+    }
+    
+    //翻訳データをコピー
+    copy {
+      from getProperty('resource.translation')
+      into workDir
+    }
+    
+    //MOD情報をコピー
+    copy {
+      from getProperty('resource.modinfo')
+      into workDir
+    }
+    
+    //MOD画像をコピー
+    copy {
+      from getProperty('resource.preview')
+      into workDir
+    }
+    
+    //作業用フォルダを Steam の Invisible, Inc. MOD インストールフォルダにコピー
+    File modDir = file(getProperty('steam.invisibleinc'))
+    if (modDir.exists()) {
+      modDir.deleteDir()
+    }
+    modDir.mkdir()
+    
+    copy {
+      from workDir
+      into modDir
+    }
+    
+    //作業用フォルダ削除
+    workDir.deleteDir()
+  }
+}
+
+task uninstall {
+  description = 'Invisible, Inc. 日本語化パックをアンインストールします。'
+  
+  doLast {
+    File modDir = file(getProperty('steam.invisibleinc'))
+    if (modDir.exists()) {
+      modDir.deleteDir()
+    }
+  }
+}

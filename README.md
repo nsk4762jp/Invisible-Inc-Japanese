@@ -5,7 +5,7 @@ Klei Entertainment 制作 ターンベースストラテジーゲーム 「[Invi
 最終的には Steam ワークショップで公開予定です。
 
 ## 翻訳サンプル
-<image src="https://raw.githubusercontent.com/wiki/nsk4762jp/Invisible-Inc-Japanese/sample.png" width="50%">
+<image src="https://raw.githubusercontent.com/wiki/nsk4762jp/Invisible-Inc-Japanese/sample.png" width="75%">
 
 ## 要求事項
 同梱しているフォント画像データ以外のフォント画像データを利用する場合は、[BMFont](http://www.angelcode.com/products/bmfont/) が必要です。
@@ -16,14 +16,20 @@ Klei Entertainment 制作 ターンベースストラテジーゲーム 「[Invi
 
 
 ## インストール
-gradle によるビルド、インストールを予定しています。
+[ZIPファイル](https://github.com/nsk4762jp/Invisible-Inc-Japanese/archive/master.zip)を解凍したら、コマンドプロンプトから下記のコマンドを打てばインストールされます。
 
-    gradlew
-    gradlew install
+    $> gradlew
+    $> gradlew install
+
+Steam が C: ドライブ以外にインストールしてある人は、同梱の gradle.properties を修正してからインストールコマンドを入力してください。
+
+    [gradle.properties]
+    //Invisible, Inc. のMODインストール先フォルダ
+    steam.invisibleinc=D:/Program Files (x86)/Steam/steamapps/common/InvisibleInc/mods/Japanese_Language_Pack_WIP
 
 ## ライセンス
 
-MIT License
+[MIT License](https://raw.githubusercontent.com/wiki/nsk4762jp/Invisible-Inc-Japanese/LICENSE)
 
 ## 作者
 
