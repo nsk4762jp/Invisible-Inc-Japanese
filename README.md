@@ -5,7 +5,7 @@ Klei Entertainment 制作 ターンベースストラテジーゲーム 「[Invi
 最終的には Steam ワークショップで公開予定です。
 
 ## 翻訳サンプル
-サンプル画像を掲載予定
+<image src="https://raw.githubusercontent.com/wiki/nsk4762jp/Invisible-Inc-Japanese/sample.png" width="50%">
 
 ## 要求事項
 同梱しているフォント画像データ以外のフォント画像データを利用する場合は、[BMFont](http://www.angelcode.com/products/bmfont/) が必要です。
