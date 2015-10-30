@@ -702,7 +702,7 @@ msgstr "%s にウィルスを注入"
 #: STRINGS.ABILITIES.USE_AGGRESSION
 msgctxt "STRINGS.ABILITIES.USE_AGGRESSION"
 msgid "Ventricular Lance"
-msgstr "心臓一突き"
+msgstr "心臓用メス"
 
 #: STRINGS.ABILITIES.USE_AGGRESSION_DESC
 msgctxt "STRINGS.ABILITIES.USE_AGGRESSION_DESC"
@@ -5808,17 +5808,17 @@ msgstr ""
 #: STRINGS.ITEMS.DART_GUN1_NAME
 msgctxt "STRINGS.ITEMS.DART_GUN1_NAME"
 msgid "Neural D.A.R.T."
-msgstr ""
+msgstr "ニューラル ダート"
 
 #: STRINGS.ITEMS.DART_GUN1_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN1_TOOLTIP"
 msgid "Knocks a guard out from long range."
-msgstr ""
+msgstr "遠距離から 守衛を KO します。"
 
 #: STRINGS.ITEMS.DART_GUN_AMMO
 msgctxt "STRINGS.ITEMS.DART_GUN_AMMO"
 msgid "Riot D.A.R.T."
-msgstr ""
+msgstr "ライオット ダート"
 
 #: STRINGS.ITEMS.DART_GUN_AMMO_FLAVOR
 msgctxt "STRINGS.ITEMS.DART_GUN_AMMO_FLAVOR"
@@ -5826,16 +5826,18 @@ msgid ""
 "A modified reservoir holds more toxin for additional shots. Used by "
 "corporate security forces doing crowd control."
 msgstr ""
+"弾数を 増加させるため 神経毒 貯蔵器に 調整が 入っています。 制圧するために 企"
+"業の セキュリティに よって 使われます。"
 
 #: STRINGS.ITEMS.DART_GUN_AMMO_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN_AMMO_TOOLTIP"
 msgid "High capacity toxin weapon."
-msgstr ""
+msgstr "大容量 神経毒 搭載武器"
 
 #: STRINGS.ITEMS.DART_GUN_BIO
 msgctxt "STRINGS.ITEMS.DART_GUN_BIO"
 msgid "Biogenic D.A.R.T."
-msgstr ""
+msgstr "バイオジェニック ダート"
 
 #: STRINGS.ITEMS.DART_GUN_BIO_FLAVOR
 msgctxt "STRINGS.ITEMS.DART_GUN_BIO_FLAVOR"
@@ -5843,16 +5845,18 @@ msgid ""
 "A small bioreactor recharges this D.A.R.T. launcher after every use. Do not "
 "open - contains no user-serviceable parts."
 msgstr ""
+"射出後は 小型 生化学反応 装置によって 再装填 されます。 使用者を 保護する 部"
+"品は 付属して いないため、 絶対に 分解しないで ください。"
 
 #: STRINGS.ITEMS.DART_GUN_BIO_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN_BIO_TOOLTIP"
 msgid "Recharges every 7 turns."
-msgstr ""
+msgstr "再装填に 7 ターン かかります。"
 
 #: STRINGS.ITEMS.DART_GUN_DAM
 msgctxt "STRINGS.ITEMS.DART_GUN_DAM"
 msgid "Drilling D.A.R.T."
-msgstr ""
+msgstr "ドリル ダート"
 
 #: STRINGS.ITEMS.DART_GUN_DAM_FLAVOR
 msgctxt "STRINGS.ITEMS.DART_GUN_DAM_FLAVOR"
@@ -5860,16 +5864,18 @@ msgid ""
 "Tiny servomotors propel the syringe deep within the target's tissue before "
 "delivering its payload, resulting in a more effective drug delivery."
 msgstr ""
+"目標の 生体組織 深くまで 突き刺さる 小型サーボモータ 搭載の 弾丸を 持ち、 薬"
+"品を 投与するのに とても 効果的な 作りに なっています。"
 
 #: STRINGS.ITEMS.DART_GUN_DAM_TOOLTIP
 msgctxt "STRINGS.ITEMS.DART_GUN_DAM_TOOLTIP"
 msgid "Ranged targets."
-msgstr ""
+msgstr "遠距離ターゲットです。"
 
 #: STRINGS.ITEMS.DEFIBRILLATOR
 msgctxt "STRINGS.ITEMS.DEFIBRILLATOR"
 msgid "VENTRICULAR LANCE"
-msgstr ""
+msgstr "心臓用メス"
 
 #: STRINGS.ITEMS.DEFIBRILLATOR_FLAVOR
 msgctxt "STRINGS.ITEMS.DEFIBRILLATOR_FLAVOR"
@@ -5877,16 +5883,20 @@ msgid ""
 "A cardiac shot of aggression straight to the heart. Be sure to punch clean "
 "through the rib cage for positive results."
 msgstr ""
+"心臓に 直接刺激を 加えます。 理想的な 結果を 得るために 胸郭内を きれいに し"
+"ておいて ください。"
 
 #: STRINGS.ITEMS.DEFIBRILLATOR_TOOLTIP
 msgctxt "STRINGS.ITEMS.DEFIBRILLATOR_TOOLTIP"
 msgid "Gives the agent +1 ARMOR PIERCING to all weapons for one turn."
 msgstr ""
+"1 ターンの間、 エージェントが 使用する すべての 武器は アーマーを 1 貫通しま"
+"す。"
 
 #: STRINGS.ITEMS.DRONE_TURRET
 msgctxt "STRINGS.ITEMS.DRONE_TURRET"
 msgid "OBAKE Turret"
-msgstr ""
+msgstr "オバケ タレット"
 
 #: STRINGS.ITEMS.DRONE_TURRET_FLAVOR
 msgctxt "STRINGS.ITEMS.DRONE_TURRET_FLAVOR"
@@ -5894,6 +5904,8 @@ msgid ""
 "The preponderance of plasma ammunition available to the lowest level of "
 "corporate security forces only highlights the growing class divide."
 msgstr ""
+"プラズマ弾を 搭載する ことで、 下手な 企業セキュリティ よりも 優れていると 強"
+"調できるように なりました。"
 
 #: STRINGS.ITEMS.DRONE_TURRET_TOOLTIP
 msgctxt "STRINGS.ITEMS.DRONE_TURRET_TOOLTIP"
@@ -5903,12 +5915,12 @@ msgstr ""
 #: STRINGS.ITEMS.ECON_CHIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP"
 msgid "ECON CHIP"
-msgstr ""
+msgstr "エコノミー チップ"
 
 #: STRINGS.ITEMS.ECON_CHIP_BANKS
 msgctxt "STRINGS.ITEMS.ECON_CHIP_BANKS"
 msgid "BANKS' CUSTOM ECON CHIP"
-msgstr ""
+msgstr "バンクス専用 エコノミー チップ"
 
 #: STRINGS.ITEMS.ECON_CHIP_BANKS_FLAVOR
 msgctxt "STRINGS.ITEMS.ECON_CHIP_BANKS_FLAVOR"
@@ -5916,11 +5928,15 @@ msgid ""
 "This trusty device has probably seen more credits run through its circuits "
 "than some small countries."
 msgstr ""
+"この信頼できる デバイスは、 おそらく 小国レベルの 国家予算よりも 多くの クレ"
+"ジットを その回路を 通して 見ています。"
 
 #: STRINGS.ITEMS.ECON_CHIP_BANKS_TOOLTIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP_BANKS_TOOLTIP"
 msgid "Collects credits from consoles instead of PWR. 50 credit per PWR point."
 msgstr ""
+"端末から 電力の 代わりに クレジットを 取得します。 電力 1 に対し 50 クレジッ"
+"ト 取得 できます。"
 
 #: STRINGS.ITEMS.ECON_CHIP_FLAVOR
 msgctxt "STRINGS.ITEMS.ECON_CHIP_FLAVOR"
@@ -5928,16 +5944,20 @@ msgid ""
 "The SHL routine is a complex account processing algorithm that gets very "
 "creative with decimal points."
 msgstr ""
+"SHL ルーチンは 極めて うまい具合に 端数計算を 行う 複雑な 会計処理 アルゴリズ"
+"ム です。"
 
 #: STRINGS.ITEMS.ECON_CHIP_TOOLTIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP_TOOLTIP"
 msgid "Collects credits from consoles instead of PWR. 50 credit per PWR point."
 msgstr ""
+"端末から 電力の 代わりに クレジットを 取得します。 電力 1 に対し 50 クレジッ"
+"ト 取得 できます。"
 
 #: STRINGS.ITEMS.EMP_1
 msgctxt "STRINGS.ITEMS.EMP_1"
 msgid "EMP Pack I"
-msgstr ""
+msgstr "EMP パック I"
 
 #: STRINGS.ITEMS.EMP_1_FLAVOR
 msgctxt "STRINGS.ITEMS.EMP_1_FLAVOR"
@@ -5946,6 +5966,8 @@ msgid ""
 "electronics within a radius. Often used as safety devices in automated "
 "assembly lines."
 msgstr ""
+"EMP パックは 空気中に 巨大な 静電気を 生成し、 範囲内の 電子機器を 暴走させま"
+"す。 自動 組み立て ラインの 安全装置 として 使用されます。"
 
 #: STRINGS.ITEMS.EMP_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_1_TOOLTIP"
@@ -5953,11 +5975,13 @@ msgid ""
 "Detonates at the end of the turn. Disables all Mainframe devices and drones "
 "in a range of 3 tiles"
 msgstr ""
+"ターン終了時に 爆発します。 3 タイル 以内の 全メインフレーム 端末 および ド"
+"ローンを 無効化します。"
 
 #: STRINGS.ITEMS.EMP_2
 msgctxt "STRINGS.ITEMS.EMP_2"
 msgid "EMP Pack II"
-msgstr ""
+msgstr "EMP パック II"
 
 #: STRINGS.ITEMS.EMP_2_FLAVOR
 msgctxt "STRINGS.ITEMS.EMP_2_FLAVOR"
@@ -5966,6 +5990,8 @@ msgid ""
 "electronics within a radius. Often used as safety devices in automated "
 "assembly lines."
 msgstr ""
+"EMP パックは 空気中に 巨大な 静電気を 生成し、 範囲内の 電子機器を 暴走させま"
+"す。 自動 組み立て ラインの 安全装置 として 使用されます。"
 
 #: STRINGS.ITEMS.EMP_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_2_TOOLTIP"
@@ -5973,11 +5999,13 @@ msgid ""
 "Detonates at the end of the turn. Disables all Mainframe devices and drones "
 "in a range of 5 tiles"
 msgstr ""
+"ターン終了時に 爆発します。 5 タイル 以内の 全メインフレーム 端末 および ド"
+"ローンを 無効化します。"
 
 #: STRINGS.ITEMS.EMP_3
 msgctxt "STRINGS.ITEMS.EMP_3"
 msgid "EMP Pack III"
-msgstr ""
+msgstr "EMP パック III"
 
 #: STRINGS.ITEMS.EMP_3_FLAVOR
 msgctxt "STRINGS.ITEMS.EMP_3_FLAVOR"
@@ -5986,6 +6014,8 @@ msgid ""
 "electronics within a radius. Often used as safety devices in automated "
 "assembly lines."
 msgstr ""
+"EMP パックは 空気中に 巨大な 静電気を 生成し、 範囲内の 電子機器を 暴走させま"
+"す。 自動 組み立て ラインの 安全装置 として 使用されます。"
 
 #: STRINGS.ITEMS.EMP_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_3_TOOLTIP"
@@ -5993,11 +6023,13 @@ msgid ""
 "Detonates at the end of the turn when primed. Disables all Mainframe devices "
 "and drones in a range of 7 tiles"
 msgstr ""
+"刺激を 受けると、 そのターンの 終了時に 爆発します。 7 タイル 以内の 全メイン"
+"フレーム 端末 および ドローンを 無効化します。"
 
 #: STRINGS.ITEMS.EMP_TONY
 msgctxt "STRINGS.ITEMS.EMP_TONY"
 msgid "Tony's Modded EMP"
-msgstr ""
+msgstr "トニー専用 EMP"
 
 #: STRINGS.ITEMS.EMP_TONY_FLAVOR
 msgctxt "STRINGS.ITEMS.EMP_TONY_FLAVOR"
@@ -6005,6 +6037,7 @@ msgid ""
 "The Doctor took a standard EMP pack and installed his own easier to use "
 "operating software."
 msgstr ""
+"彼が 扱いやすい ように 改良した OS を インストール 済みの 標準的な EMPです。"
 
 #: STRINGS.ITEMS.EMP_TONY_TOOLTIP
 msgctxt "STRINGS.ITEMS.EMP_TONY_TOOLTIP"
@@ -6012,26 +6045,28 @@ msgid ""
 "Detonates at the end of the turn. Disables all Mainframe devices and drones "
 "in a range of 3 tiles"
 msgstr ""
+"ターン終了時に 爆発します。 3 タイル 以内の 全メインフレーム 端末 および ド"
+"ローンを 無効化します。"
 
 #: STRINGS.ITEMS.EXIT_PASS
 msgctxt "STRINGS.ITEMS.EXIT_PASS"
 msgid "Exit Access Card"
-msgstr ""
+msgstr "非常口 開錠 カードキー"
 
 #: STRINGS.ITEMS.EXIT_PASS_FLAVOR
 msgctxt "STRINGS.ITEMS.EXIT_PASS_FLAVOR"
 msgid "As it turns out, the code is a pretty secure 1024 bit key."
-msgstr ""
+msgstr "鍵長 1024bit の暗号コード です。"
 
 #: STRINGS.ITEMS.EXIT_PASS_TOOLTIP
 msgctxt "STRINGS.ITEMS.EXIT_PASS_TOOLTIP"
 msgid "Used to access the high-security door leading to the exit teleporter."
-msgstr ""
+msgstr "脱出 テレポーターへ 続く 扉を 開けるために 使用されます。"
 
 #: STRINGS.ITEMS.FINAL_RED
 msgctxt "STRINGS.ITEMS.FINAL_RED"
 msgid "Red Keycard"
-msgstr ""
+msgstr "赤い カードキー"
 
 #: STRINGS.ITEMS.FINAL_RED_FLAVOR
 msgctxt "STRINGS.ITEMS.FINAL_RED_FLAVOR"
@@ -6041,12 +6076,12 @@ msgstr ""
 #: STRINGS.ITEMS.FINAL_RED_TIP
 msgctxt "STRINGS.ITEMS.FINAL_RED_TIP"
 msgid "Use along with the Yellow Keycard to open the elevator."
-msgstr ""
+msgstr "エレベーターを 使うために、 黄色い カードキーと 併用して 使います。"
 
 #: STRINGS.ITEMS.FINAL_YELLOW
 msgctxt "STRINGS.ITEMS.FINAL_YELLOW"
 msgid "Yellow Keycard"
-msgstr ""
+msgstr "黄色い カードキー"
 
 #: STRINGS.ITEMS.FINAL_YELLOW_FLAVOR
 msgctxt "STRINGS.ITEMS.FINAL_YELLOW_FLAVOR"
@@ -6056,44 +6091,44 @@ msgstr ""
 #: STRINGS.ITEMS.FINAL_YELLOW_TIP
 msgctxt "STRINGS.ITEMS.FINAL_YELLOW_TIP"
 msgid "Use along with the Red Keycard to open the elevator."
-msgstr ""
+msgstr "エレベーターを 使うために、 赤い カードキーと 併用して 使います。"
 
 #: STRINGS.ITEMS.GRENADE_CAMERA
 msgctxt "STRINGS.ITEMS.GRENADE_CAMERA"
 msgid "Camera Canister"
-msgstr ""
+msgstr "カメラ缶"
 
 #: STRINGS.ITEMS.GRENADE_CAMERA_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_CAMERA_FLAVOR"
 msgid ""
 "Provides a full-spectrum view of its surroundings. Includes a safety to "
 "avoid embarrassing pocket-pics."
-msgstr ""
+msgstr "周囲の 全波長域を 可視化 します。"
 
 #: STRINGS.ITEMS.GRENADE_CAMERA_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_CAMERA_TOOLTIP"
 msgid "Throw to place. Gives 360 vision in an area. Can be recovered."
-msgstr ""
+msgstr "投げ込むと 360度の視界を 得ます。 回収 できます。"
 
 #: STRINGS.ITEMS.GRENADE_FLASH
 msgctxt "STRINGS.ITEMS.GRENADE_FLASH"
 msgid "Flash Grenade"
-msgstr ""
+msgstr "閃光弾"
 
 #: STRINGS.ITEMS.GRENADE_FLASH_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_FLASH_FLAVOR"
 msgid "Sometimes old technology is still good technology."
-msgstr ""
+msgstr "枯れた 技術ですが、 まだまだ 通用します。"
 
 #: STRINGS.ITEMS.GRENADE_FLASH_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_FLASH_TOOLTIP"
 msgid "Temporarily stuns guards in an area."
-msgstr ""
+msgstr "範囲内の 守衛を 一時的に 気絶させます。"
 
 #: STRINGS.ITEMS.GRENADE_HOLO
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO"
 msgid "Hologram Projector"
-msgstr ""
+msgstr "ホログラム 投影機"
 
 #: STRINGS.ITEMS.GRENADE_HOLO_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO_FLAVOR"
@@ -6101,6 +6136,7 @@ msgid ""
 "Holographic projection technology is used extensively in advertising and "
 "entertainment venues in the urban centers of the corp zones."
 msgstr ""
+"ホログラム 投影技術は 企業の 都市空間の 広告や娯楽の ために よく使われます。"
 
 #: STRINGS.ITEMS.GRENADE_HOLO_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_HOLO_TOOLTIP"
@@ -6108,16 +6144,18 @@ msgid ""
 "Throw to place a fake cover item. The projector can be heard 1 tile away. "
 "Can be recovered."
 msgstr ""
+"投げ込むと 偽の人影を 投影します。 1 タイル 離れた位置から 音を聞く ことが で"
+"きます。 回収 できます。"
 
 #: STRINGS.ITEMS.GRENADE_SCAN
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN"
 msgid "Scanning Grenade"
-msgstr ""
+msgstr "スキャン グレネード"
 
 #: STRINGS.ITEMS.GRENADE_SCAN_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN_FLAVOR"
 msgid "Provides a limited view of its surroundings."
-msgstr ""
+msgstr "限られた 範囲内の 視界を 得ます。"
 
 #: STRINGS.ITEMS.GRENADE_SCAN_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN_TOOLTIP"
@@ -6125,11 +6163,13 @@ msgid ""
 "Throw to scan a room for agents or guards. Gives temporary vision of guards "
 "in the room"
 msgstr ""
+"エージェント または 守衛を 検知する ために 投げ込まれます。 室内にいる 守衛"
+"の 視界を 一時的に 得ます。"
 
 #: STRINGS.ITEMS.GRENADE_SMOKE
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE"
 msgid "Smoke Grenade"
-msgstr ""
+msgstr "煙幕弾"
 
 #: STRINGS.ITEMS.GRENADE_SMOKE_FLAVOR
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE_FLAVOR"
@@ -6137,16 +6177,18 @@ msgid ""
 "The jet-black smoke not only occludes vision, but overpowers smell with the "
 "harsh odour of burnt circuit board."
 msgstr ""
+"噴き出す煙が 視界を 遮るだけで なく、 基板が 焦げたような 臭いで 嗅覚を 麻痺"
+"させます。"
 
 #: STRINGS.ITEMS.GRENADE_SMOKE_TOOLTIP
 msgctxt "STRINGS.ITEMS.GRENADE_SMOKE_TOOLTIP"
 msgid "Throw to create a cloud of smoke that occludes vision in an area."
-msgstr ""
+msgstr "投げ込むと、 範囲内の 視界を 遮る 煙幕を 生成します。"
 
 #: STRINGS.ITEMS.HOLO_MESH
 msgctxt "STRINGS.ITEMS.HOLO_MESH"
 msgid "Holo Projection Mesh"
-msgstr ""
+msgstr "ホロ プロジェクション メッシュ"
 
 #: STRINGS.ITEMS.HOLO_MESH_FLAVOR
 msgctxt "STRINGS.ITEMS.HOLO_MESH_FLAVOR"
@@ -6154,6 +6196,8 @@ msgid ""
 "An expensive piece of hardware commonly used in the Holovid industry. Often "
 "disdained like lip-syncing on a stage."
 msgstr ""
+"ホロビデオ 製造会社が よく使用する 高価な ハードウェアの 一部です。 リップシ"
+"ンクと 同様に 軽蔑される ことも あります。"
 
 #: STRINGS.ITEMS.HOLO_MESH_TOOLTIP
 msgctxt "STRINGS.ITEMS.HOLO_MESH_TOOLTIP"
@@ -6162,16 +6206,19 @@ msgid ""
 "Sprinting and attacking disables the effect.\n"
 "Disguise will fail if an enemy observes from 1 tile away."
 msgstr ""
+"起動中は 変装する ことが できます。\n"
+"走ったり 攻撃すると 効果が 途切れます。\n"
+"敵が 1 タイル内に いる場合、失敗します。"
 
 #: STRINGS.ITEMS.HOLO_MESH_WARNING
 msgctxt "STRINGS.ITEMS.HOLO_MESH_WARNING"
 msgid "HOLOGRAM ACTIVE -{1} PWR"
-msgstr ""
+msgstr "ホログラム起動中: 電力 -{1}"
 
 #: STRINGS.ITEMS.INCOGNITA_DRIVE
 msgctxt "STRINGS.ITEMS.INCOGNITA_DRIVE"
 msgid "Incognita Memory Drive"
-msgstr ""
+msgstr "インコグニータ メモリ装置"
 
 #: STRINGS.ITEMS.INCOGNITA_DRIVE_FLAVOR
 msgctxt "STRINGS.ITEMS.INCOGNITA_DRIVE_FLAVOR"
@@ -6179,16 +6226,18 @@ msgid ""
 "Quantum shadow recursion allows for the entirety of Incognita's personality "
 "matrix to be stored on a standard data drive, but it degrades over time."
 msgstr ""
+"量子影 再起処理は インコグニータの 完全な 人格 マトリックスを 標準的 データ "
+"記憶装置に 移します。 ただし、 時間経過と ともに 劣化して いきます。"
 
 #: STRINGS.ITEMS.INCOGNITA_DRIVE_TOOLTIP
 msgctxt "STRINGS.ITEMS.INCOGNITA_DRIVE_TOOLTIP"
 msgid "Plug this into the mainframe to take over OMNI's network."
-msgstr ""
+msgstr "OMNI 社の ネットワークを 乗っ取るために、 これを 差し込んで ください。"
 
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.DESC"
 msgid "This effect triggers after the agent becomes cloaked for any reason."
-msgstr ""
+msgstr "発動すると エージェントを 無条件に 透明化 します。"
 
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.NAME"
@@ -13174,12 +13223,12 @@ msgstr "紫外線 分光装置"
 #: STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.SHORT_DESC
 msgctxt "STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.SHORT_DESC"
 msgid "SOME ENEMIES SEE THROUGH CLOAK"
-msgstr "クロークを 看破します。"
+msgstr "透明化を 看破します。"
 
 #: STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.ULTRAVIOLET_SPECTROMETER.UNIT_DESC"
 msgid "Can see cloaked agents."
-msgstr "クロークを 看破します。"
+msgstr "透明化を 看破します。"
 
 #: STRINGS.RESEARCH.WARNING_TITLE
 msgctxt "STRINGS.RESEARCH.WARNING_TITLE"
