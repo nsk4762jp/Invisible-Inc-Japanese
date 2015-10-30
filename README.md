@@ -14,6 +14,7 @@ Klei Entertainment 制作 ターンベースストラテジーゲーム 「[Invi
 
     OPTION -> GAMEPLAY -> LANGUAGE -> Japanese(WIP)
 
+__※翻訳途中であるため、ゲーム中のテキストが一部表示されない場合があります。__
 
 ## インストール
 [ZIPファイル](https://github.com/nsk4762jp/Invisible-Inc-Japanese/archive/master.zip)を解凍したら、コマンドプロンプトから下記のコマンドを打てばインストールされます。
