@@ -4673,7 +4673,7 @@ msgstr "隊長"
 #: STRINGS.GUARDS.CEO
 msgctxt "STRINGS.GUARDS.CEO"
 msgid "FINANCIAL EXECUTIVE"
-msgstr "金融部門の幹部"
+msgstr "金融部門の重役"
 
 #: STRINGS.GUARDS.ELITE_ENFORCER
 msgctxt "STRINGS.GUARDS.ELITE_ENFORCER"
@@ -6834,7 +6834,7 @@ msgstr ""
 #: STRINGS.ITEMS.SMG
 msgctxt "STRINGS.ITEMS.SMG"
 msgid "SMG"
-msgstr ""
+msgstr "サブマシンガン"
 
 #: STRINGS.ITEMS.SMG_FLAVOR
 msgctxt "STRINGS.ITEMS.SMG_FLAVOR"
@@ -6849,7 +6849,7 @@ msgstr ""
 #: STRINGS.ITEMS.STIM_1
 msgctxt "STRINGS.ITEMS.STIM_1"
 msgid "Stim I"
-msgstr ""
+msgstr "興奮剤 I"
 
 #: STRINGS.ITEMS.STIM_1_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_1_FLAVOR"
@@ -6857,31 +6857,33 @@ msgid ""
 "A cocktail of brain-and-muscle enhancing chemicals. It's best not to ask "
 "about the details."
 msgstr ""
+"脳と筋肉の ドーピング剤 カクテルです。 配合については 聞かない方が いいでしょ"
+"う。"
 
 #: STRINGS.ITEMS.STIM_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_1_TOOLTIP"
 msgid "Restores 4 AP."
-msgstr ""
+msgstr "AP を 4 回復します。"
 
 #: STRINGS.ITEMS.STIM_2
 msgctxt "STRINGS.ITEMS.STIM_2"
 msgid "Stim II"
-msgstr ""
+msgstr "興奮剤 II"
 
 #: STRINGS.ITEMS.STIM_2_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_2_FLAVOR"
 msgid "A strong cocktail of enhancement chemicals. May be slightly addictive."
-msgstr ""
+msgstr "強めの ドーピング剤 カクテルです。 病みつきに なるかも しれません。"
 
 #: STRINGS.ITEMS.STIM_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_2_TOOLTIP"
 msgid "Restores 6 AP."
-msgstr ""
+msgstr "AP を 6 回復します。"
 
 #: STRINGS.ITEMS.STIM_3
 msgctxt "STRINGS.ITEMS.STIM_3"
 msgid "Stim III"
-msgstr ""
+msgstr "興奮剤 III"
 
 #: STRINGS.ITEMS.STIM_3_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_3_FLAVOR"
@@ -6889,16 +6891,17 @@ msgid ""
 "A dangerously strong cocktail of performance enhancing chemicals. Have you "
 "ever looked at your hands? I mean, *really* looked?"
 msgstr ""
+"致死量クラスの ドーピング剤 カクテルです。 自分の掌を見てごらん。 指は何本？"
 
 #: STRINGS.ITEMS.STIM_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.STIM_3_TOOLTIP"
 msgid "Refreshes an agent's attack and restores 8 AP."
-msgstr ""
+msgstr "エージェントは 再度攻撃できる ようになり、 AP を 8 回復します。"
 
 #: STRINGS.ITEMS.TAGGER_GUN
 msgctxt "STRINGS.ITEMS.TAGGER_GUN"
 msgid "T.A.G. Pistol"
-msgstr ""
+msgstr "タグ ピストル"
 
 #: STRINGS.ITEMS.TAGGER_GUN_FLAVOR
 msgctxt "STRINGS.ITEMS.TAGGER_GUN_FLAVOR"
@@ -6906,11 +6909,13 @@ msgid ""
 "Launches an undetectable microdrone that continuously transmits "
 "geolocational telemetry to a central server via quantum entanglement."
 msgstr ""
+"検知不可能な マイクロドローンを 発射し、 ターゲットの 位置情報を 量子もつれ "
+"経由で 中央サーバに 送信します。"
 
 #: STRINGS.ITEMS.TAGGER_GUN_TIP
 msgctxt "STRINGS.ITEMS.TAGGER_GUN_TIP"
 msgid "PWR operated pistol that tags a guard to show his patrol paths."
-msgstr ""
+msgstr "守衛の 巡回路を 表示する 電力式の ピストルです。"
 
 #: STRINGS.ITEMS.TAZER_1
 msgctxt "STRINGS.ITEMS.TAZER_1"
@@ -6985,14 +6990,14 @@ msgstr "近距離ターゲット。 KO した守衛に タグを付け、 移動
 #: STRINGS.ITEMS.TAZER_PWR_1
 msgctxt "STRINGS.ITEMS.TAZER_PWR_1"
 msgid "Volt Disrupter I"
-msgstr ""
+msgstr "ボルト スタンガン I"
 
 #: STRINGS.ITEMS.TAZER_PWR_1_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_PWR_1_FLAVOR"
 msgid ""
 "Volt disrupters channel PWR to disrupt the Noosphere around a target, "
 "incapacitating them for a time."
-msgstr ""
+msgstr "ボルト スタンガンは 電力を使用し 目標を 無力化します。"
 
 #: STRINGS.ITEMS.TAZER_PWR_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_PWR_1_TOOLTIP"
@@ -7002,14 +7007,14 @@ msgstr "近距離ターゲット"
 #: STRINGS.ITEMS.TAZER_PWR_2
 msgctxt "STRINGS.ITEMS.TAZER_PWR_2"
 msgid "Volt Disrupter II"
-msgstr ""
+msgstr "ボルト スタンガン II"
 
 #: STRINGS.ITEMS.TAZER_PWR_2_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_PWR_2_FLAVOR"
 msgid ""
 "Volt disrupters channel PWR to disrupt the Noosphere around a target, "
 "incapacitating them for a time."
-msgstr ""
+msgstr "ボルト スタンガンは 電力を使用し 目標を 無力化します。"
 
 #: STRINGS.ITEMS.TAZER_PWR_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_PWR_2_TOOLTIP"
@@ -7019,14 +7024,14 @@ msgstr "近距離ターゲット"
 #: STRINGS.ITEMS.TAZER_PWR_3
 msgctxt "STRINGS.ITEMS.TAZER_PWR_3"
 msgid "Volt Disrupter III"
-msgstr ""
+msgstr "ボルト スタンガン III"
 
 #: STRINGS.ITEMS.TAZER_PWR_3_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_PWR_3_FLAVOR"
 msgid ""
 "Volt disrupters channel PWR to disrupt the Noosphere around a target, "
 "incapacitating them for a time."
-msgstr ""
+msgstr "ボルト スタンガンは 電力を使用し 目標を 無力化します。"
 
 #: STRINGS.ITEMS.TAZER_PWR_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_PWR_3_TOOLTIP"
@@ -7036,7 +7041,7 @@ msgstr "近距離ターゲット"
 #: STRINGS.ITEMS.TAZER_PWR_NIKA
 msgctxt "STRINGS.ITEMS.TAZER_PWR_NIKA"
 msgid "Nika's Volt Disrupter"
-msgstr ""
+msgstr "ニカ専用ボルト スタンガン"
 
 #: STRINGS.ITEMS.TAZER_PWR_NIKA_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_PWR_NIKA_FLAVOR"
@@ -7044,6 +7049,8 @@ msgid ""
 "Nika carves a notch out of her Disrupter each time she takes down someone "
 "with it. It's gotten noticeably lighter over the years."
 msgstr ""
+"ニカの スタンガンには これまで ダウンさせてきた 人数が 刻まれています。 長い"
+"こと 使われて いるので 目に見えて 軽くなっています。"
 
 #: STRINGS.ITEMS.TAZER_PWR_NIKA_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_PWR_NIKA_TOOLTIP"
@@ -7053,7 +7060,7 @@ msgstr "近距離ターゲット"
 #: STRINGS.ITEMS.TAZER_SHALEM
 msgctxt "STRINGS.ITEMS.TAZER_SHALEM"
 msgid "Salvaged Disrupter"
-msgstr ""
+msgstr "サルベージ スタンガン"
 
 #: STRINGS.ITEMS.TAZER_SHALEM_FLAVOR
 msgctxt "STRINGS.ITEMS.TAZER_SHALEM_FLAVOR"
@@ -7061,6 +7068,8 @@ msgid ""
 "Shalem's personal neural disrupter isn't even particularly nice, but he "
 "keeps it around for sentimental reasons."
 msgstr ""
+"シェイレムのスタンガンは見たところ素晴らしいとは言えませんが、彼は感傷的な理"
+"由でそれを持ち歩いています。"
 
 #: STRINGS.ITEMS.TAZER_SHALEM_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_SHALEM_TOOLTIP"
@@ -7070,114 +7079,114 @@ msgstr "近距離ターゲット"
 #: STRINGS.ITEMS.TOOLTIPS.AIM
 msgctxt "STRINGS.ITEMS.TOOLTIPS.AIM"
 msgid "AIM"
-msgstr ""
+msgstr "照準"
 
 #: STRINGS.ITEMS.TOOLTIPS.AIM_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.AIM_DESC"
 msgid "Click this weapon to aim and shoot at an enemy."
-msgstr ""
+msgstr "敵に 狙いを つけて 発砲するには この武器を クリック してください。"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING"
 msgid "Armor Piercing"
-msgstr ""
+msgstr "アーマー貫通"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_DESC"
 msgid "Armor Piercing %d"
-msgstr ""
+msgstr "アーマー %d 貫通"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_NONE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_NONE"
 msgid "No Armor Piercing"
-msgstr ""
+msgstr "アーマー貫通不可"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_NONE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PIERCING_NONE_DESC"
 msgid "This item does not pierce through enemy armor."
-msgstr ""
+msgstr "このアイテムは 敵のアーマーを 貫通しません。"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PWR_COST
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PWR_COST"
 msgid "PWR cost for Armor Piercing"
-msgstr ""
+msgstr "電力を消費してアーマーを貫通"
 
 #: STRINGS.ITEMS.TOOLTIPS.ARMOR_PWR_COST_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.ARMOR_PWR_COST_DESC"
 msgid "Cost %d PWR per point of ARMOR"
-msgstr ""
+msgstr "アーマー 1 に対し電力消費 %d"
 
 #: STRINGS.ITEMS.TOOLTIPS.CANTAG
 msgctxt "STRINGS.ITEMS.TOOLTIPS.CANTAG"
 msgid "Tags a target"
-msgstr ""
+msgstr "タグを付けます"
 
 #: STRINGS.ITEMS.TOOLTIPS.CANTAG_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.CANTAG_DESC"
 msgid "Tagged targets reveal their patrol paths"
-msgstr ""
+msgstr "タグを付けられた目標の巡回路が見えるようになります。"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER"
 msgid "Use PWR"
-msgstr ""
+msgstr "消費電力"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER_ACTIVATE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER_ACTIVATE"
 msgid "Use PWR"
-msgstr ""
+msgstr "消費電力"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER_ACTIVATE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER_ACTIVATE_DESC"
 msgid "Consumes {1} PWR when activated"
-msgstr ""
+msgstr "起動すると電力を {1} 消費します。"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER_DESC"
 msgid "Consumes {1} PWR when used"
-msgstr ""
+msgstr "使用時に電力を {1} 消費します。"
 
 #: STRINGS.ITEMS.TOOLTIPS.DISPOSABLE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.DISPOSABLE"
 msgid "DISPOSABLE"
-msgstr ""
+msgstr "使い捨て"
 
 #: STRINGS.ITEMS.TOOLTIPS.DISPOSABLE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.DISPOSABLE_DESC"
 msgid "This item has one use only."
-msgstr ""
+msgstr "このアイテムは消耗品です。"
 
 #: STRINGS.ITEMS.TOOLTIPS.DRAINPOWER
 msgctxt "STRINGS.ITEMS.TOOLTIPS.DRAINPOWER"
 msgid "PWR Drain"
-msgstr ""
+msgstr "電力吸収"
 
 #: STRINGS.ITEMS.TOOLTIPS.DRAINPOWER_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.DRAINPOWER_DESC"
 msgid "Consumes {1} PWR at the start of each turn while active."
-msgstr ""
+msgstr "起動中は 毎ターン電力を {1} 消費します。"
 
 #: STRINGS.ITEMS.TOOLTIPS.EMP_SAFE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.EMP_SAFE"
 msgid "EMP RESISTANT"
-msgstr ""
+msgstr "EMP無効"
 
 #: STRINGS.ITEMS.TOOLTIPS.EMP_SAFE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.EMP_SAFE_DESC"
 msgid ""
 "These safes require an electronic signal to open. They do not function while "
 "deactivated."
-msgstr ""
+msgstr "開錠の ための 電気信号が 必要です。 非活性状態の 場合は 機能しません。"
 
 #: STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR
 msgctxt "STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR"
 msgid "Ignores Armor"
-msgstr ""
+msgstr "アーマー無効"
 
 #: STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR_DESC"
 msgid "A targets armor level does not matter to this weapon."
-msgstr ""
+msgstr "この武器は 相手の アーマーレベルに 左右されません。"
 
 #: STRINGS.ITEMS.TOOLTIPS.INSTALL
 msgctxt "STRINGS.ITEMS.TOOLTIPS.INSTALL"
@@ -7187,7 +7196,7 @@ msgstr "インストール"
 #: STRINGS.ITEMS.TOOLTIPS.INSTALL_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.INSTALL_DESC"
 msgid "This device must be INSTALLED to function."
-msgstr ""
+msgstr "このデバイスを 機能させるには インストール してください。"
 
 #: STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE"
@@ -7197,79 +7206,79 @@ msgstr "KO ダメージ"
 #: STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE_DESC"
 msgid "Knocks a guard out for {1} {1:turn|turns}"
-msgstr ""
+msgstr "守衛を {1} ターン 気絶させます。"
 
 #: STRINGS.ITEMS.TOOLTIPS.MASS_PWR_DRAIN
 msgctxt "STRINGS.ITEMS.TOOLTIPS.MASS_PWR_DRAIN"
 msgid "Massive PWR Drain"
-msgstr ""
+msgstr "電力全吸収"
 
 #: STRINGS.ITEMS.TOOLTIPS.MASS_PWR_DRAIN_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.MASS_PWR_DRAIN_DESC"
 msgid "Drains all PWR, resetting it to 0."
-msgstr ""
+msgstr "電力を すべて 吸い取り、 0 にします。"
 
 #: STRINGS.ITEMS.TOOLTIPS.MELEE_BOOST
 msgctxt "STRINGS.ITEMS.TOOLTIPS.MELEE_BOOST"
 msgid "KINETIC CAPACITOR BOUNUS"
-msgstr ""
+msgstr "キネティック キャパシター ボーナス"
 
 #: STRINGS.ITEMS.TOOLTIPS.MELEE_BOOST_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.MELEE_BOOST_DESC"
 msgid "+{1} ARMOR PIRECING and KO DAMAGE"
-msgstr ""
+msgstr "アーマー貫通 および KO ダメージに +{1} のボーナスを得ます。"
 
 #: STRINGS.ITEMS.TOOLTIPS.RANGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RANGE"
 msgid "Range"
-msgstr ""
+msgstr "範囲"
 
 #: STRINGS.ITEMS.TOOLTIPS.RANGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RANGE_DESC"
 msgid "The effect will reach {1} {1:tile|tiles}"
-msgstr ""
+msgstr "この効果は {1} タイルまで 影響します。"
 
 #: STRINGS.ITEMS.TOOLTIPS.RECHARGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RECHARGE"
 msgid "Cooldown"
-msgstr ""
+msgstr "クールダウン"
 
 #: STRINGS.ITEMS.TOOLTIPS.RECHARGE_ACTIVATE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RECHARGE_ACTIVATE"
 msgid "Cooldown"
-msgstr ""
+msgstr "クールダウン"
 
 #: STRINGS.ITEMS.TOOLTIPS.RECHARGE_ACTIVATE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RECHARGE_ACTIVATE_DESC"
 msgid "{1} turn cooldown when activated"
-msgstr ""
+msgstr "発動後、 クールダウン {1} ターン"
 
 #: STRINGS.ITEMS.TOOLTIPS.RECHARGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RECHARGE_DESC"
 msgid "{1} turn cooldown"
-msgstr ""
+msgstr "クールダウン {1} ターン"
 
 #: STRINGS.ITEMS.TOOLTIPS.RESTRICTED_USE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RESTRICTED_USE"
 msgid "Special Skill Required"
-msgstr ""
+msgstr "特殊スキルが必要"
 
 #: STRINGS.ITEMS.TOOLTIPS.RESTRICTED_USE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RESTRICTED_USE_DESC"
 msgid ""
 "This item can only be used by:\n"
 "{1}"
-msgstr ""
+msgstr "このアイテムを 使えるのは {1} だけです。"
 
 #: STRINGS.ITEMS.TOOLTIPS.USE_CHARGES
 msgctxt "STRINGS.ITEMS.TOOLTIPS.USE_CHARGES"
 msgid "Charges {1}/{2}"
-msgstr ""
+msgstr "残弾数 {1}/{2}"
 
 #: STRINGS.ITEMS.TOOLTIPS.USE_CHARGES_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.USE_CHARGES_DESC"
 msgid "Each use of this item takes a charge. Use Charge Packs to refill."
-msgstr ""
+msgstr "使用時に弾を消費します。再装填には チャージパック を使ってください。"
 
 #: STRINGS.ITEMS.TURRET
 msgctxt "STRINGS.ITEMS.TURRET"
@@ -7294,7 +7303,7 @@ msgstr "保管庫アクセスキー"
 #: STRINGS.ITEMS.VAULT_PASS_FLAVOR
 msgctxt "STRINGS.ITEMS.VAULT_PASS_FLAVOR"
 msgid "As it turns out, the code was just 'password123'."
-msgstr ""
+msgstr "結論から言うと、 開錠コードは 'password123' でした..."
 
 #: STRINGS.ITEMS.VAULT_PASS_TOOLTIP
 msgctxt "STRINGS.ITEMS.VAULT_PASS_TOOLTIP"
@@ -7302,16 +7311,18 @@ msgid ""
 "Opens the special high-security vault doors in corporate vault and "
 "cybernetics lab locations."
 msgstr ""
+"ハイレベルの セキュリティが 施された 保管庫や サイバネ研究所の 扉を 開けるこ"
+"とが できます。"
 
 #: STRINGS.ITEMS.WIRELESS_SCANNER
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER"
 msgid "Wireless Scanner"
-msgstr "無線スキャナ"
+msgstr "無線スキャナー"
 
 #: STRINGS.ITEMS.WIRELESS_SCANNER_CUSTOM
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER_CUSTOM"
 msgid "Custom Scanner"
-msgstr ""
+msgstr "改造スキャナー"
 
 #: STRINGS.ITEMS.WIRELESS_SCANNER_FLAVOR
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER_FLAVOR"
@@ -7321,7 +7332,7 @@ msgstr ""
 #: STRINGS.ITEMS.WIRELESS_SCANNER_TOOLTIP
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER_TOOLTIP"
 msgid "Passively scans for Mainframe devices within range."
-msgstr ""
+msgstr "範囲内の メインフレームデバイスを 自動的に スキャンします。"
 
 #: STRINGS.LOADING.ERR_BODY
 msgctxt "STRINGS.LOADING.ERR_BODY"
@@ -7331,6 +7342,10 @@ msgid ""
 "<font1_10_r>\n"
 "{1}</>"
 msgstr ""
+"ロードに 失敗しました。 「続ける」 ボタンを 押すと ロード失敗前の 状態に 戻り"
+"ます。\n"
+"<font1_10_r>\n"
+"{1}</>"
 
 #: STRINGS.LOADING.ERR_TITLE
 msgctxt "STRINGS.LOADING.ERR_TITLE"
@@ -8842,12 +8857,12 @@ msgstr "脳内スキャン中"
 #: STRINGS.MISSIONS.ESCAPE.OBJ_CEO_OFFICE
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_CEO_OFFICE"
 msgid "Locate the Financial Suite"
-msgstr "CEOの部屋を特定する"
+msgstr "CEOの部屋を見つける"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB"
 msgid "Locate the Cyberlab"
-msgstr "サイバーラボの場所を特定する"
+msgstr "サイバーラボを見つける"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB_2"
@@ -8882,7 +8897,7 @@ msgstr "目標に近寄ってスキャンをアクティブにする"
 #: STRINGS.MISSIONS.ESCAPE.OBJ_GUARD_OFFICE
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_GUARD_OFFICE"
 msgid "Locate the Guard Office"
-msgstr "守衛詰所の場所を特定する"
+msgstr "守衛詰所を見つける"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_NANO_FAB
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_NANO_FAB"
@@ -8922,7 +8937,7 @@ msgstr "スキャナーを無効化する"
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY"
 msgid "Locate the secure locker"
-msgstr "施錠されたロッカーの場所を特定する"
+msgstr "施錠されたロッカーを見つける"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY_2"
@@ -8942,7 +8957,7 @@ msgstr "CEOの傍で待機する"
 #: STRINGS.MISSIONS.ESCAPE.OBJ_TERMINALS
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_TERMINALS"
 msgid "Locate the Executive Terminals"
-msgstr "幹部端末の場所を特定する"
+msgstr "重役専用端末を見つける"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_VAULT
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_VAULT"
@@ -9916,7 +9931,7 @@ msgstr ""
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_GET_OUT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_GET_OUT"
 msgid "It's unlocked. Get him out, and be careful not to alert the guard."
-msgstr ""
+msgstr "開いたわ。 外に出してあげて。 守衛に 気取られない ようにね。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_GOT_CONSOLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_GOT_CONSOLE"
@@ -9932,7 +9947,7 @@ msgstr ""
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_KNOCK_OUT"
 msgid ""
 "Good. Now <c:faff0a>approach the guard from behind</> and neutralize him."
-msgstr ""
+msgstr "OK。じゃ <c:faff0a>守衛の背後から接近し</>、 無効化しましょう。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_MELEE_PREP
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_MELEE_PREP"
@@ -9977,7 +9992,7 @@ msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK"
 msgid ""
 "We don't have visibility on the hallway. You'll have to manually check for "
 "hostiles."
-msgstr ""
+msgstr "通路の 状況が 分からない わね。 自身で 敵の状況を 確認して。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK_CORNER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK_CORNER"
@@ -10021,11 +10036,13 @@ msgid ""
 "Decker's tools should be in that safe. He'll need his <c:faff0a>Neural "
 "Disrupter</> to take down these guards."
 msgstr ""
+"デッカーの装備は金庫内に違いないわ。 守衛を ダウンさせるには 彼の <c:faff0a>"
+"スタンガン</> を使って。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_WAITING
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_WAITING"
 msgid "<c:faff0a>Get to the door.</>"
-msgstr ""
+msgstr "<c:faff0a>扉のところまで行ってちょうだい。</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_WON
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_WON"
@@ -10042,10 +10059,10 @@ msgid ""
 "Decker found himself some trouble on his day off. Something involving a "
 "whiskey bar and his big, loud mouth."
 msgstr ""
-"オペレーター、状況は極めてデリケート。\n"
+"オペレーター、状況は 極めて デリケート。\n"
 "\n"
-"デッカーがオフの日に何かやらかしたようね。 さしずめ酒場で喚いてたってとこかし"
-"ら。"
+"デッカーが オフの日に 何か やらかしたようね。  さしずめ 酒場で 喚いてたって "
+"とこかしら。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.2
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.2"
@@ -10077,13 +10094,13 @@ msgid ""
 "Incognita has activated his failsafe neural uplink. I'm patching you through "
 "now."
 msgstr ""
-"インコグニータが彼のフェイルセーフニューラル通信を起動済み。 今から一時的に "
-"接続を開始する。"
+"インコグニータが 彼の 神経通信 安全装置を 起動済み。 今から 一時的に 接続を "
+"開始する。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.5
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.5"
 msgid "Neural Uplink Initialized."
-msgstr ""
+msgstr "神経通信 接続開始 シマス。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.DESCRIPTION"
@@ -10434,7 +10451,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.NAME"
 msgid "Executive Terminals"
-msgstr "幹部端末"
+msgstr "重役専用端末"
 
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.REWARD"
@@ -13655,7 +13672,7 @@ msgstr ""
 #: STRINGS.SCREENS.STR_1781360857
 msgctxt "STRINGS.SCREENS.STR_1781360857"
 msgid "M A N A G I N G  T H R E A T S"
-msgstr ""
+msgstr "脅 威 へ の 対 策"
 
 #: STRINGS.SCREENS.STR_1785322015
 msgctxt "STRINGS.SCREENS.STR_1785322015"
@@ -13854,7 +13871,7 @@ msgstr "スペシャルサンクス"
 #: STRINGS.SCREENS.STR_2327109129
 msgctxt "STRINGS.SCREENS.STR_2327109129"
 msgid "KNOCKOUT & PINNING"
-msgstr ""
+msgstr "ノックアウト & 取り押さえ"
 
 #: STRINGS.SCREENS.STR_2328831579
 msgctxt "STRINGS.SCREENS.STR_2328831579"
@@ -14954,7 +14971,7 @@ msgstr "AP"
 #: STRINGS.SCREENS.STR_647685599
 msgctxt "STRINGS.SCREENS.STR_647685599"
 msgid "EXECUTIVE TERMINALS"
-msgstr "幹部端末"
+msgstr "重役専用端末"
 
 #: STRINGS.SCREENS.STR_648042476
 msgctxt "STRINGS.SCREENS.STR_648042476"
@@ -15137,6 +15154,11 @@ msgid ""
 "\n"
 "Standing on a KO unit will pin them in place, postponing their recovery."
 msgstr ""
+"ノックアウト(KO) された ユニットは 数ターン後 意識を 取り戻します。 その後 守"
+"衛は 警戒状態になり エージェントを 追跡するように なります。\n"
+"\n"
+"KO された ユニットの 上に 居ることで、 意識回復 までの ターンを 延長できま"
+"す。"
 
 #: STRINGS.SCREENS.STR_897435471
 msgctxt "STRINGS.SCREENS.STR_897435471"
@@ -16243,6 +16265,8 @@ msgid ""
 "Clicking on another difficulty will reset the values to their default "
 "settings."
 msgstr ""
+"自分で 好きなように キャンペーン生成 設定を 変更できます。\n"
+"他の難易度を 選択すると、 その難易度に 合わせた 設定に リセットされます。"
 
 #: STRINGS.UI.CUSTOM_DIFFICULTY
 msgctxt "STRINGS.UI.CUSTOM_DIFFICULTY"
@@ -16252,7 +16276,7 @@ msgstr "カスタム"
 #: STRINGS.UI.CUSTOM_SHORT_DESC
 msgctxt "STRINGS.UI.CUSTOM_SHORT_DESC"
 msgid "Your rules, your way."
-msgstr ""
+msgstr "自分で決めた道だから"
 
 #: STRINGS.UI.DIALOGS.AGENT_RESCUED
 msgctxt "STRINGS.UI.DIALOGS.AGENT_RESCUED"
@@ -17076,12 +17100,12 @@ msgstr "エンドレス＋"
 #: STRINGS.UI.ENDLESS_PLUS_SHORT_DESC
 msgctxt "STRINGS.UI.ENDLESS_PLUS_SHORT_DESC"
 msgid "Play an unlimited campaign on the hardest difficulty."
-msgstr "最高難易度で制限時間を気にせずプレイします。"
+msgstr "最高難易度でいつまでも遊ぼう"
 
 #: STRINGS.UI.ENDLESS_SHORT_DESC
 msgctxt "STRINGS.UI.ENDLESS_SHORT_DESC"
 msgid "Play an unlimited campaign."
-msgstr "制限時間を気にせずプレイします。"
+msgstr "いつまでも遊ぼう"
 
 #: STRINGS.UI.ENEMY_ACTIVITY
 msgctxt "STRINGS.UI.ENEMY_ACTIVITY"
@@ -17393,17 +17417,17 @@ msgstr "一般"
 #: STRINGS.UI.GENERATING_WORLD.1
 msgctxt "STRINGS.UI.GENERATING_WORLD.1"
 msgid "Procedural generation algorithm initialized."
-msgstr ""
+msgstr "手続き型 生成 アルゴリズムを 初期化しました。"
 
 #: STRINGS.UI.GENERATING_WORLD.2
 msgctxt "STRINGS.UI.GENERATING_WORLD.2"
 msgid "Computing facility layout and room connectivity..."
-msgstr ""
+msgstr "施設の レイアウトと 部屋どうしの 接続を 計算中..."
 
 #: STRINGS.UI.GENERATING_WORLD.3
 msgctxt "STRINGS.UI.GENERATING_WORLD.3"
 msgid "Facility complete. Generation successful."
-msgstr ""
+msgstr "設備が 完成しました。 生成に 成功しました。"
 
 #: STRINGS.UI.GENOPTIONS.ALARMTYPE.1
 msgctxt "STRINGS.UI.GENOPTIONS.ALARMTYPE.1"
@@ -17884,20 +17908,20 @@ msgstr "タイムアタック: %02d:%02d:%02d"
 #: STRINGS.UI.HUD_WARN_EXIT_CEO
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_CEO"
 msgid "Are you sure you want to leave? You don't have the Vault Passkey."
-msgstr ""
+msgstr "保管庫 アクセスキーを 持って いませんが、本当に 脱出しますか？"
 
 #: STRINGS.UI.HUD_WARN_EXIT_CYBERLAB
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_CYBERLAB"
 msgid ""
 "Are you sure you want to leave? You haven't used the Augmentation Lab yet."
-msgstr ""
+msgstr "強化パーツ 研究所を 利用していませんが、 本当に 脱出しますか？"
 
 #: STRINGS.UI.HUD_WARN_EXIT_DETENTION
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_DETENTION"
 msgid ""
 "Are you sure you want to leave? You haven't freed the prisoner from the "
 "Detention Cells."
-msgstr ""
+msgstr "拘置所から 囚人を 救助して いませんが、本当に 脱出しますか？"
 
 #: STRINGS.UI.HUD_WARN_EXIT_EXECTERM
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_EXECTERM"
@@ -17905,28 +17929,32 @@ msgid ""
 "Are you sure you want to leave? You don't have the contact list from the "
 "Executive Terminal."
 msgstr ""
+"重役専用 端末から 次のターゲット一覧を 取得して いませんが、本当に 脱出します"
+"か？"
 
 #: STRINGS.UI.HUD_WARN_EXIT_MISSION_DISPATCH
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_MISSION_DISPATCH"
 msgid ""
 "Are you sure you want to leave? You don't have the High-Security loot item."
 msgstr ""
+"高度な セキュリティ に守られた アイテムを 取得して いませんが、本当に 脱出し"
+"ますか？"
 
 #: STRINGS.UI.HUD_WARN_EXIT_MISSION_VAULT
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_MISSION_VAULT"
 msgid "Are you sure you want to leave? You haven't looted the Vault yet."
-msgstr ""
+msgstr "保管庫を 確保して いませんが、本当に 脱出しますか？"
 
 #: STRINGS.UI.HUD_WARN_EXIT_NANOFAB
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_NANOFAB"
 msgid "Are you sure you want to leave? You haven't visited the Nanofab yet."
-msgstr ""
+msgstr "自販機を 利用して いませんが、本当に 脱出しますか？"
 
 #: STRINGS.UI.HUD_WARN_EXIT_SERVERFARM
 msgctxt "STRINGS.UI.HUD_WARN_EXIT_SERVERFARM"
 msgid ""
 "Are you sure you want to leave? You haven't used the Server Terminal yet."
-msgstr ""
+msgstr "サーバー端末を 利用して いませんが、 本当に 脱出しますか？"
 
 #: STRINGS.UI.HUD_WEAPON_ACTIVE
 msgctxt "STRINGS.UI.HUD_WEAPON_ACTIVE"
@@ -17936,12 +17964,12 @@ msgstr "活性"
 #: STRINGS.UI.HUD_WEAPON_AMMO
 msgctxt "STRINGS.UI.HUD_WEAPON_AMMO"
 msgid "{1}/{2}"
-msgstr ""
+msgstr "{1}/{2}"
 
 #: STRINGS.UI.HUD_WEAPON_USED
 msgctxt "STRINGS.UI.HUD_WEAPON_USED"
 msgid "USED"
-msgstr ""
+msgstr "使用済み"
 
 #: STRINGS.UI.INCOGNITA_NAME
 msgctxt "STRINGS.UI.INCOGNITA_NAME"
@@ -19989,10 +20017,10 @@ msgid ""
 "\n"
 "-Klei Development Team"
 msgstr ""
-"Ryan Davis (1979-2013) was a much respected video game journalist, and co-"
-"founder of Giant Bomb. He touched a lot of our lives through the years, and "
-"this is a small tribute to his legacy. We thank him for his contribution to "
-"the craft.\n"
+"Ryan Davis (1979-2013) は 尊敬する ゲーム ジャーナリスト であり、 ゲーム情報 "
+"サイト Giant Bomb の創立者 でした。 数年に渡り、 彼は 我々の活動に 触れて く"
+"れました。 これは 彼の 偉業に 対する 小さな 賛辞です。 ゲーム作成に 対する 彼"
+"の 貢献に 我々は 感謝します。\n"
 "\n"
 "-Klei Development Team"
 
@@ -20004,7 +20032,7 @@ msgstr "追加情報"
 #: STRINGS.UI.TASWELL_QUOTE
 msgctxt "STRINGS.UI.TASWELL_QUOTE"
 msgid "\"Hey it's Tuesday, but I really love Mondays.\""
-msgstr ""
+msgstr "「やぁ、 火曜日だね。 でも月曜日が 一番好きさ。」"
 
 #: STRINGS.UI.TASWELL_TITLE
 msgctxt "STRINGS.UI.TASWELL_TITLE"
@@ -20082,6 +20110,8 @@ msgid ""
 "every turn. Are you able to act fast enough, or will the corporations get "
 "you first?"
 msgstr ""
+"状況を同じにします。 2分以内に ターンを 終了させなければ いけません。 できる"
+"だけ 素早く 行動しないと、 企業に 捕まって しまいますよ？"
 
 #: STRINGS.UI.TIME_ATTACK_DIFFICULTY
 msgctxt "STRINGS.UI.TIME_ATTACK_DIFFICULTY"
@@ -20091,7 +20121,7 @@ msgstr "タイムアタック"
 #: STRINGS.UI.TIME_ATTACK_SHORT_DESC
 msgctxt "STRINGS.UI.TIME_ATTACK_SHORT_DESC"
 msgid "Test your skills against the clock."
-msgstr ""
+msgstr "時間との勝負"
 
 #: STRINGS.UI.TOOLTIPS.ANARCHY_BONUS
 msgctxt "STRINGS.UI.TOOLTIPS.ANARCHY_BONUS"
@@ -20533,6 +20563,9 @@ msgid ""
 "\n"
 "This program does not require PWR"
 msgstr ""
+"\n"
+"\n"
+"このプログラムは 電力を 消費しません。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR"
@@ -20541,6 +20574,9 @@ msgid ""
 "\n"
 "This program uses {1} PWR for each use."
 msgstr ""
+"\n"
+"\n"
+"このプログラムは 使用時に 電力を {1} 消費します。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_PWR_DESC"
@@ -20548,6 +20584,8 @@ msgid ""
 "<c:F4FF78>PWR USE</>\n"
 "Some programs require PWR from the Agency to operate."
 msgstr ""
+"<c:F4FF78>消費電力</>\n"
+"組織が使う プログラムには 電力を 要求するものが あります。"
 
 #: STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY
 msgctxt "STRINGS.UI.TOOLTIPS.UPGRADE_INVENTORY"
@@ -20796,6 +20834,9 @@ msgid ""
 "We hide the danger zones if you can't see the sources. In addition, the "
 "alarm increases when knocking out guards, and you start with less PWR."
 msgstr ""
+"判別可能な 危険地帯は 自分の場所から 見える敵 のみに 限定されます。 加えて、"
+"守衛を KO するたびに 警戒レベルは 上昇し、 少ない電力で スタートすることに な"
+"ります。"
 
 #: STRINGS.UI.VERY_HARD_DIFFICULTY
 msgctxt "STRINGS.UI.VERY_HARD_DIFFICULTY"
@@ -20805,7 +20846,7 @@ msgstr "エキスパート＋"
 #: STRINGS.UI.VERY_HARD_SHORT_DESC
 msgctxt "STRINGS.UI.VERY_HARD_SHORT_DESC"
 msgid "This mode is a bit ridiculous. Are you ready?"
-msgstr ""
+msgstr "無理ゲーかもしれない"
 
 #: STRINGS.UI.WARNING_CANT_MOVE
 msgctxt "STRINGS.UI.WARNING_CANT_MOVE"
