@@ -35,8 +35,8 @@ Steam が C: ドライブ以外にインストールしてある人は、同梱�
 
 ## 使用フォントについて
 
-[スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) IPAフォントライセンス
-[PixelMplus](http://itouhiro.hatenablog.com/entry/20130602/font) M+ FONT LICENSE
+[スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) IPAフォントライセンス  
+[PixelMplus](http://itouhiro.hatenablog.com/entry/20130602/font) M+ FONT LICENSE  
 
 同梱しているもの以外のフォント画像データを利用する場合は、[BMFont](http://www.angelcode.com/products/bmfont/) が必要です。
 
