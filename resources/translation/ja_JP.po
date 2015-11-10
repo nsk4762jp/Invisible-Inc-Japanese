@@ -375,7 +375,7 @@ msgstr "独房の扉を 解除する"
 #: STRINGS.ABILITIES.OPEN_DETENTION_CELLS_DESC
 msgctxt "STRINGS.ABILITIES.OPEN_DETENTION_CELLS_DESC"
 msgid "Open the detention cell doors."
-msgstr "拘留所の 扉を 開ける"
+msgstr "拘置所の 扉を 開ける"
 
 #: STRINGS.ABILITIES.OPEN_SECURE_BOXES
 msgctxt "STRINGS.ABILITIES.OPEN_SECURE_BOXES"
@@ -800,21 +800,23 @@ msgid ""
 "The one that fried my noggin. Thickest ice you've ever seen. Thirteen nested "
 "daemons, each with an amplifier."
 msgstr ""
+"私の頭を 焼いたモノ。 厚い ICE (侵入対抗 電子機器) に 13層の アンプ付き デー"
+"モン。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.13
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.13"
 msgid "I couldn't just leave it there, could I? It was a matter of pride."
-msgstr ""
+msgstr "置いていけるわけ ないでしょ。 プライドの 問題よ。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.14
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.14"
 msgid "Do you think Daemons have souls?"
-msgstr ""
+msgstr "デーモンに 魂って あると 思う？"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.15
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.15"
 msgid "I think they do. One of them has mine."
-msgstr ""
+msgstr "私は やると思う。 デーモンは 地雷を 持ってるもの。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.16
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.16"
@@ -1025,12 +1027,12 @@ msgstr "リーダー"
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.1"
 msgid "Just do it. I'm not afraid of death."
-msgstr ""
+msgstr "やるのよ。 死を 恐れては いないわ。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2"
 msgid "Are you watching this, Operator? This is on you."
-msgstr ""
+msgstr "オペレーター、 見てる？ これは あなたの おごりよ。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3"
@@ -3246,7 +3248,7 @@ msgid ""
 "continuing his research."
 msgstr ""
 "トニー・ズゥ博士は 香港大学 出身の 傑出した 研究者 であった。 K&O サーバに 対"
-"する 過度な 「調査」を 行ったが ために 逮捕され、 拘留所で 過ごすはめに なっ"
+"する 過度な 「調査」を 行ったが ために 逮捕され、 拘置所で 過ごすはめに なっ"
 "てしまった。\n"
 "\n"
 "多大な 責任を 持ち 自尊心の ある大学は、 ズゥが 解放された のちも 再雇用する "
@@ -8001,6 +8003,8 @@ msgid ""
 "Those augments were free for the taking, Operator. Tell me you haven't gone "
 "Luddite on us."
 msgstr ""
+"オペレーター、 強化パーツは タダで 手にはいった んだけど。 ラッダイト運動 し"
+"ない理由を 聞かせて ちょうだい。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.1"
@@ -8016,6 +8020,8 @@ msgid ""
 "I'm sure the agent you recovered is grateful to get out of that cell. I'm "
 "grateful to have more boots on the ground."
 msgstr ""
+"あなたが 独房から 救出した エージェントは 感謝しているわ。 私も 戦力が 増え"
+"て ありがたく 思ってる。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.3
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTAGENT.3"
@@ -8023,6 +8029,8 @@ msgid ""
 "Nice work, Operator. We don't leave our people behind. They're much more "
 "useful under our control."
 msgstr ""
+"よくやったわね、 オペレーター。 仲間は 放って おけないもの。 一緒にいれば "
+"もっと 役に立ってくれる はずよ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTNOTHING.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTNOTHING.1"
@@ -8030,6 +8038,8 @@ msgid ""
 "Damn it, Operator! Did you even try to find the detention block? Our people "
 "might have been in there."
 msgstr ""
+"何やってるの、 オペレーター！ 拘置所を 探すつもりは あるの？ 仲間が そこに 居"
+"たかも しれないのに。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTOTHER.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.GOTOTHER.1"
@@ -8037,6 +8047,8 @@ msgid ""
 "I'm disappointed that our people weren't down there, but at least we got "
 "paid. Keep looking, Operator."
 msgstr ""
+"仲間じゃなくて 残念だったわ。 だけど 報酬は 貰えたから よしと しましょう。 こ"
+"のまま 続けて、 オペレーター。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.1"
@@ -8044,8 +8056,8 @@ msgid ""
 "This is a sad day, but at least we spared them from corporate deprogramming. "
 "They went down fighting."
 msgstr ""
-"今日は 残念だった わね。 少なくとも、 企業の サイバネ分解室じゃ なくて、 戦っ"
-"て 死んだのが せめてもの 慰め。"
+"今日は 残念だった わね。 少なくとも、 企業の サイバネ 分解室 じゃなくて、 "
+"戦って 死んだのが せめてもの 慰め。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.2"
@@ -8053,6 +8065,8 @@ msgid ""
 "You let that agent down, Operator. You can expect the same treatment if "
 "you're ever caught."
 msgstr ""
+"オペレーター、 エージェントを ダウンさせたわね。 あなたも、 捕まったら 同じ扱"
+"いを されるって 分かるでしょう？"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTOTHER.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTOTHER.1"
@@ -8060,6 +8074,8 @@ msgid ""
 "The ransom on that worthless ass could have bought us vital supplies. You "
 "need to try harder."
 msgstr ""
+"あの役立たずの 身代金は 私たちの 資金源に なるはずだったのよ。 もっと 頑張っ"
+"て ちょうだい。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.1"
@@ -8072,14 +8088,14 @@ msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.2"
 msgid ""
 "The more equipment we recover, the more tactical options we have in the "
 "field. Nice work."
-msgstr ""
+msgstr "装備を 回収したぶんだけ、 戦術的 選択肢が 増えるって わけ。 上出来よ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.3
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.HASLOOT.3"
 msgid ""
 "Stow that gear in the secure hold while we're in-flight. I wouldn't want it "
 "going off accidentally."
-msgstr ""
+msgstr "飛行中、 その装備は しまっておいて。 事故りたくは ないから。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.NOLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.NOLOOT.1"
@@ -8087,6 +8103,8 @@ msgid ""
 "You were supposed to find high-tech gear in that facility. Don't disappoint "
 "me again."
 msgstr ""
+"この施設から ハイテク装備を 取ってくるはず だったのに。 がっかりさせないで "
+"ちょうだい。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.NOLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DISPATCH.NOLOOT.2"
@@ -8094,12 +8112,16 @@ msgid ""
 "The gear that you skipped over back there could mean the difference between "
 "life and death for our agents. That's on your head."
 msgstr ""
+"あなたが 見逃した 装備は エージェントの 生死を分ける かもしれないのよ。 それ"
+"を 忘れないで。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.1"
 msgid ""
 "Nice haul, Operator. Everything is useful, if you're resourceful enough."
 msgstr ""
+"良い獲物 だったわね。 うまく やりくりできるなら、 万物は なべて 役に立つ で"
+"しょう。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.2"
@@ -8107,6 +8129,8 @@ msgid ""
 "I'm sure you considered your purchases carefully. Wouldn't want you wasting "
 "the company dime on useless dreck."
 msgstr ""
+"あなたが 購入したものは、 慎重に 選んでくれた ものと 信じてる。 役に立たない "
+"モノに 会社の お金を 使わないで ちょうだいね。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.MISSED.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.MISSED.1"
@@ -8114,6 +8138,8 @@ msgid ""
 "Operator, get your head on straight. You didn't even use the nanofab. We "
 "don't have the luxury of time to waste!"
 msgstr ""
+"オペレーター、 真面目に やってちょうだい。 自販機を 使おうとも しなかった "
+"じゃないの。 無駄に過ごす 時間はないのよ！"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.MISSED.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.MISSED.2"
@@ -8121,6 +8147,8 @@ msgid ""
 "We can make do with normal nanofabs, but the one you missed at this facility "
 "would have given us a huge advantage."
 msgstr ""
+"通常の自販機で 買い物もできるけど、 あなたが 見逃した あの自販機は 我々を 大"
+"きく 有利に してくれるもの なのよ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.SAW.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.SAW.1"
@@ -8128,17 +8156,21 @@ msgid ""
 "Nothing to your liking? I'm sorry, I'll try finding you a more upscale "
 "boutique next time."
 msgstr ""
+"好みに合うのが なかったかしら？ ごめんなさいね、 次回は 高所得者層の ブティッ"
+"ク並みの やつを 探してくるから。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.BOUGHT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.BOUGHT.1"
 msgid "Nice work. The more tools we have at our disposal, the better."
-msgstr ""
+msgstr "上出来よ。 可処分所得が 増えるってことは 良いこと。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.BOUGHT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.BOUGHT.2"
 msgid ""
 "Incognita has incorporated the new routines. She's already more useful to us."
 msgstr ""
+"インコグニータは 新しい ルーチンを 導入したわ。 これで 彼女も より 役に立っ"
+"て くれる はずよ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.MISSED.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.MISSED.1"
@@ -8146,6 +8178,8 @@ msgid ""
 "We're wasting opportunities, Operator. It's not like we have time to write "
 "new programs ourselves."
 msgstr ""
+"オペレーター、 機会を 逸してしまった わね。 自分達で 新しい プログラムを 書い"
+"ている 時間は ないのよ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.MISSED.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.MISSED.2"
@@ -8153,6 +8187,8 @@ msgid ""
 "Incognita would be a hell of a lot more useful if we gave her more programs "
 "to work with, Operator. <sigh> Maybe next time."
 msgstr ""
+"オペレーター、 プログラムを 取得できれば インコグニータは より強大に なったで"
+"しょうに。 はぁ...。 次ね。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.SAW.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.SAW.1"
@@ -8160,6 +8196,7 @@ msgid ""
 "Didn't see anything to you liking, eh? I hope that doesn't come back to bite "
 "us."
 msgstr ""
+"欲しいものが 見つからなかったの？ あとで 痛い目 見ないと いいんだけど。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.SAW.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.SERVERFARM.SAW.2"
@@ -8167,6 +8204,8 @@ msgid ""
 "What were you doing down there? We went in to get new programs, and you just "
 "walked away."
 msgstr ""
+"ここに 何しに 来たの？ 新しい プログラムを 取りに来たのに、 逃げ帰ってきた な"
+"んて。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.1"
@@ -8174,6 +8213,8 @@ msgid ""
 "Excellent work, Operator. Now to sift through the data and find the juiciest "
 "targets."
 msgstr ""
+"オペレーター、 素晴らしいわ。 さぁ、 データを 選別して 一番 美味しい ターゲッ"
+"トを 見つけましょう。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.2"
@@ -8181,6 +8222,7 @@ msgid ""
 "That contact list will prove invaluable when planning our next move. "
 "Excellent work."
 msgstr ""
+"このリストは 次の行動計画を 練るために 非常に 重要な存在よ。 素晴らしいわ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.3
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.HASLIST.3"
@@ -8188,6 +8230,7 @@ msgid ""
 "That executive had a very interesting list of contacts. I'm sure they won't "
 "miss it."
 msgstr ""
+"重役さんは とても面白そうな リストを お持ち だったわね。 見逃せないわ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.NOLIST.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.NOLIST.1"
@@ -8195,6 +8238,8 @@ msgid ""
 "This is unacceptable. We needed that intel, Operator. Now we'll have to just "
 "take what targets we can find."
 msgstr ""
+"ちょっと これは 容認できないわ。 オペレーター、 我々には あれが 必要なのよ。 "
+"見つけられる ターゲットを 探すところから 始める 必要が あるわね。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.NOLIST.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.TERMS.NOLIST.2"
@@ -8202,6 +8247,8 @@ msgid ""
 "Operator, those contacts would have helped us immensely. Pay more attention "
 "to the mission objectives."
 msgstr ""
+"オペレーター、 あのリストは 我々にとって 非常に 役立つもの なのよ。 任務目標"
+"に もう少し 注意を 払いなさい。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.EASYLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.EASYLOOT.1"
@@ -8209,6 +8256,8 @@ msgid ""
 "Anything you recover from the field benefits the cause, but I can't help but "
 "wonder what they were hiding in the inner vault."
 msgstr ""
+"あなたが 拾ってきたものは もちろん 利益になるんだけど、 貴重品保管庫の 中に"
+"は 何が 隠されて いたのかしら？ って 思うのよ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.EASYLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.EASYLOOT.2"
@@ -8216,6 +8265,8 @@ msgid ""
 "The inner vault was the real target, but at least you got the low hanging "
 "fruit. Bring a keycard next time."
 msgstr ""
+"貴重品保管庫の 中身が 本当の ターゲットよ。 今回は 取りやすいもの だけ 取って"
+"きたけど、 次回は カードキーを 持って いきなさい。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.1"
@@ -8223,6 +8274,8 @@ msgid ""
 "Excellent work, Operator. Now we have to find a way to spend out newfound "
 "fortune."
 msgstr ""
+"オペレーター、 素晴らしいわ。 さて、 この貴重品を どうやって 故買しよう かし"
+"ら？"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.2"
@@ -8230,6 +8283,8 @@ msgid ""
 "That is precisely the type of initiative I like to see. Pick their bones "
 "clean, Operator. Good show."
 msgstr ""
+"私が 見たいと 思ってたのが まさに これよ。 きれいに 拭いておいて。 オペレー"
+"ター、 よくやったわ。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.NOLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.NOLOOT.1"
@@ -8237,6 +8292,8 @@ msgid ""
 "Would these missions work better if I drew you a map? You're going down "
 "there there for a reason, not just to fumble around in the dark."
 msgstr ""
+"間取りを 書いてあげたら、 この任務は もっとうまく できたかしら？  暗闇で 手さ"
+"ぐりするだけ じゃなくて、 理由があって ここに 来たんでしょう。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.NOLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.NOLOOT.2"
@@ -8244,11 +8301,13 @@ msgid ""
 "Do you have stock in this corporation that I don't know about? Why else "
 "would you blow off your mission objectives like that?"
 msgstr ""
+"あなたは 私の知らない 在庫を 社内に 持ってるの？ 任務目標を 吹き飛ばすような "
+"理由が 他にある？"
 
 #: STRINGS.MISSIONS.DAEMON_REVERSE.1
 msgctxt "STRINGS.MISSIONS.DAEMON_REVERSE.1"
 msgid "Corporate engineering at its finest. We can work with that."
-msgstr ""
+msgstr "究極の 企業技術 ってやつね。 こいつは 使えるわ。"
 
 #: STRINGS.MISSIONS.DAEMON_REVERSE.2
 msgctxt "STRINGS.MISSIONS.DAEMON_REVERSE.2"
@@ -8258,13 +8317,14 @@ msgstr "そう来るとは 思わなかった。 アドバンテージとして 
 #: STRINGS.MISSIONS.DAEMON_REVERSE.3
 msgctxt "STRINGS.MISSIONS.DAEMON_REVERSE.3"
 msgid "Finally, our luck is turning about. Now press the advantage!"
-msgstr ""
+msgstr "とうとう 運勢も 上向いてきた かしら。 上手く 利用しましょう！"
 
 #: STRINGS.MISSIONS.DAEMON_REVERSE.4
 msgctxt "STRINGS.MISSIONS.DAEMON_REVERSE.4"
 msgid ""
 "Make the best of this situation, Operator - we don't get many lucky breaks."
 msgstr ""
+"オペレーター、 この状況を 最大限 活用して。 こんな幸運 そうそう ないわよ。"
 
 #: STRINGS.MISSIONS.ENDING_1.ALIVE_OPTIONAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.ALIVE_OPTIONAL"
@@ -8274,7 +8334,7 @@ msgstr "<c:777777>> エージェントを死なせない</>"
 #: STRINGS.MISSIONS.ENDING_1.BRING_CENTRAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.BRING_CENTRAL"
 msgid "Access the Corporate Mainframe"
-msgstr "メインフレームに アクセスする"
+msgstr "メインフレームにアクセスする"
 
 #: STRINGS.MISSIONS.ENDING_1.BRING_MONST3R
 msgctxt "STRINGS.MISSIONS.ENDING_1.BRING_MONST3R"
@@ -8310,7 +8370,7 @@ msgstr "モンスターにハックさせる"
 msgctxt "STRINGS.MISSIONS.ENDING_1.INTRO_1"
 msgid ""
 "It was a clean insertion, but they'll figure out we are here soon enough."
-msgstr ""
+msgstr "侵入は 成功したけど、 すぐに 気づかれる でしょうね。"
 
 #: STRINGS.MISSIONS.ENDING_1.INTRO_2
 msgctxt "STRINGS.MISSIONS.ENDING_1.INTRO_2"
@@ -8329,12 +8389,12 @@ msgstr "了解。 行きましょう。"
 #: STRINGS.MISSIONS.ENDING_1.LEAVE_WITHOUT_CENTRAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.LEAVE_WITHOUT_CENTRAL"
 msgid "You can't leave without Central!"
-msgstr ""
+msgstr "セントラルを 残しては 行けません！"
 
 #: STRINGS.MISSIONS.ENDING_1.MAINFRAME_LOCK
 msgctxt "STRINGS.MISSIONS.ENDING_1.MAINFRAME_LOCK"
 msgid "MAINFRAME LOCK"
-msgstr ""
+msgstr "メインフレーム錠"
 
 #: STRINGS.MISSIONS.ENDING_1.OBJ_SECURITY_HUB
 msgctxt "STRINGS.MISSIONS.ENDING_1.OBJ_SECURITY_HUB"
@@ -8344,12 +8404,12 @@ msgstr "モンスターを守れ"
 #: STRINGS.MISSIONS.ENDING_1.REQUIRES_SPECIAL_ACCESS
 msgctxt "STRINGS.MISSIONS.ENDING_1.REQUIRES_SPECIAL_ACCESS"
 msgid "REQUIRES SPECIAL ACCESS"
-msgstr ""
+msgstr "特殊なアクセスが必要"
 
 #: STRINGS.MISSIONS.ENDING_1.UNKNOWN_THREAT
 msgctxt "STRINGS.MISSIONS.ENDING_1.UNKNOWN_THREAT"
 msgid "UNKNOWN THREAT"
-msgstr ""
+msgstr "未知の脅威"
 
 #: STRINGS.MISSIONS.ENDING_1.UPLOAD_INCOGNITA
 msgctxt "STRINGS.MISSIONS.ENDING_1.UPLOAD_INCOGNITA"
@@ -8363,6 +8423,8 @@ msgid ""
 "cooled transduction coil. And is that triple-inverse loop flop enhancer? "
 "I've never seen-"
 msgstr ""
+"コイツを見ろよ！ 窒素冷却コイル 搭載 センドハイザー P-37 じゃないか。 こっち"
+"は 三重 ループ 反転 フロップ エンハンサー？ こんなの見たこと―"
 
 #: STRINGS.MISSIONS.ENDING_1.USE_JACKIN_2
 msgctxt "STRINGS.MISSIONS.ENDING_1.USE_JACKIN_2"
@@ -8484,17 +8546,17 @@ msgstr ""
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.7
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.7"
 msgid "Agent down - use medgel to get them back on their feet."
-msgstr ""
+msgstr "エージェントダウン。 医療用ジェルを 使って 立たせて。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.8
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.8"
 msgid "Pay attention, Operator! We can't afford casualties!"
-msgstr ""
+msgstr "オペレーター、 気を付けてちょうだい！ 犠牲者を出す 余裕なんて ないの！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.9
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.9"
 msgid "Are you even paying attention? You let them walk right into that!"
-msgstr ""
+msgstr "ちゃんと 注意を 払ってる？ あなたの指示で こうなったのよ！"
 
 #: STRINGS.MISSIONS.ESCAPE.CAUGHT_BY_CAMERA
 msgctxt "STRINGS.MISSIONS.ESCAPE.CAUGHT_BY_CAMERA"
@@ -8502,25 +8564,27 @@ msgid ""
 "That camera will keep making things harder for us Operator. Incognita has a "
 "program to deal with it."
 msgstr ""
+"オペレーター、 あのカメラは 状況を 困難にするわ。 インコグニータを 使って 対"
+"処して。"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_1"
 msgid "Look for a cellblock, there may be someone useful in there."
-msgstr ""
+msgstr "独房を探して。 誰か いるかも しれない。"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_2"
 msgid ""
 "There's a high-security detention center on-site. I wonder who they're "
 "keeping in there."
-msgstr ""
+msgstr "ここには 厳重警護された 拘置所があるわ。 誰が 捕まってるの かしら。"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_3"
 msgid ""
 "They're keeping someone under detention here. It's high security, so they "
 "must be important."
-msgstr ""
+msgstr "誰かを 拘束している みたいね。 警備も厳重、 ということは 重要人物ね。"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_4"
@@ -8528,19 +8592,20 @@ msgid ""
 "There is a detention facility on the grounds. Keep an eye open for our "
 "agents."
 msgstr ""
+"ここには 拘置所が あるわ。 捕らわれた エージェントが 居ないか 注意して。"
 
 #: STRINGS.MISSIONS.ESCAPE.CENTRAL_HOSTAGE_DEATH
 msgctxt "STRINGS.MISSIONS.ESCAPE.CENTRAL_HOSTAGE_DEATH"
 msgid ""
 "Damn it! There goes any bonus. We will discuss this further in debriefing."
-msgstr ""
+msgstr "ちょっと！ これで 報酬も なしね。 事後 報告会を あとで やるわよ。"
 
 #: STRINGS.MISSIONS.ESCAPE.CEOOFFICE_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.CEOOFFICE_1"
 msgid ""
 "Upper Management is putting in some overtime. It's a good chance for us to "
 "pick his brain."
-msgstr ""
+msgstr "上級管理職は 残業中ね。 絶好の タイミングって やつかしら。"
 
 #: STRINGS.MISSIONS.ESCAPE.CEOOFFICE_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.CEOOFFICE_2"
@@ -8548,6 +8613,8 @@ msgid ""
 "A top financial assistant has been followed to this site. He should have "
 "vault access codes on him."
 msgstr ""
+"この施設に 財務部の 上級補佐官が ついてきてる。 貴重品保管庫の アクセスキー"
+"を 保持してる はずよ。"
 
 #: STRINGS.MISSIONS.ESCAPE.CEOOFFICE_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.CEOOFFICE_3"
@@ -8555,6 +8622,8 @@ msgid ""
 "The CFO of this facility should be busy in a chess match. Nab his vault "
 "codes while he is preoccupied"
 msgstr ""
+"ここの 財務部長は チェスの対戦で 忙しいはず。 彼が 気を取られてる うちに 貴重"
+"品保管庫の アクセスコードを 手に入れましょう。"
 
 #: STRINGS.MISSIONS.ESCAPE.CEOOFFICE_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.CEOOFFICE_4"
@@ -8562,13 +8631,15 @@ msgid ""
 "The first class suite in this facility has been hosting a financial seminar. "
 "At least one of the speakers will be around afterwards, for a chat."
 msgstr ""
+"ここの スイートルームで 金融セミナーを やってる最中ね。 発表者が あとで 雑談"
+"でもしに 来るでしょう。"
 
 #: STRINGS.MISSIONS.ESCAPE.COMPILE_STARTED
 msgctxt "STRINGS.MISSIONS.ESCAPE.COMPILE_STARTED"
 msgid ""
 "That's got it. The code has started compiling, let's hope it doesn't take "
 "too long to finish."
-msgstr ""
+msgstr "よし。 コンパイルが 始まったわ。 すぐに 終わることを 祈りましょう。"
 
 #: STRINGS.MISSIONS.ESCAPE.CONNECTION_BROKEN
 msgctxt "STRINGS.MISSIONS.ESCAPE.CONNECTION_BROKEN"
@@ -8576,6 +8647,7 @@ msgid ""
 "You went out of range. His port will be fused now. We won't be getting any "
 "codes this time."
 msgstr ""
+"接続の 範囲外に 出たわね。 生体ポートは 融解しそうよ。 今回は 収穫ゼロね。"
 
 #: STRINGS.MISSIONS.ESCAPE.CYBERLAB_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.CYBERLAB_1"
@@ -8583,13 +8655,15 @@ msgid ""
 "A high ranking operative will be receiving an augment installation in the "
 "morning. Maybe we can grab it first."
 msgstr ""
+"成績上位の エージェントは 朝一で 強化パーツの 装着に 与れるでしょう。 手に入"
+"れられたらね。"
 
 #: STRINGS.MISSIONS.ESCAPE.CYBERLAB_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.CYBERLAB_2"
 msgid ""
 "The lab at this location is extremely busy. It's likely they will have "
 "augment stock on hand."
-msgstr ""
+msgstr "この研究所は フル稼働中の ようね。 強化パーツの 在庫が ありそう。"
 
 #: STRINGS.MISSIONS.ESCAPE.CYBERLAB_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.CYBERLAB_3"
@@ -8597,6 +8671,8 @@ msgid ""
 "Several augment designs are being developed at this laboratory. Anything "
 "past the prototype stage is likely going to be quite useful."
 msgstr ""
+"強化パーツの デザインには この研究所で 開発されたものも あるわ。 プロトタイ"
+"プ 段階の ものでも とても 役に立つ はずよ。"
 
 #: STRINGS.MISSIONS.ESCAPE.CYBERLAB_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.CYBERLAB_4"
@@ -8605,6 +8681,8 @@ msgid ""
 "checks. If you get in quick and quietly enough, they may not even realize "
 "any stock is missing."
 msgstr ""
+"この研究所に 品質検査用の 品が ちょうど 届いた みたいね。 静かに 素早く 抜き"
+"取れば、 無くなったことに 気づかれない でしょう。"
 
 #: STRINGS.MISSIONS.ESCAPE.FIRST_LEVEL.1
 msgctxt "STRINGS.MISSIONS.ESCAPE.FIRST_LEVEL.1"
@@ -8662,13 +8740,14 @@ msgid ""
 "Try to find as much intel and valuables as you can, and get back to the "
 "elevator."
 msgstr ""
+"価値のありそうな ものを できるだけ 取って、 エレベーターまで 戻ってきて。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_4"
 msgid ""
 "You'll have a small window of opportunity to grab as much materiel as you "
 "can."
-msgstr ""
+msgstr "可能な限り 資材を 確保する 時間は ほんの少ししか ないわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_5
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_5"
@@ -8676,6 +8755,8 @@ msgid ""
 "Find anything of value that isn't bolted to the floor. Incognita will erase "
 "all records of our intrusion."
 msgstr ""
+"戸締りしてない フロアから、 価値のありそうな ものは 何でも 取ってきて。 イン"
+"コグニータが 侵入痕を 消してくれるわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_6
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_6"
@@ -8683,6 +8764,7 @@ msgid ""
 "See what you can find. You never know what they're keeping at these unlisted "
 "sites."
 msgstr ""
+"可能な限り 探索しましょう。 この 未公開地点に 何が 隠されているの かしら。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_7
 msgctxt "STRINGS.MISSIONS.ESCAPE.GENERIC_7"
@@ -8690,30 +8772,32 @@ msgid ""
 "See what you can find, and get back before they know you've been there. No "
 "risks."
 msgstr ""
+"可能な限り 探索しましょう。 そして 気づかれる前に 戻ってきて。 リスクは 無用"
+"よ。"
 
 #: STRINGS.MISSIONS.ESCAPE.GUARDROOM_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.GUARDROOM_1"
 msgid "There's a guard station here. You may be able to secure some weapons."
-msgstr ""
+msgstr "ここは 守衛の詰所ね。 武器が 調達できるかも しれないわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.GUARDROOM_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.GUARDROOM_2"
 msgid "Keep an eye out for an armory. We could certainly use the firepower."
-msgstr ""
+msgstr "武器庫を 探して。 我々には 確かな 火力が 必要よ。"
 
 #: STRINGS.MISSIONS.ESCAPE.GUARDROOM_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.GUARDROOM_3"
 msgid ""
 "There are a large number of guards on staff. Keep an eye out for unsecured "
 "weaponry."
-msgstr ""
+msgstr "大勢の 守衛が 居るわ。 手薄な 武器庫を 探して。"
 
 #: STRINGS.MISSIONS.ESCAPE.GUARDROOM_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.GUARDROOM_4"
 msgid ""
 "This is a training facility for new security staff. You may be able to steal "
 "some unlicensed firearms."
-msgstr ""
+msgstr "ここは 新人用 訓練施設ね。 無識別の 武器を 盗めるかも。"
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_CONVO1
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_CONVO1"
@@ -8754,8 +8838,8 @@ msgid ""
 "The <Corporation> satellite network is having technical issues and has no "
 "visibility in this sector."
 msgstr ""
-"<Corporation> 衛星 ネットワークは 技術的な 問題を 抱えており、 この区画で 視"
-"認できる ものは ありません。"
+"<Corporation> 衛星 ネットワークは 技術的な 問題を 抱えていて、 この区画で 視"
+"認できる ものは なさそうね。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_10
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_10"
@@ -8763,11 +8847,12 @@ msgid ""
 "There has to be a pattern to Corp behaviour. We'll crack it, but first we "
 "need supplies."
 msgstr ""
+"このパターンは 企業活動ね。 叩きましょう。 っと、 その前に 補給しないと。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_11
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_11"
 msgid "It looks like we've found a hole in the security here"
-msgstr ""
+msgstr "セキュリティ ホールを 見つけた ようね。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_2"
@@ -8775,18 +8860,18 @@ msgid ""
 "They're rebooting their regional servers, and aren't recording the security "
 "telemetry from this installation."
 msgstr ""
-"企業は 地域サーバーを 再起動中です。 セキュリティ テレメトリーは 記録されて "
-"いません。"
+"企業は 地域サーバーを 再起動中。 セキュリティ テレメトリーは 記録されて いな"
+"い模様。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_3"
 msgid "Operator, we've gained one-time access to the facility here."
-msgstr "オペレーター、 同じ施設に 潜入することは できません。"
+msgstr "オペレーター、 同じ施設に 潜入することは できないわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_4"
 msgid "Incognita says that there's something interesting in this building."
-msgstr "インコグニータが この建物に 何か 興味深いもの があると 言っています。"
+msgstr "インコグニータが この建物に 面白いものが あると 言っているわね。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_5
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_5"
@@ -8794,21 +8879,21 @@ msgid ""
 "There's a gap in the security coverage at this facility. We can get a team "
 "inside before they know any better."
 msgstr ""
-"この施設は 警備に 穴があります。 気づかれる 前に エージェントを 派遣しましょ"
+"この施設は 警備に 穴があるわ。 気づかれる 前に エージェントを 派遣しましょ"
 "う。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_6
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_6"
 msgid ""
 "This is a by-the-numbers infiltration, Operator. You will be going here."
-msgstr ""
+msgstr "オペレーター、 型どおりの 潜入活動よ。 そのために 来たの。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_7
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_7"
 msgid ""
 "I can't believe how sloppy they've become. Look at the grid around this "
 "building"
-msgstr ""
+msgstr "彼ら、 ちょっと ズボラ すぎない？ 建物周辺を 見てみましょう。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_8
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_8"
@@ -8824,11 +8909,13 @@ msgid ""
 "Bureaucracy is a beautiful thing. They're decommissioning this facility and "
 "they started with the security grid."
 msgstr ""
+"官僚制って 素晴らしいと 思わない？ この施設の 廃止措置と セキュリティ起動を "
+"始めた んだから。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_1"
 msgid "Keep a low profile - we don't want them to know we've been here."
-msgstr ""
+msgstr "目立つ行動は 取らないで。 ここに 居ることを 知られたく ないから。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_10
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_10"
@@ -8842,29 +8929,32 @@ msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_11"
 msgid ""
 "The window on this won't last long. Get out before they can get "
 "reinforcements on site."
-msgstr ""
+msgstr "時間が ないわ。 増援が来る前に 脱出しましょう。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_2"
 msgid ""
 "Information is power, Operator, so try to get as much intel as you can find."
 msgstr ""
+"オペレーター、 情報は 力よ。 見つけられる 情報は できるだけ 手に入れて。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_3"
 msgid "Grab what you can, but don't take any unnecessary risks. Good luck."
 msgstr ""
+"取れるものは 何でも 取ってきて。 ただし、 不要な リスクは 取らないでね。 がん"
+"ばって。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_4"
 msgid "There's no benefit in making a ruckus, Operator. Be subtle."
-msgstr ""
+msgstr "オペレーター、 騒ぎは 何の 利益にも ならないわよ。 繊細に やって。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_5
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_5"
 msgid ""
 "They'll sense an intrusion as soon as you hit the floor, so don't dally."
-msgstr ""
+msgstr "転送直後に 侵入は 気づかれてる でしょうから、 ぐずぐず しないで。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_6
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_6"
@@ -8872,6 +8962,7 @@ msgid ""
 "Play it cautiously - there's no sense in risking valuable assets on a "
 "fishing expedition."
 msgstr ""
+"気を付けて 遊んでね。 証拠漁り のために 余計な リスクを 取ることは ないわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_7
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_7"
@@ -8879,11 +8970,13 @@ msgid ""
 "Grab as much as you can, but don't take any stupid risks. A healthy agent is "
 "far more valuable than the contents of any safe."
 msgstr ""
+"取れるだけ 取ってきて。 だけど 不要な リスクを 犯さないで。 エージェントは 金"
+"庫の 中身より 価値が あるのよ。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_8
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_8"
 msgid "Just make sure we come out ahead on the balance sheet, Operator."
-msgstr ""
+msgstr "オペレーター、 収支決算で 利益を出して ちょうだい。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_9
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_ENDER_9"
@@ -8891,6 +8984,7 @@ msgid ""
 "The chopper will touch down momentarily. Bring us back something nice, will "
 "you?"
 msgstr ""
+"ジェットが まもなく 到着するわ。 良いものを 持って帰って ちょうだいね？"
 
 #: STRINGS.MISSIONS.ESCAPE.MOVE_INTO_RANGE
 msgctxt "STRINGS.MISSIONS.ESCAPE.MOVE_INTO_RANGE"
@@ -8909,6 +9003,8 @@ msgid ""
 "Records indicate a nanofab somewhere in the facility. We'll hack access, but "
 "you'll still need credits."
 msgstr ""
+"記録は この施設の どこかに 自販機が あることを 示しているわ。 アクセス できる"
+"ように しても、 十分な クレジットが なきゃね。"
 
 #: STRINGS.MISSIONS.ESCAPE.NANOFAB_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.NANOFAB_3"
@@ -8916,6 +9012,8 @@ msgid ""
 "Keep your eyes peeled for a nanofab. You should be able to override its "
 "security clearance."
 msgstr ""
+"自販機を よく見ておいて。 セキュリティ 許容度は 上書き できるように すべき"
+"よ。"
 
 #: STRINGS.MISSIONS.ESCAPE.NANOFAB_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.NANOFAB_4"
@@ -8953,7 +9051,7 @@ msgstr "設備を使ってエージェントを強化する"
 #: STRINGS.MISSIONS.ESCAPE.OBJ_DETENTION_CENTER
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_DETENTION_CENTER"
 msgid "Recon the Detention Center"
-msgstr "拘留所を偵察する"
+msgstr "拘置所を偵察する"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_DISABLE_DRAIN
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_DISABLE_DRAIN"
@@ -9273,11 +9371,12 @@ msgid ""
 "Stop! Move any further away from the target and you'll sever our connection "
 "permanently."
 msgstr ""
+"動かないで！ ターゲットから 離れすぎると 接続が 永遠に 切れて しまうわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.TARGET_DIED
 msgctxt "STRINGS.MISSIONS.ESCAPE.TARGET_DIED"
 msgid "You let the target die! What a wasted opportunity."
-msgstr ""
+msgstr "ターゲットを 死なせるなんて！ なんて 無駄な 時間なの。"
 
 #: STRINGS.MISSIONS.ESCAPE.TARGET_GOT_AWAY
 msgctxt "STRINGS.MISSIONS.ESCAPE.TARGET_GOT_AWAY"
@@ -9285,6 +9384,8 @@ msgid ""
 "Damn it, the target got away. Recall our agents, and try not to mess "
 "anything else up. What a wasted opportunity."
 msgstr ""
+"ぐっ。 ターゲットは 撤退。 エージェントを 呼び戻して。 これ以上 ヘマをやらか"
+"している 暇は ないわ。 時間の 無駄遣いね。"
 
 #: STRINGS.MISSIONS.ESCAPE.TARGET_RUNNING_AWAY
 msgctxt "STRINGS.MISSIONS.ESCAPE.TARGET_RUNNING_AWAY"
@@ -9292,21 +9393,27 @@ msgid ""
 "Our cover is blown and the target is running. Stop him - If he gets to a "
 "security entrance we're going home empty-handed."
 msgstr ""
+"我々のカバーが 不十分だったから ターゲットが 逃走したわ。 捕まえなさい。 逃げ"
+"られたら 手ぶらで 帰る はめに なるわよ。"
 
 #: STRINGS.MISSIONS.ESCAPE.TARGET_WOKEUP
 msgctxt "STRINGS.MISSIONS.ESCAPE.TARGET_WOKEUP"
 msgid "Damn it, the target woke up during the scan. We'll be locked out now."
 msgstr ""
+"ああっ。 スキャン中に ターゲットが 起きちゃった じゃないの。 すぐに 占め出さ"
+"れるわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.USED_VAULT_CODE
 msgctxt "STRINGS.MISSIONS.ESCAPE.USED_VAULT_CODE"
 msgid "They will change their codes after this. That one is useless to us now."
 msgstr ""
+"この後、コードは 書き換えられる でしょうから、 このカードキーは もう 役に立た"
+"ない わね。"
 
 #: STRINGS.MISSIONS.ESCAPE.VAULT_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.VAULT_1"
 msgid "There's a vault on-site. Probably an executive slush-fund."
-msgstr ""
+msgstr "工事中の 貴重品保管庫 ね。 賄賂でも 貯めこんでるの かしら。"
 
 #: STRINGS.MISSIONS.ESCAPE.VAULT_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.VAULT_2"
@@ -9314,6 +9421,8 @@ msgid ""
 "This facility handles payroll for the entire region. Look for a large stash "
 "of credits."
 msgstr ""
+"この施設は 地域全体の 従業員を 抱えてる みたいね。 クレジットが 詰まった箱を "
+"見つけて。"
 
 #: STRINGS.MISSIONS.ESCAPE.VAULT_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.VAULT_3"
@@ -9321,6 +9430,8 @@ msgid ""
 "The local executive has been embezzling credits. Find the vault, and they "
 "are ours."
 msgstr ""
+"支社の 重役は クレジットを 横領しているようね。 貴重品保管庫を 見つけてちょう"
+"だい。 あれを 我々のものに しましょう。"
 
 #: STRINGS.MISSIONS.ESCAPE.VAULT_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.VAULT_4"
@@ -9477,8 +9588,8 @@ msgid ""
 "There should be a security hub somewhere on this level. I can get us into "
 "the central server room from there."
 msgstr ""
-"このフロアの どこかに セキュリティハブが あるはずよ。 そこから 中央サーバ室"
-"に 行けるわ。"
+"このフロアの どこかに セキュリティハブが あるはずだ。 そこから 中央サーバ室"
+"に 繋げられるぞ。"
 
 #: STRINGS.MISSIONS.FINALMISSION.MONSTER_DOWN_AFTER_HACK
 msgctxt "STRINGS.MISSIONS.FINALMISSION.MONSTER_DOWN_AFTER_HACK"
@@ -9501,7 +9612,7 @@ msgstr ""
 #: STRINGS.MISSIONS.FINALMISSION.NO_GO_THROUGH_DOOR
 msgctxt "STRINGS.MISSIONS.FINALMISSION.NO_GO_THROUGH_DOOR"
 msgid "Only Mother may pass."
-msgstr "マザーのみ通行可"
+msgstr "まざーダケガ 通レマス。"
 
 #: STRINGS.MISSIONS.FINALMISSION.OPEN_FINAL_DOOR
 msgctxt "STRINGS.MISSIONS.FINALMISSION.OPEN_FINAL_DOOR"
@@ -9637,7 +9748,7 @@ msgstr "あの装備は 何？ 未知の敵を 相手に したくないわ。"
 msgctxt "STRINGS.MISSIONS.FINALMISSION.SEE_HUB_FIRST"
 msgid ""
 "That's the security hub for this level. I bet I can clear the way from there."
-msgstr "あれが セキュリティハブ ね。 行きましょう。"
+msgstr "あれが セキュリティハブ だ。 行こう。"
 
 #: STRINGS.MISSIONS.FINALMISSION.SEE_HUB_SECOND
 msgctxt "STRINGS.MISSIONS.FINALMISSION.SEE_HUB_SECOND"
