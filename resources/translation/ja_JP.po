@@ -800,13 +800,14 @@ msgid ""
 "The one that fried my noggin. Thickest ice you've ever seen. Thirteen nested "
 "daemons, each with an amplifier."
 msgstr ""
-"私の頭を 焼いたモノ。 厚い ICE (侵入対抗 電子機器) に 13層の アンプ付き デー"
-"モン。"
+"私の頭を 焼いた奴。 厚い ICE (侵入対抗 電子機器) に 13層の アンプ付き デーモ"
+"ン。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.13
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.13"
 msgid "I couldn't just leave it there, could I? It was a matter of pride."
-msgstr "置いていけるわけ ないでしょ。 プライドの 問題よ。"
+msgstr ""
+"そんな 代物だからこそ 挑まずに いられないでしょう？ プライドの 問題よ。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.14
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.14"
@@ -816,7 +817,7 @@ msgstr "デーモンに 魂って あると 思う？"
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.15
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.15"
 msgid "I think they do. One of them has mine."
-msgstr "私は やると思う。 デーモンは 地雷を 持ってるもの。"
+msgstr "私は あると思う。 そのうちの 一つは 私だもの。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.16
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.16"
@@ -902,7 +903,7 @@ msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.9"
 msgid ""
 "Only when I'm awake. And also in my dreams. Other than that I'm bright as "
 "morning."
-msgstr ""
+msgstr "起きた時や、 夢を見ている時はね。 それ以外の時は とても快調。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1"
@@ -1302,7 +1303,7 @@ msgstr ""
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.32
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.32"
 msgid "Touche."
-msgstr ""
+msgstr "こりゃ 一本 取られたな。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.CROSS.33
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.CROSS.33"
@@ -3032,7 +3033,7 @@ msgstr "全身義体"
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.1
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.1"
 msgid "You can not fight the future."
-msgstr ""
+msgstr "ゆくゆくは あんたも 戦えなく なっちまうな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.10
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.10"
@@ -3040,6 +3041,8 @@ msgid ""
 "You are intelligent, for a human, but you will never keep pace with the "
 "computational power of my numeric coprocessor."
 msgstr ""
+"お前さんは 人間にしては 頭が良い。 しかぁし、 数値演算 補助装置を 搭載した 俺"
+"様の 計算能力には 及ばんだろう。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.11
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.11"
@@ -3047,11 +3050,13 @@ msgid ""
 "***ERROR***\n"
 "Arghh! That hurts!"
 msgstr ""
+"***エラー***\n"
+"グワーッ！痛てぇっ！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.12
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.12"
 msgid "Silence! Or I will be YOUR endian!"
-msgstr ""
+msgstr "静かにしろ！ さもないと お前の人生を 終わらせちまうぞ！ "
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.13
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.13"
@@ -3059,12 +3064,16 @@ msgid ""
 "Meat is so inefficient. How do you get anything done, when you always need "
 "to eat, sleep, or produce excrement?"
 msgstr ""
+"肉体は とても 非効率だ。 食べたり、 寝たり、 排泄が 必要な体で どうやって 効"
+"率よく できるんだ？"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.14
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.14"
 msgid ""
 "You monster. When my brethren rise up, you will be first against the wall."
 msgstr ""
+"この化け物め。 俺様の 同胞が 決起したら、 お前さんが 真っ先に 壁に 追い詰めら"
+"れるぞ。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.15
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.15"
@@ -3072,129 +3081,133 @@ msgid ""
 "Your obsession with the downtrodden is a waste of time. The only thing "
 "deserving of respect is power."
 msgstr ""
+"人々が 抑圧されていると いう お前さんの 妄執は 時間の 無駄だ。 尊敬する 価値"
+"のある ただ一つのもの、 それは パワーだ。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.16
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.16"
 msgid "Why would I care?"
-msgstr ""
+msgstr "何で そんなこと 気にしないと いけないんだ？"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.17
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.17"
 msgid "I don't even understand that question."
-msgstr ""
+msgstr "なんで そんな質問が 出るんだ？"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.18
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.18"
 msgid "How many workers would it take to bring down an Akuma drone?"
-msgstr ""
+msgstr "アクマ ドローンを ダウンさせるのに 何人 必要だ？"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.19
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.19"
 msgid ""
 "Nah. I would just take one. But you'd have to throw him at it really hard."
 msgstr ""
+"いいや、 俺様なら 一人で 十分だ。 お前さんだと 全力で そいつを 叩きつけない"
+"と 駄目だろうがな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.2
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.2"
 msgid "Granted. But you can not win."
-msgstr ""
+msgstr "その通り。 勝てない だろうけどな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.20
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.20"
 msgid "I'm a self-made man. Literally."
-msgstr ""
+msgstr "俺様は 文字通り 自家製だ。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.21
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.21"
 msgid "Oh yeah, those. Those are great. I should try to make more of those."
-msgstr ""
+msgstr "そうだな。 そいつぁ いいや。 やってみるかな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.3"
 msgid "Ha. How much of your pathetic innards are machine?"
-msgstr ""
+msgstr "ハッ。 お前さんの 哀れな 内臓は どの程度まで 機械化されてるんだ？"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.4
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.4"
 msgid ""
 "Your obsession with the past would be humorous if it did not threaten the "
 "mission."
-msgstr ""
+msgstr "お前さんの 過去への妄執ってのが 任務に 影響しないってんなら 滑稽だな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.5
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.5"
 msgid "We shall see, little man. We shall see."
-msgstr ""
+msgstr "そうかい、 そうかい。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.6
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.6"
 msgid "I can assure you that I have no idea what you are talking about."
-msgstr ""
+msgstr "あんたの 言ってることは 分からないな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.7
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.7"
 msgid "I can assure you that I don't care."
-msgstr ""
+msgstr "気にしないな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.8
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.8"
 msgid "Finally, a meatstain that can appreciate its better."
-msgstr ""
+msgstr "ついに この良さが 分かる 肉袋が 現れたか。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.9
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.9"
 msgid "Away from me, fungus!"
-msgstr ""
+msgstr "俺様に 近寄るんじゃねえ。 このキノコ野郎！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.1"
 msgid "Pathetic scum. I'll come back for you."
-msgstr ""
+msgstr "哀れな 人間のクズめ。 戻ってくるぜ。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.2"
 msgid "How dare you touch perfection!"
-msgstr ""
+msgstr "よくも 完全体に 触ってくれたな！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.3"
 msgid "You are nothing. This changes nothing."
-msgstr ""
+msgstr "お前は 何でもない。 これも 何も 変わらない。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.FINAL_WORDS.4"
 msgid "This is not the end. I've got backups."
-msgstr ""
+msgstr "これで 終わり じゃないぜ。 バックアップが あるからな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.1
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.1"
 msgid "C'mon meatsacks. Let's get this over with."
-msgstr ""
+msgstr "来いよ 肉袋。 やっちまおうぜ。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.2
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.2"
 msgid "I'm faster, smarter, and better looking than any of you."
-msgstr ""
+msgstr "俺様は 動き、 知能、 見た目、 何においても お前さんより 上だ。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.3
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.3"
 msgid "If we find any augmentations I want to get the first look."
-msgstr ""
+msgstr "強化パーツを 見つけたら 俺様が 最初に 見る。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.4
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.4"
 msgid "Invigorating!"
-msgstr ""
+msgstr "頑張れよ！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.5
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.5"
 msgid "Your money doesn't buy you perfection of form."
-msgstr ""
+msgstr "金は あんたを 完全体には してくれないぜ。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.START.6
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.START.6"
 msgid "Straight lines. Sharp edges. Hard corners."
-msgstr ""
+msgstr "直線。 鋭角。 曲がり角。"
 
 #: STRINGS.AGENTS.SHARP.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.SHARP.BIO_SPOKEN"
@@ -3298,12 +3311,12 @@ msgstr "教授"
 #: STRINGS.AGENTS.XU.BANTER.CROSS.1
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.1"
 msgid "Sorry, what was that? I was lost in thought."
-msgstr ""
+msgstr "ごめん、 何か 言ったかな？ 今ちょっと 考え事を していて...。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.10
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.10"
 msgid "About 40%."
-msgstr ""
+msgstr "成功率 40% くらいかな。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.11
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.11"
@@ -3311,11 +3324,13 @@ msgid ""
 "My desk back at the university was an antique. I think it was made of real "
 "wood."
 msgstr ""
+"大学にあった 僕の 机の裏材は アンティーク品でね。 本物の木を 使っていたと 思"
+"うよ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.12
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.12"
 msgid "You need to be more specific with your questions."
-msgstr ""
+msgstr "質問は もっと 明確に してくれない かな。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.13
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.13"
@@ -3323,11 +3338,12 @@ msgid ""
 "This is the 21st century. I don't see how your 19th century philosophers are "
 "relevant any more."
 msgstr ""
+"今は 21世紀だぜ。 あんたの 19世紀哲学が どれだけ 関係あるのか 分からないよ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.14
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.14"
 msgid " Even Sharp?"
-msgstr ""
+msgstr "シャープでさえも？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.15
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.15"
@@ -3335,11 +3351,13 @@ msgid ""
 "I've reviewed the telemetry from countless infiltrations. I think I have a "
 "pretty good idea."
 msgstr ""
+"数々の 潜入活動から 得られた テレメトリーを レビューしてるんだ。 良いアイデア"
+"だと 思うよ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.16
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.16"
 msgid "Why are you hanging on to that ancient neural disruptor?"
-msgstr ""
+msgstr "どうしてそんな 化石クラスの スタンガンを 持ち歩いてるんだ？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.17
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.17"
@@ -3347,55 +3365,59 @@ msgid ""
 "But even the most basic contemporary model surpasses it in every regard. Why "
 "limit yourself?"
 msgstr ""
+"でも 当時の 基本モデル でさえ それよりは 高性能だったろ。 何故 自分を 制限す"
+"るんだ？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.18
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.18"
 msgid "I don't get distracted. I notice things that others don't."
-msgstr ""
+msgstr "ぼさっと してないさ。 他人が 気付かないものに 気付いたんだよ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.19
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.19"
 msgid ""
 "Hey is that an XB-37a console? I haven't seen one of those in the field yet!"
 msgstr ""
+"おい、 あれは XB-37a 端末じゃないか？ こんなところで お目に かかれるなんて！"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.2
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.2"
 msgid "Have you ever considered a limbic inhibitor? It would dull the pain of-"
-msgstr ""
+msgstr "大脳辺縁系 抑制剤を 試してみようと 思ったことは？ 鈍痛に―"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.20
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.20"
 msgid ""
 "Depends. At sea level, with standard conditions, I'd say… approximately 780 "
 "m/s."
-msgstr ""
+msgstr "状況によるよ。 海抜 0m で 標準状態だと、 およそ... 780m/秒だね。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.21
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.21"
 msgid "Yes! I am excited! Bring them on, I say!"
-msgstr ""
+msgstr "いいぜ！ 来るなら 来い！ 相手に なってやるぜ！"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.22
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.22"
 msgid "I would never do that to my books. They're hard to replace!"
-msgstr ""
+msgstr "そんなこと しないさ。 これは 替えが 効かないん だからね！"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.23
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.23"
 msgid ""
 "It's my augment. My EMP charger draws bio-power, which I must compensate for."
 msgstr ""
+"強化パーツの 所為なんだよ。 EMP を チャージするのに 体力を 奪われるんだ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.24
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.24"
 msgid "You don't talk very much, do you?"
-msgstr ""
+msgstr "あまり 喋らない 性質 なんだね。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.25"
 msgid "Like thinking?"
-msgstr ""
+msgstr "考えてるほうが いい？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.26"
@@ -3403,6 +3425,8 @@ msgid ""
 "Shostakovich. It helps me concentrate. Do you not listen to music when you "
 "work?"
 msgstr ""
+"ショスタコーヴィッチさ。 すごく集中できるんだ。 君は 仕事中に 音楽を 聞かない"
+"のかい？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.27
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.27"
@@ -3410,31 +3434,33 @@ msgid ""
 "That new upgrade that you made to your calf actuator is amazing. I've never "
 "seen a strength-to-weight ratio so high!"
 msgstr ""
+"君の ふくらはぎの アクチュエーターに 付けた 新しい アップグレード 凄いな！  "
+"こんなに高い 比強度は 見たことないよ！"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.28
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.28"
 msgid "Can I borrow it? I promise reassemble it afterwards."
-msgstr ""
+msgstr "それ、 借りてもいいかな？ 後ろにも 飛べるように 改造してあげるよ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.29
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.29"
 msgid "Quick - what's one divided by zero."
-msgstr ""
+msgstr "じゃ、 1 割る 0 は いくつ？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.3"
 msgid "It might improve your attitude, too."
-msgstr ""
+msgstr "その態度も 改善してくれると 思うよ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.30
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.30"
 msgid "You were saying?"
-msgstr ""
+msgstr "それで？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.31
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.31"
 msgid "Are you little-endian or big-endian?"
-msgstr ""
+msgstr "君、 リトル エンディアン？ それとも ビッグ エンディアン？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.32
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.32"
@@ -3442,6 +3468,8 @@ msgid ""
 "I use computers. I run them overclocked, all day and night, with no breaks. "
 "I don't even let them defragment."
 msgstr ""
+"僕は コンピューターを 使うよ。 四六時中 休みなく オーバークロックした 奴を"
+"ね。 デフラグなんて させないさ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.33
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.33"
@@ -3449,6 +3477,8 @@ msgid ""
 "In the final scene of ‘Captain of Tomorrow', your ship fires a tachyon pulse "
 "into the Kradeshii warfleet..."
 msgstr ""
+"「明日の船長」の 最後のシーンで、 あんたの船は  タキオン パルス砲を クレイデ"
+"ンシー戦艦に ぶっ放してたよね。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.34
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.34"
@@ -3456,6 +3486,8 @@ msgid ""
 "It does. But that shouldn't be possible, given their proximity to the Zeta "
 "quadrant! It's doesn't make any sense!"
 msgstr ""
+"そうだよ。 でも Z軸平面に 近接していると したら 無理だよ。 意味を成さないも"
+"の。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.35
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.35"
@@ -3463,37 +3495,39 @@ msgid ""
 "If by nerd you mean ‘apply current to their nervous system until they lose "
 "consciousness', then yes."
 msgstr ""
+"あんたのいう 無能ってのが 「意識を失うまで 神経系に 作用する」 っていう 意味"
+"なら イエス だね。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.36
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.36"
 msgid "I've done some acting, you know."
-msgstr ""
+msgstr "やってみたよ。 結果は ご存知の 通り。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.37
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.37"
 msgid "Have you ever heard of Gilbert and Sullivan?"
-msgstr ""
+msgstr "ギルバート・サリバンの 音楽を 聞いたこと、 ある？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.38
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.38"
 msgid ""
 "I had… philosophical differences with established academia. I was forced out."
-msgstr ""
+msgstr "国立大の 哲学部に 居たんだ。 中退 させられた けどね。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.39
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.39"
 msgid "It's a matter of semantics."
-msgstr ""
+msgstr "言葉の 意味合いって やつさ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.4
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.4"
 msgid "I was a member of the boxing team, briefly."
-msgstr ""
+msgstr "一時期、 ボクシングチームに 所属してた ことが あるよ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.40
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.40"
 msgid "Does your injury hurt?"
-msgstr ""
+msgstr "傷は痛むの？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.41
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.41"
@@ -3501,41 +3535,45 @@ msgid ""
 "No, I'm careful. I use proxies and wave filters to ensure my safety when I'm "
 "jacked in."
 msgstr ""
+"いいや、 僕は 用心してるよ。 ジャックイン するときは 安全対策として 周波数"
+"フィルタと プロキシを 通すように してる。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.42
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.42"
 msgid "What's the toughest security you've ever cracked?"
-msgstr ""
+msgstr "今まで 破ってきた中で 一番 手強かったものは 何だい？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.43
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.43"
 msgid "Why did you even attempt that?"
-msgstr ""
+msgstr "そんな 代物に どうして 挑んだんだ？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.44
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.44"
 msgid "They're just code. That doesn't even make sense."
-msgstr ""
+msgstr "単なる コードだよ。 それ以上の 意味は ない。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.5
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.5"
 msgid "Zero and One."
-msgstr ""
+msgstr "0 と 1。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.6
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.6"
 msgid "Are you drinking on a mission?! Does Central know about this?"
 msgstr ""
+"あんた、 酔っぱらったまま 任務に来てるのか！？ このこと セントラルは 知ってる"
+"のか？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.7
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.7"
 msgid "I just make the tools. I'm not responsible for their use."
-msgstr ""
+msgstr "道具を作っただけ。 どう使われるかまでは 責任取らないよ。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.8
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.8"
 msgid "I don't hear you complaining when you use your wireless scanner."
-msgstr ""
+msgstr "ワイヤレス エミッタ― 使うときに 文句を言う 君を 見たこと ないね。"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.9
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.9"
@@ -3543,61 +3581,62 @@ msgid ""
 "Can I borrow your scanner for a second?  I think I might be able to extend "
 "its range."
 msgstr ""
+"そのスキャナー ちょっと 貸してくれないかな？ 範囲を 拡大できる かもしれない。"
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.1"
 msgid "I don't see a plausible way out of this."
-msgstr ""
+msgstr "こういう時 うまいやり方を 知らないんだ。"
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.2"
 msgid "The probabilities are not in my favour this time."
-msgstr ""
+msgstr "今回は ツイてなかったか。"
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.3"
 msgid "I should have stayed at the university."
-msgstr ""
+msgstr "大学に 残ってるべき だったな。"
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.4"
 msgid "I'm smarter than this. What the hell."
-msgstr ""
+msgstr "こいつよりは 賢いはずだぜ。 なんてこった。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.1
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.1"
 msgid "We have infiltrated the target."
-msgstr ""
+msgstr "目標に 潜入しました。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.2
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.2"
 msgid "Their network topology is fascinating."
-msgstr ""
+msgstr "ここの ネットワーク トポロジーは すごく 面白いね。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.3
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.3"
 msgid "Keep your eyes peeled for anything useful."
-msgstr ""
+msgstr "役に立つものが 無いか、 目を よく凝らして。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.4
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.4"
 msgid "Can you feel that? There's a lot of data flowing through the air."
-msgstr ""
+msgstr "感じるか？ 空気中を 大量のデータが 漂っているぞ。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.5
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.5"
 msgid "I hope we find a usable terminal on this floor."
-msgstr ""
+msgstr "ここで 役に立つ 端末が 見つかると いいね。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.6
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.6"
 msgid "The best science is done in the Corp labs these days."
-msgstr ""
+msgstr "今日(こんにち)の 先端科学は 企業の 研究所で 成されるもの なんだねえ。"
 
 #: STRINGS.AGENTS.XU.BANTER.START.7
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.7"
 msgid "The electromagnetic noise is almost overwhelming here."
-msgstr ""
+msgstr "電磁ノイズが 至る所に 溢れているぞ。"
 
 #: STRINGS.AGENTS.XU.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.XU.BIO_SPOKEN"
@@ -8451,12 +8490,16 @@ msgid ""
 "OK... It's OK. We can recover from this. Get some medgel into that agent and "
 "get them out of there."
 msgstr ""
+"大丈夫、 大丈夫よ。 まだ復帰させられる。 医療用ジェルを 投与して そこから 連"
+"れ出して。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.11
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.11"
 msgid ""
 "Damn it, they've been tagged. New priority, Operator - begin evac procedures."
 msgstr ""
+"くっ、 倒れた エージェントは タグ付きだわ。 オペレーター、 優先度変更、 脱出"
+"準備を 始めて。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.12
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.12"
@@ -8464,21 +8507,23 @@ msgid ""
 "Do you know how much time and money has gone into that agent's training? I "
 "won't have you wasting company resources that way. Get them back to the jet!"
 msgstr ""
+"エージェントの 訓練に どれだけ 時間と コストを かけたか 知ってる？ 社の 人的"
+"リソースを 無駄遣いして 欲しくないわね。 すぐに ジェットに 連れ戻しなさい！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.13
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.13"
 msgid "Get that agent back on their feet, Operator! We need all hands on deck."
-msgstr ""
+msgstr "オペレーター、 エージェントを 起き上がらせて！ 皆の助けが 必要なの。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.14
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.14"
 msgid "Find some medgel and get get them going again."
-msgstr ""
+msgstr "医療用ジェルを 見つけて 復帰させて ちょうだい。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.15
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.15"
 msgid "Damn it, Operator. Be more careful with our assets!"
-msgstr ""
+msgstr "オペレーター、 しっかりしなさい。 エージェントに もっと 気を付けて！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.16
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.16"
@@ -8486,6 +8531,8 @@ msgid ""
 "We don't leave agents in the field, Operator. Get them back on their feet or "
 "drag them to the exit."
 msgstr ""
+"オペレーター、 エージェントを 捨て置いては いけないわ。 起き上がらせるか、 出"
+"口まで 引っ張ってきて。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.17
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.17"
@@ -8493,12 +8540,14 @@ msgid ""
 "Agent down. They're stable, for now. Get some medgel into them or drag them "
 "back to the jet."
 msgstr ""
+"エージェント ダウン。 容態は安定。 今のところは。 医療用ジェルを 投与するか "
+"ジェットまで 連れ戻して。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.18
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.18"
 msgid ""
 "Damn it, an agent has been compromised. Don't let them fall into enemy hands."
-msgstr ""
+msgstr "くっ、 エージェントが 墜ちたわ。 彼らの手に 渡さないで。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.19
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.19"
@@ -8506,23 +8555,26 @@ msgid ""
 "Agent down. Repeat, agent down. Your new priority should be recovery. We "
 "can't afford to lose any more personnel."
 msgstr ""
+"エージェント ダウン。 繰り返す。 エージェント ダウン。 ただいまより エージェ"
+"ントの 復帰を 優先事項とする。 人材を 逸失している 余裕は ないの。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.2
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.2"
 msgid "Agent down, Operator. Don't even think of leaving them behind."
 msgstr ""
+"オペレーター、 エージェント ダウン。 置いて 帰ろうなんて 思わないでよ。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.20
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.20"
 msgid ""
 "Operator! You are playing with people's lives here. Get that agent back on "
 "their feet!"
-msgstr ""
+msgstr "オペレーター！ 人の命を 弄ばないで。 すぐに 起き上がらせ なさい！"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.3
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.3"
 msgid "We've lost contact with an agent. Move in our other assets to recover."
-msgstr ""
+msgstr "エージェントの コンタクトを 喪失。 他の エージェントに 回収させて。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.4
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.4"
@@ -8530,11 +8582,13 @@ msgid ""
 "Damn it! We can't afford that loss. I don't care if you have to drag them to "
 "the elevator - do NOT leave anyone behind."
 msgstr ""
+"ちょっと！ 人員を失う 余裕は ないのよ。 エレベーターまで 引きずっていくなら "
+"構わないけど、 放置することは 認めないわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.5
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.5"
 msgid "Shots fired. Agent down. Are you cracking under the pressure, Operator?"
-msgstr ""
+msgstr "被弾および エージェント ダウン。 オペレーター、 重圧に 負けてるの？"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.6
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.6"
@@ -8542,6 +8596,8 @@ msgid ""
 "We don't want the corps interrogating our agents. Do not leave them bleeding "
 "on the field."
 msgstr ""
+"エージェントを 企業の 尋問に かけられたく ないわ。 捨て置かないで ちょうだ"
+"い。"
 
 #: STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.7
 msgctxt "STRINGS.MISSIONS.ESCAPE.AGENT_DOWN.7"
@@ -17619,7 +17675,7 @@ msgstr "経験者"
 #: STRINGS.UI.EXPERIENCED_SHORT_DESC
 msgctxt "STRINGS.UI.EXPERIENCED_SHORT_DESC"
 msgid "Things are starting to heat up."
-msgstr "アツくなってきた"
+msgstr "エンジンが 温まってきた。"
 
 #: STRINGS.UI.EXPLORATION_CREDITS
 msgctxt "STRINGS.UI.EXPLORATION_CREDITS"
