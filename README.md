@@ -12,22 +12,10 @@ Klei Entertainment 制作 ターンベースストラテジーゲーム 「[Invi
     OPTION -> GAMEPLAY -> LANGUAGE -> Japanese(WIP)
 
 __※翻訳途中であるため、ゲーム中のテキストが一部表示されない場合があります。__
+__※Contingency Plan DLC がインストール済みの場合、翻訳前の英語が表示されることを確認しています。__
 
 ## インストール
-[ZIPファイル](https://github.com/nsk4762jp/Invisible-Inc-Japanese/archive/master.zip)を解凍したら、コマンドプロンプトから下記のコマンドを打てばインストールされます。
-
-    > gradlew
-    > gradlew install
-
-Steam が C: ドライブ以外にインストールしてある人、Windows以外の人は、同梱の gradle.properties を修正してからインストールコマンドを入力してください。
-
-    [gradle.properties]
-    //Invisible, Inc. のMODインストール先フォルダ
-    steam.invisibleinc=D:/Program Files (x86)/Steam/steamapps/common/InvisibleInc/mods/Japanese_Language_Pack_WIP
-
-アンインストールは下記のコマンドでできます。
-
-    > gradlew uninstall
+[ZIPファイル](https://github.com/nsk4762jp/Invisible-Inc-Japanese/archive/master.zip)を解凍したら、Japanese_Language_Pack_WIP フォルダを Invisible, Inc. のMODフォルダにコピーしてください。  
 
 ## ライセンス
 

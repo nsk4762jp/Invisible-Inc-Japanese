@@ -45,9 +45,6 @@ task install {
       from workDir
       into modDir
     }
-    
-    //作業用フォルダ削除
-    workDir.deleteDir()
   }
 }
 
