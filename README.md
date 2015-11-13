@@ -19,11 +19,15 @@ __※翻訳途中であるため、ゲーム中のテキストが一部表示さ
     > gradlew
     > gradlew install
 
-Steam が C: ドライブ以外にインストールしてある人は、同梱の gradle.properties を修正してからインストールコマンドを入力してください。
+Steam が C: ドライブ以外にインストールしてある人、Windows以外の人は、同梱の gradle.properties を修正してからインストールコマンドを入力してください。
 
     [gradle.properties]
     //Invisible, Inc. のMODインストール先フォルダ
     steam.invisibleinc=D:/Program Files (x86)/Steam/steamapps/common/InvisibleInc/mods/Japanese_Language_Pack_WIP
+
+アンインストールは下記のコマンドでできます。
+
+    > gradlew uninstall
 
 ## ライセンス
 
