@@ -5236,6 +5236,8 @@ msgid ""
 "The corporation has activated alarmed doors. Opening doors will raise the "
 "alarm by one."
 msgstr ""
+"企業は 扉の 警戒装置を アクティブに しました。 扉を開けると 警戒レベルが 1 上"
+"昇します。"
 
 #: STRINGS.DLC1.ALARM_GUARDBUFF
 msgctxt "STRINGS.DLC1.ALARM_GUARDBUFF"
@@ -5243,11 +5245,14 @@ msgid ""
 "The corporation has boosted guard defence. All guards have +1 ARMOR and +1 "
 "KO RESIST."
 msgstr ""
+"企業は 守衛の守りを 強化しました。 すべての 守衛に アーマーと KO耐性が +1 さ"
+"れます。"
 
 #: STRINGS.DLC1.ALARM_GUARDBUFF_ARMOR
 msgctxt "STRINGS.DLC1.ALARM_GUARDBUFF_ARMOR"
 msgid "The corporation has boosted guard defence. All guards have +1 ARMOR."
 msgstr ""
+"企業は 守衛の守りを 強化しました。 すべての 守衛に アーマーが +1 されます。"
 
 #: STRINGS.DLC1.ALARM_GUARDBUFF_KO
 msgctxt "STRINGS.DLC1.ALARM_GUARDBUFF_KO"
@@ -5255,6 +5260,8 @@ msgid ""
 "The corporation has boosted guard resistance. All guards have +1 KO "
 "resistance and will recover 1 KO damage."
 msgstr ""
+"企業は 守衛の守りを 強化しました。 すべての 守衛に KO耐性が +1、 KOからの 復"
+"帰ターンが -1 されます。"
 
 #: STRINGS.DLC1.ALARM_NEXT_DOORS
 msgctxt "STRINGS.DLC1.ALARM_NEXT_DOORS"
@@ -5313,7 +5320,7 @@ msgstr ""
 #: STRINGS.DLC1.ALARM_PATROLS
 msgctxt "STRINGS.DLC1.ALARM_PATROLS"
 msgid "The corporation has changed the guard patrols."
-msgstr ""
+msgstr "企業は 守衛の巡回路を 変更しました。"
 
 #: STRINGS.DLC1.AMBIENT_TURBINE
 msgctxt "STRINGS.DLC1.AMBIENT_TURBINE"
@@ -5350,7 +5357,7 @@ msgstr ""
 #: STRINGS.DLC1.BUSTER_4
 msgctxt "STRINGS.DLC1.BUSTER_4"
 msgid "Buster Chip IV"
-msgstr ""
+msgstr "バスター チップ IV"
 
 #: STRINGS.DLC1.BUSTER_4_FLAVOR
 msgctxt "STRINGS.DLC1.BUSTER_4_FLAVOR"
@@ -5374,7 +5381,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_TARGET
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_TARGET"
 msgid "10 devices"
-msgstr ""
+msgstr "10個の 機器"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.DESC"
@@ -5384,7 +5391,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NAME"
 msgid "CASTLE 2.0"
-msgstr ""
+msgstr "キャッスル 2.0"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NO_TARGET
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NO_TARGET"
@@ -5409,7 +5416,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.NAME"
 msgid "PORTCULLIS 2.0"
-msgstr ""
+msgstr "ポートカリス 2.0"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.SHORT_DESC"
@@ -5429,7 +5436,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.CASTLE.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.NAME"
 msgid "CASTLE"
-msgstr ""
+msgstr "キャッスル"
 
 #: STRINGS.DLC1.DAEMONS.CASTLE.NO_TARGET
 msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.NO_TARGET"
@@ -5454,7 +5461,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.CHITON.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON.NAME"
 msgid "CHITON"
-msgstr ""
+msgstr "カイタン"
 
 #: STRINGS.DLC1.DAEMONS.CHITON.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON.SHORT_DESC"
@@ -5474,7 +5481,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.CHITON_2.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.NAME"
 msgid "CHITON 2"
-msgstr ""
+msgstr "カイタン 2"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_2.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.SHORT_DESC"
@@ -5494,7 +5501,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.CHITON_3.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.NAME"
 msgid "CHITON 3"
-msgstr ""
+msgstr "カイタン 3"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_3.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.SHORT_DESC"
@@ -5514,7 +5521,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.CHITON_4.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.NAME"
 msgid "CHITON 4"
-msgstr ""
+msgstr "カイタン 4"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_4.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.SHORT_DESC"
@@ -5534,7 +5541,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.ECHO.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.ECHO.NAME"
 msgid "ECHO"
-msgstr ""
+msgstr "エコー"
 
 #: STRINGS.DLC1.DAEMONS.ECHO.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ECHO.SHORT_DESC"
@@ -5554,7 +5561,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.JOLT.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.JOLT.NAME"
 msgid "JOLT"
-msgstr ""
+msgstr "ジョルト"
 
 #: STRINGS.DLC1.DAEMONS.JOLT.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.JOLT.SHORT_DESC"
@@ -5574,7 +5581,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.PORTCULLIS.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.NAME"
 msgid "PORTCULLIS"
-msgstr ""
+msgstr "ポートカリス"
 
 #: STRINGS.DLC1.DAEMONS.PORTCULLIS.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.SHORT_DESC"
@@ -5596,7 +5603,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.SHOCK.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.NAME"
 msgid "WATCHDOG"
-msgstr ""
+msgstr "ワッチドッグ"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.SHORT_DESC"
@@ -5618,7 +5625,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.SHOCK_2.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.NAME"
 msgid "WATCHDOG 2"
-msgstr ""
+msgstr "ワッチドッグ 2"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_2.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.SHORT_DESC"
@@ -5640,7 +5647,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.SHOCK_3.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.NAME"
 msgid "WATCHDOG 3"
-msgstr ""
+msgstr "ワッチドッグ 3"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_3.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.SHORT_DESC"
@@ -5662,7 +5669,7 @@ msgstr ""
 #: STRINGS.DLC1.DAEMONS.SHOCK_4.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.NAME"
 msgid "WATCHDOG 4"
-msgstr ""
+msgstr "ワッチドッグ 4"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_4.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.SHORT_DESC"
@@ -5672,7 +5679,7 @@ msgstr ""
 #: STRINGS.DLC1.DATA_CARD
 msgctxt "STRINGS.DLC1.DATA_CARD"
 msgid "DATA CARD"
-msgstr ""
+msgstr "データカード"
 
 #: STRINGS.DLC1.DATA_CARD_FLAVOR
 msgctxt "STRINGS.DLC1.DATA_CARD_FLAVOR"
@@ -5841,7 +5848,7 @@ msgstr ""
 #: STRINGS.DLC1.GUARDS.AKUMA_2
 msgctxt "STRINGS.DLC1.GUARDS.AKUMA_2"
 msgid "AKUMA 2.0"
-msgstr ""
+msgstr "アクマ 2.0"
 
 #: STRINGS.DLC1.GUARDS.FLACK
 msgctxt "STRINGS.DLC1.GUARDS.FLACK"
@@ -5861,12 +5868,12 @@ msgstr "強化兵 MK.II"
 #: STRINGS.DLC1.GUARDS.NULL_DRONE_2
 msgctxt "STRINGS.DLC1.GUARDS.NULL_DRONE_2"
 msgid "NULL DRONE 2.0"
-msgstr ""
+msgstr "ヌルドローン 2.0"
 
 #: STRINGS.DLC1.GUARDS.PULSE_DRONE
 msgctxt "STRINGS.DLC1.GUARDS.PULSE_DRONE"
 msgid "PULSE DRONE"
-msgstr ""
+msgstr "パルスドローン 2.0"
 
 #: STRINGS.DLC1.GUARDS.REFIT_DRONE
 msgctxt "STRINGS.DLC1.GUARDS.REFIT_DRONE"
@@ -5881,12 +5888,12 @@ msgstr ""
 #: STRINGS.DLC1.GUARDS.SIREN
 msgctxt "STRINGS.DLC1.GUARDS.SIREN"
 msgid "SIREN 1.0"
-msgstr ""
+msgstr "サイレン 1.0"
 
 #: STRINGS.DLC1.GUARDS.SIREN2
 msgctxt "STRINGS.DLC1.GUARDS.SIREN2"
 msgid "SIREN 2.0"
-msgstr ""
+msgstr "サイレン 2.0"
 
 #: STRINGS.DLC1.GUARDS.SPEC_OPS_LVL2
 msgctxt "STRINGS.DLC1.GUARDS.SPEC_OPS_LVL2"
@@ -8043,7 +8050,7 @@ msgstr ""
 #: STRINGS.DLC1.OPTIONS.ENABLE_AGENTS
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_AGENTS"
 msgid "EXTRA AGENTS"
-msgstr ""
+msgstr "追加エージェント"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_AGENTS_TIP
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_AGENTS_TIP"
@@ -8054,11 +8061,16 @@ msgid ""
 "Olivia\n"
 "Derek"
 msgstr ""
+"<c:FF8411>エージェント</c>\n"
+"ラッシュ\n"
+"ドラコ\n"
+"オリビア\n"
+"デレク"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_DAEMONS
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_DAEMONS"
 msgid "MORE DAEMONS"
-msgstr ""
+msgstr "追加デーモン"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_DAEMONS_TIP
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_DAEMONS_TIP"
@@ -8071,11 +8083,18 @@ msgid ""
 "Echo\n"
 "Portcullis"
 msgstr ""
+"<c:FF8411>デーモン</c>\n"
+"キャッスル\n"
+"ショック\n"
+"サイタン\n"
+"ジョルト\n"
+"エコー\n"
+"ポートカリス"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_ENDLESS_MID
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_ENDLESS_MID"
 msgid "ENDLESS CONTINGENCY MISSION"
-msgstr ""
+msgstr "エンドレスの緊急事態任務"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_ENDLESS_MID_TIP
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_ENDLESS_MID_TIP"
@@ -8083,11 +8102,13 @@ msgid ""
 "<c:FF8411>ENDLESS CONTINGENCY MISSION</c>\n"
 "A special objective at Day 4 adds new challenges to endless mode."
 msgstr ""
+"<c:FF8411>エンドレスの緊急事態任務</c>\n"
+"エンドレスモードに おいて、 特別目標が 4日目に 追加されます。"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_CAMPAIGN
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_CAMPAIGN"
 msgid "EXTENDED CAMPAIGN"
-msgstr ""
+msgstr "追加キャンペーン"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_CAMPAIGN_TIP
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_CAMPAIGN_TIP"
@@ -8096,11 +8117,14 @@ msgid ""
 "A new objective at the 0 hour will unlock an extra 48 hours of campaign time "
 "with escalating difficulty."
 msgstr ""
+"<c:FF8411>追加キャンペーン</c>\n"
+"残り時間が 0 になると 新しい目標が追加され、 追加で 48時間の 高難易度 キャン"
+"ペーンが 始まります。"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_ENDLESS
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_ENDLESS"
 msgid "MORE ENDLESS"
-msgstr ""
+msgstr "もっとエンドレス"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_ENDLESS_TIP
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_ENDLESS_TIP"
@@ -8108,11 +8132,13 @@ msgid ""
 "<c:FF8411>MORE ENDLESS</c>\n"
 "Difficulty continues to ramp after difficulty 10 up to 20."
 msgstr ""
+"<c:FF8411>もっとエンドレス</c>\n"
+"難易度の 上限を 10 から 20 に上昇させます。"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_GUARDS
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_GUARDS"
 msgid "MORE ENEMY TYPES"
-msgstr ""
+msgstr "敵の種類を追加"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_GUARDS_TIP
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_GUARDS_TIP"
@@ -8124,11 +8150,17 @@ msgid ""
 "FTM Router\n"
 "Lvl 2 Elite Units"
 msgstr ""
+"<c:FF8411>敵の種類</c>\n"
+"パルスドローン\n"
+"サイレン 1.0\n"
+"フラック ガード\n"
+"FTM ルーター\n"
+"Lvl 2 エリート"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_PROGRAMS
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_PROGRAMS"
 msgid "EXTRA PROGRAMS"
-msgstr ""
+msgstr "追加プログラム"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_PROGRAMS_TIP
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_PROGRAMS_TIP"
@@ -8140,6 +8172,12 @@ msgid ""
 "Cycle\n"
 "Aces"
 msgstr ""
+"<c:FF8411>プログラム</c>\n"
+"バースト\n"
+"ゴーレム\n"
+"ブレス\n"
+"サイクル\n"
+"エース"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS"
