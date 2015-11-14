@@ -316,6 +316,11 @@ msgctxt "STRINGS.ABILITIES.MOVE_BODY_DRAG_DESC"
 msgid "Move body to a new location"
 msgstr ""
 
+#: STRINGS.ABILITIES.MOVE_BODY_DRAG_TIP
+msgctxt "STRINGS.ABILITIES.MOVE_BODY_DRAG_TIP"
+msgid "Drag {1}"
+msgstr ""
+
 #: STRINGS.ABILITIES.MOVE_BODY_DROP
 msgctxt "STRINGS.ABILITIES.MOVE_BODY_DROP"
 msgid "Drop Body"
@@ -324,6 +329,11 @@ msgstr ""
 #: STRINGS.ABILITIES.MOVE_BODY_DROP_DESC
 msgctxt "STRINGS.ABILITIES.MOVE_BODY_DROP_DESC"
 msgid "Leave body here"
+msgstr ""
+
+#: STRINGS.ABILITIES.MOVE_BODY_DROP_TIP
+msgctxt "STRINGS.ABILITIES.MOVE_BODY_DROP_TIP"
+msgid "Drop {1}"
 msgstr ""
 
 #: STRINGS.ABILITIES.NT
@@ -458,7 +468,7 @@ msgstr ""
 
 #: STRINGS.ABILITIES.RECHARGE_CHARGES_DESC
 msgctxt "STRINGS.ABILITIES.RECHARGE_CHARGES_DESC"
-msgid "Use Charge Pack to refill the items Charges."
+msgid "Use Charge Pack to charge the item again."
 msgstr ""
 
 #: STRINGS.ABILITIES.RECHARGE_DESC
@@ -2011,9 +2021,49 @@ msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.22"
 msgid "A bit like working for Invisible."
 msgstr ""
 
+#: STRINGS.AGENTS.NIKA.BANTER.CROSS.23
+msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.23"
+msgid "I taught myself."
+msgstr ""
+
+#: STRINGS.AGENTS.NIKA.BANTER.CROSS.24
+msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.24"
+msgid "Trial and error is the most efficient teacher."
+msgstr ""
+
+#: STRINGS.AGENTS.NIKA.BANTER.CROSS.25
+msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.25"
+msgid "There is no such thing as luck. Only mistakes."
+msgstr ""
+
+#: STRINGS.AGENTS.NIKA.BANTER.CROSS.26
+msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.26"
+msgid "Very rarely."
+msgstr ""
+
+#: STRINGS.AGENTS.NIKA.BANTER.CROSS.27
+msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.27"
+msgid "I enjoy working with you. It is good that you were never paid to eliminate someone under my protection."
+msgstr ""
+
+#: STRINGS.AGENTS.NIKA.BANTER.CROSS.28
+msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.28"
+msgid "You would have been stopped. It would have been messy and sad."
+msgstr ""
+
+#: STRINGS.AGENTS.NIKA.BANTER.CROSS.29
+msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.29"
+msgid "How many people have you killed?"
+msgstr ""
+
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.3"
 msgid "Easily. No question."
+msgstr ""
+
+#: STRINGS.AGENTS.NIKA.BANTER.CROSS.30
+msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.30"
+msgid "I have killed 83. It sometimes… troubles me. Does it trouble you?"
 msgstr ""
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.4
@@ -2536,14 +2586,94 @@ msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.24"
 msgid "Uh. Right. Just don't let it get in the way of the mission."
 msgstr ""
 
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.25
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.25"
+msgid "You’re pretty handy with that thing. Where did you learn?"
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.26
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.26"
+msgid "Really? Wasn’t that dangerous?"
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.27
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.27"
+msgid "You’re good, but you get too close. Someone’s going to get a lucky hit in one day."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.28
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.28"
+msgid "And you never make mistakes?"
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.29
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.29"
+msgid "What happens when an unstoppable force meets an immovable object, right?"
+msgstr ""
+
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.3"
 msgid "Of course."
 msgstr ""
 
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.30
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.30"
+msgid "If you say so."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.31
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.31"
+msgid "I lost track."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.32
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.32"
+msgid "No. Not since I lost track."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.33
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.33"
+msgid "You would get more respect if you cleaned up a bit. A fine suit goes a long way."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.34
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.34"
+msgid "You dress like Decker."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.35
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.35"
+msgid "Watch how a professional gets things done."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.36
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.36"
+msgid "A vat of nutri-paste and a fine stake are both food, but they’re not the same thing."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.37
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.37"
+msgid "No thank you, I have to see myself every morning when I shave."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.38
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.38"
+msgid "Ooh. You have a technical solution for everything, don’t you."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.39
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.39"
+msgid "If you say so."
+msgstr ""
+
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.4
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.4"
 msgid "Yes, it is."
+msgstr ""
+
+#: STRINGS.AGENTS.SHALEM.BANTER.CROSS.40
+msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.40"
+msgid "This is just a job. I haven’t felt anything since 2057."
 msgstr ""
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.5
@@ -2766,6 +2896,46 @@ msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.21"
 msgid "Oh yeah, those. Those are great. I should try to make more of those."
 msgstr ""
 
+#: STRINGS.AGENTS.SHARP.BANTER.CROSS.22
+msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.22"
+msgid "Why would I care for such trivialities? My clothing is perfectly adequate."
+msgstr ""
+
+#: STRINGS.AGENTS.SHARP.BANTER.CROSS.23
+msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.23"
+msgid "Perhaps you have a point."
+msgstr ""
+
+#: STRINGS.AGENTS.SHARP.BANTER.CROSS.24
+msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.24"
+msgid "I too sold my martial skills for cash. We are fellow guns for hire. We are the same thing."
+msgstr ""
+
+#: STRINGS.AGENTS.SHARP.BANTER.CROSS.25
+msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.25"
+msgid "I dislike food metaphors."
+msgstr ""
+
+#: STRINGS.AGENTS.SHARP.BANTER.CROSS.26
+msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.26"
+msgid "You could improve your kill ratio with a couple of augmentations. An external tracking eye, for example, to better analyze ballistics."
+msgstr ""
+
+#: STRINGS.AGENTS.SHARP.BANTER.CROSS.27
+msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.27"
+msgid "You can get synthetic skin like mine, and never have to shave again!"
+msgstr ""
+
+#: STRINGS.AGENTS.SHARP.BANTER.CROSS.28
+msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.28"
+msgid "Today is a good day. Let’s kill some people!"
+msgstr ""
+
+#: STRINGS.AGENTS.SHARP.BANTER.CROSS.29
+msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.29"
+msgid "You don’t feel a little rush when you take a human life? It’s like popping bubble wrap to me!"
+msgstr ""
+
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.3"
 msgid "Ha. How much of your pathetic innards are machine?"
@@ -2888,7 +3058,7 @@ msgstr ""
 
 #: STRINGS.AGENTS.XU.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.XU.ALT_1.BIO"
-msgid "Dr. Tony Xu was a brilliant researcher who rose to prominence at the University of Hong Kong. He was caught after one too many 'exploratory' trips into a K&O servers, and spent time in a detention center as a result.\n\nToo much a liability for any self-respecting University, Xu was unemployable upon release. He joined Invisible to gain personal protection while continuing his research."
+msgid "Dr. Tony Xu was a brilliant researcher who rose to prominence at the University of Hong Kong. He was caught after one too many 'exploratory' trips into a K&O servers, and spent time in a detention center as a result.\n\nToo much of a liability for any self-respecting University, Xu was unemployable upon release. He joined Invisible to gain personal protection while continuing his research."
 msgstr ""
 
 #: STRINGS.AGENTS.XU.ALT_1.FULLNAME
@@ -3976,6 +4146,2886 @@ msgctxt "STRINGS.DEATH_TIPS.7"
 msgid "You can set many custom gameplay options when starting a new campaign"
 msgstr ""
 
+#: STRINGS.DLC1.ACTIVATE_DRONE
+msgctxt "STRINGS.DLC1.ACTIVATE_DRONE"
+msgid "RESTART DRONE"
+msgstr ""
+
+#: STRINGS.DLC1.ACTIVATE_DRONE_DESC
+msgctxt "STRINGS.DLC1.ACTIVATE_DRONE_DESC"
+msgid "Restart the Drone being maintaned at this Diagnostic Station"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.AGE
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.AGE"
+msgid "28"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.ALT_1.BIO
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.ALT_1.BIO"
+msgid "Derek Mossman was a skilled, self-taught hacker who stole and cheated his way out of post-industrial Manchester. His curiosity for exotic technologies far outstripped his means, and he originally joined the PEIA to gain access to the newest toys. Gladstone could see his potential and took him under her wing. Their fortunes at the agency raised together, and when Gladstone took charge she appointed him her second-in-command.\nWhile Derek is a serviceable agent, his true skills lay in logistics. His ability to produce credits and material seemingly out of thin air kept the PEIA fighting strong until the bitter end of the conflict. After the war, he would use those same skills to create one the most extensive private information gathering networks on the planet."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.ALT_1.FULLNAME
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.ALT_1.FULLNAME"
+msgid "Derek Mossman"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.ALT_1.TOOLTIP
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.ALT_1.TOOLTIP"
+msgid "Credit Monster"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.1
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.1"
+msgid "You corporate bastards."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.2
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.2"
+msgid "This is not going according to plan."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.3
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.3"
+msgid "Everyone has a price, right? Name yours, and I'll double it."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.4
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.4"
+msgid "Money is power, but then so is that gun over there. Pity."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BANTER.START.1
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.START.1"
+msgid "Look at all this money. Let's take some of it."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BANTER.START.2
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.START.2"
+msgid "Alright, kiddies. It's time to go shopping."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BANTER.START.3
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.START.3"
+msgid "Take everything that isn't bolted to the floor."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BANTER.START.4
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.START.4"
+msgid "Ones are fine, but I prefer numbers with lots of zeroes."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.BIO_SPOKEN
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.BIO_SPOKEN"
+msgid "Derek puts on an air of self-interest, but he's got more skin in this game than he's willing to admit. He saw the nasty side of corporate power as an orphan back in Manchester, and he's never forgotten it. He's able to put some of those feelings aside for the sake of business, but when the chips are really down he can still be counted upon.\n\nWhen I was captured, the agency wrote me off. I don't blame them - not many people walk out of deprogramming chamber the same person they went in as. But Derek kept looking. He tracked down the facility where they were holding me, and was able to remotely hijack a nanofab within. A single neural disrupter in the right hands at the right time can make all the difference in the world."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.FILE
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.FILE"
+msgid "REF PEIA-X MM 0143"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.HOMETOWN
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.HOMETOWN"
+msgid "Manchester"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.NAME
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.NAME"
+msgid "Derek"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.RESCUED
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.RESCUED"
+msgid "I really need to get a desk job."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DEREK.YEARS_OF_SERVICE
+msgctxt "STRINGS.DLC1.AGENTS.DEREK.YEARS_OF_SERVICE"
+msgid "5"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.AGE
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.AGE"
+msgid "40"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.ALT_1.BIO
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.ALT_1.BIO"
+msgid "Born with a rare photo-sensitive skin condition, Matei grew up a recluse in a dimly-lit world of dusty books and old stories. His debut neurval 'The Data Vampires', made him a small fortune upon its publication, but he spent much of it resecuring his privacy. Dogged by rumours of strange augmentations and questions about the real-life inspiration for his macabre works, he eventually faked his own death and retreated into the shadows.\nWhen corporate forces overran his hometown in the first major offensive of the war, he emerged from hiding and offered his skills to the PEIA. Strapped for agents, the PEIA didn't ask too many questions about how a reclusive neurvelist would have attained such skills."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.ALT_1.FULLNAME
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.ALT_1.FULLNAME"
+msgid "Matei Cernat"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.ALT_1.TOOLTIP
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.ALT_1.TOOLTIP"
+msgid "Creature of darkness"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.1
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.1"
+msgid "I've died before. It is nothing."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.2
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.2"
+msgid "Sleep tight. I will be back for you."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.3
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.3"
+msgid "Back to the soil, at last."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.4
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.4"
+msgid "Death means nothing to me, fools!"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BANTER.START.1
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.START.1"
+msgid "Take them from the shadows."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BANTER.START.2
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.START.2"
+msgid "I can feel the spaces between myself."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BANTER.START.3
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.START.3"
+msgid "That light! A little warning next time?"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BANTER.START.4
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.START.4"
+msgid "We are the predators here. Use their fear against them."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.BIO_SPOKEN
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.BIO_SPOKEN"
+msgid "Draco's methods were certainly unconventional, and I took heat for recruiting him. But what my superiors failed to understand was that we were not fighting a conventional war, and we could not afford to limit ourselves to conventional tactics. The corporations had deeper pockets than we did, and were wholly unaccountable to the system of international justice. \n\nI didn't have the luxury of restraint. I was charged with interdicting the enemy's security operations as efficiently as possible, and if bad things happened to a couple of their corpses along the way I make no apologies.\n\nSome day I'll get around to that silly vampire book. Who has time to read nowadays, anyway?"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.FILE
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.FILE"
+msgid "REF PEIA-X MM 0215"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.HOMETOWN
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.HOMETOWN"
+msgid "Bucharest"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.NAME
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.NAME"
+msgid "Draco"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.RESCUED
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.RESCUED"
+msgid "I'm alive!"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.DRACO.YEARS_OF_SERVICE
+msgctxt "STRINGS.DLC1.AGENTS.DRACO.YEARS_OF_SERVICE"
+msgid "??"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.AGE
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.AGE"
+msgid "50"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.BIO
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.BIO"
+msgid "Olivia Gladstone first joined the PEIA as an agent, long before the outbreak of the open hostilities. Originally an intelligence officer for the British government, she brought a degree of professionalism to the fledgling organization. A brilliant tactician on the field, she quickly gained a reputation for keeping her composure in even the most dire of situations.\n\nGladstone was captured during a risky solo mission in 2043. While she eventually escaped, her time in captivity left lasting injuries that impaired her field performance. After retraining as an Operator, she proved even more formidable behind the screen. Her mission ranking was unparalleled when the war began, and it was no surprise when she she was chosen to lead the PEIA when its founding Director defected."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.FULLNAME
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.FULLNAME"
+msgid "Olivia Gladstone"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.TOOLTIP
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.TOOLTIP"
+msgid "The Center"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.1
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.1"
+msgid "Well played, grunt. I'm sure you'll get a big bonus for this."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.2
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.2"
+msgid "Take your time and aim carefully. I don't want to wake up from this."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.3
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.3"
+msgid "Take a good, long look. You're going to regret this for a long time."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.4
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.4"
+msgid "How much did they buy you for? Was it enough?"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.1
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.1"
+msgid "We all know our jobs here. Just follow your training."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.2
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.2"
+msgid "We have a war to win, people. No whinging."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.3
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.3"
+msgid "Strike hard and strike fast. Let's finish this before it starts."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.4
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.4"
+msgid "Don't even give them a chance. They'd do the same to you."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.BIO_SPOKEN
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BIO_SPOKEN"
+msgid "What can I say? When it comes to covert infosec operations, I know more than any living human being on the planet. This is not boasting, it is an undeniable fact bought with long, hard decades of experience.\n\nWe could have won the war. I still believe that. But our early efforts were hamstrung by incompetent leadership that refused to accept the severity of the situation. When the Director finally realized how bad it was he defected to the corps. I took over and made it our first priority to recapture him before he gave away too many of our operational secrets. I pulled the trigger myself, and I would do it again in a heartbeat."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.FILE
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.FILE"
+msgid "REF PEIA-X MM 0103"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.HOMETOWN
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.HOMETOWN"
+msgid "London"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.NAME
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.NAME"
+msgid "Olivia"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.RESCUED
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.RESCUED"
+msgid "Get me out of here. Now."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.OLIVIA.YEARS_OF_SERVICE
+msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.YEARS_OF_SERVICE"
+msgid "??"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.AGE
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.AGE"
+msgid "28"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.ALT_1.BIO
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.ALT_1.BIO"
+msgid "Rush won gold in the High-Altitude Dive and the 5000m Dash at the 2050 Augment Games. 'Augletes' don't often make it to retirement - the experimental nature of their augmentations tends to catch up with them before they cash out - but Collette was on track. And then the Resource Wars broke out.\n\nSeeing her sponsorships dissipate overnight and facing the prospect of being drafted into the notorious Ground Brigades, she opted to join the PEIA. Her high profile makes her unsuitable for social infiltration work, but her raw athleticism comes in handy once subtlety fails."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.ALT_1.FULLNAME
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.ALT_1.FULLNAME"
+msgid "Collette Phan"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.ALT_1.TOOLTIP
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.ALT_1.TOOLTIP"
+msgid "Adrenaline Junkie"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.1
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.1"
+msgid "How about we settle this one-on-one?"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.2
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.2"
+msgid "Coward! Hide behind your guns."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.3
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.3"
+msgid "You must have cheated. Nobody beats me fair-and-square"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.4
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.4"
+msgid "Make it quick. I hate waiting."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.1
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.1"
+msgid "Is this it? I was expecting more."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.2
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.2"
+msgid "This is going to be a cakewalk."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.3
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.3"
+msgid "I love outclassing my opponents."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.4
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.4"
+msgid "Don't slow me down."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.5
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.5"
+msgid "I won't even break a sweat against these pedestrians."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.BIO_SPOKEN
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.BIO_SPOKEN"
+msgid "Collette was headstrong, aggressive, unpredictable, arrogant, hard to work with, and absolutely worth the trouble. She was the master of the smash-and-grab. No agent that I have worked with since could match her speed and ferocity in the field. In hindsight, this was probably her undoing. Had I maintained better discipline amongst the PEIA agents we may not have lost the Istanbul Run."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.FILE
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.FILE"
+msgid "REF PEIA-X MM 0221"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.HOMETOWN
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.HOMETOWN"
+msgid "Paris"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.NAME
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.NAME"
+msgid "Rush"
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.RESCUED
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.RESCUED"
+msgid "Time to get back in the game."
+msgstr ""
+
+#: STRINGS.DLC1.AGENTS.RUSH.YEARS_OF_SERVICE
+msgctxt "STRINGS.DLC1.AGENTS.RUSH.YEARS_OF_SERVICE"
+msgid "??"
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_DOORS
+msgctxt "STRINGS.DLC1.ALARM_DOORS"
+msgid "The corporation has activated alarmed doors. Opening doors will raise the alarm by one."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_GUARDBUFF
+msgctxt "STRINGS.DLC1.ALARM_GUARDBUFF"
+msgid "The corporation has boosted guard defence. All guards have +1 ARMOR and +1 KO RESIST."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_GUARDBUFF_ARMOR
+msgctxt "STRINGS.DLC1.ALARM_GUARDBUFF_ARMOR"
+msgid "The corporation has boosted guard defence. All guards have +1 ARMOR."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_GUARDBUFF_KO
+msgctxt "STRINGS.DLC1.ALARM_GUARDBUFF_KO"
+msgid "The corporation has boosted guard resistance. All guards have +1 KO resistance and will recover 1 KO damage."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_NEXT_DOORS
+msgctxt "STRINGS.DLC1.ALARM_NEXT_DOORS"
+msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nDoors will trigger alarm when opened."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS
+msgctxt "STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS"
+msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nGuard ARMOR and KO resistance will be increased."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS_ARMOR
+msgctxt "STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS_ARMOR"
+msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nGuard ARMOR will be increased."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS_KO
+msgctxt "STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS_KO"
+msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nGuards will recover 1 KO damage and Guard KO resistance will be increased."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_NEXT_INCREASEDFIREWALLS2
+msgctxt "STRINGS.DLC1.ALARM_NEXT_INCREASEDFIREWALLS2"
+msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nMAINFRAME firewalls will be HEAVILY strengthend."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_NEXT_PATROLS
+msgctxt "STRINGS.DLC1.ALARM_NEXT_PATROLS"
+msgid "\n\n<c:F4FF78>NEXT SECURITY MEASURE:</>\nGuard patrol pattens will change."
+msgstr ""
+
+#: STRINGS.DLC1.ALARM_PATROLS
+msgctxt "STRINGS.DLC1.ALARM_PATROLS"
+msgid "The corporation has changed the guard patrols."
+msgstr ""
+
+#: STRINGS.DLC1.AMBIENT_TURBINE
+msgctxt "STRINGS.DLC1.AMBIENT_TURBINE"
+msgid "Ambient Turbine"
+msgstr ""
+
+#: STRINGS.DLC1.AMBIENT_TURBINE_FLAVOR
+msgctxt "STRINGS.DLC1.AMBIENT_TURBINE_FLAVOR"
+msgid "Olivia knew the acquisition of power would be necessary for her success, in and off the field."
+msgstr ""
+
+#: STRINGS.DLC1.AMBIENT_TURBINE_TIP
+msgctxt "STRINGS.DLC1.AMBIENT_TURBINE_TIP"
+msgid "Get PWR equal to KO damage done in melee."
+msgstr ""
+
+#: STRINGS.DLC1.AP_RIFLE
+msgctxt "STRINGS.DLC1.AP_RIFLE"
+msgid "K&O's 'Lance' Rifle"
+msgstr ""
+
+#: STRINGS.DLC1.AP_RIFLE_FLAVOR
+msgctxt "STRINGS.DLC1.AP_RIFLE_FLAVOR"
+msgid "One of Kelfried and Odin's top selling anti-armor combat weapon."
+msgstr ""
+
+#: STRINGS.DLC1.AP_RIFLE_TOOLTIP
+msgctxt "STRINGS.DLC1.AP_RIFLE_TOOLTIP"
+msgid "kills a target from long range."
+msgstr ""
+
+#: STRINGS.DLC1.BUSTER_4
+msgctxt "STRINGS.DLC1.BUSTER_4"
+msgid "Buster Chip IV"
+msgstr ""
+
+#: STRINGS.DLC1.BUSTER_4_FLAVOR
+msgctxt "STRINGS.DLC1.BUSTER_4_FLAVOR"
+msgid "A favourite of script kiddies and low-level corporate sysadmins, the Buster Chip automatically breaks down firewalls."
+msgstr ""
+
+#: STRINGS.DLC1.BUSTER_4_TOOLTIP
+msgctxt "STRINGS.DLC1.BUSTER_4_TOOLTIP"
+msgid "Use this to manually break through 8 firewalls."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_DESC"
+msgid "FIREWALLS boosted by 3 on {1}"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_TARGET
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_TARGET"
+msgid "10 devices"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.DESC"
+msgid "Boosts FIREWALLS"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NAME"
+msgid "CASTLE 2.0"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NO_TARGET
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NO_TARGET"
+msgid "Boost fails, no available targets."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.SHORT_DESC"
+msgid "Boosts ten devices' FIREWALLS by three"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.ACTIVE_DESC"
+msgid "-2 FIREWALLS broken per program use. Minimum of 1"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.DESC"
+msgid "-2 FIREWALLS broken per program use. Minimum of 1"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.NAME"
+msgid "PORTCULLIS 2.0"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.SHORT_DESC"
+msgid "Weakens FIREWALL breakers"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CASTLE.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.ACTIVE_DESC"
+msgid "FIREWALLS boosted by 3 on {1}"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CASTLE.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.DESC"
+msgid "Boosts FIREWALLS"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CASTLE.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.NAME"
+msgid "CASTLE"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CASTLE.NO_TARGET
+msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.NO_TARGET"
+msgid "Boost fails, no available targets."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CASTLE.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.SHORT_DESC"
+msgid "Boosts one device's FIREWALLS by three"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON.ACTIVE_DESC"
+msgid "Guards have +1 ARMOR"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON.DESC"
+msgid "All guards get +1 ARMOR."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON.NAME"
+msgid "CHITON"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON.SHORT_DESC"
+msgid "Boost Guard ARMOR"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_2.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.ACTIVE_DESC"
+msgid "Guards have +2 ARMOR"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_2.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.DESC"
+msgid "All guards get +2 ARMOR."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_2.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.NAME"
+msgid "CHITON 2"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_2.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.SHORT_DESC"
+msgid "Boost Guard ARMOR"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_3.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.ACTIVE_DESC"
+msgid "Guards have +3 ARMOR"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_3.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.DESC"
+msgid "All guards get +3 ARMOR."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_3.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.NAME"
+msgid "CHITON 3"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_3.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.SHORT_DESC"
+msgid "Boost Guard ARMOR"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_4.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.ACTIVE_DESC"
+msgid "Guards have +4 ARMOR"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_4.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.DESC"
+msgid "All guards get +4 ARMOR."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_4.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.NAME"
+msgid "CHITON 4"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.CHITON_4.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.SHORT_DESC"
+msgid "Boost Guard ARMOR"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ECHO.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ECHO.ACTIVE_DESC"
+msgid "Reboots one captured device."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ECHO.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ECHO.DESC"
+msgid "Reboots a captured device."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ECHO.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.ECHO.NAME"
+msgid "ECHO"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.ECHO.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.ECHO.SHORT_DESC"
+msgid "Reboots Devices"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.JOLT.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.JOLT.ACTIVE_DESC"
+msgid "KO guards recover one point of KO damage."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.JOLT.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.JOLT.DESC"
+msgid "KO guards recover one point of KO damage."
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.JOLT.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.JOLT.NAME"
+msgid "JOLT"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.JOLT.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.JOLT.SHORT_DESC"
+msgid "Wakes up KO guards"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.PORTCULLIS.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.ACTIVE_DESC"
+msgid "-2 FIREWALLS broken per program use. Minimum of 1"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.PORTCULLIS.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.DESC"
+msgid "-2 FIREWALLS broken per program use. Minimum of 1"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.PORTCULLIS.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.NAME"
+msgid "PORTCULLIS"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.PORTCULLIS.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.SHORT_DESC"
+msgid "Weakens FIREWALL breakers"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.ACTIVE_DESC"
+msgid "Guards have +1 KO resistance"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.DESC"
+msgid "All guards get +1 KO resistance.\nResists against KO damage to a minimum of 1"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.NAME"
+msgid "WATCHDOG"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.SHORT_DESC"
+msgid "Boost KO resistance"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_2.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.ACTIVE_DESC"
+msgid "Guards have +2 KO resistance"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_2.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.DESC"
+msgid "All guards get +2 KO resistance.\nResists against KO damage to a minimum of 1"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_2.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.NAME"
+msgid "WATCHDOG 2"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_2.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.SHORT_DESC"
+msgid "Boost KO resistance"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_3.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.ACTIVE_DESC"
+msgid "Guards have +3 KO resistance"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_3.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.DESC"
+msgid "All guards get +3 KO resistance.\nResists against KO damage to a minimum of 1"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_3.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.NAME"
+msgid "WATCHDOG 3"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_3.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.SHORT_DESC"
+msgid "Boost KO resistance"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_4.ACTIVE_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.ACTIVE_DESC"
+msgid "Guards have +4 KO resistance"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_4.DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.DESC"
+msgid "All guards get +4 KO resistance.\nResists against KO damage to a minimum of 1"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_4.NAME
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.NAME"
+msgid "WATCHDOG 4"
+msgstr ""
+
+#: STRINGS.DLC1.DAEMONS.SHOCK_4.SHORT_DESC
+msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.SHORT_DESC"
+msgid "Boost KO resistance"
+msgstr ""
+
+#: STRINGS.DLC1.DATA_CARD
+msgctxt "STRINGS.DLC1.DATA_CARD"
+msgid "DATA CARD"
+msgstr ""
+
+#: STRINGS.DLC1.DATA_CARD_FLAVOR
+msgctxt "STRINGS.DLC1.DATA_CARD_FLAVOR"
+msgid "Scraped from a corporate server as it was wiped, this is a little piece of data that belonged to Invisible Inc before the raid."
+msgstr ""
+
+#: STRINGS.DLC1.DATA_CARD_TOOLTIP
+msgctxt "STRINGS.DLC1.DATA_CARD_TOOLTIP"
+msgid "Return to the jet to recover lost data."
+msgstr ""
+
+#: STRINGS.DLC1.EMP_4
+msgctxt "STRINGS.DLC1.EMP_4"
+msgid "EMP Pack IV"
+msgstr ""
+
+#: STRINGS.DLC1.EMP_4_FLAVOR
+msgctxt "STRINGS.DLC1.EMP_4_FLAVOR"
+msgid "An EMP pack generates a large static charge in the air, scrambling electronics within a radius. Often used as safety devices in automated assembly lines."
+msgstr ""
+
+#: STRINGS.DLC1.EMP_4_TOOLTIP
+msgctxt "STRINGS.DLC1.EMP_4_TOOLTIP"
+msgid "Detonates at the end of the turn when primed. Disables all Mainframe devices and drones in a range of 8 tiles"
+msgstr ""
+
+#: STRINGS.DLC1.EXECUTE_PROTOCOL
+msgctxt "STRINGS.DLC1.EXECUTE_PROTOCOL"
+msgid "Execute Protocol 78"
+msgstr ""
+
+#: STRINGS.DLC1.FLASH_PACK
+msgctxt "STRINGS.DLC1.FLASH_PACK"
+msgid "Flash Pack"
+msgstr ""
+
+#: STRINGS.DLC1.FLASH_PACK_FLAVOR
+msgctxt "STRINGS.DLC1.FLASH_PACK_FLAVOR"
+msgid "The power of a flash bomb married to the wireless magic of mainframe technology."
+msgstr ""
+
+#: STRINGS.DLC1.FLASH_PACK_TOOLTIP
+msgctxt "STRINGS.DLC1.FLASH_PACK_TOOLTIP"
+msgid "Place on the ground. Detonate it using the mainframe. KO all guards for 2 turns in a radius of 3 tiles."
+msgstr ""
+
+#: STRINGS.DLC1.FLASH_PACK_USE
+msgctxt "STRINGS.DLC1.FLASH_PACK_USE"
+msgid "Detonate Flash Pack"
+msgstr ""
+
+#: STRINGS.DLC1.FLASH_PACK_USE_TIP
+msgctxt "STRINGS.DLC1.FLASH_PACK_USE_TIP"
+msgid "KO guards in a 3 tile radius for 2 turns."
+msgstr ""
+
+#: STRINGS.DLC1.GEL_INJECTORS
+msgctxt "STRINGS.DLC1.GEL_INJECTORS"
+msgid "Gel Injectors"
+msgstr ""
+
+#: STRINGS.DLC1.GEL_INJECTORS_FLAVOR
+msgctxt "STRINGS.DLC1.GEL_INJECTORS_FLAVOR"
+msgid "Mechanisms are bathed in a gel with an extremely low friction coefficient. Unfortunately the gel congeals at a high rate actually making the mobility worse until it is flushed from the system."
+msgstr ""
+
+#: STRINGS.DLC1.GEL_INJECTORS_TIP
+msgctxt "STRINGS.DLC1.GEL_INJECTORS_TIP"
+msgid "Agents AP is increased by 3. Agent's AP pool goes down 1 per Alarm Level"
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_CRY_BABY
+msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY"
+msgid "Cry Baby"
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_CRY_BABY_FLAVOR
+msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY_FLAVOR"
+msgid "Extensive focus tests were perfomed to find the most distracting sound to the common security guard."
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_CRY_BABY_TOOLTIP
+msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY_TOOLTIP"
+msgid "Throw to place. Activate in the mainframe to create a noise."
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_CRY_BABY_USE
+msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY_USE"
+msgid "Activate Cry Baby"
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_CRY_BABY_USE_TIP
+msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY_USE_TIP"
+msgid "Device will emit a large sound."
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON
+msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON"
+msgid "Transport Beacon"
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_FLAVOR
+msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_FLAVOR"
+msgid "\"In the event of bi-functional arrival, be sure to thoroughly clean the device before re-use.\"\n- Operational manual. pg.3"
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_LOST_BODY
+msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_LOST_BODY"
+msgid "A security guard has found the Transport Beacon and confiscated it.\n\nYou will need to reacquire it to use if further."
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_LOST_HEADER
+msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_LOST_HEADER"
+msgid "BEACON CONNECTION LOST"
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_REASON_NO_AGENT
+msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_REASON_NO_AGENT"
+msgid "NO PARTICLE ENVELOPE"
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_TOOLTIP
+msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_TOOLTIP"
+msgid "Throw to place. Activate in the mainframe to teleport the holder of the PARTICLE ENVELOPE AUGMENT to this location. The location must be clear."
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE
+msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE"
+msgid "Activate Beacon"
+msgstr ""
+
+#: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE_TIP
+msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE_TIP"
+msgid "Teleports the holder of the PARTICLE ENVELOPE AUGMENT to this location, as long as it is clear."
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.AKUMA_2
+msgctxt "STRINGS.DLC1.GUARDS.AKUMA_2"
+msgid "AKUMA 2.0"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.FLACK
+msgctxt "STRINGS.DLC1.GUARDS.FLACK"
+msgid "Flack Guard"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.HEAVY_GUARD_LVL2
+msgctxt "STRINGS.DLC1.GUARDS.HEAVY_GUARD_LVL2"
+msgid "ELITE HEAVY SECURITY"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.MKII
+msgctxt "STRINGS.DLC1.GUARDS.MKII"
+msgid "MODDED MKII"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.NULL_DRONE_2
+msgctxt "STRINGS.DLC1.GUARDS.NULL_DRONE_2"
+msgid "NULL DRONE 2.0"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.PULSE_DRONE
+msgctxt "STRINGS.DLC1.GUARDS.PULSE_DRONE"
+msgid "PULSE DRONE"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.REFIT_DRONE
+msgctxt "STRINGS.DLC1.GUARDS.REFIT_DRONE"
+msgid "DRONE (REFIT)"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.SCIENTIST
+msgctxt "STRINGS.DLC1.GUARDS.SCIENTIST"
+msgid "Scientist"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.SIREN
+msgctxt "STRINGS.DLC1.GUARDS.SIREN"
+msgid "SIREN 1.0"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.SIREN2
+msgctxt "STRINGS.DLC1.GUARDS.SIREN2"
+msgid "SIREN 2.0"
+msgstr ""
+
+#: STRINGS.DLC1.GUARDS.SPEC_OPS_LVL2
+msgctxt "STRINGS.DLC1.GUARDS.SPEC_OPS_LVL2"
+msgid "ELITE SPEC OPS"
+msgstr ""
+
+#: STRINGS.DLC1.INCOGNITA_CASE
+msgctxt "STRINGS.DLC1.INCOGNITA_CASE"
+msgid "QUANTUM RESERVOIR"
+msgstr ""
+
+#: STRINGS.DLC1.INCOGNITA_CASE_FLAVOR
+msgctxt "STRINGS.DLC1.INCOGNITA_CASE_FLAVOR"
+msgid "A portable case with a drive big enough to hold Incognita temporarily. It will need to be charged with special power cells we need to acquire each mission."
+msgstr ""
+
+#: STRINGS.DLC1.INCOGNITA_CASE_TOOLTIP
+msgctxt "STRINGS.DLC1.INCOGNITA_CASE_TOOLTIP"
+msgid "Get this back to the Jet to keep Incognita alive"
+msgstr ""
+
+#: STRINGS.DLC1.KINETIC_CAPACITOR
+msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR"
+msgid "Kinetic Capacitor"
+msgstr ""
+
+#: STRINGS.DLC1.KINETIC_CAPACITOR_ALERT
+msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR_ALERT"
+msgid "Kinetic Capacitor\n+1 KO"
+msgstr ""
+
+#: STRINGS.DLC1.KINETIC_CAPACITOR_FLAVOR
+msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR_FLAVOR"
+msgid "20th century watch technology with nearly a century of advancement on top if it."
+msgstr ""
+
+#: STRINGS.DLC1.KINETIC_CAPACITOR_TIP
+msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR_TIP"
+msgid "Sprinting gives the agent +1 KO damage and +1 ARMOR PIERCING"
+msgstr ""
+
+#: STRINGS.DLC1.KINETIC_DYNAMO
+msgctxt "STRINGS.DLC1.KINETIC_DYNAMO"
+msgid "KINETIC DYNAMO"
+msgstr ""
+
+#: STRINGS.DLC1.KINETIC_DYNAMO_FLAVOR
+msgctxt "STRINGS.DLC1.KINETIC_DYNAMO_FLAVOR"
+msgid "These sophisticated micro-dynamos generate and distribute PWR based on rapid kinetic motion."
+msgstr ""
+
+#: STRINGS.DLC1.KINETIC_DYNAMO_TIP
+msgctxt "STRINGS.DLC1.KINETIC_DYNAMO_TIP"
+msgid "Gain +1 PWR every 5 tiles sprinted."
+msgstr ""
+
+#: STRINGS.DLC1.LOADING_TIP_MID
+msgctxt "STRINGS.DLC1.LOADING_TIP_MID"
+msgid "You must find a new portable power source for Incognita, or this show is over."
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG01
+msgctxt "STRINGS.DLC1.LOGS.LOG01"
+msgid "K&O REGIONAL BRANCH 327 OFFICIAL INTERNAL COMMUNICATION #4569823\n\nSubject:  <c:62B3B3>Termination of Brian Deckard</>\n <c:62B3B3>Date: April 27, 2064</>\n\nAuthor:  <c:62B3B3>Matthias Schmitt, Director of Human Resources, Greater Los Angeles Economic Zone\n\nWe regret to inform you that your employment contract with Kelfried & Odin International (hereafter referred to as 'K&O')  is terminated immediately and with prejudice. This action is pursuant to the schedule of penalties and recommendations laid out in previous disciplinary notices (refs #4568362 and #4569501) and numerous documented verbal warnings.\n\nSpecifically, you are in violation of the following sections of the employee code of conduct:</>\n    32.6.1  <c:62B3B3>Intoxication While On-Duty</>\n    11.3.5  <c:62B3B3>Appropriate Workplace Language</>\n    13.2.8  <c:62B3B3>Storage and Maintenance of Company Firearms</>\n    14.3.2  <c:62B3B3>Personal Appearance / Grooming\n\nSince this termination is executed 'for cause', you are not entitled to a severance package, and are barred from all future employment with K&O, its subsidiaries, clients, and suppliers. You are required to return all corporate property and product under your control, including those portions of your cerebellum containing protected K&O trade secrets and operational knowledge. You may alternately submit to a certified neural redaction procedure in lieu of extraction, but you will be responsible for all expenses incurred.\n\nYours in commerce,\n\nMatthias Schmitt</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG01_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG01_FILE"
+msgid "NOTICE OF TERMINATION"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG01_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG01_TITLE"
+msgid "K&O Notice of Termination"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG02
+msgctxt "STRINGS.DLC1.LOGS.LOG02"
+msgid "From the letters section of The International Worker\nVol 52, Issue 5, May 1, 2060\n\n<c:62B3B3>To the editorial collective,\n\n     I have been an avid reader of the International Worker for many years now. I have always looked forward to the latest issue, and while I have had minor differences of opinion with you in the past, I fear that my relationship with your publication may soon be coming to an end. I can not in good conscience support counter-revolutionary positions, even when they come from those whom I consider my allies.\n\n     I am, of course, referring to your staff editorial in issue 4, \"A Time for Compromise\", wherein you argue for concessions to be made in the face of the San Francisco accord. This position can, at best, be seen as a literal 'slap in the face' to those of us in the Movement working for change, and at worst, as a total capitulation of our shared values.\n\n     You claim that the recognition of corporate primacy is no different than the age-old primacy of the nation-state, and as such, it should not be seen as a meaningful distinction when discussing matters of praxis. You state that the Movement should offer to engage in discussion with the Corporate world, lest we be left out of the new power structure entirely. You state that it is better to bend and receive a small benefit, than to hold strong and receive none.\n\n     I counter that there should be no discussion in the first place, only action. The owners of capital have proven time and time again that they will not commit to dialog in good faith with the producers of labour. It matters not to the oppressed of the world if the engine of their oppression is commanded by a president or by a CEO, they are oppressed either way.\n\n     The forces of capital have spent seven years fighting against themselves. If anything, now is the time for us to strike back, when they are at their weakest. If we hesitate, or attempt to negotiate with this new (or shall I say old) power structure, we will only be legitimizing our own oppressors.\n\n     I, for one, will not be supporting this publication again until you issue a full retraction. If this does not happen, the Movement will be worse off for having lost what was once a strong voice for solidarity, and it will be the fault of the current editorial collective.\n\nFor shame.\nMaria Valdez</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG02_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG02_FILE"
+msgid "MAGAZINE ARTICLE: International Worker"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG02_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG02_TITLE"
+msgid "LETTER TO THE EDITOR"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG03
+msgctxt "STRINGS.DLC1.LOGS.LOG03"
+msgid "Mysterious Gentleman Makes Splash at Gala\n\n    <c:62B3B3>There's a dirty little secret around the office here at Climb Up!. Something that all of us reporters know, but nobody says out loud. Well friends, I'm going to break the silence and fill you in: Corporate galas are DREADFULLY boring! Shock! Horror! But wait - hear me out!\n\n    Yes, the food is great. Yes, you get to rub shoulders with the most powerful and exciting people in the world. And yes, you look fantastic while doing it. But at what cost? I'll tell you: waiting.\n\n    The gala itself might start at 1700, but us V not IPs won't be there for that. We're still stuck in the security line. And unless the boss sprung for expedited processing (she never does), we'll be there FOREVER. Eventually, we get through, just in time for speeches. And those speeches are LONG. We only report the juicy parts to you, dear reader. For every gaffe or wardrobe malfunction you read about, we've had to sit through literal HOURS of earnings reports and org talks. Ugh.\n    \n    Finally, the meet and greet starts. That's the good part, where we get to get up-close and personal with the movers and shakers, and ask them all of the hard-hitting questions that our readers demand. Most of the time we get fed the usual lines, but occasionally we do catch a good nugget, and that's the only thing that makes the job worth it.        \n    \n    Which brings me to this: I caught QUITE the nugget at the K&O quarterly last night. I was talking to the new Regional Manager for Strategic Acquisitions, Gunnar Flom, about his choice of sportcoat when I caught a literal NUGGET of his BRAIN with my FACE!\n    \n    I guess that part of his brain was important, because Gunnar flopped over and was dead before he hit the ground. The room went crazy at that point, with security going for their weapons and executives hitting the deck. I was still wiping bits of Gunnar off of my face when a handsome gentleman in a pristine suit walked calmly out onto the dance floor. He held an assassin's license in one hand, and a contract for Gunnar in the other.\n    \n    The mystery man's documents checked out, and the party went on. He called himself “Shalem 11” and let me tell you, he is one smooth operator! I got a brief sit-down with the man himself, which we've published in the exclusive section of the site. Afterwards he bought me a drink and lent me a handkerchief to get the rest of the Gunnar out of my hair. What a gentleman!\n    \n    So thank you, Shalem 11, for making this one reporter's evening just a little more bearable!</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG03_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG03_FILE"
+msgid "MAGAZINE ARTICLE: Climb Up!"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG03_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG03_TITLE"
+msgid "FROM Climb Up! Weekly, NOV 23, 2062"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG04
+msgctxt "STRINGS.DLC1.LOGS.LOG04"
+msgid "A TRUE FRIEND OF THE PEOPLE OF DUBLIN\n( From a printed pamphlet found in ruined building in Dublin Nua during the Fall Siege)\n\n<c:62B3B3>I'm not going to lie to you, good citizens of Dublin. We are in a bad spot. What began as a reasonable and well-tempered defense of our simple human rights has blossomed, through the sheer intransigence of our opposition, into full-throated rebellion. I know this wasn't what you signed up for at that fateful Citizens' Assembly back in March, but now that we find ourselves thrust onto the stage of history, we must continue to play our part.\n\nAt times like these it can be easy to lose our resolve. It's getting cold. It's getting dark. We're all getting hungry. You have all given so much to the cause, and it pains me to ask for more, but I have to do it anyway. Our very lives- and the lives and dreams of our children- depend upon it!\n\nBut all is not doom and gloom! These challenging times have brought out the best in our people. Take, as an illustrious example, the case of our own Jolie Murphy.\n\nJolie hasn't always made the best choices in her short life. She didn't have that luxury. She grew up under the hard rule of our corporate masters, and had to turn to a life of crime in order to survive. She stole from the corporates, and she got good at it. So good, in fact, that she got to live amongst them. And quite comfortably, I might add.\n\nBut when our trouble began, Jolie knew what was really happening. When the corporate media went on about riots and looting, she knew that our people were just fighting back against unjust sanctions meant to bring us to heel. She knows the game, and how it's rigged. She's been playing it all of her life.\n\nWhen the siege was declared, she gave up the safety of exile, and came back to Dublin to help. And her vast fortune, stolen from those who stole it from us, came home with her. We're using that fortune now to buy weapons, and to buy food, and to keep the electricity buzzing and the gas flowing and to keep our people alive. All of this is possible because one of our own, a woman who's from this place, saw the value of what we are fighting for, and gave up her own comfort and her own needs to help us out.\n\nAnd so with a little luck, we just might be able to hold out through the winter. And with a little more luck, that might raise enough hell to convince some corporate so-and-so that continued hostilities are an 'unprofitable endeavour'. And maybe, just maybe, with all the luck of the world, we might just win our freedom.\n\nSlán go fóill!</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG04_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG04_FILE"
+msgid "PAMPHLET ARTIFACT, DUBLIN NUA"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG04_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG04_TITLE"
+msgid "PAMPHLET ARTIFACT, DUBLIN NUA"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG05
+msgctxt "STRINGS.DLC1.LOGS.LOG05"
+msgid "K&O INTER-OFFICE CORRECTIONAL SERVICE\nREHABILITATION REPORT\n\nDETAINEE:\n	<c:62B3B3>Tony Xu</>\n\nCHARGES:\n 	<c:62B3B3>Unauthorized Access to Secured System\n 	Tampering / Vandalism of a Virtual Asset\n	XXX XXX an undisclosed XXXXXXXX\n	Trafficking of a Class Three Restricted Program</>\n\nSENTENCE:\n	<c:62B3B3>Datasphere annihilation, commuted to XXXXXXXXX</>\n\nSTATUS:\n	<c:62B3B3>Incarcerated in Holm Correctional Facility and Work Center\n	5 years, 3 months served at time of report</>\n\nCASE HISTORY:\n	<c:62B3B3>Tony Xu was apprehended conducting an illegal intrusion on a top-secret K&O data warehouse on 07.13.2065. Extraction was performed by a response team that was stationed in the area after several similar infiltration events. The target's location was outside of the K&O charter territory, so extradition was only made possible through a reciprocal deal with a foreign company. Special consideration was made for the apprehension of the subject, given the sensitive nature of the data that was believed to have been taken during previous events. The cost for the entire operation, including those incurred by a thorough post-event data audit, exceed $32000000.\n\n	Post-extraction, it became clear that the target was not working for a larger corporate entity, as was assumed. It also became clear that the target was not interested in making financial gain from the theft or alteration acts that were performed, and in fact seemed oblivious to the obvious economic impact potential of his infraction.\n\n	The usual punishment for a data-centric crime of this economic magnitude would be a total datasphere annihilation, wherein the target is rendered physically incapable of using a neuro-data interface. Upon sentencing, the target offered to XXXXXXXX and XXXX in XXXX for XXXX. The presiding arbitrator agreed to the terms, and the target was allowed to work off the balance of his debt by XXXXXXXXXXXXX while in custody.</>\n\nRECOMMENDATION:\n	<c:62B3B3>As of this report, the target's account has been balanced. As per his contract, we have no choice other than to release him. Further monitoring is recommended, however, and any pretense for a further apprehension should be acted upon immediately.</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG05_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG05_FILE"
+msgid "K&O REHABILITATION REPORT"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG05_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG05_TITLE"
+msgid "K&O REHABILITATION REPORT"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG06
+msgctxt "STRINGS.DLC1.LOGS.LOG06"
+msgid "Nika Muratova Final Interview Transcript\nAug 5, 2070\n\nCentral: <c:62B3B3>Tell me again about the final incident at the Popov Estate. The one that led to your termination.</>\n\n<c:F48011>Muratova:</> <c:62B3B3>We were attacked by a hostile takeover force. It was night. The attack was successfully repelled, but my employer suffered from complications.</>\n\nCentral: <c:62B3B3>Complications? What exactly does that mean?</>\n\n<c:F48011>Muratova:</> <c:62B3B3>He did not survive.</>\n\nCentral: <c:62B3B3>Can you elaborate upon that?</>\n\n<c:F48011>Muratova:</> <c:62B3B3>I was engaging the final two attackers in the doorway of the safe room. My employer was taking shelter behind a table. I had just neutralized one assailant by severing her right arm at the shoulder with a loop of nanofibre. The final assailant was momentarily distracted by this action, so I removed two flash grenades from his belt, primed them, and inserted them under his helmet visor. I issued a verbal warning to my employer to close his eyes. He did not hear it clearly. He looked over the table to request clarification just as the grenades activated in my hands. He suffered a massive coronary incident and died instantly.</>\n\nCentral: <c:62B3B3>From the flash?</>\n\n<c:F48011>Muratova:</> <c:62B3B3>He was old. Over one hundred years of age. His death was regrettable but inevitable.</>\n\nCentral: <c:62B3B3>I see. One more clarification. How many attackers were there in total?</>\n\n<c:F48011>Muratova:</> <c:62B3B3>Approximately two dozen.</>\n\nCentral: <c:62B3B3>Approximately?</>\n\n<c:F48011>Muratova:</> <c:62B3B3>It was hard to tell from the pieces that were left behind. Or not left behind, in many cases. That estimate is from a DNA analysis. Of the... residues.</>\n\nCentral: <c:62B3B3>Thank you, Ms Muratova. I think we can make use of your skillset. Welcome to Invisible, Inc.</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG06_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG06_FILE"
+msgid "INTERVIEW TRANSCRIPT\nNika Muratova"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG06_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG06_TITLE"
+msgid "INTERVIEW TRANSCRIPT"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG07
+msgctxt "STRINGS.DLC1.LOGS.LOG07"
+msgid "Stream advertisement recovered Feb 16, 2059<c:F48011>\n\n******************************************\n!!!!!  ALEX SHARP - BOUNTY HUNTER  !!!!!!\n******************************************\n\nATTENTION, CITIZENS OF THE K&O AND SANKAKU PACIFIC JOINT DEVELOPMENT REGION!\n\nDo you have problems with:\n        - Loan Non-payment\n        - Interpersonal Conflict\n        - Asset Recovery\n        - Blocked Career Advancement\n        - Asset Acquisition\n        - Life's little annoyances\n\nI am Alex Sharp, Professional Bounty Hunter. I am more than human. I have the skill, the augmentations, and the profit motive to make YOUR problems MY problems, and make them GO AWAY.\n\nDid you know that you can solve your problems LEGALLY with VIOLENCE? The Unincorporated Personhood provisions of the San Francisco Accord allow for incorporated entities to override the natural rights of unincorporated entities when it can be proven that those rights represent an unfair impediment to profit.\n\nAs an incorporated, professional bounty hunter, my profit motive is getting RESULTS for YOU. With a a simple notarized invoice, I am entitled to act  practically without bounds in the pursuit of your interests!\n\nI offer the following services:\n        - Super-human strength, intelligence, and endurance\n        - Extensive knowledge of modern combat and intimidation methods\n        - Zero moral compunctions\n        - Competitive Rates\n\nSometimes, it takes a superhuman to solve a human problem. Let me be your superhuman!\n\nContact Node</> 209.90.173.94 <c:F48011>with your target and payment information, and leave your problems to a professional! Offer not valid in Brisbane Autonomous Zone, the Singapore industrial exclusion area, or within 200K of the territories of the Hokkaido ReShogunate. Incorporated targets are valid, but additional fees may apply.</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG07_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG07_FILE"
+msgid "TEXT DUMP OF SUBNET POST"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG07_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG07_TITLE"
+msgid "TEXT DUMP OF SUBNET POST"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG08
+msgctxt "STRINGS.DLC1.LOGS.LOG08"
+msgid "    <c:62B3B3>It's easy to get jaded in this business. I watch A LOT of holovids - entire days spent immersed in the worst dreck pumped out by the 'woods -  and it's only through the generous application of (legal, I swear!) stims that I get through it. Have you ever tried the senso The Wise Room while chemically un-assisted? I wouldn't recommend it.\n\n     But sometimes, a new 'vid comes out that reminds me why I became a reviewer in the first place. A 'vid that reaffirms my belief that holovids are the pre-eminent art form of the 21st century, and something worthy of study and critique. They don't come often, but \"The Istanbul Four\" is one one of those 'vids.\n\n     First, a history lesson. The Istanbul Incident was one of the the pivotal turning points of the Resource Wars, back in 2057. Our Corps were trying to free themselves from the tyranny of national law, and they had almost succeeded. Most of the real fighting was over, but remnants of the old order were still hanging on, and preventing peace talks through desperate, terroristic attacks.\n\n     One of the most deadly and dangerous groups, the PEIA, attempted to assassinate the members of the Joint Board of Directors during a secret planning meeting at the Istanbul Hotel. Long, boring story short, it looked like the PEIA was going to be successful, but they were thwarted at the last moment by a lone, heroic Plastec security detail.\n\n     Now I know what you're thinking. We've all seen the news footage, heck - if you're of a certain age you may have even participated in the online execution of the captured agents. What more could possibly be said about the events of July 8, 2057?\n\n     As it turns out, a lot. The Istanbul Four ignores the established narrative of the heroic defense of the Istanbul Hotel, and instead delves deep into the mindset of the monsters who planned and carried out the attacks. The audience hears, sees, and feels the experiences of the four PEIA agents as they plan the assassination, infiltrate the hotel, and are eventually defeated, captured and executed. It's chilling stuff!\n\n     The real breakout performance of the piece is Esther Martins as the leader of the group, Olivia Gladstone. Martins is a rising young star in the 'Woods, and she's better known for comedic works, but with this role she proves that she has dramatic depth of a much more experienced actor. She manages to capture the essential, monstrous nature of a reviled historical figure without delving into mere caricature, and at times almost paints a sympathetic picture of Gladstone.\n\n     She carries this nuanced portrayal all the way through to the execution scene, which is presented in a bravura 30 minute long uninterrupted point of view shot. As I said before, I've watched more 'vids than most people - even the weird stuff that you have to go to SubNet to get - but that scene is one of the only times that I've actually forgotten that it's only a simulation. It was with sweaty palms and a thumping heart that I pulled the goggles off, and I won't be forgetting that feeling any time soon.\n\n     I give \"The Istanbul Four\" 4½ stars out of 4. This one is literally off the charts!</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG08_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG08_FILE"
+msgid "\"The Istanbul Four (2070)\""
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG08_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG08_TITLE"
+msgid "ONLINE REVIEW: \"The Istanbul Four\" (2070)"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG09
+msgctxt "STRINGS.DLC1.LOGS.LOG09"
+msgid "ArctuCo Security Detachment Office, Dec 23, 2043\n\n<c:FAFD68>Interrogator:</>  <c:62B3B3>I'm going to ask you again. What is your name?</>\n\nSubject:  <c:62B3B3>Ellen Ripley</>\n<c:969696><sounds of electrical discharge, groaning></>\n\n<c:FAFD68>Interrogator:</>  <c:62B3B3>I've seen that movie too. What is your name?</>\n\nSubject:  <c:62B3B3>What's YOUR name, you piece of-</>\n<c:969696><sounds of electrical discharge, groaning></>\n\n<c:FAFD68>Interrogator:</>  <c:62B3B3>Let's try a different approach. Who are you working for?</>\n\nSubject:  <c:62B3B3>I already told you, I'm a Regional Director of Acquisitions for FTM. I'm here to talk business with ArctuCo. We're looking to hire you for-</>\n<c:969696><sounds of electrical discharge, groaning></>\n\n<c:FAFD68>Interrogator:</>  <c:62B3B3>We've contacted FTM. Their negotiator went missing en-route to the meeting. You are an impostor. An impostor who was found nosing about in a restricted area.</>\n\nSubject:  <c:62B3B3>I was looking for the bathroom. I took a wrong turn!</>\n<c:969696>< silence ></>\n<c:62B3B3>What, are you worried about your electricity bill all of a sudden?</>\n\n<c:FAFD68>Interrogator:</>  <c:62B3B3>No. I can tell from your vital signs that your augmented nervous system is impervious to that level of electrical discharge. You can stop pretending to react now. It's insulting.</>\n\nSubject:  <c:62B3B3>Alright. The charade was getting tiresome, anyway. Hand us a towel, will you?</>\n\n<c:FAFD68>Interrogator:</>  <c:62B3B3>Please note that the subject has dropped her poor approximation of a midwestern American accent.</>\n\nSubject:  <c:62B3B3>Poor approximation? I'll have you know that that 'poor approximation' got me past all but the last layer of your security. You really have no idea who you are dealing with here, do you?</>\n\n<c:FAFD68>Interrogator:</>  <c:62B3B3>Oh we know exactly who you are, Ms. Gladstone. We just want you to confirm it for our records before we tear your mind apart piece by piece and send your gibbering leftover husk back to the PEIA as a warning.\n\nNow. Let's begin again, shall we? But for real, this time.</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG09_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG09_FILE"
+msgid "DEPROGRAMMING TRANSCRIPT"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG09_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG09_TITLE"
+msgid "DEPROGRAMMING TRANSCRIPT"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG10
+msgctxt "STRINGS.DLC1.LOGS.LOG10"
+msgid "<c:F48011>Monst3r:</> <c:62B3B3>You've been moving into my territory again. Consider this a friendly reminder of our previous arrangements.</>\n\n<c:FF8CFF>ShopCat:</> <c:62B3B3>But I have the softest of warez for sale. I must have access to the biggest number of willing humans to make business.</>\n\n<c:F48011>Monst3r:</> <c:62B3B3>We agreed to stay out of each other's areas. You can sell your programs to as many 'willing humans' you want, so long as it's on your side of the globe, and not mine.</>\n\n<c:FF8CFF>ShopCat:</> <c:62B3B3>Are you a willing human? Would you like to purchase some of my soft warez, willing human?</>\n\n<c:F48011>Monst3r:</> <c:62B3B3>What? No. Are you even listening to me? I feel like we've had this conversation a hundred times before. I will sell my hardware within my territory, and you will sell your software within yours. I have arrangements with other distributors for software in my own back yard. You need to stay out.\n\nThis is all standard business practice, why is it so hard for you to understand?</>\n\n<c:FF8CFF>ShopCat:</> <c:62B3B3>Perhaps this willing human has no need of soft warez. I have other things for sale. Would you like to purchase a premium quality gun of flurries?</>\n\n<c:F48011>Monst3r:</> <c:62B3B3>Did you really just offer to sell me physical goods? Really? We've talked about that as well. If I catch you selling physical goods in my territory I will have no choice but to retaliate. Physically. With violence. Please don't make me do that. I have a reputation to keep up.</>\n\n<c:FF8CFF>ShopCat:</> <c:62B3B3>I have offended the willing human. I am full of regret. Please tell me of a location and I will give for you a nice, fresh, dead mouse.</>\n\n<c:F48011>Monst3r:</> <c:62B3B3>Sigh. And while we are discussing our arrangements, can you PLEASE stop pretending to be a damned cat? I get it. You're a cat. On the network. Ha ha bloody ha. I've heard better jokes generated via Markov chain.</>\n\n<c:FF8CFF>ShopCat:</> <c:62B3B3>You have need of a Markov chain? I have the finest of Markov chains for sale. They are trained with the best of datas available on the net. What is your named price, willing human?</>\n\n<c:F48011>Monst3r:</> <c:62B3B3>OK. This is going nowhere. Stay out of my damned territory you damned fake internet cat, or I will ruin you. Goodbye.</>\n<c:969696>Monst3r disconnected</>\n\n<c:FF8CFF>ShopCat:</> <c:62B3B3>Goodbye, willing human. Maybe you will buy some soft warez at a later time.</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG10_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG10_FILE"
+msgid "SUBNET CHAT LOG"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG10_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG10_TITLE"
+msgid "INTERCEPTED SUBNET CHAT LOG"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG11
+msgctxt "STRINGS.DLC1.LOGS.LOG11"
+msgid "TRANSCRIPT OF THE CLOSING CEREMONIES\n\n<c:969696>viz: Long panning shot of crowd of Čapek stadium.</>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>And with that, the 23rd annual Augmented Games comes to an end.</>\n\n<c:FAFD68>ANNOUNCER 2:</> <c:62B3B3>It really was an amazing games, wasn't it?</>\n\n<c:969696>viz: Interior mid-shot of two announcers at a long desk</>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>It was. We saw some really impressive records set this time. The augletes are really pushing the boundaries of human performance on the field.</>\n\n<c:FAFD68>ANNOUNCER 2:</> <c:62B3B3>They really are. The numbers are so impressive, but beyond those numbers, it's the stories, the human stories, that really stand out to me this time. There's one in particular-</>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>I think I know who you're talking about.</>\n\n<c:FAFD68>ANNOUNCER 2:</> <c:62B3B3>You do! Of course you do! She's all anyone is talking about.</>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>Collette Phan!</>\n\n<c:FAFD68>ANNOUNCER 2:</> <c:62B3B3>Or Rush to her fans! And she's picked up more than a few of those in the past 4 days.</>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>That high-dive! It was unbelieveable. Do we have footage of that?</>\n\n<c:969696>viz: Drone footage of a high-altitude stationary platform. Support techs wearing heavy flight suits  and breathing apparatuses are preparing equipment. They struggle to stay upright against high winds.</>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>Here's the big arrival that captured, I mean, just captivated audiences worldwide.</>\n\n<c:969696>viz: The platform's elevator doors open and Rush steps out, wearing a sleek swimsuit. A tech runs to her and offers a breathing apparatus, but she waves him away dismissively and then saunters up to the diving board.</>\n\n<c:FAFD68>ANNOUNCER 2:</> <c:62B3B3>Look at that confidence! She's really taking her time to own that platform. You can almost hear the sponsorship deals rolling in.</>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>Is she holding her breath? You can't breathe up there, can you?</>\n\n<c:FAFD68>ANNOUNCER 2:</> <c:62B3B3>Well *I* couldn't, I can tell you that. <laughs></>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>Wait, here's the best part, she's asking for the radio, see.. wait for it, she's got something to say.</>\n\n<c:969696>viz: Rush, holding a microphone, glances over the edge and shrugs.</>\n\n<c:F48011>RUSH:</> <c:62B3B3>Huh. I thought it would be higher.</>\n\n<c:969696>viz: Rush tosses the mic back on the the platform, and casually steps into the void. Camera cuts back to the sports desk</>\n\n<c:FAFD68>ANNOUNCER 2:</> <c:62B3B3>She got a perfect score across the board! She said THAT and then nailed it! Even the Sankaku judge had to give her a perfect 10. Unbelieveable!</>\n\n<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>And that wasn't her only event, can we see the 1000 meter dash, too?</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG11_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG11_FILE"
+msgid "2050 AUGMENT GAMES TRANSCRIPT"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG11_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG11_TITLE"
+msgid "2050 AUGMENT GAMES TRANSCRIPT"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG12
+msgctxt "STRINGS.DLC1.LOGS.LOG12"
+msgid "(Excerpt from chapter 13: Abby plugs in)		\n\n	<c:62B3B3>Abby paused briefly under the streetlight, just long enough to feel raw, itchy revulsion well up under her skin. She stepped back into the shadows and the feeling slowly dissipated. She pulled her collar up around her neck and continued down the street.\n\n	It was getting worse - she couldn't even handle the cold glow of an LED anymore. Direct exposure to a naked lightbulb was unbearable. Even through a solid meter of concrete wall it was enough to give her a tension headache. She hadn't seen the sun in weeks.\n\n	There was no more denying it. She would have to hunt again.\n\n	The first time had been so messy. So haphazard. She vowed that it wouldn't happen again, and blocked it from her memory. She wasn't capable of - of that. It must have just been a bad daydream; a waking nightmare born of stress and exhaustion and overwork. It wasn't real.\n\n	But the hunger was real. It had been growing for days now. She had tried to keep it at bay through conventional means. It had worked at first. The local English import shop sold disgusting, factory-fresh blood pudding that stopped the worst of the cravings. But the hunger would always come back, each time a little stronger. Calling her to action. Taking over first her idle thoughts and then then her every thought.\n\n	She escalated. Discount store rat jerky. Expensive, non-synth hamburgers at an all-night diner. Rare steak at an off-grid resto that she couldn't afford but didn't care. Bags of stolen plasma. A stray cat. Her own cat. Worse.\n\n	This was all hard for someone who had been a strict vegetarian only weeks before. But she was a quick learner. At first the sight of blood made her nauseous. Then the thought of sight without blood made her nauseous.\n\n	The photosensitivity got worse. She couldn't sleep at night, or even during the day. Her heart raced when she was sitting still, and her every sense was sharpened to a razor edge. It was as if her body was dumping the last of its energy straight into her nervous system and screaming “Hunt! Damn you! Hunt!” At last, she couldn't take it any more. She had to give in, or she would die. She could no longer deny her new nature.\n\n	At the end of the street, she found a quiet alley. She ducked in, and pulled out her datapad. She scrolled through her contacts, and found the one she was looking for. She dialed. She could almost see the thin tendrils of electromagnetically coded datastream reaching out to her prey, Enticing it. Encircling it. Reeling it in for the kill.\n\n	She was a hunter, and this was her net.</>"
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG12_FILE
+msgctxt "STRINGS.DLC1.LOGS.LOG12_FILE"
+msgid "WRITING SAMPLE: Matei Cernat "
+msgstr ""
+
+#: STRINGS.DLC1.LOGS.LOG12_TITLE
+msgctxt "STRINGS.DLC1.LOGS.LOG12_TITLE"
+msgid "\"THE DATA VAMPIRES\" BY MATEI CERNAT"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.CENTRAL_FAIL_TO_GET_POWER_CELL.1
+msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_FAIL_TO_GET_POWER_CELL.1"
+msgid "Damn it! We needed that battery, Operator! Incognita is going to die and then they'll find us within the hour. Sigh. I didn't want to live forever anyway."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.1
+msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.1"
+msgid "A few more hours of juice for Incognita. Get that back to the Jet, Operator."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.2
+msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.2"
+msgid "Get that Cell back here at all costs. It is the only thing keeping us alive."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.3
+msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.3"
+msgid "Secure that Power Cell. Get it back to the Jet, Operator."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.4
+msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.4"
+msgid "Well done Operator, now get that Cell back here. Incognita's living on borrowed time."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.1
+msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.1"
+msgid "I'm getting a red flag on my network security monitor. Looks like FTM has been installing security routers in a lot of their facilities."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.2
+msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.2"
+msgid "It's going to keep bumping up the firewalls around here until you take it out."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.3
+msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.3"
+msgid "Well done. That router's been taken care of. That equipment would fetch a high price if you managed to lift it."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.DESCRIPTION
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.DESCRIPTION"
+msgid "Acquire the Quantum Reservoir project."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TITLE
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TITLE"
+msgid "QUANTUM RESEVOIR"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TXT
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TXT"
+msgid "I'm not going to lie, Operator - this is a fishing expedition. If the reservoir exists it may buy us enough time to find the SecNet root. If not - it has been nice working with you. Monst3r will meet you at the location. Our agents are expendable, but make sure he survives."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.MORE_INFO
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.MORE_INFO"
+msgid "There hasn't been enough time to gather intelligence on this site. Keep your eyes open and adapt to what you find."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.NAME
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.NAME"
+msgid "Reseach Facility"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.REWARD
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.REWARD"
+msgid "With luck we will extend Incognita's life so we can solve this mess."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.DESCRIPTION
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.DESCRIPTION"
+msgid "Find and access the transport pad to find the secret R&D lab."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.INSET_TITLE
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.INSET_TITLE"
+msgid "OFF BOOKS R&D LABORATORY"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.INSET_TXT
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.INSET_TXT"
+msgid "Monst3r thinks that wherever this locations transporter sends us, there should be some advanced computer gear that we can use to upgrade Incognita's living quarters."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.MORE_INFO
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.MORE_INFO"
+msgid ""
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.NAME
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.NAME"
+msgid "Foundry Lab"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.REWARD
+msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.REWARD"
+msgid "With luck we will be able to extend Incognita's life so we can solve this mess."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.1
+msgctxt "STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.1"
+msgid "They're paying attention, but I can't yet pin them down."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.2
+msgctxt "STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.2"
+msgid "Damn it, they were supposed to show their hand by now. What other options do we have?"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.3
+msgctxt "STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.3"
+msgid "Precious few. I'll run the numbers again. Maybe we missed something the first time."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.ACCESS_SWITCH
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ACCESS_SWITCH"
+msgid "ACCESS SWITCH"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.ACCESS_SWITCH_DESC
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ACCESS_SWITCH_DESC"
+msgid "Requires simultaneous\nactivation"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.ACTIVATE_SWITCHES
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ACTIVATE_SWITCHES"
+msgid "Activate both switches"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.ACTIVATE_TRANSPORTER
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ACTIVATE_TRANSPORTER"
+msgid "Use the site to site Transporter"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN.1"
+msgid "The security system has been deactivated."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN.2"
+msgid "Serves them right for buying cheap knockoff equipment. If they had bought those parts from me, we'd still be locked out."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN_NO_MONSTER.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN_NO_MONSTER.1"
+msgid "The transport room is unlocked, but you need to recover Monst3r before we continue."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.ESCAPED.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ESCAPED.1"
+msgid "And here were are. Brace yourselves, there will be some turbulence as we tunnel through the site's transport shielding."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.FIND_SWITCHES
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.FIND_SWITCHES"
+msgid "Find both switches"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.FIND_TRANSPORTER
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.FIND_TRANSPORTER"
+msgid "Find the site to site transporter"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.1"
+msgid "The entry point is secure. Monst3r, you are clear for transport."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.10
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.10"
+msgid "Sounds like a plan. Don't mess it up."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.2"
+msgid "Ugh. What a distasteful process."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.3
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.3"
+msgid "Is this the correct facility? It doesn't look like anything special."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.4
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.4"
+msgid "Something isn't as it seems. Let me re-check the coordinates."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.5
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.5"
+msgid "This is where my deliveries were sent. It must be a false front. Hmmm. Can you run a broad spectrum backscatter scan from your plane?"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.6
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.6"
+msgid "Scanning...\n\nPilot beam origin point detected. Destination coordinates are unknown. Unknowable. Unknowing. Uncaring."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.7
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.7"
+msgid "Aha. I've heard rumour of sites like this, but never actually encountered one."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.8
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.8"
+msgid "The research lab itself is somewhere nearby, but sealed and shielded from normal transport beams. The only way in is through a permanent link set up on this side."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.9
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.9"
+msgid "If we find that, we should be able to hitch a ride and recover the goods. When we're finished we can disable the shield and beam out as normal."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.MONST3R_SURVIVE
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.MONST3R_SURVIVE"
+msgid "Monst3r must leave first"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.SEE_DOOR.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SEE_DOOR.1"
+msgid "There's the transport pad, but It's locked down. There must be a failsafe mechanism somewhere that we can override."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.SEE_DOOR_AFTER.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SEE_DOOR_AFTER.1"
+msgid "There's the transport pad, all warmed up and ready."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH1.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH1.1"
+msgid "Ah. That terminal over there is a ring-0 security switch. They come in pairs."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH1.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH1.2"
+msgid "The transporter must have a two man security lock. Somewhere nearby will be this switch's partner."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH2.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH2.1"
+msgid "There's the other security switch."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH_RESET.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH_RESET.1"
+msgid "This switch is linked to another.\n\nIf either goes down alone it gets restored by its partner. We'll have to hit them both at the same time."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.TRANSPORT_CONDUIT
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.TRANSPORT_CONDUIT"
+msgid "Transport Conduit"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.UNLOCK_TRANSPORTER
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.UNLOCK_TRANSPORTER"
+msgid "Unlock the transporter"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION1.USE_TRANSPORTER
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.USE_TRANSPORTER"
+msgid "Depart using the transporter"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPE
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPE"
+msgid "Use the transporter to escape with the tech"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPED.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPED.1"
+msgid "The device is secure."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPED.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPED.2"
+msgid "Now let's see what this thing can do."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.1"
+msgid "No! We were so close."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.2"
+msgid "Shutting down"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.3
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.3"
+msgid "It's all over - they'll find us within minutes and shoot us out of the sky. I'd say it's been a pleasure, but would you really want the last thing you ever hear to be a lie? See you in hell, operator."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.FIND_NEW_HOUSING
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.FIND_NEW_HOUSING"
+msgid "Get the new case for Incognita"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE.1"
+msgid "Finally. Now get back to the teleport room before they notice it's gone."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE_NO_JET.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE_NO_JET.1"
+msgid "We've got it. Don't leave us twisting in the wind for too long now."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE_NO_JET.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE_NO_JET.2"
+msgid "We're almost there. Get back to the teleport room and stop whining."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.1"
+msgid "Urrrrrrgh. Feels like my head's on backwards."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.2"
+msgid "Monst3r, give us a status report."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.3
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.3"
+msgid "We made it through in one piece. I don't recognize the corporate markings. It seems my contact may not have been who she claimed."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.4
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.4"
+msgid "You transported clear across the city - it's going to take us a couple of minutes to track down your precise location. Secure the prototype and await our arrival."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.1"
+msgid "We are at your location, and ready for transport."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.2"
+msgid "My hero."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.3
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.3"
+msgid "Don't get used to it."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.KNOWN_THREAT
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.KNOWN_THREAT"
+msgid "THREAT RECOGNIZED"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.LOCATE_LAB
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.LOCATE_LAB"
+msgid "Locate the laboratory"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.1"
+msgid "Who are these people? I'm seeing elements sourced from all of the major corps."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.2"
+msgid "Interesting. Could this be the same conglomerate that orchestrated the raid on our headquarters?"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.3
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.3"
+msgid "That seems just a little bit too convenient, doesn't it? A bit too tidy?"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.4
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.4"
+msgid "We can speculate later. Focus on the mission goals for now."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.MONST3R_SURVIVE
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MONST3R_SURVIVE"
+msgid "Monst3r must leave first"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.NEW_ALARM.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.NEW_ALARM.1"
+msgid "That's new."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.NEW_ALARM.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.NEW_ALARM.2"
+msgid "They're bringing new security measures to bear against us. This had better be worth the risk."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.1"
+msgid "Civilians. They're working late, aren't they? Maybe we should interrogate them."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.2"
+msgid "There's no time. Even if they know anything useful it will be blocked behind redundant levels of memetic training."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.3
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.3"
+msgid "Pity."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.1
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.1"
+msgid "Ah. There's our macguffin."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.2
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.2"
+msgid "Our what?"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.3
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.3"
+msgid "It's a.. technical term."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE"
+msgid "Unique Power Signature"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE_DESC
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE_DESC"
+msgid "Capture and extract"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.UNKNOWN_THREAT
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.UNKNOWN_THREAT"
+msgid "UNKNOWN THREAT"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MIDMISSION2.WAIT_FOR_THE_JET
+msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.WAIT_FOR_THE_JET"
+msgid "Hold out until the jet arrives\n(TURN 20)"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.1
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.1"
+msgid "Power reserve critical. Personality wave collapse imminent."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.10
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.10"
+msgid "I'll meet you there. If I'm going to lose all of my credibility on this operation I want to see it in person."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.2
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.2"
+msgid "Monst3r, tell me some good news."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.3
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.3"
+msgid "The signal still isn't resolving. I may - well, I didn't want to have to do this, but...\n\nI may know where we can buy you a reprieve."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.4
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.4"
+msgid "I trust you're not holding out on us. Derek, you know the gravity of our situation."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.5
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.5"
+msgid "Of course I do. But you can't expect me to lead with the business suicide option every time one of my friends gets into trouble. If I betray a client's confidence it will take me years to rebuild my credibility. If you were anyone else I wouldn't even consider this."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.6
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.6"
+msgid "And I appreciate it. Greatly. We'll do our best to compensate you if we get through this alive."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.7
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.7"
+msgid "Indeed you shall.\n\nOne of my regular clients is a senior corporate researcher. Works on real hush-hush stuff.\n\nRumor is she's building a high-capacity quantum reservoir. They're looking to use it as a life-raft for holographed psyches."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.8
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.8"
+msgid "Apparently the CEO is afraid of dying and wanted a plan B. It has enough resolution to hold an entire human mind in stasis for 100 years. It should be able to hold your AI in an active state for at least a couple of hours between charges. Give or take"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.MID_MISSION.9
+msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.9"
+msgid "It's a long shot, but we have no other leads. Plotting a course now."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.NEW_FINAL_MISSION_EDITS.1
+msgctxt "STRINGS.DLC1.MISSIONS.NEW_FINAL_MISSION_EDITS.1"
+msgid "The mouse takes the cheese. Snap!"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.NEW_LAST_MISSION.1
+msgctxt "STRINGS.DLC1.MISSIONS.NEW_LAST_MISSION.1"
+msgid "Choose your next operation carefully, Incognita is almost out of power but Monst3r might yet come through with something. Make sure we are prepared for whatever might come."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.OBJ_ESCAPE_CELL
+msgctxt "STRINGS.DLC1.MISSIONS.OBJ_ESCAPE_CELL"
+msgid "Escape with the Power Cell"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL
+msgctxt "STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL"
+msgid "Find a Power Relay "
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.OBJ_GET_CELL
+msgctxt "STRINGS.DLC1.MISSIONS.OBJ_GET_CELL"
+msgid "Get the Power Cell"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.OBJ_ROUTER
+msgctxt "STRINGS.DLC1.MISSIONS.OBJ_ROUTER"
+msgid "Disable the Router"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.OBJ_ROUTERS
+msgctxt "STRINGS.DLC1.MISSIONS.OBJ_ROUTERS"
+msgid "Disable the Routers"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.1
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.1"
+msgid "Would you look at this thing? This is beyond the technological capabilities of any known corporation. Hell, it's even beyond my own."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.2
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.2"
+msgid "It could be a toaster oven for all I care. Turn it on."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.3
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.3"
+msgid "Power reserve restored. Wave integrity restored. Operating at 97.65% efficiency."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.4
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.4"
+msgid "That'll make some powerful toast."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.5
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.5"
+msgid "But it's only temporary. The batteries won't last long under this load. We can find replacements in the field, but her personality matrix is still degrading. From the current rate of decay I only give us another 48 hours until she hits bottom. This is no time to slack off."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.6
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.6"
+msgid "I'll take that as my cue to leave.\n\nThere was some suspicious encrypted data left on that device when we found it - assuming that new corp down there is our real adversary, it may hold the key to cracking through their interference."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.7
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.7"
+msgid "Now as much as I've enjoyed destroying my professional life with you fine people, I think we all stand a better chance if I go back to my safe-house and start crunching numbers."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.8
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.8"
+msgid "Agreed. We'll be in touch.\nOperator - we've bought more time, but the game is still afoot. Continue scavenging operations until Monst3r breaks through the SecNet signal. And be prepared for heightened resistance- I have a hunch that we may have just kicked a beehive back there."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.1
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.1"
+msgid "Progress report. Is the data decrypted yet?"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.2
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.2"
+msgid "Only bits and pieces so far I'm afraid. I believe that the reservoir lab was indeed operated by the group that raided you."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.3
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.3"
+msgid "That can't be a coincidence. Could they have somehow traced us through your researcher contact?"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.4
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.4"
+msgid "Normally, I would say no. I go to positively heroic lengths to isolate my customers. After seeing the technology on display in that lab, however, I'm willing to entertain the possibility that the universe is more complex that I once imagined."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.5
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.5"
+msgid "This is my surprised face."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.6
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.6"
+msgid "Indeed. I'll see what else I can find."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.7
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.7"
+msgid "Good. You wouldn't want to see my 'disappointed' face."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.1
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.1"
+msgid "Battery power restored."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.2
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.2"
+msgid "Another battery, another battle."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.3
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.3"
+msgid "I've uncovered more information. The reservoir wasn't built to house a human intelligence after all. It was built specifically to house an AI."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.4
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.4"
+msgid "But then isn't it massively over-engineered? There are no known AIs other than Incognita that would come close to requiring its full capacity."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.5
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.5"
+msgid "Exactly. So either they're hiding an as-yet undetected supermassive intelligence somewhere on the net, or…"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.6
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.6"
+msgid "...Or they built it specifically to house Incognita."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.7
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.7"
+msgid "Ominous either way. Maybe you should have a chat with that thing and see if it knows anything."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.8
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.8"
+msgid "Incognita” is structurally incapable of hiding secrets from me. I programmed her myself, and I didn't teach her how to lie, even by omission."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.9
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.9"
+msgid "Still, our children do grow up to surprise us, don't they?"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_1.1
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_1.1"
+msgid "The corps are now issuing high-tension personal armor to their security forces as standard equipment. I think they're getting scared of us. It would be flattering if it didn't represent an existential threat."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_1.2
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_1.2"
+msgid "Make sure you bring along something extra pointy for emergencies."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.1
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.1"
+msgid "My bonnie lies over the ocean. My bonnie lies over the sea."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.2
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.2"
+msgid "We're running out of time again. With or without batteries, the reservoir isn't big enough to hold Incognita's personality wave stable and active for this long.\n\nThis is the part where you tell me that we've found their secret headquarters, Derek."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.3
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.3"
+msgid "We're close. I haven't been able to tease much else out of the decrypted data, but the SecNet response is getting stronger. Between the two sources I should have something soon."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.4
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.4"
+msgid "Oh bring back my bonnie to meeeeeeeeeeeeeee"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.1
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.1"
+msgid "I'll spare you the technobabble, but I've set a trap. One, possibly two more SecNet alerts, and we're golden."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.2
+msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.2"
+msgid "It's about time. Make these final moments count, Operator. If there's a glaring hole in our defenses that's been bothering you for the past couple of days, now would be the time to fill it."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POWER_CELL_DETECTED
+msgctxt "STRINGS.DLC1.MISSIONS.POWER_CELL_DETECTED"
+msgid "Energy Flow Detected"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.POWER_CELL_DETECTED_DESC
+msgctxt "STRINGS.DLC1.MISSIONS.POWER_CELL_DETECTED_DESC"
+msgid "Retrieve the Power Cell"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SEE_GUARDS_FINAL_MISSION_EDIT.1
+msgctxt "STRINGS.DLC1.MISSIONS.SEE_GUARDS_FINAL_MISSION_EDIT.1"
+msgid "Those are the same uniforms from the research lab. We've been fighting the same adversary the entire time."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_ACCESS_TRANSFORMER.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_ACCESS_TRANSFORMER.1"
+msgid "Excellent, the relay station should be open now. If we patch into the relay transformer, we'll be given a chance to sell off a large amount of PWR."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_ACCESS_TRANSFORMER.2
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_ACCESS_TRANSFORMER.2"
+msgid "I leave it to you Operator, if you think we can spare it."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_COMPILE_ENDED.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_COMPILE_ENDED.1"
+msgid "It's done! The compile just completed. Go see what got cooked up if you can."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_COMPILE_STARTED.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_COMPILE_STARTED.1"
+msgid "That's got it. The code has started compiling, let's hope it doesn't take too long to finish."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE1_END.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE1_END.1"
+msgid "One down."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE1_START.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE1_START.1"
+msgid "I'm sending you a worm virus. Install it in that databank, and it will stream a sample back to us."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_END.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_END.1"
+msgid "That's two clean"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_START.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_START.1"
+msgid "Second drive is infected."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE4_END.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE4_END.1"
+msgid "Good, that's all of them. Grab that disk of recovered data. Even though we just got it back, it might be prudent to find someone willing to trade it for some credit."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE4_START.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE4_START.1"
+msgid "This is the last one."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ACTIVATE.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ACTIVATE.1"
+msgid "Those components are too delicate for field work. The tools we need are on the jet."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ACTIVATE.2
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ACTIVATE.2"
+msgid "If possible, hijack that drone and bring it to the transporter."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ESCAPE.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ESCAPE.1"
+msgid "The cargo is onboard. Monst3r can probably find a buyer for whatver secrets are in that bot. Well done Operator."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SCIENTIST_REACHED_COM.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SCIENTIST_REACHED_COM.1"
+msgid "Dammit, that Sterile Compile room has locked down. Too late for us to nick whatever software is being worked on in there."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SCIENTIST_REACHED_COM.2
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SCIENTIST_REACHED_COM.2"
+msgid "Maybe our timing will be better next time."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DATABANK.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DATABANK.1"
+msgid "Interesting, they have a lot of on site data banks here. Might be worth a search."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DRONE.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DRONE.1"
+msgid "What have we here. Looks like they are in the middle of striping down this drone for it's black box."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DRONE.2
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DRONE.2"
+msgid "Whatever it's seen, it must be important. It would be better, Operator, if we had that drone instead."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_LAB_2ND.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_LAB_2ND.1"
+msgid "There's that Technician's lab. I wonder what kind of software he's been cooking up in there."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST.1"
+msgid "Incognita has IDed that technician there. He's one of the top of his field. He might have info we can use."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_2ND.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_2ND.1"
+msgid "There, that lab technician. He's probably got the code for that compiler console you located."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_DOOR.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_DOOR.1"
+msgid "You've located a Sterile Compile room. Must be some powerful software being designed here. "
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_DOOR.2
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_DOOR.2"
+msgid "We'll need to find a compile code. Look for a lab technician, they will be the likely target."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SWITCH.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SWITCH.1"
+msgid "What's that over there? A relay switch. Looks like we've hit a power relay station. If we have a lot of PWR, we can sell if off for some extra credit."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SWITCH.2
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SWITCH.2"
+msgid "You'll need to find a second switch. Activate them at the same time and we will have access to the power transformer, wherever that is."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_TRANSFORMER.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_TRANSFORMER.1"
+msgid "Look at this, we've infiltrated a power relay station. This could be helpful if we have some extra PWR to sell. The station only manages large exchanges though."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_TRANSFORMER.2
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_TRANSFORMER.2"
+msgid "Find the relay switches. Protocol says there should be two and they need to be activated at the same time. That will open the door."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SWITCH_RESET.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SWITCH_RESET.1"
+msgid "That relay switch reset. They need to be thrown at the same time."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_USE_DATABANK_1.1
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_USE_DATABANK_1.1"
+msgid "From that sample data packet, traces of Invisible came up. If we've got time, wiping us from all of these drives might be a wise choice."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_USE_DATABANK_1.2
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_USE_DATABANK_1.2"
+msgid "We may even recover some of our stolen archives."
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.DATABANK_DETECTED
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.DATABANK_DETECTED"
+msgid "DATA BANK\nDETECTED"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_ACTIVATE_DRONE
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_ACTIVATE_DRONE"
+msgid "Activate the drone"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_COMPILE
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_COMPILE"
+msgid "Wait for compile to finish"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_DRONE_EXIT
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_DRONE_EXIT"
+msgid "Hijack the drone to the EXIT"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_FIND_LAB
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_FIND_LAB"
+msgid "Find the software Lab"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_FIND_TECH
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_FIND_TECH"
+msgid "Find the Lab technician"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_GET_COMPILE_KEY
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_GET_COMPILE_KEY"
+msgid "Get the compile Key from the Technician"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_GET_PROGRAM
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_GET_PROGRAM"
+msgid "Retrive compiled program"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS"
+msgid "Scrub batabanks"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_START_THE_COMPILE
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_START_THE_COMPILE"
+msgid "Use the key on the Research Databank"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_TRANSFORMER_2_SWITCHES
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_TRANSFORMER_2_SWITCHES"
+msgid "Unlock Power Station using Relay Switches"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_DRONE
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_DRONE"
+msgid "DATA SIGNATURE DETECTED"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_DRONE_SUB
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_DRONE_SUB"
+msgid "Retrieval recommended"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_SCIENTIST
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_SCIENTIST"
+msgid "VIP IDENTIFIED"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_SCIENTIST_SUB
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_SCIENTIST_SUB"
+msgid "Lab Technician"
+msgstr ""
+
+#: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TRANSFORMER_RELAY_SWITCH
+msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TRANSFORMER_RELAY_SWITCH"
+msgid "RELAY SWITCH"
+msgstr ""
+
+#: STRINGS.DLC1.MONO_RAIL_GUN
+msgctxt "STRINGS.DLC1.MONO_RAIL_GUN"
+msgid "MONO MOLECULAR RAIL GUN"
+msgstr ""
+
+#: STRINGS.DLC1.MONO_RAIL_GUN_FLAVOR
+msgctxt "STRINGS.DLC1.MONO_RAIL_GUN_FLAVOR"
+msgid "Electro magnets hurl a molocule size toxic projectile into a target. Due to size of the impact point and velocity, even advanced armors provide no defence."
+msgstr ""
+
+#: STRINGS.DLC1.MONO_RAIL_GUN_TOOLTIP
+msgctxt "STRINGS.DLC1.MONO_RAIL_GUN_TOOLTIP"
+msgid "Knocks a guard out from long range."
+msgstr ""
+
+#: STRINGS.DLC1.MULTI_UNLOCK
+msgctxt "STRINGS.DLC1.MULTI_UNLOCK"
+msgid "Activate Switch"
+msgstr ""
+
+#: STRINGS.DLC1.MULTI_UNLOCK_DESC
+msgctxt "STRINGS.DLC1.MULTI_UNLOCK_DESC"
+msgid "When all of the switches are activated in the same turn, the lock will open."
+msgstr ""
+
+#: STRINGS.DLC1.MULTI_UNLOCK_RESET
+msgctxt "STRINGS.DLC1.MULTI_UNLOCK_RESET"
+msgid "SWITCH RESET"
+msgstr ""
+
+#: STRINGS.DLC1.MULTI_UNLOCK_SWITCHED
+msgctxt "STRINGS.DLC1.MULTI_UNLOCK_SWITCHED"
+msgid "SWITCH ACTIVATED"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_MAPPER
+msgctxt "STRINGS.DLC1.NEURAL_MAPPER"
+msgid "NEURAL PATTERN GRID"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_MAPPER_FLAVOR
+msgctxt "STRINGS.DLC1.NEURAL_MAPPER_FLAVOR"
+msgid "Mapping human neural tissue is not a simple task, especially with the ever changing data of a live subject. However, it is much easier to get a good data pull when the patterns remain constant and still."
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_MAPPER_TIP
+msgctxt "STRINGS.DLC1.NEURAL_MAPPER_TIP"
+msgid "User cannot buy skill upgrades.\nScanned KO guards generate a random bonus.\nDead units scanned will give permanent skill upgrades."
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN
+msgctxt "STRINGS.DLC1.NEURAL_SCAN"
+msgid "Neural Scan"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_DESC_DEAD
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_DESC_DEAD"
+msgid "Scan corpse for a permanent skill upgrade."
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_DESC_KO
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_DESC_KO"
+msgid "Scan the guard for a temporary boost."
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_1
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_1"
+msgid "M E M O R Y  D A T A  M A P P I N G  R E P O R T"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_2
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_2"
+msgid "Neural Scan"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_3
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3"
+msgid "{1} has {2} raised {3} by one point from the scan data."
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_3_PERMANENET
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3_PERMANENET"
+msgid "permanently"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_3_TEMP
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3_TEMP"
+msgid "temporarily"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_3_TEMP_DESC
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3_TEMP_DESC"
+msgid "\n\nIt will last until the end of the mission."
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS"
+msgid "The scan pulls some useful data:\n\n "
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_AP
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_AP"
+msgid "+{1} AP BONUS"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_COOLDOWN
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_COOLDOWN"
+msgid "ITEM COOLDOWN BONUS {1} TURN "
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_CREDIT
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_CREDIT"
+msgid "+{1} CREDIT BONUS"
+msgstr ""
+
+#: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_PWR
+msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_PWR"
+msgid "+{1} PWR BONUS"
+msgstr ""
+
+#: STRINGS.DLC1.OPEN_SECURITY_DOOR
+msgctxt "STRINGS.DLC1.OPEN_SECURITY_DOOR"
+msgid "Deactivate security door"
+msgstr ""
+
+#: STRINGS.DLC1.OPEN_SECURITY_DOOR_DESC
+msgctxt "STRINGS.DLC1.OPEN_SECURITY_DOOR_DESC"
+msgid "Open the security door."
+msgstr ""
+
+#: STRINGS.DLC1.OPTICAL_NOISE_EMITTER
+msgctxt "STRINGS.DLC1.OPTICAL_NOISE_EMITTER"
+msgid "Optical Noise Emitter"
+msgstr ""
+
+#: STRINGS.DLC1.OPTICAL_NOISE_EMITTER_FLAVOR
+msgctxt "STRINGS.DLC1.OPTICAL_NOISE_EMITTER_FLAVOR"
+msgid ""
+msgstr ""
+
+#: STRINGS.DLC1.OPTICAL_NOISE_EMITTER_TIP
+msgctxt "STRINGS.DLC1.OPTICAL_NOISE_EMITTER_TIP"
+msgid ""
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_AGENTS
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_AGENTS"
+msgid "EXTRA AGENTS"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_AGENTS_TIP
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_AGENTS_TIP"
+msgid "<c:FF8411>AGENTS</c>\nRush\nDraco\nOlivia\nDerek"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_DAEMONS
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_DAEMONS"
+msgid "MORE DAEMONS"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_DAEMONS_TIP
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_DAEMONS_TIP"
+msgid "<c:FF8411>DAEMONS</c>\nCastle\nShock\nChiton\nJolt\nEcho\nPortcullis"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_ENDLESS_MID
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_ENDLESS_MID"
+msgid "ENDLESS CONTINGENCY MISSION"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_ENDLESS_MID_TIP
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_ENDLESS_MID_TIP"
+msgid "<c:FF8411>ENDLESS CONTINGENCY MISSION</c>\nA special objective at Day 4 adds new challenges to endless mode."
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_CAMPAIGN
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_CAMPAIGN"
+msgid "EXTENDED CAMPAIGN"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_CAMPAIGN_TIP
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_CAMPAIGN_TIP"
+msgid "<c:FF8411>EXTENDED CAMPAIGN</c>\nA new objective at the 0 hour will unlock an extra 48 hours of campaign time with escalating difficulty."
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_ENDLESS
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_ENDLESS"
+msgid "MORE ENDLESS"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_ENDLESS_TIP
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_EXTENDED_ENDLESS_TIP"
+msgid "<c:FF8411>MORE ENDLESS</c>\nDifficulty continues to ramp after difficulty 10 up to 20."
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_GUARDS
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_GUARDS"
+msgid "MORE ENEMY TYPES"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_GUARDS_TIP
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_GUARDS_TIP"
+msgid "<c:FF8411>ENEMY TYPES</c>\nPulse Drone\nSiren 1.0\nFlack Guard\nFTM Router\nLvl 2 Elite Units"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_PROGRAMS
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_PROGRAMS"
+msgid "EXTRA PROGRAMS"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_PROGRAMS_TIP
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_PROGRAMS_TIP"
+msgid "<c:FF8411>PROGRAMS</c>\nBurst\nGolem\nBless\nCycle\nAces"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS"
+msgid "NEW SIDE MISSIONS"
+msgstr ""
+
+#: STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS_TIP
+msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS_TIP"
+msgid "<c:FF8411>SIDE MISSIONS</c>\nAdds several optional tasks with various rewards that may show up during a mission."
+msgstr ""
+
+#: STRINGS.DLC1.PARALYZER_4
+msgctxt "STRINGS.DLC1.PARALYZER_4"
+msgid "Paralyzer IV"
+msgstr ""
+
+#: STRINGS.DLC1.PARALYZER_4_FLAVOR
+msgctxt "STRINGS.DLC1.PARALYZER_4_FLAVOR"
+msgid "Delivers a cripling dose of incapacitating toxin. Increasingly used by executives for power naps between meetings."
+msgstr ""
+
+#: STRINGS.DLC1.PARALYZER_4_TOOLTIP
+msgctxt "STRINGS.DLC1.PARALYZER_4_TOOLTIP"
+msgid "Use on pinned targets. KOs targets for an extra 8 turns"
+msgstr ""
+
+#: STRINGS.DLC1.PARTICLE_ENVELOPE
+msgctxt "STRINGS.DLC1.PARTICLE_ENVELOPE"
+msgid "Particle Envelope"
+msgstr ""
+
+#: STRINGS.DLC1.PARTICLE_ENVELOPE_FLAVOR
+msgctxt "STRINGS.DLC1.PARTICLE_ENVELOPE_FLAVOR"
+msgid "You could always trust Derek to find the latest and greatest, but even he might have outdone himself when he captured one of the earliest transport technology prototypes."
+msgstr ""
+
+#: STRINGS.DLC1.PARTICLE_ENVELOPE_TIP
+msgctxt "STRINGS.DLC1.PARTICLE_ENVELOPE_TIP"
+msgid "This agent is teleported to the TRANSPORT BEACON when the beacon is activated."
+msgstr ""
+
+#: STRINGS.DLC1.PHEROMONE_FILTER
+msgctxt "STRINGS.DLC1.PHEROMONE_FILTER"
+msgid "Pheromone Filter"
+msgstr ""
+
+#: STRINGS.DLC1.PHEROMONE_FILTER_FLAVOR
+msgctxt "STRINGS.DLC1.PHEROMONE_FILTER_FLAVOR"
+msgid "Detecting subtle olfactory changes in the environment, the device enhances naturally occuring fight or flight reactions in the human body."
+msgstr ""
+
+#: STRINGS.DLC1.PHEROMONE_FILTER_TIP
+msgctxt "STRINGS.DLC1.PHEROMONE_FILTER_TIP"
+msgid "+2 AP when guards wake up"
+msgstr ""
+
+#: STRINGS.DLC1.POWER_CELL
+msgctxt "STRINGS.DLC1.POWER_CELL"
+msgid "UNIVERSAL POWER CELL"
+msgstr ""
+
+#: STRINGS.DLC1.POWER_CELL_FLAVOR
+msgctxt "STRINGS.DLC1.POWER_CELL_FLAVOR"
+msgid "Plugs into most industrial devices to supply temporary backup power in case of emergencies."
+msgstr ""
+
+#: STRINGS.DLC1.POWER_CELL_TOOLTIP
+msgctxt "STRINGS.DLC1.POWER_CELL_TOOLTIP"
+msgid "This cell will charge Incognita's Potrable Case. Get it back to the Jet to keep her alive"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BLESS.DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.DESC"
+msgid "Daemons have -2 duration.\nPASSIVE"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BLESS.HUD_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.HUD_DESC"
+msgid "DAEMONS HAVE -2 DURATION. MINIMUM OF 1 TURN.\nPASSIVE"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BLESS.NAME
+msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.NAME"
+msgid "BLESS"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BLESS.SHORT_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.SHORT_DESC"
+msgid "Daemons have -2 duration"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BLESS.TIP_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.TIP_DESC"
+msgid ""
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BURST.DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.BURST.DESC"
+msgid "Gain 3 PWR, agents get +3 AP. Agents -3 AP while on cooldown\n2 turn cooldown."
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC"
+msgid "+3 PWR, ALL AGENTS +3 AP. ALL AGNTS -3 AP DURING COOLDOWN."
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BURST.NAME
+msgctxt "STRINGS.DLC1.PROGRAMS.BURST.NAME"
+msgid "BURST"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BURST.SHORT_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.BURST.SHORT_DESC"
+msgid "Gain PWR and speed. Slow while cooling"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BURST.TIP_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.BURST.TIP_DESC"
+msgid ""
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.BURST.WARNING
+msgctxt "STRINGS.DLC1.PROGRAMS.BURST.WARNING"
+msgid "BURST RECOVERY"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.CYCLE.DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.DESC"
+msgid "All PWR is cleared at the beginning of each turn, then Gain 3 PWR.\nPASSIVE"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.CYCLE.HUD_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.HUD_DESC"
+msgid "ALL PWR IS CLEARED AT THE BEGINNING OF EACH TURN.\nTHEN GAIN 3 PWR PER TURN."
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.CYCLE.NAME
+msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.NAME"
+msgid "CYCLE"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.CYCLE.SHORT_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.SHORT_DESC"
+msgid "All PWR is cleared each turn. Auto generate large PWR."
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.CYCLE.TIP_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.TIP_DESC"
+msgid "All PWR is cleared at the beginning of each turn, then gain 3 PWR."
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.CYCLE.WARNING
+msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.WARNING"
+msgid "POWER CYCLED\n3 PWR"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.GOLEM.DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.DESC"
+msgid "Breaks 2 FIREWALLS for 4 PWR. -1 PWR cost/turn.\nResets when used."
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.GOLEM.HUD_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.HUD_DESC"
+msgid "BREAKS 2 FIREWALLS,-1 PWR COST/TURN. RESETS WHEN USED"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.GOLEM.NAME
+msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.NAME"
+msgid "GOLEM"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.GOLEM.SHORT_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.SHORT_DESC"
+msgid "Break 2 Firewalls, gets cheaper over time"
+msgstr ""
+
+#: STRINGS.DLC1.PROGRAMS.GOLEM.TIP_DESC
+msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.TIP_DESC"
+msgid "BREAKS <c:FF8411>2 FIREWALLS</c>. -1 PWR COST/TURN. COST: <c:77FF77>{1} PWR</c>"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.DATA_NODE
+msgctxt "STRINGS.DLC1.PROPS.DATA_NODE"
+msgid "Data Bank"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.DIAGNOSTIC_TERMINAL
+msgctxt "STRINGS.DLC1.PROPS.DIAGNOSTIC_TERMINAL"
+msgid "Diagnostic Panel"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.FTM_ROUTER
+msgctxt "STRINGS.DLC1.PROPS.FTM_ROUTER"
+msgid "FTM Security Router"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.FTM_ROUTER_TAB
+msgctxt "STRINGS.DLC1.PROPS.FTM_ROUTER_TAB"
+msgid "Security Router"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.LOCK_SWITCH
+msgctxt "STRINGS.DLC1.PROPS.LOCK_SWITCH"
+msgid "Access Switch"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.POWER_CORE
+msgctxt "STRINGS.DLC1.PROPS.POWER_CORE"
+msgid "Redundant Power Relay"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.REFIT_DRONE
+msgctxt "STRINGS.DLC1.PROPS.REFIT_DRONE"
+msgid "Deactivated Drone"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.RESEARCH_SECURITY_TERMINAL
+msgctxt "STRINGS.DLC1.PROPS.RESEARCH_SECURITY_TERMINAL"
+msgid "Research Security Terminal"
+msgstr ""
+
+#: STRINGS.DLC1.PROPS.TRANSFORMER_TERMINAL
+msgctxt "STRINGS.DLC1.PROPS.TRANSFORMER_TERMINAL"
+msgid "Relay Transformer"
+msgstr ""
+
+#: STRINGS.DLC1.PROTOCOL78
+msgctxt "STRINGS.DLC1.PROTOCOL78"
+msgid "\"Protocol 78\""
+msgstr ""
+
+#: STRINGS.DLC1.PROTOCOL78_FLAVOR
+msgctxt "STRINGS.DLC1.PROTOCOL78_FLAVOR"
+msgid "One of Derek's most infamous corporate exploits was the abuse of Protocol 78 which would relocate credit into more \"secure\" locations during times of emergency."
+msgstr ""
+
+#: STRINGS.DLC1.PROTOCOL78_TIP
+msgctxt "STRINGS.DLC1.PROTOCOL78_TIP"
+msgid "Uses a console. Raises the alarm 2 levels. Each alarm level after that, safes get +25 credits."
+msgstr ""
+
+#: STRINGS.DLC1.REACTIVE_MOYOMER
+msgctxt "STRINGS.DLC1.REACTIVE_MOYOMER"
+msgid "Reactive Moyomer"
+msgstr ""
+
+#: STRINGS.DLC1.REACTIVE_MOYOMER_FLAVOR
+msgctxt "STRINGS.DLC1.REACTIVE_MOYOMER_FLAVOR"
+msgid "An advanced chemical solution is injected into micro piston fibers that rapidly amp the users mobility for a short time."
+msgstr ""
+
+#: STRINGS.DLC1.REACTIVE_MOYOMER_TIP
+msgctxt "STRINGS.DLC1.REACTIVE_MOYOMER_TIP"
+msgid "Agents AP is reduced by 2. Agent's AP pool goes up 1 per Alarm Level"
+msgstr ""
+
+#: STRINGS.DLC1.RESEARCH_SECURITY_DOOR
+msgctxt "STRINGS.DLC1.RESEARCH_SECURITY_DOOR"
+msgid "Security Door"
+msgstr ""
+
+#: STRINGS.DLC1.SCRUB_DATABANK
+msgctxt "STRINGS.DLC1.SCRUB_DATABANK"
+msgid "Scrub Databank"
+msgstr ""
+
+#: STRINGS.DLC1.SCRUB_DATABANK_DESC
+msgctxt "STRINGS.DLC1.SCRUB_DATABANK_DESC"
+msgid "Scan the databank for Invisible, Inc. data and wipe its memory"
+msgstr ""
+
+#: STRINGS.DLC1.SITUATION_UPDATE
+msgctxt "STRINGS.DLC1.SITUATION_UPDATE"
+msgid "SITUATION UPDATE"
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_ANARCHY
+msgctxt "STRINGS.DLC1.SKILL_CHIP_ANARCHY"
+msgid "legerdemain brain chip"
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_ANARCHY_FLAVOR
+msgctxt "STRINGS.DLC1.SKILL_CHIP_ANARCHY_FLAVOR"
+msgid "The term \"chip\" is used as a euphemism in this case. In fact, these devices are a growth of tendrils that wholly replace synaptic regions of the brain."
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_ANARCHY_TIP
+msgctxt "STRINGS.DLC1.SKILL_CHIP_ANARCHY_TIP"
+msgid "Sets the agents ANARCHY skill to 3. This skill can not be upgraded"
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_HACKING
+msgctxt "STRINGS.DLC1.SKILL_CHIP_HACKING"
+msgid "Cryptology brain chip"
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_HACKING_FLAVOR
+msgctxt "STRINGS.DLC1.SKILL_CHIP_HACKING_FLAVOR"
+msgid "The term \"chip\" is used as a euphemism in this case. In fact, these devices are a growth of tendrils that wholly replace synaptic regions of the brain."
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_HACKING_TIP
+msgctxt "STRINGS.DLC1.SKILL_CHIP_HACKING_TIP"
+msgid "Sets the agents HACKING skill to 3. This skill can not be upgraded"
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_SPEED
+msgctxt "STRINGS.DLC1.SKILL_CHIP_SPEED"
+msgid "Kinesiology brain chip"
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_SPEED_FLAVOR
+msgctxt "STRINGS.DLC1.SKILL_CHIP_SPEED_FLAVOR"
+msgid "The term \"chip\" is used as a euphemism in this case. In fact, these devices are a growth of tendrils that wholly replace synaptic regions of the brain."
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_SPEED_TIP
+msgctxt "STRINGS.DLC1.SKILL_CHIP_SPEED_TIP"
+msgid "Sets the agents SPEED skill to 3. This skill can not be upgraded"
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_STRENGTH
+msgctxt "STRINGS.DLC1.SKILL_CHIP_STRENGTH"
+msgid "Physiology brain chip"
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_STRENGTH_FLAVOR
+msgctxt "STRINGS.DLC1.SKILL_CHIP_STRENGTH_FLAVOR"
+msgid "The term \"chip\" is used as a euphemism in this case. In fact, these devices are a growth of tendrils that wholly replace synaptic regions of the brain."
+msgstr ""
+
+#: STRINGS.DLC1.SKILL_CHIP_STRENGTH_TIP
+msgctxt "STRINGS.DLC1.SKILL_CHIP_STRENGTH_TIP"
+msgid "Sets the agents STRENGTH skill to 3. This skill can not be upgraded"
+msgstr ""
+
+#: STRINGS.DLC1.STIM_4
+msgctxt "STRINGS.DLC1.STIM_4"
+msgid "Stim IV"
+msgstr ""
+
+#: STRINGS.DLC1.STIM_4_FLAVOR
+msgctxt "STRINGS.DLC1.STIM_4_FLAVOR"
+msgid "A highly dangerous cocktail of performance enhancing chemicals. Do not take internally."
+msgstr ""
+
+#: STRINGS.DLC1.STIM_4_TOOLTIP
+msgctxt "STRINGS.DLC1.STIM_4_TOOLTIP"
+msgid "Gives an agent unlimited attacks for one turn and restores 10 AP."
+msgstr ""
+
+#: STRINGS.DLC1.SUBDERMAL_PDA
+msgctxt "STRINGS.DLC1.SUBDERMAL_PDA"
+msgid "Subdermal PDA"
+msgstr ""
+
+#: STRINGS.DLC1.SUBDERMAL_PDA_FLAVOR
+msgctxt "STRINGS.DLC1.SUBDERMAL_PDA_FLAVOR"
+msgid "Allows for a higher attention to detail as well as custom data filters for isolating important info faster."
+msgstr ""
+
+#: STRINGS.DLC1.SUBDERMAL_PDA_TIP
+msgctxt "STRINGS.DLC1.SUBDERMAL_PDA_TIP"
+msgid "Door peeks have full vision.\nThis agent can find corporate Intel in large safes."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_4
+msgctxt "STRINGS.DLC1.TAZER_4"
+msgid "Neural Disrupter IV"
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_4_FLAVOR
+msgctxt "STRINGS.DLC1.TAZER_4_FLAVOR"
+msgid "Neural disrupters replace a person's thoughts with sparkly lights for a limited time."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_4_TOOLTIP
+msgctxt "STRINGS.DLC1.TAZER_4_TOOLTIP"
+msgid "Melee range"
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_1
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_1"
+msgid "Thermal Disrupter I"
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_1_FLAVOR
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_1_FLAVOR"
+msgid "PWR is surged into the targets armor in the form of heat, temporarily weakening it enough for the disrupter to do it's work."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_1_TOOLTIP
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_1_TOOLTIP"
+msgid "Melee range."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_2
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_2"
+msgid "Thermal Disrupter II"
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_2_FLAVOR
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_2_FLAVOR"
+msgid "PWR is surged into the targets armor in the form of heat, temporarily weakening it enough for the disrupter to do it's work."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_2_TOOLTIP
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_2_TOOLTIP"
+msgid "Melee range."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_3
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_3"
+msgid "Thermal Disrupter III"
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_3_FLAVOR
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_3_FLAVOR"
+msgid "PWR is surged into the targets armor in the form of heat, temporarily weakening it enough for the disrupter to do it's work."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_3_TOOLTIP
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_3_TOOLTIP"
+msgid "Melee range."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_4
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_4"
+msgid "Thermal Disrupter IV"
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_4_FLAVOR
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_4_FLAVOR"
+msgid "PWR is surged into the targets armor in the form of heat, temporarily weakeing it enough for the disrupter to do it's work."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_ARMOR_4_TOOLTIP
+msgctxt "STRINGS.DLC1.TAZER_ARMOR_4_TOOLTIP"
+msgid "Melee range."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_PWR_4
+msgctxt "STRINGS.DLC1.TAZER_PWR_4"
+msgid "Volt Disrupter IV"
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_PWR_4_FLAVOR
+msgctxt "STRINGS.DLC1.TAZER_PWR_4_FLAVOR"
+msgid "Volt disrupters channel PWR to disrupt the Noosphere around a target, incapacitating them for a time."
+msgstr ""
+
+#: STRINGS.DLC1.TAZER_PWR_4_TOOLTIP
+msgctxt "STRINGS.DLC1.TAZER_PWR_4_TOOLTIP"
+msgid "Melee range"
+msgstr ""
+
+#: STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR
+msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR"
+msgid "BUY PWR"
+msgstr ""
+
+#: STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_DESC
+msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_DESC"
+msgid "Buy 1 PWR for {1} CREDITS"
+msgstr ""
+
+#: STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_ERROR
+msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_ERROR"
+msgid "Not enough enough CREDITS"
+msgstr ""
+
+#: STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_ERROR_FULL
+msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_ERROR_FULL"
+msgid "PWR Full"
+msgstr ""
+
+#: STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR
+msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR"
+msgid "SELL PWR"
+msgstr ""
+
+#: STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR_DESC
+msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR_DESC"
+msgid "SELL {1} PWR for {2} CREDITS"
+msgstr ""
+
+#: STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR_ERROR
+msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR_ERROR"
+msgid "Not enough PWR"
+msgstr ""
+
+#: STRINGS.DLC1.UPDATE1_TEXT
+msgctxt "STRINGS.DLC1.UPDATE1_TEXT"
+msgid "The corporations have increased their response to our incursions. Expect higher resistance as the alarm levels increases."
+msgstr ""
+
+#: STRINGS.DLC1.UPDATE1_TITLE
+msgctxt "STRINGS.DLC1.UPDATE1_TITLE"
+msgid "ADVANCED ALARM STAGES"
+msgstr ""
+
+#: STRINGS.DLC1.UPDATE2_TEXT
+msgctxt "STRINGS.DLC1.UPDATE2_TEXT"
+msgid "Incognita's new portable home consumes a lot of power. You will need to find and bring back a Universal Power Cell from each mission."
+msgstr ""
+
+#: STRINGS.DLC1.UPDATE2_TITLE
+msgctxt "STRINGS.DLC1.UPDATE2_TITLE"
+msgid "ACQUIRE UNIVERSAL POWER CELLS"
+msgstr ""
+
+#: STRINGS.DLC1.UPDATE3_TEXT
+msgctxt "STRINGS.DLC1.UPDATE3_TEXT"
+msgid "It's not all bad news. The Quantum Reservoir has increased Incognita's memory capacity. She has space to install an additional program."
+msgstr ""
+
+#: STRINGS.DLC1.UPDATE3_TITLE
+msgctxt "STRINGS.DLC1.UPDATE3_TITLE"
+msgid "INCREASED PROGRAM CAPACITY"
+msgstr ""
+
+#: STRINGS.DLC1.UPDATE4_TEXT
+msgctxt "STRINGS.DLC1.UPDATE4_TEXT"
+msgid "Caution. Omni corp has upgraded all Enforcer units with XL-5 Scan Grenades. As well as scanning, the XL-5 emits a disruptive field that disables cloaking and Hologram Technology."
+msgstr ""
+
+#: STRINGS.DLC1.UPDATE4_TITLE
+msgctxt "STRINGS.DLC1.UPDATE4_TITLE"
+msgid "ADVANCED SCAN GRENADES"
+msgstr ""
+
 #: STRINGS.FORMATS.ADDRESS
 msgctxt "STRINGS.FORMATS.ADDRESS"
 msgid "{1} {2}, {3}"
@@ -4463,7 +7513,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_FLAVOR"
-msgid "Contrary to it's name, the Chameleon Movement implant does not allow the host to change their appearance. Rather - it analyzes their surroundings to show them the most inconspicuous path for the way they look."
+msgid "Contrary to its name, the Chameleon Movement implant does not allow the host to change their appearance. Rather - it analyzes their surroundings to show them the most inconspicuous path for the way they look."
 msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_TIP
@@ -6221,6 +9271,16 @@ msgctxt "STRINGS.ITEMS.TOOLTIPS.EMP_SAFE_DESC"
 msgid "These safes require an electronic signal to open. They do not function while deactivated."
 msgstr ""
 
+#: STRINGS.ITEMS.TOOLTIPS.HEAVY_EQUIPMENT
+msgctxt "STRINGS.ITEMS.TOOLTIPS.HEAVY_EQUIPMENT"
+msgid "HEAVY EQUIPMENT"
+msgstr ""
+
+#: STRINGS.ITEMS.TOOLTIPS.HEAVY_EQUIPMENT_DESC
+msgctxt "STRINGS.ITEMS.TOOLTIPS.HEAVY_EQUIPMENT_DESC"
+msgid "Carrying this item reduces AP by {1}"
+msgstr ""
+
 #: STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR
 msgctxt "STRINGS.ITEMS.TOOLTIPS.IGNORES_ARMOR"
 msgid "Ignores Armor"
@@ -6318,7 +9378,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.TOOLTIPS.USE_CHARGES_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.USE_CHARGES_DESC"
-msgid "Each use of this item takes a charge. Use Charge Packs to refill."
+msgid "Each use of this item takes a charge. Recharges between missions. Use charge Packs to refill during missions."
 msgstr ""
 
 #: STRINGS.ITEMS.TURRET
@@ -7038,7 +10098,7 @@ msgstr ""
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.1"
-msgid "Excellent work, Operator. Now we have to find a way to spend out newfound fortune."
+msgid "Excellent work, Operator. Now we have to find a way to spend our newfound fortune."
 msgstr ""
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.2
@@ -7153,7 +10213,7 @@ msgstr ""
 
 #: STRINGS.MISSIONS.ENDING_1.UNKNOWN_THREAT
 msgctxt "STRINGS.MISSIONS.ENDING_1.UNKNOWN_THREAT"
-msgid "UNKNOWN THREAT"
+msgid "THREAT RECOGNIZED"
 msgstr ""
 
 #: STRINGS.MISSIONS.ENDING_1.UPLOAD_INCOGNITA
@@ -7676,6 +10736,11 @@ msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SCANNER"
 msgid "Disable the scanner"
 msgstr ""
 
+#: STRINGS.MISSIONS.ESCAPE.OBJ_SCANNERS
+msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SCANNERS"
+msgid "Disable the scanners"
+msgstr ""
+
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY"
 msgid "Locate the secure locker"
@@ -7729,6 +10794,21 @@ msgstr ""
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_PRISONER_CONVO1
 msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_PRISONER_CONVO1"
 msgid "Incognita has scanned his identity - he has wealthy benefactors. It may be worth our while to help him."
+msgstr ""
+
+#: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_1
+msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_1"
+msgid "Incognita has detected multiple ECCM signals. There must be some of FTM's powerful scanning devices in the complex."
+msgstr ""
+
+#: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_2
+msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_2"
+msgid "They will detect your team's location each alarm level, make sure to shut them all down."
+msgstr ""
+
+#: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_3
+msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_3"
+msgid "Good job, Operator. You won't need to worry about those anymore."
 msgstr ""
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNER_DETECTED_1
@@ -9948,12 +13028,12 @@ msgstr ""
 
 #: STRINGS.PROGRAMS.FUSION_17_5.DESC
 msgctxt "STRINGS.PROGRAMS.FUSION_17_5.DESC"
-msgid "Gain 3 PWR per turn on cooldown.\n3 turn cooldown."
+msgid "Gain 3 PWR per turn on cooldown.\n4 turn cooldown."
 msgstr ""
 
 #: STRINGS.PROGRAMS.FUSION_17_5.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FUSION_17_5.HUD_DESC"
-msgid "GAIN 3 PWR EACH TURN ON COOLDOWN\n3 TURN COOLDOWN."
+msgid "GAIN 3 PWR EACH TURN ON COOLDOWN\n4 TURN COOLDOWN."
 msgstr ""
 
 #: STRINGS.PROGRAMS.FUSION_17_5.NAME
@@ -10054,6 +13134,16 @@ msgstr ""
 #: STRINGS.PROGRAMS.HUNTER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.TIP_DESC"
 msgid "KILLS <c:FF8411>DAEMON</c>. COST: <c:77FF77>{1} PWR</c>"
+msgstr ""
+
+#: STRINGS.PROGRAMS.INSTALLED
+msgctxt "STRINGS.PROGRAMS.INSTALLED"
+msgid "P R O G R A M  I N S T A L L E D"
+msgstr ""
+
+#: STRINGS.PROGRAMS.INSTALLED_DESC
+msgctxt "STRINGS.PROGRAMS.INSTALLED_DESC"
+msgid "You've installed a program to be used by Incognita:\n%s"
 msgstr ""
 
 #: STRINGS.PROGRAMS.LEASH.DESC
@@ -11043,7 +14133,7 @@ msgstr ""
 
 #: STRINGS.PROPS.RESEARCH_PROCESSOR
 msgctxt "STRINGS.PROPS.RESEARCH_PROCESSOR"
-msgid "Research databank"
+msgid "Research Databank"
 msgstr ""
 
 #: STRINGS.PROPS.SAFE
@@ -11621,6 +14711,11 @@ msgctxt "STRINGS.SCREENS.STR_1236871902"
 msgid "FOR SALE"
 msgstr ""
 
+#: STRINGS.SCREENS.STR_126042245
+msgctxt "STRINGS.SCREENS.STR_126042245"
+msgid "Data Logs"
+msgstr ""
+
 #: STRINGS.SCREENS.STR_1291878040
 msgctxt "STRINGS.SCREENS.STR_1291878040"
 msgid "PRIMARY OBJECTIVES"
@@ -11669,11 +14764,6 @@ msgstr ""
 #: STRINGS.SCREENS.STR_1407718006
 msgctxt "STRINGS.SCREENS.STR_1407718006"
 msgid "Peeking at open doors reveals more information."
-msgstr ""
-
-#: STRINGS.SCREENS.STR_1408759822
-msgctxt "STRINGS.SCREENS.STR_1408759822"
-msgid "View the Steam Workshop to find additional Language Packs to subscribe to."
 msgstr ""
 
 #: STRINGS.SCREENS.STR_141375972
@@ -11756,6 +14846,11 @@ msgctxt "STRINGS.SCREENS.STR_1721470052"
 msgid "FPS Text"
 msgstr ""
 
+#: STRINGS.SCREENS.STR_1734967051
+msgctxt "STRINGS.SCREENS.STR_1734967051"
+msgid "DLC + MODS"
+msgstr ""
+
 #: STRINGS.SCREENS.STR_1781360857
 msgctxt "STRINGS.SCREENS.STR_1781360857"
 msgid "M A N A G I N G  T H R E A T S"
@@ -11779,11 +14874,6 @@ msgstr ""
 #: STRINGS.SCREENS.STR_1817974562
 msgctxt "STRINGS.SCREENS.STR_1817974562"
 msgid "Send Metric Data"
-msgstr ""
-
-#: STRINGS.SCREENS.STR_1833920854
-msgctxt "STRINGS.SCREENS.STR_1833920854"
-msgid "REFRESH LANGUAGES"
 msgstr ""
 
 #: STRINGS.SCREENS.STR_1855685879
@@ -11839,6 +14929,11 @@ msgstr ""
 #: STRINGS.SCREENS.STR_1994237377
 msgctxt "STRINGS.SCREENS.STR_1994237377"
 msgid "I N C O G N I T A  I N S T A L L S  A  N E W  P R O G R A M"
+msgstr ""
+
+#: STRINGS.SCREENS.STR_199477206
+msgctxt "STRINGS.SCREENS.STR_199477206"
+msgid "REFRESH MODS"
 msgstr ""
 
 #: STRINGS.SCREENS.STR_1998190014
@@ -12236,6 +15331,11 @@ msgctxt "STRINGS.SCREENS.STR_301926882"
 msgid "AUGMENT GRAFTER"
 msgstr ""
 
+#: STRINGS.SCREENS.STR_3091740271
+msgctxt "STRINGS.SCREENS.STR_3091740271"
+msgid "DELETE LOG"
+msgstr ""
+
 #: STRINGS.SCREENS.STR_3148742419
 msgctxt "STRINGS.SCREENS.STR_3148742419"
 msgid "Would you like to be notified when the next build comes out? Sign up below!"
@@ -12304,11 +15404,6 @@ msgstr ""
 #: STRINGS.SCREENS.STR_3406183664
 msgctxt "STRINGS.SCREENS.STR_3406183664"
 msgid "INCOGNITA V 1.3.6B"
-msgstr ""
-
-#: STRINGS.SCREENS.STR_3416994251
-msgctxt "STRINGS.SCREENS.STR_3416994251"
-msgid "After subscribing to a Language Pack on Steam Workshop, refresh the list of available languages."
 msgstr ""
 
 #: STRINGS.SCREENS.STR_3419756252
@@ -12466,9 +15561,19 @@ msgctxt "STRINGS.SCREENS.STR_3659171148"
 msgid "Irene, Tessa, & Hailey\nMonika, Avery & Frankie\nMara, Frank & Hilary\nAndrew Halabourda & Jameson Quander\nMatt Nickerson\nTom Giardino\nPieter Wycoff\nRobin Walker\nOphir Lupu\nMark Turpin & Yogscast\nTanya, Brisa and Odin\nSome1\nToo many dev friends to name\nSaturday morning hockey crew\n& Brian's magic factor"
 msgstr ""
 
+#: STRINGS.SCREENS.STR_3670262778
+msgctxt "STRINGS.SCREENS.STR_3670262778"
+msgid "Contigency Plan"
+msgstr ""
+
 #: STRINGS.SCREENS.STR_3683158536
 msgctxt "STRINGS.SCREENS.STR_3683158536"
 msgid "ACCEPT"
+msgstr ""
+
+#: STRINGS.SCREENS.STR_3706997078
+msgctxt "STRINGS.SCREENS.STR_3706997078"
+msgid "FILE TEST"
 msgstr ""
 
 #: STRINGS.SCREENS.STR_3707365810
@@ -12554,6 +15659,11 @@ msgstr ""
 #: STRINGS.SCREENS.STR_394046568
 msgctxt "STRINGS.SCREENS.STR_394046568"
 msgid "CAMPAIGN GENERATION"
+msgstr ""
+
+#: STRINGS.SCREENS.STR_3967454689
+msgctxt "STRINGS.SCREENS.STR_3967454689"
+msgid "Click to download all subscribed Mods and language packs from the Steam Workshop. You will need to restart the game after refreshing."
 msgstr ""
 
 #: STRINGS.SCREENS.STR_3968651824
@@ -12836,11 +15946,6 @@ msgctxt "STRINGS.SCREENS.STR_582781778"
 msgid "MISSIONS COMPLETED"
 msgstr ""
 
-#: STRINGS.SCREENS.STR_589089756
-msgctxt "STRINGS.SCREENS.STR_589089756"
-msgid "Choose the DLC you would like enabled for this game:"
-msgstr ""
-
 #: STRINGS.SCREENS.STR_589926612
 msgctxt "STRINGS.SCREENS.STR_589926612"
 msgid "Full Decor"
@@ -12941,6 +16046,11 @@ msgctxt "STRINGS.SCREENS.STR_731759181"
 msgid "Paradox"
 msgstr ""
 
+#: STRINGS.SCREENS.STR_746024742
+msgctxt "STRINGS.SCREENS.STR_746024742"
+msgid "View the Steam Workshop to find additional Mods and Language Packs to subscribe to."
+msgstr ""
+
 #: STRINGS.SCREENS.STR_749949932
 msgctxt "STRINGS.SCREENS.STR_749949932"
 msgid "REGENERATE LEVEL"
@@ -12996,9 +16106,9 @@ msgctxt "STRINGS.SCREENS.STR_827969749"
 msgid "<c:8CFFFF>MONST3R</>\n<c:FDFA68>BUY/SELL</>\n"
 msgstr ""
 
-#: STRINGS.SCREENS.STR_833235291
-msgctxt "STRINGS.SCREENS.STR_833235291"
-msgid "DLC"
+#: STRINGS.SCREENS.STR_835349520
+msgctxt "STRINGS.SCREENS.STR_835349520"
+msgid "Choose the DLC and MODs you would like enabled for this game:"
 msgstr ""
 
 #: STRINGS.SCREENS.STR_850302685
@@ -13866,6 +16976,11 @@ msgctxt "STRINGS.UI.COMBAT_PANEL_KILL"
 msgid "KILL"
 msgstr ""
 
+#: STRINGS.UI.COMBAT_PANEL_KILL_KO_TARGET
+msgctxt "STRINGS.UI.COMBAT_PANEL_KILL_KO_TARGET"
+msgid "KO"
+msgstr ""
+
 #: STRINGS.UI.COMBAT_PANEL_NEED_CHARGES
 msgctxt "STRINGS.UI.COMBAT_PANEL_NEED_CHARGES"
 msgid "NEEDS"
@@ -13974,6 +17089,21 @@ msgstr ""
 #: STRINGS.UI.CUSTOM_SHORT_DESC
 msgctxt "STRINGS.UI.CUSTOM_SHORT_DESC"
 msgid "Your rules, your way."
+msgstr ""
+
+#: STRINGS.UI.DATA_LOGS
+msgctxt "STRINGS.UI.DATA_LOGS"
+msgid ""
+msgstr ""
+
+#: STRINGS.UI.DELETE_LOG
+msgctxt "STRINGS.UI.DELETE_LOG"
+msgid "DELETE LOG"
+msgstr ""
+
+#: STRINGS.UI.DELETE_LOG_AREYOUSURE
+msgctxt "STRINGS.UI.DELETE_LOG_AREYOUSURE"
+msgid "You may find a deleted data log again in the future.\n\nAre you sure you want to delete this data log?"
 msgstr ""
 
 #: STRINGS.UI.DIALOGS.AGENT_RESCUED
@@ -14353,7 +17483,22 @@ msgstr ""
 
 #: STRINGS.UI.DLC_OPTIONS_HEADER
 msgctxt "STRINGS.UI.DLC_OPTIONS_HEADER"
-msgid "{1} (DLC)"
+msgid "{1}"
+msgstr ""
+
+#: STRINGS.UI.DLC_TAG
+msgctxt "STRINGS.UI.DLC_TAG"
+msgid "From the {1} {2}"
+msgstr ""
+
+#: STRINGS.UI.DLC_TAG_TYPE_EXPANSION
+msgctxt "STRINGS.UI.DLC_TAG_TYPE_EXPANSION"
+msgid "expansion"
+msgstr ""
+
+#: STRINGS.UI.DLC_TAG_TYPE_MOD
+msgctxt "STRINGS.UI.DLC_TAG_TYPE_MOD"
+msgid "mod"
 msgstr ""
 
 #: STRINGS.UI.DOORS.ALREADY_LOCKED
@@ -14719,6 +17864,11 @@ msgstr ""
 #: STRINGS.UI.FLY_TXT.FACILITY_REVEALED
 msgctxt "STRINGS.UI.FLY_TXT.FACILITY_REVEALED"
 msgid "FACILITY MAP\nREVEALED"
+msgstr ""
+
+#: STRINGS.UI.FLY_TXT.HEAVY
+msgctxt "STRINGS.UI.FLY_TXT.HEAVY"
+msgid "HEAVY -{1} AP"
 msgstr ""
 
 #: STRINGS.UI.FLY_TXT.IMPROVED_HEART_MONITOR
@@ -15933,17 +19083,17 @@ msgstr ""
 
 #: STRINGS.UI.MODS_OFFLINE
 msgctxt "STRINGS.UI.MODS_OFFLINE"
-msgid "REFRESH LANGUAGES\n(OFFLINE)"
+msgid "REFRESH MODS\n(OFFLINE)"
 msgstr ""
 
 #: STRINGS.UI.MODS_REFRESH_COMPLETE
 msgctxt "STRINGS.UI.MODS_REFRESH_COMPLETE"
-msgid "Finished refreshing language packs from Steam Workshop."
+msgid "Finished refreshing mods and language packs from Steam Workshop."
 msgstr ""
 
 #: STRINGS.UI.MODS_UPDATE
 msgctxt "STRINGS.UI.MODS_UPDATE"
-msgid "REFRESH LANGUAGES"
+msgid "REFRESH MODS"
 msgstr ""
 
 #: STRINGS.UI.MODS_UPDATING
@@ -16231,6 +19381,11 @@ msgctxt "STRINGS.UI.NEW_GAME_CONFIRM"
 msgid "I'M READY"
 msgstr ""
 
+#: STRINGS.UI.NEW_LOG
+msgctxt "STRINGS.UI.NEW_LOG"
+msgid "LOGS - NEW DATA"
+msgstr ""
+
 #: STRINGS.UI.NEXT
 msgctxt "STRINGS.UI.NEXT"
 msgid "> NEXT"
@@ -16269,6 +19424,11 @@ msgstr ""
 #: STRINGS.UI.NO_BONUS
 msgctxt "STRINGS.UI.NO_BONUS"
 msgid "NO BONUS"
+msgstr ""
+
+#: STRINGS.UI.NO_DATA_LOGS
+msgctxt "STRINGS.UI.NO_DATA_LOGS"
+msgid "ALL FILES ON THIS SUBJECT HAVE BEEN LOST DUE TO DUE TO CORPORATE SIEZURE OF DATA ASSETS.\n\nRECOMMEND CORPORATE DATA MINING TO RETRIEVE MISSING FILES."
 msgstr ""
 
 #: STRINGS.UI.OK
@@ -16481,11 +19641,6 @@ msgctxt "STRINGS.UI.REASON.DAEMON_REVEALED"
 msgid "Daemon already revealed"
 msgstr ""
 
-#: STRINGS.UI.REASON.DOES_NOT_BREAK_FIREWALLS
-msgctxt "STRINGS.UI.REASON.DOES_NOT_BREAK_FIREWALLS"
-msgid "PROGRAM DOES NOT BREAK FIREWALLS"
-msgstr ""
-
 #: STRINGS.UI.REASON.DROP_BODY_TO_USE
 msgctxt "STRINGS.UI.REASON.DROP_BODY_TO_USE"
 msgid "Drop body to use"
@@ -16606,6 +19761,11 @@ msgctxt "STRINGS.UI.REASON.NO_DAEMONS"
 msgid "No Daemons"
 msgstr ""
 
+#: STRINGS.UI.REASON.NO_EQUIPPED_PROGRAM
+msgctxt "STRINGS.UI.REASON.NO_EQUIPPED_PROGRAM"
+msgid "No equipped program"
+msgstr ""
+
 #: STRINGS.UI.REASON.NO_FREE_SOCKETS
 msgctxt "STRINGS.UI.REASON.NO_FREE_SOCKETS"
 msgid "NO FREE AUGMENT SOCKETS"
@@ -16654,6 +19814,11 @@ msgstr ""
 #: STRINGS.UI.REASON.NO_PROGRAM
 msgctxt "STRINGS.UI.REASON.NO_PROGRAM"
 msgid "No program equipped"
+msgstr ""
+
+#: STRINGS.UI.REASON.NO_PROGRAMS
+msgctxt "STRINGS.UI.REASON.NO_PROGRAMS"
+msgid "NO COMPILED CODE"
 msgstr ""
 
 #: STRINGS.UI.REASON.NO_ROOM_FOR_DAEMON
@@ -16826,6 +19991,26 @@ msgctxt "STRINGS.UI.RESCUED"
 msgid "RESCUED"
 msgstr ""
 
+#: STRINGS.UI.RESEARCH_OPEN.1
+msgctxt "STRINGS.UI.RESEARCH_OPEN.1"
+msgid "PLEASE SEE THE READ.ME"
+msgstr ""
+
+#: STRINGS.UI.RESEARCH_OPEN.2
+msgctxt "STRINGS.UI.RESEARCH_OPEN.2"
+msgid "ADD TO TASK BAR? Y/N"
+msgstr ""
+
+#: STRINGS.UI.RESEARCH_OPEN.3
+msgctxt "STRINGS.UI.RESEARCH_OPEN.3"
+msgid "AUTO OPEN ON INSTALL? Y/N"
+msgstr ""
+
+#: STRINGS.UI.RESEARCH_OPEN.4
+msgctxt "STRINGS.UI.RESEARCH_OPEN.4"
+msgid "REQUIRES DIRECT.EX 25.0"
+msgstr ""
+
 #: STRINGS.UI.RETIRE_AGENCY
 msgctxt "STRINGS.UI.RETIRE_AGENCY"
 msgid "RETIRE AGENCY"
@@ -16864,6 +20049,11 @@ msgstr ""
 #: STRINGS.UI.REWIND_TIP
 msgctxt "STRINGS.UI.REWIND_TIP"
 msgid "Rewind the game to the start of the previous turn.\n\nREWINDS REMAINING: "
+msgstr ""
+
+#: STRINGS.UI.ROUTER_ALERT
+msgctxt "STRINGS.UI.ROUTER_ALERT"
+msgid "ROUTER HAS REINFORCED A DEVICE\n+1 FIREWALL"
 msgstr ""
 
 #: STRINGS.UI.SAFES_LOOTED
@@ -16991,9 +20181,14 @@ msgctxt "STRINGS.UI.SECURITY_HACKED"
 msgid "SECURITY HACKED"
 msgstr ""
 
+#: STRINGS.UI.SELECT_DATA_LOG
+msgctxt "STRINGS.UI.SELECT_DATA_LOG"
+msgid "SELECT DATA LOG"
+msgstr ""
+
 #: STRINGS.UI.SELECT_DLC
 msgctxt "STRINGS.UI.SELECT_DLC"
-msgid "SELECT DLC"
+msgid "SELECT"
 msgstr ""
 
 #: STRINGS.UI.SELL_TO_MONST3R
@@ -17039,6 +20234,11 @@ msgstr ""
 #: STRINGS.UI.SHOP_PRINTER
 msgctxt "STRINGS.UI.SHOP_PRINTER"
 msgid "NANO FABRICATOR"
+msgstr ""
+
+#: STRINGS.UI.SHOP_RESEARCH
+msgctxt "STRINGS.UI.SHOP_RESEARCH"
+msgid "COMPILE COMPLETE"
 msgstr ""
 
 #: STRINGS.UI.SHOP_SELL
@@ -17244,6 +20444,16 @@ msgstr ""
 #: STRINGS.UI.TIME_ATTACK_SHORT_DESC
 msgctxt "STRINGS.UI.TIME_ATTACK_SHORT_DESC"
 msgid "Test your skills against the clock."
+msgstr ""
+
+#: STRINGS.UI.TOOLTIPS.ADVANCED_PERIPHERAL_BOOST
+msgctxt "STRINGS.UI.TOOLTIPS.ADVANCED_PERIPHERAL_BOOST"
+msgid "ADVANCED PERIPHERAL BOOST"
+msgstr ""
+
+#: STRINGS.UI.TOOLTIPS.ADVANCED_PERIPHERAL_BOOST_DESC
+msgctxt "STRINGS.UI.TOOLTIPS.ADVANCED_PERIPHERAL_BOOST_DESC"
+msgid "180 degree Line of Sight\n360 degree peripheral Sight"
 msgstr ""
 
 #: STRINGS.UI.TOOLTIPS.ANARCHY_BONUS
@@ -17609,6 +20819,16 @@ msgstr ""
 #: STRINGS.UI.TOOLTIPS.RETURN_FOR_CREDIT
 msgctxt "STRINGS.UI.TOOLTIPS.RETURN_FOR_CREDIT"
 msgid "WORTH {1} CREDITS"
+msgstr ""
+
+#: STRINGS.UI.TOOLTIPS.SCAN_VULNERABLE
+msgctxt "STRINGS.UI.TOOLTIPS.SCAN_VULNERABLE"
+msgid "VULNERABLE TO SCANS"
+msgstr ""
+
+#: STRINGS.UI.TOOLTIPS.SCAN_VULNERABLE_DESC
+msgctxt "STRINGS.UI.TOOLTIPS.SCAN_VULNERABLE_DESC"
+msgid "Scans from such things as Drones and Scan Grenades will be inconclusive drawing attention to this agent."
 msgstr ""
 
 #: STRINGS.UI.TOOLTIPS.SEARCHED
