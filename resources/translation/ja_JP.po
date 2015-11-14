@@ -6358,7 +6358,7 @@ msgstr "OMNI 社の ネットワークを 乗っ取るために、 これを 差
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.DESC"
 msgid "This effect triggers after the agent becomes cloaked for any reason."
-msgstr "エージェントを 無条件に 透明化 します。"
+msgstr "エージェントが 透明化すると 発動します。"
 
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.NAME"

@@ -863,12 +863,12 @@ msgstr ""
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.22
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.22"
 msgid "A bit, I think. But I may just be getting used to them."
-msgstr ""
+msgstr "少しずつ。 うん。 でも徐々に 慣れてきたわ。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.23
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.23"
 msgid "There isn't. But thank you for your concern."
-msgstr ""
+msgstr "特にないわ。 でも 気にかけてくれて ありがとう。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.3"
@@ -911,57 +911,57 @@ msgstr "起きた時や、 夢を見ている時はね。 それ以外の時は 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.1"
 msgid "Tick tock, tick tock. My time's run out."
-msgstr ""
+msgstr "チクタク、チクタク。 私の時間は 終わり。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.2"
 msgid "The reaper's finally come for his due."
-msgstr ""
+msgstr "やっと 死神が 仕事したわね。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.3"
 msgid "I've had a good run, but not a long one."
-msgstr ""
+msgstr "上手い 仕事だったけど、 長く 持たなかったな。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.FINAL_WORDS.4"
 msgid "Dust to dust."
-msgstr ""
+msgstr "ちりは ちりに。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.1
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.1"
 msgid "Did you hear that? No? Neither did I, then."
-msgstr ""
+msgstr "あの音、聞こえた？ え、聞こえない？ じゃあ私も 聞いてない。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.2
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.2"
 msgid "Live high while you can, ye mighty. Your reckoning will come."
-msgstr ""
+msgstr "高みを 目指せ、 戦士よ。 報いの時は 来たれり。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.3
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.3"
 msgid "Stick to the shadows. Be fleet of foot. We'll get out of here alive."
-msgstr ""
+msgstr "影に寄り添って。 俊足で。 ここから 生きて出るわよ。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.4
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.4"
 msgid "This room smells like burnt toast. But most things do!"
-msgstr ""
+msgstr "この部屋 焦げたトーストの 匂いがする。 まあでも やることは やれるわ。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.5
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.5"
 msgid "Some day soon this will all be shaken to the ground."
-msgstr ""
+msgstr "近いうちに これが 大地を 揺らすでしょう。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.6
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.6"
 msgid "The farmer in the dell... The farmer in the dell..."
-msgstr ""
+msgstr "小さな谷の農夫... 小さな谷の農夫..."
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.7
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.7"
 msgid "The wind will shake the barley."
-msgstr ""
+msgstr "麦の穂を揺らす風。"
 
 #: STRINGS.AGENTS.BANKS.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.BANKS.BIO_SPOKEN"
@@ -971,6 +971,9 @@ msgid ""
 "lucid, but I wonder what kind of long term effects that might have on her "
 "stability."
 msgstr ""
+"脳に 損傷を 負っていて さえ、 バンクスは 私が出会った中で 最も 有能な ハッ"
+"カーの 一人である。 刺激剤 および 神経状態によって 彼女は 頭脳明晰で いられる"
+"が、 何が 彼女を 長期間 安定させているのかに ついては 謎である。"
 
 #: STRINGS.AGENTS.BANKS.FILE
 msgctxt "STRINGS.AGENTS.BANKS.FILE"
@@ -1051,12 +1054,12 @@ msgstr "オペレーター、 Invisible社を 私とともに 死なせないで
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.1
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.1"
 msgid "Alright, people. Don't mess this up."
-msgstr ""
+msgstr "あなたたち、行くわよ。 抜からないで。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.2
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.2"
 msgid "By the numbers, people. No unnecessary risks."
-msgstr ""
+msgstr "セオリー通りにね。 不要なリスクは 取らないで。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.3"
@@ -1066,7 +1069,7 @@ msgstr "仕事しましょう。 そして皆で帰るわよ。"
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.4
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.4"
 msgid "Put THIS on your quarterly earnings report."
-msgstr ""
+msgstr "これを 四半期決算の 収支報告に しましょう。"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.5
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.5"
@@ -1088,6 +1091,11 @@ msgid ""
 "waiting for the opportunity to bring the whole machine crashing down. "
 "Unfortunately, they found us first."
 msgstr ""
+"私は オリビア・グラッドストン。 主権国家が まだ存在していたころ、 パン・ユー"
+"ロ 情報セキュリティ局に 勤めていた。 戦後、 フリーランスの 情報局として "
+"Invisible社を 設立。 我々は 企業に 利することも するが、 自身の目標にのみ 従"
+"事している。 数年に渡り 情報を 収集し、 全マシンが クラッシュする 機会を 伺っ"
+"ていた。 不幸なことに、 最初に見つかったのは 我々の方で あった。"
 
 #: STRINGS.AGENTS.CENTRAL.FILE
 msgctxt "STRINGS.AGENTS.CENTRAL.FILE"
@@ -1456,22 +1464,22 @@ msgstr "最後に一服してもいいかな？"
 #: STRINGS.AGENTS.DECKARD.BANTER.START.1
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.1"
 msgid "No resistance at the entry point. Amateurs."
-msgstr ""
+msgstr "入口に 守りも無しか。 アマチュアめ。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.2
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.2"
 msgid "Let's get this over with. I need a drink."
-msgstr ""
+msgstr "とっとと 片付けようぜ。 俺は 飲みたいんだ。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.3
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.3"
 msgid "All of these places start to look the same after a while."
-msgstr ""
+msgstr "潜入直後の 地点が 毎回 同じに 見えるんだが。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.4
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.4"
 msgid "I'm getting too old for this crap."
-msgstr ""
+msgstr "これをやるには 俺は 年を 取りすぎたな。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.5
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.5"
@@ -1480,6 +1488,9 @@ msgid ""
 "\n"
 "They aren't doing a very good job so far."
 msgstr ""
+"ここのセキュリティは 誰だよ。\n"
+"\n"
+"全然仕事してねえじゃねえか。"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.START.6
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.6"
@@ -1490,6 +1501,8 @@ msgstr "建物の中か。 長居は禁物だ。"
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.7"
 msgid "We wouldn't have got in so easy if I were running this joint."
 msgstr ""
+"もし 俺が このジョイントを 使ってたら、 こんなに うまく 潜入できなかった だろ"
+"うな。"
 
 #: STRINGS.AGENTS.DECKARD.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.DECKARD.BIO_SPOKEN"
@@ -1498,6 +1511,9 @@ msgid ""
 "since then, but I keep eyes on, just to be sure. The 20th century thing is "
 "an unfortunate affectation, but I'm not paying him for his fashion sense."
 msgstr ""
+"デッカーは クビになった後、 飲んだくれに なっているのを 私が見つけた。 彼は "
+"治ったように 見えるが、 目を離すことは もちろん しない。 20世紀趣味は 不幸な"
+"飾り であるが、 私は 彼の ファッション センスに 口を出すことは しない。"
 
 #: STRINGS.AGENTS.DECKARD.FILE
 msgctxt "STRINGS.AGENTS.DECKARD.FILE"
@@ -1687,47 +1703,47 @@ msgstr "... 資本主義が 瓦解した時、 民衆は 立ち上がり..."
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.10
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.10"
 msgid "Don't touch my stuff."
-msgstr ""
+msgstr "触らないでちょうだい。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.11
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.11"
 msgid "When is the last time you saw a tree?"
-msgstr ""
+msgstr "最後に 木を見たのは いつ？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.12
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.12"
 msgid "That doesn't count. That's a dead tree."
-msgstr ""
+msgstr "そうじゃなくて。 それは死んだ木でしょ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.13
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.13"
 msgid "Human nature doesn't change. We're still just people."
-msgstr ""
+msgstr "人間性は 不変よ。 私たちは ただの 市井の人。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.14
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.14"
 msgid "Well, most of us, at least."
-msgstr ""
+msgstr "そうね、 私たちの殆どは、 ってとこね。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.15
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.15"
 msgid "Certain patterns of electronic interference, yes."
-msgstr ""
+msgstr "ええ、 電子機器 インターフェースの パターンが 見えるわ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.16
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.16"
 msgid "Violence isn't always the answer."
-msgstr ""
+msgstr "いつも 暴力で 解決することは できないわ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.17
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.17"
 msgid "You made a lot of money working as an assassin, didn't you?"
-msgstr ""
+msgstr "あなた、 殺し屋として ずいぶんと 稼いだんですってね？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.18
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.18"
 msgid "Did it help you sleep at night?"
-msgstr ""
+msgstr "夜、 よく眠れた？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.19
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.19"
@@ -1735,6 +1751,8 @@ msgid ""
 "It's worth it. Global revolution is the most important issue facing the "
 "world today."
 msgstr ""
+"それだけの価値は あるわ。 地球革命は 今日(こんにち) 世界が 直面している 最も "
+"重要な課題よ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.2
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.2"
@@ -1744,24 +1762,25 @@ msgstr "了解。 残りは また後で 話してあげる。"
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.20
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.20"
 msgid "Thank you. I've always had trouble with that move."
-msgstr ""
+msgstr "ありがとう。 私、その動きが うまくできなくって。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.21
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.21"
 msgid "Affirmative. But I can take care of myself in a fight, if I need to."
 msgstr ""
+"分かったわ。 でも必要とあらば 私だって 身を守るために 戦うことは できる。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.22
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.22"
 msgid "You were a bodyguard before this, were you not?"
-msgstr ""
+msgstr "ここに来る前までは ボディガードだったんでしょう？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.23
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.23"
 msgid ""
 "It must have been demeaning to prioritize another's life ahead of your own "
 "for money. How did that feel?"
-msgstr ""
+msgstr "お金のために 自分の身を挺して 他人の命を 守るって どんな感じ？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.24
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.24"
@@ -1769,16 +1788,20 @@ msgid ""
 "Tell me, who assembled your latest implant? Who mined the ore that went into "
 "its components?"
 msgstr ""
+"教えて、 誰が あなたの 最新パーツを 組み込んだ のかしら？ 誰が 部品の中に 石"
+"を 埋め込んだ のかしら？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.25"
 msgid "Because some day they might stop. And then you'll know their power."
 msgstr ""
+"それはね、 いつか 機能停止 するからよ。 その時になって あなたは 彼らの力を 思"
+"い知るの。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.26"
 msgid "Can we try not to hurt anyone this time?"
-msgstr ""
+msgstr "今回は 誰も 傷つけずに いけるかしら？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.27
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.27"
@@ -1786,6 +1809,8 @@ msgid ""
 "It depends. If the workers at the Sankaku assembly plant voted to unionize, "
 "they could-"
 msgstr ""
+"状況によるんじゃないの。 三角社の 従業員が 労働組合でも 立ち上げたら、 彼らは"
+"―"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.28
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.28"
@@ -1793,6 +1818,7 @@ msgid ""
 "But don't you recognize the structural biases that have allowed you to "
 "pursue your goals at the expense of others?"
 msgstr ""
+"あなたのゴールに 向かっていくために 必要な経費は どこから 出てるのかしら？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.29
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.29"
@@ -1807,7 +1833,7 @@ msgstr "あなたって 生まれつき 皮肉屋なの？"
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.30
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.30"
 msgid "You were involved in the anti-corporate movement when you were younger?"
-msgstr ""
+msgstr "若い頃、 反企業活動に 打ち込んでた そうね？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.31
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.31"
@@ -1815,6 +1841,8 @@ msgid ""
 "But we should talk about it! You could have used your fame as a platform for "
 "changing public consciousness!"
 msgstr ""
+"いいえ、私たちは 話し合うべきよ！ あなたは 国民の意識を 変えられるっていう 誇"
+"りある 立場だった じゃない。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.32
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.32"
@@ -1822,6 +1850,8 @@ msgid ""
 "I enjoy reading. I particularly enjoy early 20th century proletarian novels. "
 "Have you read Upton Sinclair?"
 msgstr ""
+"読書が好きよ。 特に 20世紀初頭の プロレタリア 文学がね。 アプトン・シンクレア"
+"の 本を 読んだこと あるかしら？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.33
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.33"
@@ -1865,7 +1895,7 @@ msgstr "それは... 便利そうね。"
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.39
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.39"
 msgid "Of course. It was one of my favourite stories as a girl."
-msgstr ""
+msgstr "もちろん。 子供だった頃 とても好きだった お話の一つよ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.4
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.4"
@@ -1875,12 +1905,12 @@ msgstr "あなたが 向こう側の 人間だったなんて 信じられない
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.40
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.40"
 msgid "Your headaches, are they getting better?"
-msgstr ""
+msgstr "あなたの頭痛、 良くなってきてるの？"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.41
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.41"
 msgid "If there's anything I can do.."
-msgstr ""
+msgstr "何か してあげられる ことは ないかしら..."
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.5
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.5"
@@ -1975,6 +2005,9 @@ msgid ""
 "correctly, she's the bedrock upon which you can build a winning team. Just "
 "don't ask her about the plight of the global proletariat."
 msgstr ""
+"インターナショナルは オールラウンダーの 一人だ。 しかし、 彼女は 社会問題に "
+"大きく時間を 割いていた 過去がある。 正しく 使うことが できれば 勝てるチーム"
+"の 土台となる 人物である。 彼女に 労働者の誓いに ついて 尋ねてはいけない。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.FILE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.FILE"
@@ -2091,6 +2124,12 @@ msgid ""
 "buying intelligence from 'Monst3r' for ages before realizing that it was "
 "Derek."
 msgstr ""
+"デレクは 2050年台に 資源戦争が 始まった際、 将来有望な 若手リクルート であっ"
+"た。  彼は 私の CIO (最高情報責任者) として 任務に当たり、 ゴミ溜めから 任務"
+"情報を 引き上げたのも 一度や二度では なかった。\n"
+"\n"
+"戦争が終わった当時、 彼にかかった 賞金のせいで 地下に潜らざるを 得なくなった"
+"が、 現在、情報の 取引相手である 「モンスター」は デレクだろうと 思われる。"
 
 #: STRINGS.AGENTS.MONST3R.FILE
 msgctxt "STRINGS.AGENTS.MONST3R.FILE"
@@ -2229,7 +2268,7 @@ msgstr "相手の手首を、 こう、掴んだら、 十分 引き付けて �
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.18
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.18"
 msgid "Ne za chto. It is only physics."
-msgstr "ニ ザ シトー(そんなことはないさ)。 単純な 物理だよ。"
+msgstr "ニ ザ シトー(そんなことはない)。 単純な 物理だよ。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.19
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.19"
@@ -2246,7 +2285,7 @@ msgstr "逃げるのが 上手ってことだね。"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.20
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.20"
 msgid "I believe that you believe that."
-msgstr "アンタが信じてくれるなら アタシも信じるよ。"
+msgstr "アタシが信じる アンタを信じな。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.21
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.21"
@@ -2351,6 +2390,9 @@ msgid ""
 "make any sudden moves in her peripheral vision if you want your arms to "
 "remain in their sockets."
 msgstr ""
+"ムラトヴァは 人の形をした 凶器である。 そのような 振る舞いを 義務だと 考える"
+"者も いるが、 彼女は それを 利点に してしまう。 もし 腕を 外されたく なけれ"
+"ば、 彼女の前で 急な動作は しないことだ。"
 
 #: STRINGS.AGENTS.NIKA.FILE
 msgctxt "STRINGS.AGENTS.NIKA.FILE"
@@ -2616,6 +2658,11 @@ msgid ""
 "they are trying to control their public image. I feel the same may be said "
 "for Esther."
 msgstr ""
+"エステルは 最近入ってきた 社員の 一人だ。 そして 偉大な 約束をした。 彼女は "
+"泥を 塗られたため、 企業に 復習したいと 思っている。 私は ホロビデオに ついて"
+"いけないが、 彼女が 「若さゆえの過ち」 について 聞いたことがある。 企業は 自"
+"社イメージを 守るためなら 無慈悲になる。 エステルについても 同様に 私は 感じ"
+"る。"
 
 #: STRINGS.AGENTS.PRISM.FILE
 msgctxt "STRINGS.AGENTS.PRISM.FILE"
@@ -2962,6 +3009,9 @@ msgid ""
 "understand, but his skillset was too useful to pass up. He's obviously using "
 "us as a means to some personal end. We'll see who shows their hand first."
 msgstr ""
+"シェイレムは 経歴を 上手く隠している。 素性の 分からない 人間を 雇うことは 普"
+"通しないが、 彼の技量は それを 無視できる レベルだ。 彼は 自身の 目的のため"
+"に わが社を 利用するだろう。 私たちは 誰が 最初に 手を上げるか 見るだろう。"
 
 #: STRINGS.AGENTS.SHALEM.FILE
 msgctxt "STRINGS.AGENTS.SHALEM.FILE"
@@ -3141,7 +3191,9 @@ msgstr "俺様は 文字通り 自家製だ。"
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.21
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.21"
 msgid "Oh yeah, those. Those are great. I should try to make more of those."
-msgstr "そうだな。 そいつぁ いいや。 やってみるかな。"
+msgstr ""
+"そうだな。 必要経費か。 必要経費は いいな。 もっと 必要経費を 取れるように し"
+"ないとな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.3"
@@ -3239,6 +3291,10 @@ msgid ""
 "person who spends most of her time interfacing with a disembodied artificial "
 "intelligence."
 msgstr ""
+"大抵の人間は シャープの 非人間的な 見た目に 当惑するだろう。 私は 彼が 人の命"
+"に 対し 無関心な 社会病質者 であることに 当惑した。 彼を 受け入れられるか ど"
+"うか 震えたが、 私は 彼を 肉体から 抜け出た AI との通信に 長年 費やしている "
+"人物だと 評する。"
 
 #: STRINGS.AGENTS.SHARP.FILE
 msgctxt "STRINGS.AGENTS.SHARP.FILE"
@@ -3667,6 +3723,10 @@ msgid ""
 "practical results. He plays the absent-minded professor character well, but "
 "when push comes to shove he knows exactly what the score is."
 msgstr ""
+"トニー・ズゥ の学術評価は 両極端だと 感じた。 頭の良い者たちは 私に 彼は とて"
+"も印象的だと 言うが、 私が 印象的だと 思ったのは 実験的結果であった。 彼は "
+"うっかり者の 教授を うまく 演じているが、 データさえ 押し込んでやれば 正確な"
+"値を はじき出す。"
 
 #: STRINGS.AGENTS.XU.FILE
 msgctxt "STRINGS.AGENTS.XU.FILE"
@@ -6298,7 +6358,7 @@ msgstr "OMNI 社の ネットワークを 乗っ取るために、 これを 差
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.DESC"
 msgid "This effect triggers after the agent becomes cloaked for any reason."
-msgstr "エージェントを 無条件に 透明化 します。"
+msgstr "エージェントが 透明化すると 発動します。"
 
 #: STRINGS.ITEMS.KEYWORDS.CLOAK.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.CLOAK.NAME"

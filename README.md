@@ -9,13 +9,12 @@ Klei Entertainment 制作 ターンベースストラテジーゲーム 「[Invi
 
 ## 使用方法
 
-    OPTION -> GAMEPLAY -> LANGUAGE -> Japanese(WIP)
+    OPTION -> GAMEPLAY -> LANGUAGE -> Japanese
 
-__※翻訳途中であるため、ゲーム中のテキストが一部表示されない場合があります。__  
 __※Contingency Plan DLC がインストール済みの場合、翻訳前の英語が表示されることを確認しています。__
 
 ## インストール
-[ZIPファイル](https://github.com/nsk4762jp/Invisible-Inc-Japanese/archive/master.zip)を解凍したら、Japanese_Language_Pack_WIP フォルダを Invisible, Inc. のMODフォルダにコピーしてください。  
+[ZIPファイル](https://github.com/nsk4762jp/Invisible-Inc-Japanese/archive/master.zip)を解凍したら、Japanese_Language_Pack フォルダを Invisible, Inc. のMODフォルダにコピーしてください。  
 
 ## ライセンス
 
