@@ -1,6 +1,6 @@
 @echo off
 
-rmdir fonts
+rmdir /s /q fonts
 mkdir fonts
 
 for %%f in (.\fontConfig\*.bmfc) do (
