@@ -4949,42 +4949,42 @@ msgstr "闇の眷属"
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.1"
 msgid "I've died before. It is nothing."
-msgstr ""
+msgstr "俺は もう死んでるんだ。 どうってこと ないさ。"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.2"
 msgid "Sleep tight. I will be back for you."
-msgstr ""
+msgstr "おやすみ。 戻ってくるからな。"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.3"
 msgid "Back to the soil, at last."
-msgstr ""
+msgstr "とうとう土に帰る時か。"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.4"
 msgid "Death means nothing to me, fools!"
-msgstr ""
+msgstr "俺にとっちゃ 死なんて 何でもないんだよ。 愚か者！"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.START.1
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.START.1"
 msgid "Take them from the shadows."
-msgstr ""
+msgstr "影が 奪うだろう。"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.START.2
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.START.2"
 msgid "I can feel the spaces between myself."
-msgstr ""
+msgstr "自分の中に 宇宙を 感じられる。"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.START.3
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.START.3"
 msgid "That light! A little warning next time?"
-msgstr ""
+msgstr "光だ！ 次回から 注意して くれないか？"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.START.4
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.START.4"
 msgid "We are the predators here. Use their fear against them."
-msgstr ""
+msgstr "俺らは 捕食者だ。 恐怖を 奴らに 味合わせて やろう。"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BIO_SPOKEN
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BIO_SPOKEN"
@@ -5021,7 +5021,7 @@ msgstr "ドラコ"
 #: STRINGS.DLC1.AGENTS.DRACO.RESCUED
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.RESCUED"
 msgid "I'm alive!"
-msgstr ""
+msgstr "生きてるぞ！"
 
 #: STRINGS.DLC1.AGENTS.DRACO.YEARS_OF_SERVICE
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.YEARS_OF_SERVICE"
@@ -5133,7 +5133,7 @@ msgstr "オリビア"
 #: STRINGS.DLC1.AGENTS.OLIVIA.RESCUED
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.RESCUED"
 msgid "Get me out of here. Now."
-msgstr ""
+msgstr "ここから出しなさい。 早く。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.YEARS_OF_SERVICE
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.YEARS_OF_SERVICE"
@@ -5346,7 +5346,7 @@ msgstr "企業は 守衛の巡回路を 変更しました。"
 #: STRINGS.DLC1.AMBIENT_TURBINE
 msgctxt "STRINGS.DLC1.AMBIENT_TURBINE"
 msgid "Ambient Turbine"
-msgstr ""
+msgstr "アンビエント タービン"
 
 #: STRINGS.DLC1.AMBIENT_TURBINE_FLAVOR
 msgctxt "STRINGS.DLC1.AMBIENT_TURBINE_FLAVOR"
@@ -5354,26 +5354,28 @@ msgid ""
 "Olivia knew the acquisition of power would be necessary for her success, in "
 "and off the field."
 msgstr ""
+"戦場内外で 成功するためには 電力の獲得が 必須であると、 彼女は 理解していま"
+"す。"
 
 #: STRINGS.DLC1.AMBIENT_TURBINE_TIP
 msgctxt "STRINGS.DLC1.AMBIENT_TURBINE_TIP"
 msgid "Get PWR equal to KO damage done in melee."
-msgstr ""
+msgstr "KO ダメージで 与えた量と 同じだけの 電力を 得ます。"
 
 #: STRINGS.DLC1.AP_RIFLE
 msgctxt "STRINGS.DLC1.AP_RIFLE"
 msgid "K&O's 'Lance' Rifle"
-msgstr ""
+msgstr "K&O製ライフル 「ランス」"
 
 #: STRINGS.DLC1.AP_RIFLE_FLAVOR
 msgctxt "STRINGS.DLC1.AP_RIFLE_FLAVOR"
 msgid "One of Kelfried and Odin's top selling anti-armor combat weapon."
-msgstr ""
+msgstr "K&O 社の ヒット商品である 対アーマー 兵器 です。"
 
 #: STRINGS.DLC1.AP_RIFLE_TOOLTIP
 msgctxt "STRINGS.DLC1.AP_RIFLE_TOOLTIP"
 msgid "kills a target from long range."
-msgstr ""
+msgstr "長距離から ターゲットを 殺します。"
 
 #: STRINGS.DLC1.BUSTER_4
 msgctxt "STRINGS.DLC1.BUSTER_4"
@@ -7905,7 +7907,7 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TRANSFORMER_RELAY_SWITCH
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TRANSFORMER_RELAY_SWITCH"
 msgid "RELAY SWITCH"
-msgstr ""
+msgstr "リレイ スイッチ"
 
 #: STRINGS.DLC1.MONO_RAIL_GUN
 msgctxt "STRINGS.DLC1.MONO_RAIL_GUN"
@@ -7928,7 +7930,7 @@ msgstr "遠距離から 守衛を KO します。"
 #: STRINGS.DLC1.MULTI_UNLOCK
 msgctxt "STRINGS.DLC1.MULTI_UNLOCK"
 msgid "Activate Switch"
-msgstr ""
+msgstr "スイッチ切替"
 
 #: STRINGS.DLC1.MULTI_UNLOCK_DESC
 msgctxt "STRINGS.DLC1.MULTI_UNLOCK_DESC"
@@ -7970,7 +7972,7 @@ msgstr ""
 #: STRINGS.DLC1.NEURAL_SCAN
 msgctxt "STRINGS.DLC1.NEURAL_SCAN"
 msgid "Neural Scan"
-msgstr ""
+msgstr "神経 スキャン"
 
 #: STRINGS.DLC1.NEURAL_SCAN_DESC_DEAD
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_DESC_DEAD"
@@ -7990,7 +7992,7 @@ msgstr ""
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_2
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_2"
 msgid "Neural Scan"
-msgstr ""
+msgstr "神経 スキャン"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_3
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3"
@@ -8014,6 +8016,9 @@ msgid ""
 "\n"
 "It will last until the end of the mission."
 msgstr ""
+"\n"
+"\n"
+"任務終了まで 継続します。"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS"
@@ -8046,17 +8051,17 @@ msgstr "電力 +{1} ボーナス"
 #: STRINGS.DLC1.OPEN_SECURITY_DOOR
 msgctxt "STRINGS.DLC1.OPEN_SECURITY_DOOR"
 msgid "Deactivate security door"
-msgstr ""
+msgstr "機密扉を無効化"
 
 #: STRINGS.DLC1.OPEN_SECURITY_DOOR_DESC
 msgctxt "STRINGS.DLC1.OPEN_SECURITY_DOOR_DESC"
 msgid "Open the security door."
-msgstr ""
+msgstr "機密扉を開きます。"
 
 #: STRINGS.DLC1.OPTICAL_NOISE_EMITTER
 msgctxt "STRINGS.DLC1.OPTICAL_NOISE_EMITTER"
 msgid "Optical Noise Emitter"
-msgstr ""
+msgstr "オプティカル ノイズ エミッター"
 
 #: STRINGS.DLC1.OPTICAL_NOISE_EMITTER_FLAVOR
 msgctxt "STRINGS.DLC1.OPTICAL_NOISE_EMITTER_FLAVOR"
@@ -8480,6 +8485,8 @@ msgid ""
 "Uses a console. Raises the alarm 2 levels. Each alarm level after that, "
 "safes get +25 credits."
 msgstr ""
+"端末を 使用します。 警戒レベルを 2 上昇させますが、 金庫に 25 クレジット 追加"
+"します。"
 
 #: STRINGS.DLC1.REACTIVE_MOYOMER
 msgctxt "STRINGS.DLC1.REACTIVE_MOYOMER"
@@ -8516,7 +8523,7 @@ msgstr ""
 #: STRINGS.DLC1.SITUATION_UPDATE
 msgctxt "STRINGS.DLC1.SITUATION_UPDATE"
 msgid "SITUATION UPDATE"
-msgstr ""
+msgstr "状況が変わりました"
 
 #: STRINGS.DLC1.SKILL_CHIP_ANARCHY
 msgctxt "STRINGS.DLC1.SKILL_CHIP_ANARCHY"
@@ -8769,8 +8776,8 @@ msgid ""
 "The corporations have increased their response to our incursions. Expect "
 "higher resistance as the alarm levels increases."
 msgstr ""
-"我々の 侵攻に 備えて 企業が 警備を 強化したわ。 警戒レベルの 上昇に 伴って、 "
-"より大きな 脅威が 予想されそうね。"
+"我々の 侵攻に 備えて 企業が 警備を 強化しています。 警戒レベルの 上昇に 伴っ"
+"て、 より大きな 脅威が 予想される でしょう。"
 
 #: STRINGS.DLC1.UPDATE1_TITLE
 msgctxt "STRINGS.DLC1.UPDATE1_TITLE"
@@ -8783,8 +8790,8 @@ msgid ""
 "Incognita's new portable home consumes a lot of power. You will need to find "
 "and bring back a Universal Power Cell from each mission."
 msgstr ""
-"インコグニータの 新しいお家は 電力消費が 激しいのよね。 任務のたびに 万能型電"
-"力セルを 回収する 必要が あるでしょう。"
+"インコグニータの ポータブルデバイスは バッテリーの持ちが よく ありません。。 "
+"任務のたびに 万能型電力セルを 回収する 必要が あるでしょう。"
 
 #: STRINGS.DLC1.UPDATE2_TITLE
 msgctxt "STRINGS.DLC1.UPDATE2_TITLE"
@@ -8797,8 +8804,8 @@ msgid ""
 "It's not all bad news. The Quantum Reservoir has increased Incognita's "
 "memory capacity. She has space to install an additional program."
 msgstr ""
-"すべてが 悪いニュースって 訳でもないわね。 量子貯蔵器が インコグニータの メモ"
-"リ容量を 増加させたわ。 追加プログラムを インストールできる。"
+"悪いこと ばかりでは ありません。 量子貯蔵器が インコグニータの メモリ容量を "
+"増加させました。 追加の プログラムが インストールできます。"
 
 #: STRINGS.DLC1.UPDATE3_TITLE
 msgctxt "STRINGS.DLC1.UPDATE3_TITLE"
@@ -8812,8 +8819,8 @@ msgid ""
 "As well as scanning, the XL-5 emits a disruptive field that disables "
 "cloaking and Hologram Technology."
 msgstr ""
-"気を付けて。 オムニ社は 全執行官に XL-5 スキャン グレネードを 支給したわ。 ス"
-"キャン中は 透明化や ホログラムが 無効化されて しまう。"
+"気を付けて ください。 オムニ社は 全執行官に XL-5 スキャン グレネードを 支給し"
+"ました。 スキャン中は 透明化や ホログラムが 無効化されて しまうでしょう。"
 
 #: STRINGS.DLC1.UPDATE4_TITLE
 msgctxt "STRINGS.DLC1.UPDATE4_TITLE"
@@ -10644,7 +10651,7 @@ msgstr "ネットワーク"
 #: STRINGS.ITEMS.KEYWORDS.STIM.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.STIM.DESC"
 msgid "This effect triggers after this agent successfully uses a stim item."
-msgstr "強化パーツ 使用後に 発生する 効果です。"
+msgstr "刺激剤 使用後に 発生する 効果です。"
 
 #: STRINGS.ITEMS.KEYWORDS.STIM.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.STIM.NAME"
@@ -22405,17 +22412,17 @@ msgstr "一般"
 #: STRINGS.UI.GENERATING_WORLD.1
 msgctxt "STRINGS.UI.GENERATING_WORLD.1"
 msgid "Procedural generation algorithm initialized."
-msgstr "手続き型 生成 アルゴリズムを 初期化しました。"
+msgstr "プロシージャル生成アルゴリズムを 初期化しました。"
 
 #: STRINGS.UI.GENERATING_WORLD.2
 msgctxt "STRINGS.UI.GENERATING_WORLD.2"
 msgid "Computing facility layout and room connectivity..."
-msgstr "施設の レイアウトと 部屋どうしの 接続を 計算中..."
+msgstr "施設のレイアウトおよび間取りを計算中..."
 
 #: STRINGS.UI.GENERATING_WORLD.3
 msgctxt "STRINGS.UI.GENERATING_WORLD.3"
 msgid "Facility complete. Generation successful."
-msgstr "設備が 完成しました。 生成に 成功しました。"
+msgstr "配置が完成しました。 生成に成功しました。"
 
 #: STRINGS.UI.GENOPTIONS.ALARMTYPE.1
 msgctxt "STRINGS.UI.GENOPTIONS.ALARMTYPE.1"
