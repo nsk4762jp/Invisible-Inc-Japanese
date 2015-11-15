@@ -4802,6 +4802,16 @@ msgid ""
 "would use those same skills to create one the most extensive private "
 "information gathering networks on the planet."
 msgstr ""
+"デレク・モスマンは、 脱工業化した マンチェスターから 現れた、叩き上げで 腕の"
+"立つ 狡猾な ハッカーだ。 彼の 外来 テクノロジーへの 興味は 彼の収入より 勝っ"
+"ていた。 新しい おもちゃに 触れる機会が 得られるため、 当初は PEIA に所属して"
+"いた。 グラッドストンは 彼の可能性を 見出し、 彼女の 庇護のもとに 置いた。 彼"
+"らは 組織内で 順調に 昇進し、 デレクは グラッドストンの 副官として 任命される"
+"までに なった。\n"
+"活動中の彼の 真骨頂は 兵站補給であった。 彼は 何もないような 場所から クレ"
+"ジットと 物資を 産出できた ため、 敗戦まで の間、 PEIA は かなり 持ちこたえ"
+"る ことができた。 戦後の彼は そのスキルを 活かして、 地球上の ネットワークか"
+"ら 最も 高価な 個人情報を 収集している。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.ALT_1.FULLNAME
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.ALT_1.FULLNAME"
@@ -4811,7 +4821,7 @@ msgstr "デレク モスマン"
 #: STRINGS.DLC1.AGENTS.DEREK.ALT_1.TOOLTIP
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.ALT_1.TOOLTIP"
 msgid "Credit Monster"
-msgstr "クレジットの怪物"
+msgstr "錬金術師"
 
 #: STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.1"
@@ -4821,37 +4831,38 @@ msgstr "企業のクソったれが。"
 #: STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.2"
 msgid "This is not going according to plan."
-msgstr ""
+msgstr "これは 計画に 無かったぞ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.3"
 msgid "Everyone has a price, right? Name yours, and I'll double it."
 msgstr ""
+"何にだって 価値は あるんだぜ。 あんたに だってな。 2倍で 買ってやるよ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.FINAL_WORDS.4"
 msgid "Money is power, but then so is that gun over there. Pity."
-msgstr ""
+msgstr "金は力と いうなら、 あの銃も そうだよな。 やれやれ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.BANTER.START.1
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.START.1"
 msgid "Look at all this money. Let's take some of it."
-msgstr ""
+msgstr "見ろよ、 この金。 いくらか 貰っていこうぜ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.BANTER.START.2
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.START.2"
 msgid "Alright, kiddies. It's time to go shopping."
-msgstr ""
+msgstr "行くぜ。 ガキ共。 買い物の 時間だ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.BANTER.START.3
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.START.3"
 msgid "Take everything that isn't bolted to the floor."
-msgstr ""
+msgstr "床に 固定されてない 物は 何でも 持っていけ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.BANTER.START.4
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BANTER.START.4"
 msgid "Ones are fine, but I prefer numbers with lots of zeroes."
-msgstr ""
+msgstr "1 ってのは良いな。 だが 俺は 0 が たくさん 並んでる方が 好きだ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.BIO_SPOKEN
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.BIO_SPOKEN"
@@ -4888,7 +4899,7 @@ msgstr "デレク"
 #: STRINGS.DLC1.AGENTS.DEREK.RESCUED
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.RESCUED"
 msgid "I really need to get a desk job."
-msgstr ""
+msgstr "デスクワークが やりたいよ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.YEARS_OF_SERVICE
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.YEARS_OF_SERVICE"
@@ -4914,6 +4925,16 @@ msgid ""
 "for agents, the PEIA didn't ask too many questions about how a reclusive "
 "neurvelist would have attained such skills."
 msgstr ""
+"生まれつき 感光性の 皮膚を 持つ マテイは、 古い物語や 埃まみれの本に 出てくる"
+"ような 隠者として 育った。 彼の デビューは 「データ バンパイア」で、 ちょっと"
+"した 財産を もたらしたが、 その殆どを プライバシーの 保護に 費やしてしまっ"
+"た。 変わった 強化パーツの  噂と、 気味の悪い 仕事は 実生活で どうやって 閃い"
+"たのか という質問が あまりにも 根強いので、 彼は 自身の死を 偽装して 隠遁し"
+"て しまった。\n"
+"戦時、 大規模攻撃の 第一波として 企業の軍隊が 彼の故郷を 襲撃した時、 彼は 隠"
+"遁生活を 捨て PEIA に志願した。 PEIA は 彼を 赤貧の エージェントとして 扱"
+"い、 それだけの 技術を 持ちながら 何故 隠遁生活を  送っていたのかに ついては "
+"多くを 質問しなかった。"
 
 #: STRINGS.DLC1.AGENTS.DRACO.ALT_1.FULLNAME
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.ALT_1.FULLNAME"
@@ -4923,7 +4944,7 @@ msgstr "マテイ・カーネット"
 #: STRINGS.DLC1.AGENTS.DRACO.ALT_1.TOOLTIP
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.ALT_1.TOOLTIP"
 msgid "Creature of darkness"
-msgstr ""
+msgstr "闇の眷属"
 
 #: STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.BANTER.FINAL_WORDS.1"
@@ -5147,7 +5168,7 @@ msgstr "コレット・ファン"
 #: STRINGS.DLC1.AGENTS.RUSH.ALT_1.TOOLTIP
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.ALT_1.TOOLTIP"
 msgid "Adrenaline Junkie"
-msgstr "アドレナリン中毒"
+msgstr "アドレナリン中毒者"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.1"
@@ -5696,7 +5717,7 @@ msgstr ""
 #: STRINGS.DLC1.EMP_4
 msgctxt "STRINGS.DLC1.EMP_4"
 msgid "EMP Pack IV"
-msgstr ""
+msgstr "EMP パック IV"
 
 #: STRINGS.DLC1.EMP_4_FLAVOR
 msgctxt "STRINGS.DLC1.EMP_4_FLAVOR"
@@ -5883,7 +5904,7 @@ msgstr ""
 #: STRINGS.DLC1.GUARDS.SCIENTIST
 msgctxt "STRINGS.DLC1.GUARDS.SCIENTIST"
 msgid "Scientist"
-msgstr ""
+msgstr "科学者"
 
 #: STRINGS.DLC1.GUARDS.SIREN
 msgctxt "STRINGS.DLC1.GUARDS.SIREN"
@@ -7160,7 +7181,7 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.KNOWN_THREAT
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.KNOWN_THREAT"
 msgid "THREAT RECOGNIZED"
-msgstr ""
+msgstr "脅威を 認識"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.LOCATE_LAB
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.LOCATE_LAB"
@@ -8005,22 +8026,22 @@ msgstr ""
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_AP
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_AP"
 msgid "+{1} AP BONUS"
-msgstr ""
+msgstr "AP +{1} ボーナス"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_COOLDOWN
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_COOLDOWN"
 msgid "ITEM COOLDOWN BONUS {1} TURN "
-msgstr ""
+msgstr "クールダウン -{1} ボーナス"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_CREDIT
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_CREDIT"
 msgid "+{1} CREDIT BONUS"
-msgstr ""
+msgstr "クレジット +{1} ボーナス"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_PWR
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_PWR"
 msgid "+{1} PWR BONUS"
-msgstr ""
+msgstr "電力 +{1} ボーナス"
 
 #: STRINGS.DLC1.OPEN_SECURITY_DOOR
 msgctxt "STRINGS.DLC1.OPEN_SECURITY_DOOR"
@@ -8182,7 +8203,7 @@ msgstr ""
 #: STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS"
 msgid "NEW SIDE MISSIONS"
-msgstr ""
+msgstr "追加任務"
 
 #: STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS_TIP
 msgctxt "STRINGS.DLC1.OPTIONS.ENABLE_SIDEMISSIONS_TIP"
@@ -8191,11 +8212,13 @@ msgid ""
 "Adds several optional tasks with various rewards that may show up during a "
 "mission."
 msgstr ""
+"<c:FF8411>追加任務</c>\n"
+"任務の途中で 様々な報酬が 得られる 任意目標を 追加します。"
 
 #: STRINGS.DLC1.PARALYZER_4
 msgctxt "STRINGS.DLC1.PARALYZER_4"
 msgid "Paralyzer IV"
-msgstr ""
+msgstr "パラライザー IV"
 
 #: STRINGS.DLC1.PARALYZER_4_FLAVOR
 msgctxt "STRINGS.DLC1.PARALYZER_4_FLAVOR"
@@ -8282,7 +8305,7 @@ msgstr ""
 #: STRINGS.DLC1.PROGRAMS.BLESS.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.NAME"
 msgid "BLESS"
-msgstr ""
+msgstr "ブレス"
 
 #: STRINGS.DLC1.PROGRAMS.BLESS.SHORT_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.SHORT_DESC"
@@ -8309,7 +8332,7 @@ msgstr ""
 #: STRINGS.DLC1.PROGRAMS.BURST.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.NAME"
 msgid "BURST"
-msgstr ""
+msgstr "バースト"
 
 #: STRINGS.DLC1.PROGRAMS.BURST.SHORT_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.SHORT_DESC"
@@ -8343,7 +8366,7 @@ msgstr ""
 #: STRINGS.DLC1.PROGRAMS.CYCLE.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.NAME"
 msgid "CYCLE"
-msgstr ""
+msgstr "サイクル"
 
 #: STRINGS.DLC1.PROGRAMS.CYCLE.SHORT_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.SHORT_DESC"
@@ -8377,7 +8400,7 @@ msgstr ""
 #: STRINGS.DLC1.PROGRAMS.GOLEM.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.NAME"
 msgid "GOLEM"
-msgstr ""
+msgstr "ゴーレム"
 
 #: STRINGS.DLC1.PROGRAMS.GOLEM.SHORT_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.SHORT_DESC"
@@ -8439,7 +8462,7 @@ msgstr ""
 #: STRINGS.DLC1.PROTOCOL78
 msgctxt "STRINGS.DLC1.PROTOCOL78"
 msgid "\"Protocol 78\""
-msgstr ""
+msgstr "\"プロトコル 78\""
 
 #: STRINGS.DLC1.PROTOCOL78_FLAVOR
 msgctxt "STRINGS.DLC1.PROTOCOL78_FLAVOR"
@@ -8448,6 +8471,8 @@ msgid ""
 "which would relocate credit into more \"secure\" locations during times of "
 "emergency."
 msgstr ""
+"デレクの 最も悪名高い ハッキング行為は、 プロトコル 78 の濫用でした。 それは "
+"警報発令中に クレジットを より安全な 場所に 移動すると いうものです。"
 
 #: STRINGS.DLC1.PROTOCOL78_TIP
 msgctxt "STRINGS.DLC1.PROTOCOL78_TIP"
@@ -8604,7 +8629,7 @@ msgstr ""
 #: STRINGS.DLC1.TAZER_4
 msgctxt "STRINGS.DLC1.TAZER_4"
 msgid "Neural Disrupter IV"
-msgstr ""
+msgstr "スタンガン IV"
 
 #: STRINGS.DLC1.TAZER_4_FLAVOR
 msgctxt "STRINGS.DLC1.TAZER_4_FLAVOR"
@@ -8621,75 +8646,75 @@ msgstr "近距離対象"
 #: STRINGS.DLC1.TAZER_ARMOR_1
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_1"
 msgid "Thermal Disrupter I"
-msgstr ""
+msgstr "サーマル スタンガン I"
 
 #: STRINGS.DLC1.TAZER_ARMOR_1_FLAVOR
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_1_FLAVOR"
 msgid ""
 "PWR is surged into the targets armor in the form of heat, temporarily "
 "weakening it enough for the disrupter to do it's work."
-msgstr ""
+msgstr "電力を 熱に 変換し、 一時的に アーマーを 弱体化させます。"
 
 #: STRINGS.DLC1.TAZER_ARMOR_1_TOOLTIP
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_1_TOOLTIP"
 msgid "Melee range."
-msgstr ""
+msgstr "近距離対象"
 
 #: STRINGS.DLC1.TAZER_ARMOR_2
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_2"
 msgid "Thermal Disrupter II"
-msgstr ""
+msgstr "サーマル スタンガン II"
 
 #: STRINGS.DLC1.TAZER_ARMOR_2_FLAVOR
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_2_FLAVOR"
 msgid ""
 "PWR is surged into the targets armor in the form of heat, temporarily "
 "weakening it enough for the disrupter to do it's work."
-msgstr ""
+msgstr "電力を 熱に 変換し、 一時的に アーマーを 弱体化させます。"
 
 #: STRINGS.DLC1.TAZER_ARMOR_2_TOOLTIP
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_2_TOOLTIP"
 msgid "Melee range."
-msgstr ""
+msgstr "近距離対象"
 
 #: STRINGS.DLC1.TAZER_ARMOR_3
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_3"
 msgid "Thermal Disrupter III"
-msgstr ""
+msgstr "サーマル スタンガン III"
 
 #: STRINGS.DLC1.TAZER_ARMOR_3_FLAVOR
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_3_FLAVOR"
 msgid ""
 "PWR is surged into the targets armor in the form of heat, temporarily "
 "weakening it enough for the disrupter to do it's work."
-msgstr ""
+msgstr "電力を 熱に 変換し、 一時的に アーマーを 弱体化させます。"
 
 #: STRINGS.DLC1.TAZER_ARMOR_3_TOOLTIP
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_3_TOOLTIP"
 msgid "Melee range."
-msgstr ""
+msgstr "近距離対象"
 
 #: STRINGS.DLC1.TAZER_ARMOR_4
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_4"
 msgid "Thermal Disrupter IV"
-msgstr ""
+msgstr "サーマル スタンガン IV"
 
 #: STRINGS.DLC1.TAZER_ARMOR_4_FLAVOR
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_4_FLAVOR"
 msgid ""
 "PWR is surged into the targets armor in the form of heat, temporarily "
 "weakeing it enough for the disrupter to do it's work."
-msgstr ""
+msgstr "電力を 熱に 変換し、 一時的に アーマーを 弱体化させます。"
 
 #: STRINGS.DLC1.TAZER_ARMOR_4_TOOLTIP
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_4_TOOLTIP"
 msgid "Melee range."
-msgstr ""
+msgstr "近距離対象"
 
 #: STRINGS.DLC1.TAZER_PWR_4
 msgctxt "STRINGS.DLC1.TAZER_PWR_4"
 msgid "Volt Disrupter IV"
-msgstr ""
+msgstr "ボルト スタンガン IV"
 
 #: STRINGS.DLC1.TAZER_PWR_4_FLAVOR
 msgctxt "STRINGS.DLC1.TAZER_PWR_4_FLAVOR"
@@ -8706,22 +8731,22 @@ msgstr "近距離対象"
 #: STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR
 msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR"
 msgid "BUY PWR"
-msgstr ""
+msgstr "電力 購入"
 
 #: STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_DESC
 msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_DESC"
 msgid "Buy 1 PWR for {1} CREDITS"
-msgstr ""
+msgstr "電力 {1} を {2} クレジットで 購入します。"
 
 #: STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_ERROR
 msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_ERROR"
 msgid "Not enough enough CREDITS"
-msgstr ""
+msgstr "クレジットが 足りません。"
 
 #: STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_ERROR_FULL
 msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_BUY_PWR_ERROR_FULL"
 msgid "PWR Full"
-msgstr ""
+msgstr "フル電力"
 
 #: STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR
 msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR"
@@ -8731,7 +8756,7 @@ msgstr "電力 売却"
 #: STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR_DESC
 msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR_DESC"
 msgid "SELL {1} PWR for {2} CREDITS"
-msgstr "{1} 電力を {2} クレジットで売却します。"
+msgstr "電力 {1} を {2} クレジットで 売却します。"
 
 #: STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR_ERROR
 msgctxt "STRINGS.DLC1.TRANSFORMER_TERMINAL_SELL_PWR_ERROR"
@@ -8744,11 +8769,13 @@ msgid ""
 "The corporations have increased their response to our incursions. Expect "
 "higher resistance as the alarm levels increases."
 msgstr ""
+"我々の 侵攻に 備えて 企業が 警備を 強化したわ。 警戒レベルの 上昇に 伴って、 "
+"より大きな 脅威が 予想されそうね。"
 
 #: STRINGS.DLC1.UPDATE1_TITLE
 msgctxt "STRINGS.DLC1.UPDATE1_TITLE"
 msgid "ADVANCED ALARM STAGES"
-msgstr ""
+msgstr "警戒レベル上昇"
 
 #: STRINGS.DLC1.UPDATE2_TEXT
 msgctxt "STRINGS.DLC1.UPDATE2_TEXT"
@@ -8756,11 +8783,13 @@ msgid ""
 "Incognita's new portable home consumes a lot of power. You will need to find "
 "and bring back a Universal Power Cell from each mission."
 msgstr ""
+"インコグニータの 新しいお家は 電力消費が 激しいのよね。 任務のたびに 万能型電"
+"力セルを 回収する 必要が あるでしょう。"
 
 #: STRINGS.DLC1.UPDATE2_TITLE
 msgctxt "STRINGS.DLC1.UPDATE2_TITLE"
 msgid "ACQUIRE UNIVERSAL POWER CELLS"
-msgstr ""
+msgstr "万能電力セルを取得"
 
 #: STRINGS.DLC1.UPDATE3_TEXT
 msgctxt "STRINGS.DLC1.UPDATE3_TEXT"
@@ -8768,11 +8797,13 @@ msgid ""
 "It's not all bad news. The Quantum Reservoir has increased Incognita's "
 "memory capacity. She has space to install an additional program."
 msgstr ""
+"すべてが 悪いニュースって 訳でもないわね。 量子貯蔵器が インコグニータの メモ"
+"リ容量を 増加させたわ。 追加プログラムを インストールできる。"
 
 #: STRINGS.DLC1.UPDATE3_TITLE
 msgctxt "STRINGS.DLC1.UPDATE3_TITLE"
 msgid "INCREASED PROGRAM CAPACITY"
-msgstr ""
+msgstr "プログラム容量増加"
 
 #: STRINGS.DLC1.UPDATE4_TEXT
 msgctxt "STRINGS.DLC1.UPDATE4_TEXT"
@@ -8781,11 +8812,13 @@ msgid ""
 "As well as scanning, the XL-5 emits a disruptive field that disables "
 "cloaking and Hologram Technology."
 msgstr ""
+"気を付けて。 オムニ社は 全執行官に XL-5 スキャン グレネードを 支給したわ。 ス"
+"キャン中は 透明化や ホログラムが 無効化されて しまう。"
 
 #: STRINGS.DLC1.UPDATE4_TITLE
 msgctxt "STRINGS.DLC1.UPDATE4_TITLE"
 msgid "ADVANCED SCAN GRENADES"
-msgstr ""
+msgstr "強化型 スキャン グレネード"
 
 #: STRINGS.FORMATS.ADDRESS
 msgctxt "STRINGS.FORMATS.ADDRESS"
@@ -11633,6 +11666,8 @@ msgid ""
 "Each use of this item takes a charge. Recharges between missions. Use charge "
 "Packs to refill during missions."
 msgstr ""
+"このアイテムは 使用回数が あり、 任務ごとに リセットされます。 任務中に 回復"
+"させるには チャージパックを 使ってください。"
 
 #: STRINGS.ITEMS.TURRET
 msgctxt "STRINGS.ITEMS.TURRET"
@@ -12453,7 +12488,7 @@ msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.1"
 msgid ""
 "Nice haul, Operator. Everything is useful, if you're resourceful enough."
 msgstr ""
-"良い獲物 だったわね。 うまく やりくりできるなら、 万物は なべて 役に立つ で"
+"良い獲物 だったわね。 うまく やりくり できるなら、 万物は なべて 役に立つ で"
 "しょう。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.NANOFAB.BOUGHT.2
@@ -12607,6 +12642,8 @@ msgid ""
 "Excellent work, Operator. Now we have to find a way to spend our newfound "
 "fortune."
 msgstr ""
+"オペレーター、 素晴らしいわ。 さて、 この貴重品を どうやって 故買しよう かし"
+"ら？"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.VAULT.HARDLOOT.2"
@@ -13464,7 +13501,7 @@ msgstr "スキャナーを無効化する"
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SCANNERS
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SCANNERS"
 msgid "Disable the scanners"
-msgstr ""
+msgstr "スキャナーを無効化する"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY"
@@ -13543,6 +13580,8 @@ msgid ""
 "Incognita has detected multiple ECCM signals. There must be some of FTM's "
 "powerful scanning devices in the complex."
 msgstr ""
+"インコグニータが 複数の ECCM 信号を キャッチ。 施設の中に FTM製 スキャン装置"
+"が 設置されているに 違いないわ。"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_2"
@@ -13550,11 +13589,15 @@ msgid ""
 "They will detect your team's location each alarm level, make sure to shut "
 "them all down."
 msgstr ""
+"警戒レベルごとに エージェントの 位置を 検知する みたい。 確実に シャットダウ"
+"ンして。"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_3"
 msgid "Good job, Operator. You won't need to worry about those anymore."
 msgstr ""
+"オペレーター、 よくやったわ。 これで 少なくとも 心配の必要は 無くなった って"
+"ワケね。"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNER_DETECTED_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNER_DETECTED_1"
@@ -20297,8 +20340,8 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<c:ff0000>任務は中止できません</c>\n"
-"<C:ffffff>少なくともエージェントが一人脱出しなければなりません。</c>"
+"<c:ff0000>任務は 中止できません</c>\n"
+"<C:ffffff>少なくとも エージェントが 一人以上 脱出しなければ なりません。</c>"
 
 #: STRINGS.UI.ABORT_MISSION
 msgctxt "STRINGS.UI.ABORT_MISSION"
@@ -20970,7 +21013,7 @@ msgstr ""
 msgctxt "STRINGS.UI.CENTRAL_DOWN"
 msgid "Gladstone's down. We can't run this show without her."
 msgstr ""
-"グラッドストンが 倒れました。 彼女抜きで ショーを 続けることは できません。"
+"グラッドストンが やられた。 彼女抜きで ショーを 続けることは できないぞ。"
 
 #: STRINGS.UI.CENTRAL_MISSION_DIFFICULTY
 msgctxt "STRINGS.UI.CENTRAL_MISSION_DIFFICULTY"
