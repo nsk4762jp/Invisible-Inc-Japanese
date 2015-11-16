@@ -1026,7 +1026,7 @@ msgid ""
 "offered for a single target."
 msgstr ""
 "オリビア・グラッドストンは 資源戦争に よって 崩壊した パン・ユーロ 情報 セ"
-"キュリティ局の 局長であった。\n"
+"キュリティ局 (PEIA)の 局長であった。\n"
 "\n"
 "表舞台からの 撤退を 余儀なく されたが、 Invisible 社の創設者 兼リーダー とし"
 "て 再び戻ってきた。 彼女の首は 企業からの 懸賞金の 最高額を マークしている。"
@@ -2064,8 +2064,8 @@ msgstr ""
 "の 取次を しながら 自身の 生業を 学んでいった。\n"
 "\n"
 "先端技術への アクセスを探す中、 彼は 過去の記録を 抹消し パン・ユーロ 情報セ"
-"キュリティ 局へ 参加した。 瞬く間に 昇進していった 彼は オリビア・グラッドス"
-"トン 率いる エリート 潜入部隊に 名を 連ねる こととなった。"
+"キュリティ局 (PEIA) へ 参加した。 瞬く間に 昇進していった 彼は オリビア・グ"
+"ラッドストン 率いる エリート 潜入部隊に 名を 連ねる こととなった。"
 
 #: STRINGS.AGENTS.MONST3R.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.MONST3R.ALT_1.FULLNAME"
@@ -5083,22 +5083,22 @@ msgstr ""
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.1
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.1"
 msgid "We all know our jobs here. Just follow your training."
-msgstr ""
+msgstr "ここで やるべきことは 皆 分かってるわね。 訓練通りに。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.2
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.2"
 msgid "We have a war to win, people. No whinging."
-msgstr ""
+msgstr "私たちは 勝つために 戦争しているの。 泣き言は 言わないで。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.3
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.3"
 msgid "Strike hard and strike fast. Let's finish this before it starts."
-msgstr ""
+msgstr "一撃は 強く、 素早く。 始まる前に 終わらせましょう。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.4
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.4"
 msgid "Don't even give them a chance. They'd do the same to you."
-msgstr ""
+msgstr "企業に 機会を 与えては いけない。 彼らも 私たちに そうするわ。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.BIO_SPOKEN
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BIO_SPOKEN"
@@ -5159,6 +5159,15 @@ msgid ""
 "high profile makes her unsuitable for social infiltration work, but her raw "
 "athleticism comes in handy once subtlety fails."
 msgstr ""
+"ラッシュは 2050年 オーグメント ゲームズの 5000m走 および 高高度ダイブの 優勝"
+"者だ。 「オーグリート」は そうそう 引退しない。 強化パーツの テストは 彼らの "
+"金が尽きるまで 何度でも 行われる 傾向にあるが、 コレットは 正道を 外れなかっ"
+"た。 そして 資源戦争が 始まった。\n"
+"\n"
+"一夜のうちに 彼女の 後援者が 行方知れずとなり、 悪名高い 地下組織に 入るよう"
+"に 強いられると、 彼女は PEIA に 参加することを 決めた。 彼女の 目立つ経歴は "
+"一般社会に 潜入する 仕事には 向いていないが、  重大な危機に 直面したとき、 彼"
+"女の 身体能力が 役に立つだろう。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.ALT_1.FULLNAME
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.ALT_1.FULLNAME"
@@ -5173,47 +5182,47 @@ msgstr "アドレナリン中毒者"
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.1"
 msgid "How about we settle this one-on-one?"
-msgstr ""
+msgstr "サシで やろうぜ？"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.2"
 msgid "Coward! Hide behind your guns."
-msgstr ""
+msgstr "いくじなし。 銃に隠れてる だなンてさ。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.3"
 msgid "You must have cheated. Nobody beats me fair-and-square"
-msgstr ""
+msgstr "ズルしたンだろう？ 正攻法で アタシに 勝てる奴なンざ いないのさ。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.FINAL_WORDS.4"
 msgid "Make it quick. I hate waiting."
-msgstr ""
+msgstr "さっさと やりな。 待たされるのは 嫌いなンだ。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.1
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.1"
 msgid "Is this it? I was expecting more."
-msgstr ""
+msgstr "こンだけ？ もっと居るかと 思ってた。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.2
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.2"
 msgid "This is going to be a cakewalk."
-msgstr ""
+msgstr "今回は 楽勝かもね。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.3
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.3"
 msgid "I love outclassing my opponents."
-msgstr ""
+msgstr "相手の 追随を 許さないって いいよな。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.4
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.4"
 msgid "Don't slow me down."
-msgstr ""
+msgstr "もたもたすンなよ。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BANTER.START.5
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BANTER.START.5"
 msgid "I won't even break a sweat against these pedestrians."
-msgstr ""
+msgstr "歩行者相手に 汗かくこと なンて ないさ。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.BIO_SPOKEN
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.BIO_SPOKEN"
@@ -5244,7 +5253,7 @@ msgstr "ラッシュ"
 #: STRINGS.DLC1.AGENTS.RUSH.RESCUED
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.RESCUED"
 msgid "Time to get back in the game."
-msgstr ""
+msgstr "さて、 ゲームに 戻ろうか。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.YEARS_OF_SERVICE
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.YEARS_OF_SERVICE"
@@ -5292,6 +5301,10 @@ msgid ""
 "<c:F4FF78>NEXT SECURITY MEASURE:</>\n"
 "Doors will trigger alarm when opened."
 msgstr ""
+"\n"
+"\n"
+"<c:F4FF78>セキュリティ上昇予告:</>\n"
+"扉を開くと警戒レベルが上昇します。"
 
 #: STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS
 msgctxt "STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS"
@@ -5301,6 +5314,10 @@ msgid ""
 "<c:F4FF78>NEXT SECURITY MEASURE:</>\n"
 "Guard ARMOR and KO resistance will be increased."
 msgstr ""
+"\n"
+"\n"
+"<c:F4FF78>セキュリティ上昇予告:</>\n"
+"守衛のアーマーおよび KO 耐性が上昇します。"
 
 #: STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS_ARMOR
 msgctxt "STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS_ARMOR"
@@ -5310,6 +5327,10 @@ msgid ""
 "<c:F4FF78>NEXT SECURITY MEASURE:</>\n"
 "Guard ARMOR will be increased."
 msgstr ""
+"\n"
+"\n"
+"<c:F4FF78>セキュリティ上昇予告:</>\n"
+"守衛のアーマーが上昇します。"
 
 #: STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS_KO
 msgctxt "STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS_KO"
@@ -5319,6 +5340,10 @@ msgid ""
 "<c:F4FF78>NEXT SECURITY MEASURE:</>\n"
 "Guards will recover 1 KO damage and Guard KO resistance will be increased."
 msgstr ""
+"\n"
+"\n"
+"<c:F4FF78>セキュリティ上昇予告:</>\n"
+"守衛への KO ダメージが 1 減少し、 KO 耐性が上昇します。"
 
 #: STRINGS.DLC1.ALARM_NEXT_INCREASEDFIREWALLS2
 msgctxt "STRINGS.DLC1.ALARM_NEXT_INCREASEDFIREWALLS2"
@@ -5328,6 +5353,10 @@ msgid ""
 "<c:F4FF78>NEXT SECURITY MEASURE:</>\n"
 "MAINFRAME firewalls will be HEAVILY strengthend."
 msgstr ""
+"\n"
+"\n"
+"<c:F4FF78>セキュリティ上昇予告:</>\n"
+"ファイアウォールが大幅に強化されます。"
 
 #: STRINGS.DLC1.ALARM_NEXT_PATROLS
 msgctxt "STRINGS.DLC1.ALARM_NEXT_PATROLS"
@@ -5337,6 +5366,10 @@ msgid ""
 "<c:F4FF78>NEXT SECURITY MEASURE:</>\n"
 "Guard patrol pattens will change."
 msgstr ""
+"\n"
+"\n"
+"<c:F4FF78>セキュリティ上昇予告:</>\n"
+"守衛の巡回路が変わります。"
 
 #: STRINGS.DLC1.ALARM_PATROLS
 msgctxt "STRINGS.DLC1.ALARM_PATROLS"
@@ -5394,12 +5427,12 @@ msgstr ""
 #: STRINGS.DLC1.BUSTER_4_TOOLTIP
 msgctxt "STRINGS.DLC1.BUSTER_4_TOOLTIP"
 msgid "Use this to manually break through 8 firewalls."
-msgstr ""
+msgstr "ファイアウォールを 8枚 破ります。"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_DESC"
 msgid "FIREWALLS boosted by 3 on {1}"
-msgstr ""
+msgstr "{1} のファイアウォールを 3枚追加"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_TARGET
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_TARGET"
@@ -5409,7 +5442,7 @@ msgstr "10個の 機器"
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.DESC"
 msgid "Boosts FIREWALLS"
-msgstr ""
+msgstr "ファイアウォール強化"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NAME"
@@ -5419,22 +5452,22 @@ msgstr "キャッスル 2.0"
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NO_TARGET
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.NO_TARGET"
 msgid "Boost fails, no available targets."
-msgstr ""
+msgstr "強化に失敗。 該当対象なし。"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.SHORT_DESC"
 msgid "Boosts ten devices' FIREWALLS by three"
-msgstr ""
+msgstr "機器の ファイアウォールを 3枚追加"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.ACTIVE_DESC"
 msgid "-2 FIREWALLS broken per program use. Minimum of 1"
-msgstr ""
+msgstr "プログラムの ファイアウォール貫通力 -2 (最低1)"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.DESC"
 msgid "-2 FIREWALLS broken per program use. Minimum of 1"
-msgstr ""
+msgstr "プログラムの ファイアウォール貫通力 -2 (最低1)"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.NAME"
@@ -5444,17 +5477,17 @@ msgstr "ポートカリス 2.0"
 #: STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_PORTCULLIS.SHORT_DESC"
 msgid "Weakens FIREWALL breakers"
-msgstr ""
+msgstr "ファイアウォール 貫通力を 弱体化"
 
 #: STRINGS.DLC1.DAEMONS.CASTLE.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.ACTIVE_DESC"
 msgid "FIREWALLS boosted by 3 on {1}"
-msgstr ""
+msgstr "{1} のファイアウォールを 3枚追加"
 
 #: STRINGS.DLC1.DAEMONS.CASTLE.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.DESC"
 msgid "Boosts FIREWALLS"
-msgstr ""
+msgstr "ファイアウォール強化"
 
 #: STRINGS.DLC1.DAEMONS.CASTLE.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.NAME"
@@ -5464,22 +5497,22 @@ msgstr "キャッスル"
 #: STRINGS.DLC1.DAEMONS.CASTLE.NO_TARGET
 msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.NO_TARGET"
 msgid "Boost fails, no available targets."
-msgstr ""
+msgstr "強化に失敗。 該当対象なし。"
 
 #: STRINGS.DLC1.DAEMONS.CASTLE.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CASTLE.SHORT_DESC"
 msgid "Boosts one device's FIREWALLS by three"
-msgstr ""
+msgstr "機器の ファイアウォールを 3枚追加"
 
 #: STRINGS.DLC1.DAEMONS.CHITON.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON.ACTIVE_DESC"
 msgid "Guards have +1 ARMOR"
-msgstr ""
+msgstr "守衛のアーマー +1"
 
 #: STRINGS.DLC1.DAEMONS.CHITON.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON.DESC"
 msgid "All guards get +1 ARMOR."
-msgstr ""
+msgstr "守衛全員の アーマーが +1 されます。"
 
 #: STRINGS.DLC1.DAEMONS.CHITON.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON.NAME"
@@ -5489,17 +5522,17 @@ msgstr "カイタン"
 #: STRINGS.DLC1.DAEMONS.CHITON.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON.SHORT_DESC"
 msgid "Boost Guard ARMOR"
-msgstr ""
+msgstr "守衛のアーマー強化"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_2.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.ACTIVE_DESC"
 msgid "Guards have +2 ARMOR"
-msgstr ""
+msgstr "守衛のアーマー +2"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_2.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.DESC"
 msgid "All guards get +2 ARMOR."
-msgstr ""
+msgstr "守衛全員の アーマーが +2 されます。"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_2.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.NAME"
@@ -5509,17 +5542,17 @@ msgstr "カイタン 2"
 #: STRINGS.DLC1.DAEMONS.CHITON_2.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.SHORT_DESC"
 msgid "Boost Guard ARMOR"
-msgstr ""
+msgstr "守衛のアーマー強化"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_3.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.ACTIVE_DESC"
 msgid "Guards have +3 ARMOR"
-msgstr ""
+msgstr "守衛のアーマー +3"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_3.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.DESC"
 msgid "All guards get +3 ARMOR."
-msgstr ""
+msgstr "守衛全員の アーマーが +3 されます。"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_3.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.NAME"
@@ -5529,17 +5562,17 @@ msgstr "カイタン 3"
 #: STRINGS.DLC1.DAEMONS.CHITON_3.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.SHORT_DESC"
 msgid "Boost Guard ARMOR"
-msgstr ""
+msgstr "守衛のアーマー強化"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_4.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.ACTIVE_DESC"
 msgid "Guards have +4 ARMOR"
-msgstr ""
+msgstr "守衛のアーマー +4"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_4.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.DESC"
 msgid "All guards get +4 ARMOR."
-msgstr ""
+msgstr "守衛全員の アーマーが +4 されます。"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_4.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.NAME"
@@ -5549,17 +5582,17 @@ msgstr "カイタン 4"
 #: STRINGS.DLC1.DAEMONS.CHITON_4.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.SHORT_DESC"
 msgid "Boost Guard ARMOR"
-msgstr ""
+msgstr "守衛のアーマー強化"
 
 #: STRINGS.DLC1.DAEMONS.ECHO.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ECHO.ACTIVE_DESC"
 msgid "Reboots one captured device."
-msgstr ""
+msgstr "掌握した 機器を 再起動します。"
 
 #: STRINGS.DLC1.DAEMONS.ECHO.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ECHO.DESC"
 msgid "Reboots a captured device."
-msgstr ""
+msgstr "掌握した 機器を 再起動します。"
 
 #: STRINGS.DLC1.DAEMONS.ECHO.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.ECHO.NAME"
@@ -5569,17 +5602,17 @@ msgstr "エコー"
 #: STRINGS.DLC1.DAEMONS.ECHO.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ECHO.SHORT_DESC"
 msgid "Reboots Devices"
-msgstr ""
+msgstr "機器を再起動"
 
 #: STRINGS.DLC1.DAEMONS.JOLT.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.JOLT.ACTIVE_DESC"
 msgid "KO guards recover one point of KO damage."
-msgstr ""
+msgstr "守衛の KO 時間 -1"
 
 #: STRINGS.DLC1.DAEMONS.JOLT.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.JOLT.DESC"
 msgid "KO guards recover one point of KO damage."
-msgstr ""
+msgstr "守衛の KO 時間 -1"
 
 #: STRINGS.DLC1.DAEMONS.JOLT.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.JOLT.NAME"
@@ -5589,17 +5622,17 @@ msgstr "ジョルト"
 #: STRINGS.DLC1.DAEMONS.JOLT.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.JOLT.SHORT_DESC"
 msgid "Wakes up KO guards"
-msgstr ""
+msgstr "KO された守衛を 起こします。"
 
 #: STRINGS.DLC1.DAEMONS.PORTCULLIS.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.ACTIVE_DESC"
 msgid "-2 FIREWALLS broken per program use. Minimum of 1"
-msgstr ""
+msgstr "プログラムの ファイアウォール貫通力 -2 (最低1)"
 
 #: STRINGS.DLC1.DAEMONS.PORTCULLIS.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.DESC"
 msgid "-2 FIREWALLS broken per program use. Minimum of 1"
-msgstr ""
+msgstr "プログラムの ファイアウォール貫通力 -2 (最低1)"
 
 #: STRINGS.DLC1.DAEMONS.PORTCULLIS.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.NAME"
@@ -5609,12 +5642,12 @@ msgstr "ポートカリス"
 #: STRINGS.DLC1.DAEMONS.PORTCULLIS.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.PORTCULLIS.SHORT_DESC"
 msgid "Weakens FIREWALL breakers"
-msgstr ""
+msgstr "ファイアウォール 貫通力を 弱体化"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.ACTIVE_DESC"
 msgid "Guards have +1 KO resistance"
-msgstr ""
+msgstr "守衛の KO 耐性 +1"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.DESC"
@@ -5622,6 +5655,8 @@ msgid ""
 "All guards get +1 KO resistance.\n"
 "Resists against KO damage to a minimum of 1"
 msgstr ""
+"守衛全員の KO 耐性が +1 されます。\n"
+"KO ダメージは最低 1 まで下がります。"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.NAME"
@@ -5631,12 +5666,12 @@ msgstr "ワッチドッグ"
 #: STRINGS.DLC1.DAEMONS.SHOCK.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK.SHORT_DESC"
 msgid "Boost KO resistance"
-msgstr ""
+msgstr "KO 耐性強化"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_2.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.ACTIVE_DESC"
 msgid "Guards have +2 KO resistance"
-msgstr ""
+msgstr "守衛の KO 耐性 +2"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_2.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.DESC"
@@ -5644,6 +5679,8 @@ msgid ""
 "All guards get +2 KO resistance.\n"
 "Resists against KO damage to a minimum of 1"
 msgstr ""
+"守衛全員の KO 耐性が +2 されます。\n"
+"KO ダメージは最低 1 まで下がります。"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_2.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.NAME"
@@ -5653,12 +5690,12 @@ msgstr "ワッチドッグ 2"
 #: STRINGS.DLC1.DAEMONS.SHOCK_2.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_2.SHORT_DESC"
 msgid "Boost KO resistance"
-msgstr ""
+msgstr "KO 耐性強化"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_3.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.ACTIVE_DESC"
 msgid "Guards have +3 KO resistance"
-msgstr ""
+msgstr "守衛の KO 耐性 +3"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_3.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.DESC"
@@ -5666,6 +5703,8 @@ msgid ""
 "All guards get +3 KO resistance.\n"
 "Resists against KO damage to a minimum of 1"
 msgstr ""
+"守衛全員の KO 耐性が +3 されます。\n"
+"KO ダメージは最低 1 まで下がります。"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_3.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.NAME"
@@ -5675,12 +5714,12 @@ msgstr "ワッチドッグ 3"
 #: STRINGS.DLC1.DAEMONS.SHOCK_3.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_3.SHORT_DESC"
 msgid "Boost KO resistance"
-msgstr ""
+msgstr "KO 耐性強化"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_4.ACTIVE_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.ACTIVE_DESC"
 msgid "Guards have +4 KO resistance"
-msgstr ""
+msgstr "守衛の KO 耐性 +4"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_4.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.DESC"
@@ -5688,6 +5727,8 @@ msgid ""
 "All guards get +4 KO resistance.\n"
 "Resists against KO damage to a minimum of 1"
 msgstr ""
+"守衛全員の KO 耐性が +4 されます。\n"
+"KO ダメージは最低 1 まで下がります。"
 
 #: STRINGS.DLC1.DAEMONS.SHOCK_4.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.NAME"
@@ -5697,7 +5738,7 @@ msgstr "ワッチドッグ 4"
 #: STRINGS.DLC1.DAEMONS.SHOCK_4.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.SHOCK_4.SHORT_DESC"
 msgid "Boost KO resistance"
-msgstr ""
+msgstr "KO 耐性強化"
 
 #: STRINGS.DLC1.DATA_CARD
 msgctxt "STRINGS.DLC1.DATA_CARD"
@@ -5710,11 +5751,13 @@ msgid ""
 "Scraped from a corporate server as it was wiped, this is a little piece of "
 "data that belonged to Invisible Inc before the raid."
 msgstr ""
+"データが 消去された 企業サーバーから、 Invisible 社に 関する データの断片を "
+"拾いました。"
 
 #: STRINGS.DLC1.DATA_CARD_TOOLTIP
 msgctxt "STRINGS.DLC1.DATA_CARD_TOOLTIP"
 msgid "Return to the jet to recover lost data."
-msgstr ""
+msgstr "失われた データを 復元するため、 ジェットに 戻ります。"
 
 #: STRINGS.DLC1.EMP_4
 msgctxt "STRINGS.DLC1.EMP_4"
@@ -5737,23 +5780,25 @@ msgid ""
 "Detonates at the end of the turn when primed. Disables all Mainframe devices "
 "and drones in a range of 8 tiles"
 msgstr ""
+"刺激を 受けると、 そのターンの 終了時に 爆発します。 8 タイル 以内の 全メイン"
+"フレーム 端末 および ドローンを 無効化します。"
 
 #: STRINGS.DLC1.EXECUTE_PROTOCOL
 msgctxt "STRINGS.DLC1.EXECUTE_PROTOCOL"
 msgid "Execute Protocol 78"
-msgstr ""
+msgstr "プロトコル 78 を実行する。"
 
 #: STRINGS.DLC1.FLASH_PACK
 msgctxt "STRINGS.DLC1.FLASH_PACK"
 msgid "Flash Pack"
-msgstr ""
+msgstr "フラッシュ パック"
 
 #: STRINGS.DLC1.FLASH_PACK_FLAVOR
 msgctxt "STRINGS.DLC1.FLASH_PACK_FLAVOR"
 msgid ""
 "The power of a flash bomb married to the wireless magic of mainframe "
 "technology."
-msgstr ""
+msgstr "閃光弾の パワーと メインフレーム 技術の 無線技術が 融合しました。"
 
 #: STRINGS.DLC1.FLASH_PACK_TOOLTIP
 msgctxt "STRINGS.DLC1.FLASH_PACK_TOOLTIP"
@@ -5761,21 +5806,23 @@ msgid ""
 "Place on the ground. Detonate it using the mainframe. KO all guards for 2 "
 "turns in a radius of 3 tiles."
 msgstr ""
+"地面に 設置します。 メインフレーム 経由で 起動します。 3 タイル内の 守衛全員"
+"を 2 ターン KO します。"
 
 #: STRINGS.DLC1.FLASH_PACK_USE
 msgctxt "STRINGS.DLC1.FLASH_PACK_USE"
 msgid "Detonate Flash Pack"
-msgstr ""
+msgstr "フラッシュパック起動"
 
 #: STRINGS.DLC1.FLASH_PACK_USE_TIP
 msgctxt "STRINGS.DLC1.FLASH_PACK_USE_TIP"
 msgid "KO guards in a 3 tile radius for 2 turns."
-msgstr ""
+msgstr "3 タイル内の 守衛を 2 ターン KO します。"
 
 #: STRINGS.DLC1.GEL_INJECTORS
 msgctxt "STRINGS.DLC1.GEL_INJECTORS"
 msgid "Gel Injectors"
-msgstr ""
+msgstr "ジェル注入器"
 
 #: STRINGS.DLC1.GEL_INJECTORS_FLAVOR
 msgctxt "STRINGS.DLC1.GEL_INJECTORS_FLAVOR"
@@ -5784,17 +5831,21 @@ msgid ""
 "Unfortunately the gel congeals at a high rate actually making the mobility "
 "worse until it is flushed from the system."
 msgstr ""
+"摩擦抵抗が 極めて 低い ジェルです。 残念なことに、 注入されると 急速に 凝固"
+"が 始まるため、 排出されるまで 動きが 鈍くなって しまいます。"
 
 #: STRINGS.DLC1.GEL_INJECTORS_TIP
 msgctxt "STRINGS.DLC1.GEL_INJECTORS_TIP"
 msgid ""
 "Agents AP is increased by 3. Agent's AP pool goes down 1 per Alarm Level"
 msgstr ""
+"エージェントの 最大 AP が 3 増加します。 増加した分は 警戒レベルごとに 1 減少"
+"します。"
 
 #: STRINGS.DLC1.GRENADE_CRY_BABY
 msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY"
 msgid "Cry Baby"
-msgstr ""
+msgstr "クライ ベイビー"
 
 #: STRINGS.DLC1.GRENADE_CRY_BABY_FLAVOR
 msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY_FLAVOR"
@@ -5802,26 +5853,28 @@ msgid ""
 "Extensive focus tests were perfomed to find the most distracting sound to "
 "the common security guard."
 msgstr ""
+"集中力を 試す 様々な テストの 結果、 大抵の 守衛の 気を 最も そらせる音が 見"
+"つかりました。"
 
 #: STRINGS.DLC1.GRENADE_CRY_BABY_TOOLTIP
 msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY_TOOLTIP"
 msgid "Throw to place. Activate in the mainframe to create a noise."
-msgstr ""
+msgstr "投げ込むと、 メインフレームから ノイズを 発生させます。"
 
 #: STRINGS.DLC1.GRENADE_CRY_BABY_USE
 msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY_USE"
 msgid "Activate Cry Baby"
-msgstr ""
+msgstr "クライベイビーを 起動する。"
 
 #: STRINGS.DLC1.GRENADE_CRY_BABY_USE_TIP
 msgctxt "STRINGS.DLC1.GRENADE_CRY_BABY_USE_TIP"
 msgid "Device will emit a large sound."
-msgstr ""
+msgstr "機器から 大きな音が 出ます。"
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON"
 msgid "Transport Beacon"
-msgstr ""
+msgstr "トランスポート ビーコン"
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_FLAVOR
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_FLAVOR"
@@ -12251,8 +12304,8 @@ msgid ""
 "The server has been compromised, and the site's automatic security measures "
 "are coming online. Watch out for new daemons."
 msgstr ""
-"サーバーが ダウン、 自動 セキュリティ 機構が オンラインに なった。 デーモン"
-"に 気を付けて。"
+"サーバーが ダウン、 自動 セキュリティ 機構が オンラインよ。 デーモンに 気を付"
+"けて。"
 
 #: STRINGS.MISSIONS.AFTERMATH.TERMS.1
 msgctxt "STRINGS.MISSIONS.AFTERMATH.TERMS.1"
