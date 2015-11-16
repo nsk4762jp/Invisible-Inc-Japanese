@@ -511,7 +511,7 @@ msgstr "メモが 隠してあります。"
 #: STRINGS.ABILITIES.RECHARGE
 msgctxt "STRINGS.ABILITIES.RECHARGE"
 msgid "Charge device"
-msgstr "デバイスの充電"
+msgstr "機器の充電"
 
 #: STRINGS.ABILITIES.RECHARGE_CHARGES_DESC
 msgctxt "STRINGS.ABILITIES.RECHARGE_CHARGES_DESC"
@@ -2005,7 +2005,7 @@ msgstr "覚えておいて、 守衛は ただ与えられた 仕事を して�
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.7"
 msgid ""
 "Look around. All of this is built on the backs of average working people."
-msgstr "見て。 これらの機器は 労働者搾取によって 作られたのよ。"
+msgstr "見て。 これらの 機材は 労働者搾取によって 作られたのよ。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN"
@@ -2256,7 +2256,7 @@ msgstr "エネルギーを 無駄遣い しないほうが いいでしょ。"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.14
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.14"
 msgid "Like breaking bones."
-msgstr "骨を バキバキに 折るほうがいい。"
+msgstr "骨を バキバキに 折るために。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.15
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.15"
@@ -2310,7 +2310,7 @@ msgstr "Invisible 社で 働くのと ちょっと 似てるね。"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.23
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.23"
 msgid "I taught myself."
-msgstr ""
+msgstr "独学さ。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.24
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.24"
@@ -2320,7 +2320,7 @@ msgstr "試行錯誤が 最も効果的だね。"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.25"
 msgid "There is no such thing as luck. Only mistakes."
-msgstr ""
+msgstr "幸運から 学ぶこと なんて ないよ。 常に 失敗から。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.26"
@@ -3680,7 +3680,7 @@ msgstr "あまり 喋らない 性質 なんだね。"
 #: STRINGS.AGENTS.XU.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.25"
 msgid "Like thinking?"
-msgstr "考えてるほうが いい？"
+msgstr "考えるため？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.26"
@@ -5437,7 +5437,7 @@ msgstr "{1} のファイアウォールを 3枚追加"
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_TARGET
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.ACTIVE_TARGET"
 msgid "10 devices"
-msgstr "10個の 機器"
+msgstr "10個の機器"
 
 #: STRINGS.DLC1.DAEMONS.ALERT_CASTLE.DESC
 msgctxt "STRINGS.DLC1.DAEMONS.ALERT_CASTLE.DESC"
@@ -5883,6 +5883,9 @@ msgid ""
 "device before re-use.\"\n"
 "- Operational manual. pg.3"
 msgstr ""
+"「二点間を 移動した 後は、 再利用前に 機器を 隅々まで 綺麗に してくださ"
+"い。」\n"
+"― 操作マニュアル P.3"
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_LOST_BODY
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_LOST_BODY"
@@ -5891,16 +5894,19 @@ msgid ""
 "\n"
 "You will need to reacquire it to use if further."
 msgstr ""
+"守衛が トランスポート ビーコンを 発見し、 取り上げました。\n"
+"\n"
+"利用するためには 取り戻す 必要があります。"
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_LOST_HEADER
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_LOST_HEADER"
 msgid "BEACON CONNECTION LOST"
-msgstr ""
+msgstr "ビーコン接続喪失"
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_REASON_NO_AGENT
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_REASON_NO_AGENT"
 msgid "NO PARTICLE ENVELOPE"
-msgstr ""
+msgstr "パーティクル エンベロープ 無し"
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_TOOLTIP
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_TOOLTIP"
@@ -5908,11 +5914,14 @@ msgid ""
 "Throw to place. Activate in the mainframe to teleport the holder of the "
 "PARTICLE ENVELOPE AUGMENT to this location. The location must be clear."
 msgstr ""
+"投げ込んで 使用します。 パーティクル エンベロープを 所持した エージェント"
+"を、 メインフレーム 経由で その地点まで 移動させることが できます。 移動先は "
+"視線が 通っている 場所のみ です。"
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE"
 msgid "Activate Beacon"
-msgstr ""
+msgstr "ビーコン発動"
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE_TIP
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE_TIP"
@@ -5920,6 +5929,8 @@ msgid ""
 "Teleports the holder of the PARTICLE ENVELOPE AUGMENT to this location, as "
 "long as it is clear."
 msgstr ""
+"パーティクル エンベロープ 所持者を、 視線が 通っている 場合のみ、 この場所へ "
+"移動させます。"
 
 #: STRINGS.DLC1.GUARDS.AKUMA_2
 msgctxt "STRINGS.DLC1.GUARDS.AKUMA_2"
@@ -5929,12 +5940,12 @@ msgstr "アクマ 2.0"
 #: STRINGS.DLC1.GUARDS.FLACK
 msgctxt "STRINGS.DLC1.GUARDS.FLACK"
 msgid "Flack Guard"
-msgstr ""
+msgstr "フラック ガード"
 
 #: STRINGS.DLC1.GUARDS.HEAVY_GUARD_LVL2
 msgctxt "STRINGS.DLC1.GUARDS.HEAVY_GUARD_LVL2"
 msgid "ELITE HEAVY SECURITY"
-msgstr ""
+msgstr "エリート重装セキュリティ"
 
 #: STRINGS.DLC1.GUARDS.MKII
 msgctxt "STRINGS.DLC1.GUARDS.MKII"
@@ -5954,7 +5965,7 @@ msgstr "パルスドローン 2.0"
 #: STRINGS.DLC1.GUARDS.REFIT_DRONE
 msgctxt "STRINGS.DLC1.GUARDS.REFIT_DRONE"
 msgid "DRONE (REFIT)"
-msgstr ""
+msgstr "ドローン (修理済)"
 
 #: STRINGS.DLC1.GUARDS.SCIENTIST
 msgctxt "STRINGS.DLC1.GUARDS.SCIENTIST"
@@ -5974,12 +5985,12 @@ msgstr "サイレン 2.0"
 #: STRINGS.DLC1.GUARDS.SPEC_OPS_LVL2
 msgctxt "STRINGS.DLC1.GUARDS.SPEC_OPS_LVL2"
 msgid "ELITE SPEC OPS"
-msgstr ""
+msgstr "エリート特殊部隊"
 
 #: STRINGS.DLC1.INCOGNITA_CASE
 msgctxt "STRINGS.DLC1.INCOGNITA_CASE"
 msgid "QUANTUM RESERVOIR"
-msgstr ""
+msgstr "量子貯蔵器"
 
 #: STRINGS.DLC1.INCOGNITA_CASE_FLAVOR
 msgctxt "STRINGS.DLC1.INCOGNITA_CASE_FLAVOR"
@@ -5988,16 +5999,18 @@ msgid ""
 "will need to be charged with special power cells we need to acquire each "
 "mission."
 msgstr ""
+"インコグニータを 保管するために、 十分な容量を 持った 運搬可能な ケースで"
+"す。 任務遂行中に 入手できる 特殊な 電力セルで 充電する 必要が あるでしょう。"
 
 #: STRINGS.DLC1.INCOGNITA_CASE_TOOLTIP
 msgctxt "STRINGS.DLC1.INCOGNITA_CASE_TOOLTIP"
 msgid "Get this back to the Jet to keep Incognita alive"
-msgstr ""
+msgstr "インコグニータを 活かすため、 ジェットに 持ち帰って ください。"
 
 #: STRINGS.DLC1.KINETIC_CAPACITOR
 msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR"
 msgid "Kinetic Capacitor"
-msgstr ""
+msgstr "キネティック キャパシター"
 
 #: STRINGS.DLC1.KINETIC_CAPACITOR_ALERT
 msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR_ALERT"
@@ -6005,23 +6018,27 @@ msgid ""
 "Kinetic Capacitor\n"
 "+1 KO"
 msgstr ""
+"キネティック キャパシター\n"
+"+1 KO"
 
 #: STRINGS.DLC1.KINETIC_CAPACITOR_FLAVOR
 msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR_FLAVOR"
 msgid ""
 "20th century watch technology with nearly a century of advancement on top if "
 "it."
-msgstr ""
+msgstr "20世紀の 監視技術は 技術の世紀を 代表するものです。"
 
 #: STRINGS.DLC1.KINETIC_CAPACITOR_TIP
 msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR_TIP"
 msgid "Sprinting gives the agent +1 KO damage and +1 ARMOR PIERCING"
 msgstr ""
+"ダッシュすることで、 エージェントは KO ダメージと アーマー貫通に +1 の ボーナ"
+"スを 得ます。"
 
 #: STRINGS.DLC1.KINETIC_DYNAMO
 msgctxt "STRINGS.DLC1.KINETIC_DYNAMO"
 msgid "KINETIC DYNAMO"
-msgstr ""
+msgstr "キネティック ダイナモ"
 
 #: STRINGS.DLC1.KINETIC_DYNAMO_FLAVOR
 msgctxt "STRINGS.DLC1.KINETIC_DYNAMO_FLAVOR"
@@ -6029,11 +6046,12 @@ msgid ""
 "These sophisticated micro-dynamos generate and distribute PWR based on rapid "
 "kinetic motion."
 msgstr ""
+"洗練された マイクロモーターが 高速回転 することで、 電力を生成、供給します。"
 
 #: STRINGS.DLC1.KINETIC_DYNAMO_TIP
 msgctxt "STRINGS.DLC1.KINETIC_DYNAMO_TIP"
 msgid "Gain +1 PWR every 5 tiles sprinted."
-msgstr ""
+msgstr "ダッシュで 5 タイル 走るたびに 電力を 1 獲得します。"
 
 #: STRINGS.DLC1.LOADING_TIP_MID
 msgctxt "STRINGS.DLC1.LOADING_TIP_MID"
@@ -6041,6 +6059,7 @@ msgid ""
 "You must find a new portable power source for Incognita, or this show is "
 "over."
 msgstr ""
+"インコグニータの電力源を見つけてください。さもなくば、ショーは終わりです。"
 
 #: STRINGS.DLC1.LOGS.LOG01
 msgctxt "STRINGS.DLC1.LOGS.LOG01"
@@ -8843,8 +8862,8 @@ msgid ""
 "Incognita's new portable home consumes a lot of power. You will need to find "
 "and bring back a Universal Power Cell from each mission."
 msgstr ""
-"インコグニータの ポータブルデバイスは バッテリーの持ちが よく ありません。。 "
-"任務のたびに 万能型電力セルを 回収する 必要が あるでしょう。"
+"インコグニータの ポータブル機器は バッテリーの持ちが よく ありません。。 任務"
+"のたびに 万能型電力セルを 回収する 必要が あるでしょう。"
 
 #: STRINGS.DLC1.UPDATE2_TITLE
 msgctxt "STRINGS.DLC1.UPDATE2_TITLE"
@@ -9557,8 +9576,8 @@ msgid ""
 "Allows agent to hack items from a distance, through walls. Automatically "
 "reveals nearby mainframe objects."
 msgstr ""
-"壁を隔てた 遠くにある デバイスへ ハッキング できます。 メインフレームの 対象"
-"が 周辺にある 場合、 自動で 場所を 特定します。"
+"壁を隔てた 遠くにある 機器へ ハッキング できます。 メインフレームの 対象が 周"
+"辺にある 場合、 自動で 場所を 特定します。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS"
@@ -9691,7 +9710,7 @@ msgstr "アーマーの 弱点を 分析する AI ルーチンと センサー �
 #: STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.PIERCING_SCANNER_TIP"
 msgid "Gives +1 armor piercing to ranged weapons."
-msgstr "射撃武器に アーマー 1 貫通能力を 与えます。"
+msgstr "射撃武器に アーマー +1 貫通能力を 与えます。"
 
 #: STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING
 msgctxt "STRINGS.ITEMS.AUGMENTS.PREDICTIVE_BRAWLING"
@@ -9731,8 +9750,8 @@ msgstr ""
 msgctxt "STRINGS.ITEMS.AUGMENTS.PRISM_2_TOOLTIP"
 msgid "Gain +1 PWR when a mainframe device is hacked. Max +2 PWR per turn."
 msgstr ""
-"メインフレーム デバイスが ハックされると 電力を 1 獲得します (ターンごとに 最"
-"大 +2 まで)"
+"メインフレーム 機器が ハックされると 電力を 1 獲得します (ターンごとに 最大 "
+"+2 まで)"
 
 #: STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS
 msgctxt "STRINGS.ITEMS.AUGMENTS.SADOCHISTIC_PUMPS"
@@ -9915,8 +9934,8 @@ msgid ""
 "A local EMP blast that disables mainframe devices for 1 turn. Agent's AP is "
 "reduced by 1"
 msgstr ""
-"メインフレーム デバイスを 1ターン 無効化する EMP を 爆発させます。 エージェン"
-"トの AP が 1 減少します。"
+"メインフレーム 機器を 1ターン 無効化する EMP を 爆発させます。 エージェント"
+"の AP が 1 減少します。"
 
 #: STRINGS.ITEMS.AUGMENTS.TONYS_TIP_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.TONYS_TIP_2"
@@ -10342,8 +10361,8 @@ msgid ""
 "This trusty device has probably seen more credits run through its circuits "
 "than some small countries."
 msgstr ""
-"この信頼できる デバイスは、 おそらく 小国レベルの 国家予算よりも 多くの クレ"
-"ジットを その回路を 通して 見ています。"
+"この信頼できる 機器は、 おそらく 小国レベルの 国家予算よりも 多くの クレジッ"
+"トを その回路を 通して 見ています。"
 
 #: STRINGS.ITEMS.ECON_CHIP_BANKS_TOOLTIP
 msgctxt "STRINGS.ITEMS.ECON_CHIP_BANKS_TOOLTIP"
@@ -10938,7 +10957,7 @@ msgid ""
 "agent's attack. Lethal damage"
 msgstr ""
 "弾数 無制限 ですが、 任務ごとに 1回しか 使えません。 エージェントの 攻撃とし"
-"て カウント されます。致命的な ダメージを 与えます。"
+"て カウント されます。 致命的な ダメージを 与えます。"
 
 #: STRINGS.ITEMS.PISTOL_FLAVOR
 msgctxt "STRINGS.ITEMS.PISTOL_FLAVOR"
@@ -11177,7 +11196,7 @@ msgstr ""
 #: STRINGS.ITEMS.SCAN_CHIP_TOOLTIP
 msgctxt "STRINGS.ITEMS.SCAN_CHIP_TOOLTIP"
 msgid "Reveals hidden Daemons and identifies its type on mainframe device."
-msgstr "メインフレームデバイスに 隠れている デーモンを 識別します。"
+msgstr "メインフレーム機器に 隠れている デーモンを 識別します。"
 
 #: STRINGS.ITEMS.SHOCK_TRAP_1
 msgctxt "STRINGS.ITEMS.SHOCK_TRAP_1"
@@ -11502,8 +11521,8 @@ msgid ""
 "Shalem's personal neural disrupter isn't even particularly nice, but he "
 "keeps it around for sentimental reasons."
 msgstr ""
-"シェイレムのスタンガンは見たところ素晴らしいとは言えませんが、彼は感傷的な理"
-"由でそれを持ち歩いています。"
+"シェイレムの スタンガンは 見たところ 素晴らしいとは 言えませんが、 彼は 感傷"
+"的な 理由で それを 持ち歩いて います。"
 
 #: STRINGS.ITEMS.TAZER_SHALEM_TOOLTIP
 msgctxt "STRINGS.ITEMS.TAZER_SHALEM_TOOLTIP"
@@ -11641,7 +11660,7 @@ msgstr "インストール"
 #: STRINGS.ITEMS.TOOLTIPS.INSTALL_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.INSTALL_DESC"
 msgid "This device must be INSTALLED to function."
-msgstr "このデバイスを 機能させるには インストール してください。"
+msgstr "この機器を 機能させるには インストール してください。"
 
 #: STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE"
@@ -11781,7 +11800,7 @@ msgstr ""
 #: STRINGS.ITEMS.WIRELESS_SCANNER_TOOLTIP
 msgctxt "STRINGS.ITEMS.WIRELESS_SCANNER_TOOLTIP"
 msgid "Passively scans for Mainframe devices within range."
-msgstr "範囲内の メインフレームデバイスを 自動的に スキャンします。"
+msgstr "範囲内の メインフレーム 機器を 自動的に スキャンします。"
 
 #: STRINGS.LOADING.ERR_BODY
 msgctxt "STRINGS.LOADING.ERR_BODY"
@@ -12263,8 +12282,8 @@ msgid ""
 "Head office is catching on to us. Several devices have been remotely "
 "rebooted- I hope we don't run out of PWR."
 msgstr ""
-"本社に見つかったようね。 いくつかの デバイスが リモートから 再起動中よ。 電力"
-"切れに ならないことを 願うわ。"
+"本社に見つかったようね。 いくつかの 機器が リモートから 再起動中よ。 電力切れ"
+"に ならないことを 願うわ。"
 
 #: STRINGS.MISSIONS.AFTERMATH.CYBERNANO.2
 msgctxt "STRINGS.MISSIONS.AFTERMATH.CYBERNANO.2"
@@ -12272,8 +12291,8 @@ msgid ""
 "We must have triggered something in their telemetry. They're toggling the "
 "power on some of the devices we've taken."
 msgstr ""
-"彼らの テレメータに 引っかかったわ。 奪取した デバイスの 電力の 切替作業を "
-"やっているみたい。"
+"彼らの テレメータに 引っかかったわ。 奪取した 機器の 電力切替 作業を やってい"
+"るみたい。"
 
 #: STRINGS.MISSIONS.AFTERMATH.DISPATCH.1
 msgctxt "STRINGS.MISSIONS.AFTERMATH.DISPATCH.1"
@@ -13274,8 +13293,8 @@ msgid ""
 "We are digging in his cerebral implant now, but it will take a few minutes. "
 "Stay close to the target so I can keep the scan running."
 msgstr ""
-"彼の 脳内デバイス から 情報を 取得するのに 時間が 必要よ。 スキャン できるよ"
-"うに 取り押さえて おいて。"
+"彼の 脳内インプラント から 情報を 取得するのに 時間が 必要よ。 スキャン でき"
+"るように 取り押さえて おいて。"
 
 #: STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.MISSION_DESCRIPTION_1"
@@ -13705,8 +13724,8 @@ msgid ""
 "The executive has been located. Disable him and get his cerebral implant "
 "ready for the interrogation."
 msgstr ""
-"重役の 位置を 特定したわ。 無効化して 脳内デバイスへ 接続の用意を してちょう"
-"だい。"
+"重役の 位置を 特定したわ。 無効化して 脳内インプラントへ 接続の用意を して"
+"ちょうだい。"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_SEEPRISONER
 msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_SEEPRISONER"
@@ -13731,7 +13750,7 @@ msgstr "囚人番号 KSC2-303"
 #: STRINGS.MISSIONS.ESCAPE.SCAN_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.SCAN_1"
 msgid "Cerebral implant is transmitting. Begin deepening the scan."
-msgstr "脳内デバイスと 通信中。 深層スキャンを 開始。"
+msgstr "脳内インプラントと 通信中。 深層スキャンを 開始。"
 
 #: STRINGS.MISSIONS.ESCAPE.SCAN_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.SCAN_2"
@@ -14210,8 +14229,8 @@ msgid ""
 "They've got this place locked up tight. See if you can find the security hub "
 "- I should be able to get us past the perimeter defences from there."
 msgstr ""
-"この場所は がっちり 封鎖されてる ようね。 セキュリティハブの 扉を 見つけて。 "
-"周辺の 守りを 固めましょう。"
+"この場所は がっちり 封鎖されてる ようだ。 セキュリティハブの 扉を 見つけるん"
+"だ。 周辺の 守りを 固めるべき だな。"
 
 #: STRINGS.MISSIONS.FINALMISSION.SEE_GUARDS
 msgctxt "STRINGS.MISSIONS.FINALMISSION.SEE_GUARDS"
@@ -14223,13 +14242,13 @@ msgstr "あの装備は 何？ 未知の敵を 相手に したくないわ。"
 msgctxt "STRINGS.MISSIONS.FINALMISSION.SEE_HUB_FIRST"
 msgid ""
 "That's the security hub for this level. I bet I can clear the way from there."
-msgstr "あれが セキュリティハブ だ。 行こう。"
+msgstr "あれが セキュリティ ハブだ。 行こう。"
 
 #: STRINGS.MISSIONS.FINALMISSION.SEE_HUB_SECOND
 msgctxt "STRINGS.MISSIONS.FINALMISSION.SEE_HUB_SECOND"
 msgid ""
 "Ah. There it is. I knew there'd be a security hub somewhere on this level."
-msgstr "あ、 あれね。 どこかに あると 思ってた。"
+msgstr "あれだな。 どこかに あるはずだと 思ってたぞ。"
 
 #: STRINGS.MISSIONS.FINALMISSION.STOP_HACKING_EARLY
 msgctxt "STRINGS.MISSIONS.FINALMISSION.STOP_HACKING_EARLY"
@@ -14687,8 +14706,8 @@ msgstr "開いたわ。 外に出してあげて。 守衛に 気取られない
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_GOT_CONSOLE"
 msgid "Good. That will help us bypass any security devices we encounter."
 msgstr ""
-"良い調子。 これは 障害となる セキュリティ デバイスを やり過ごすのに 役に立つ "
-"はずよ。"
+"良い調子。 これは 障害となる セキュリティ 機器を やり過ごすのに 役に立つ はず"
+"よ。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_HACK_CAMERA
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_HACK_CAMERA"
@@ -14877,7 +14896,7 @@ msgstr "神経通信 接続開始 シマス。"
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.DESCRIPTION"
 msgid "Find the target, and hack into his cranial security."
-msgstr "ターゲットを見つけ、 脳内デバイスを ハックします。"
+msgstr "ターゲットを見つけ、 脳内機器を ハックします。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TITLE"
@@ -15830,7 +15849,7 @@ msgid ""
 "Illegal intrusion detected.</>"
 msgstr ""
 "<c:FF8C00>アクセスが拒否されました。\n"
-"不審なデバイスを認識しました。</>"
+"不正な侵入を検知しました。</>"
 
 #: STRINGS.MOVIE_SUBS.END_5
 msgctxt "STRINGS.MOVIE_SUBS.END_5"
@@ -16253,8 +16272,8 @@ msgstr ""
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.DESC"
 msgid "Break 1 firewall on all detected devices within a radius of 5 tiles."
 msgstr ""
-"範囲 5 タイル内にある すべての 発見済み デバイス に対し、 ファイアウォールを "
-"1枚 破ります。"
+"範囲 5 タイル内にある すべての 発見済み 機器 に対し、 ファイアウォールを 1枚 "
+"破ります。"
 
 #: STRINGS.PROGRAMS.DATA_BLAST.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DATA_BLAST.HUD_DESC"
@@ -16484,7 +16503,7 @@ msgid ""
 "1 turn cooldown.\n"
 "PASSIVE: Daemon duration +1"
 msgstr ""
-"デバイスを 再起動し、 デーモンを 出現させます。\n"
+"機器を 再起動し、 デーモンを 出現させます。\n"
 "クールダウン: 1 ターン\n"
 "パッシブ: デーモン効果時間 +1"
 
@@ -16494,7 +16513,7 @@ msgid ""
 "REBOOT A DEVICE, SPAWN A DAEMON. 1 TURN COOLDOWN.\n"
 "PASSIVE: DAEMON DURATION +1\n"
 msgstr ""
-"デバイス再起動後、デーモン召喚 (クールダウン 1 ターン)\n"
+"機器再起動後、デーモン召喚 (クールダウン 1 ターン)\n"
 "パッシブ: デーモン 効果時間 +1\n"
 
 #: STRINGS.PROGRAMS.FOOL.NAME
@@ -16505,7 +16524,7 @@ msgstr "フール"
 #: STRINGS.PROGRAMS.FOOL.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.FOOL.SHORT_DESC"
 msgid "Reboots a device, boosts daemons"
-msgstr "デバイス再起動、 デーモン強化"
+msgstr "機器再起動、 デーモン強化"
 
 #: STRINGS.PROGRAMS.FOOL.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.FOOL.TIP_DESC"
@@ -16513,7 +16532,7 @@ msgid ""
 "REBOOTS A DEVICE FOR 1 TURN. SPAWNS A DAEMON.\n"
 "PASSIVE: DAEMON DURATION +1"
 msgstr ""
-"1 ターン後に デバイス再起動、デーモン召喚\n"
+"1 ターン後に 機器再起動、デーモン召喚\n"
 "パッシブ: デーモン 効果時間 +1"
 
 #: STRINGS.PROGRAMS.FUSION.DESC
@@ -16606,13 +16625,13 @@ msgid ""
 "Reboots a device with 3 or less FIREWALLS for 1 turn\n"
 "Cost 3 PWR."
 msgstr ""
-"ファイアウォールが 3枚以下の デバイスを 1 ターンの間 再起動します。\n"
+"ファイアウォールが 3枚以下の 機器を 1 ターンの間 再起動します。\n"
 "消費電力: 3"
 
 #: STRINGS.PROGRAMS.HALT.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.HALT.HUD_DESC"
 msgid "REBOOTS A DEVICE WITH 3 OR LESS FIREWALLS FOR 1 TURN."
-msgstr "ファイアウォール 3枚以下の デバイスを 再起動"
+msgstr "ファイアウォール 3枚以下の 機器を 再起動"
 
 #: STRINGS.PROGRAMS.HALT.NAME
 msgctxt "STRINGS.PROGRAMS.HALT.NAME"
@@ -16622,7 +16641,7 @@ msgstr "ハルト"
 #: STRINGS.PROGRAMS.HALT.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.HALT.SHORT_DESC"
 msgid "Reboots devices"
-msgstr "デバイス再起動"
+msgstr "機器再起動"
 
 #: STRINGS.PROGRAMS.HALT.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.HALT.TIP_DESC"
@@ -16630,7 +16649,7 @@ msgid ""
 "REBOOTS A DEVICE WITH 3 OR LESS FIREWALLS FOR 1 TURN.\n"
 "COST 3 PWR"
 msgstr ""
-"ファイアウォール 3枚以下の デバイスを 再起動\n"
+"ファイアウォール 3枚以下の 機器を 再起動\n"
 "消費電力: 3"
 
 #: STRINGS.PROGRAMS.HALT.TOO_MANY_FIREWALLS
@@ -17378,7 +17397,7 @@ msgstr "<c:FF8411>デーモン</c> を暴露します。 消費電力: <c:77FF77
 #: STRINGS.PROGRAMS.TAURUS.DESC
 msgctxt "STRINGS.PROGRAMS.TAURUS.DESC"
 msgid "Moves a DAEMON to a random device."
-msgstr "デーモンを ランダムな デバイスに 移します。"
+msgstr "デーモンを ランダムな 機器に 移します。"
 
 #: STRINGS.PROGRAMS.TAURUS.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.TAURUS.HUD_DESC"
@@ -19382,8 +19401,8 @@ msgid ""
 "Different daemons have different effects, but all of them will hurt. Be "
 "careful, Operator!\n"
 msgstr ""
-"デーモンは メインフレーム デバイスの 防衛プログラム です。 ハッキングすると "
-"反応します。\n"
+"デーモンは メインフレーム機器の 防衛プログラム です。 ハッキングすると 反応し"
+"ます。\n"
 "\n"
 "デーモンごとに異なる効果を持ち、すべてが有害です。 気を付けてください！\n"
 
@@ -20489,17 +20508,17 @@ msgstr ""
 #: STRINGS.UI.ACTIONS.OPERATE_DEVICE.NAME
 msgctxt "STRINGS.UI.ACTIONS.OPERATE_DEVICE.NAME"
 msgid "OPERATE DEVICE"
-msgstr "デバイスを操作"
+msgstr "機器を操作"
 
 #: STRINGS.UI.ACTIONS.OPERATE_DEVICE.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.OPERATE_DEVICE.TOOLTIP"
 msgid "Capture the device to unlock it"
-msgstr "デバイスをアンロックします。"
+msgstr "機器をアンロックします。"
 
 #: STRINGS.UI.ACTIONS.OPERATE_DEVICE.TOOLTIP_NOFIREWALLS
 msgctxt "STRINGS.UI.ACTIONS.OPERATE_DEVICE.TOOLTIP_NOFIREWALLS"
 msgid "Move next to device to operate it"
-msgstr "デバイス 操作の ために 移動します。"
+msgstr "機器操作の ために 移動します。"
 
 #: STRINGS.UI.ACTIONS.PICKUP.NAME
 msgctxt "STRINGS.UI.ACTIONS.PICKUP.NAME"
@@ -20519,7 +20538,7 @@ msgstr "中身を漁る"
 #: STRINGS.UI.ACTIONS.SEARCH_SAFE.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.SEARCH_SAFE.TOOLTIP"
 msgid "Capture the device to unlock its contents"
-msgstr "デバイスを アンロックして 中身を 漁ります。"
+msgstr "機器を アンロックして 中身を 漁ります。"
 
 #: STRINGS.UI.ACTIONS.SEARCH_SAFE.TOOLTIP_NOFIREWALLS
 msgctxt "STRINGS.UI.ACTIONS.SEARCH_SAFE.TOOLTIP_NOFIREWALLS"
@@ -21325,7 +21344,7 @@ msgstr "アイテム受取"
 #: STRINGS.UI.DIALOGS.NO_DAEMON_BODY
 msgctxt "STRINGS.UI.DIALOGS.NO_DAEMON_BODY"
 msgid "No daemon is installed on this device."
-msgstr "このデバイスに デーモンは インストール されていません。"
+msgstr "この機器に デーモンは インストール されていません。"
 
 #: STRINGS.UI.DIALOGS.NO_DAEMON_TITLE
 msgctxt "STRINGS.UI.DIALOGS.NO_DAEMON_TITLE"
@@ -24823,7 +24842,7 @@ msgstr "エコノミーチップ両替"
 #: STRINGS.UI.RECAP.HACKED
 msgctxt "STRINGS.UI.RECAP.HACKED"
 msgid "DEVICE HACKED"
-msgstr "ハックしたデバイス"
+msgstr "ハックした機器"
 
 #: STRINGS.UI.RECAP.HOSTAGE
 msgctxt "STRINGS.UI.RECAP.HOSTAGE"
@@ -24838,7 +24857,7 @@ msgstr "マイクロSLAM ボーナス"
 #: STRINGS.UI.RECAP.NOTHACKED
 msgctxt "STRINGS.UI.RECAP.NOTHACKED"
 msgid "DEVICE NOT HACKED"
-msgstr "ハックしていないデバイス"
+msgstr "ハックしていない機器"
 
 #: STRINGS.UI.RECAP.PURCHASES
 msgctxt "STRINGS.UI.RECAP.PURCHASES"
@@ -24968,6 +24987,8 @@ msgid ""
 "ROUTER HAS REINFORCED A DEVICE\n"
 "+1 FIREWALL"
 msgstr ""
+"ルーターが機器を強化\n"
+"ファイアウォール +1"
 
 #: STRINGS.UI.SAFES_LOOTED
 msgctxt "STRINGS.UI.SAFES_LOOTED"
@@ -25405,7 +25426,7 @@ msgstr "時間との勝負"
 #: STRINGS.UI.TOOLTIPS.ADVANCED_PERIPHERAL_BOOST
 msgctxt "STRINGS.UI.TOOLTIPS.ADVANCED_PERIPHERAL_BOOST"
 msgid "ADVANCED PERIPHERAL BOOST"
-msgstr ""
+msgstr "視界拡張"
 
 #: STRINGS.UI.TOOLTIPS.ADVANCED_PERIPHERAL_BOOST_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.ADVANCED_PERIPHERAL_BOOST_DESC"
@@ -25413,6 +25434,8 @@ msgid ""
 "180 degree Line of Sight\n"
 "360 degree peripheral Sight"
 msgstr ""
+"180度の射線\n"
+"360度の視界"
 
 #: STRINGS.UI.TOOLTIPS.ANARCHY_BONUS
 msgctxt "STRINGS.UI.TOOLTIPS.ANARCHY_BONUS"
@@ -25443,8 +25466,8 @@ msgid ""
 "Each time this unit is KOed or Alerted mainframe devices within {1} tiles "
 "get +{2} Firewalls"
 msgstr ""
-"ユニットが KO されるか、 {1} タイル内の メインフレーム デバイスに 警戒される"
-"と、 ファイア ウォールに +{2} されます。"
+"ユニットが KO されるか、 {1} タイル内の メインフレーム 機器に 警戒されると、 "
+"ファイア ウォールに +{2} されます。"
 
 #: STRINGS.UI.TOOLTIPS.BARRIER
 msgctxt "STRINGS.UI.TOOLTIPS.BARRIER"
@@ -25478,8 +25501,7 @@ msgstr "ハッカー"
 msgctxt "STRINGS.UI.TOOLTIPS.COUNTER_HACK_DESC"
 msgid "Recaptures 1 mainframe device per turn in a range of {1} tiles"
 msgstr ""
-"ターンごとに {1} タイル内の メインフレーム デバイスを カウンターハック しま"
-"す。"
+"ターンごとに {1} タイル内の メインフレーム 機器を カウンターハック します。"
 
 #: STRINGS.UI.TOOLTIPS.CURRENTLY_EQUIPPED
 msgctxt "STRINGS.UI.TOOLTIPS.CURRENTLY_EQUIPPED"
@@ -25619,8 +25641,8 @@ msgstr "サイバー コンシャス"
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON_DESC"
 msgid "If KO, this unit will possess a mainframe device as a Daemon program"
 msgstr ""
-"KO されると、 このユニットは メインフレーム デバイスに デーモンを インストー"
-"ルします。"
+"KO されると、 このユニットは メインフレーム 機器に デーモンを インストールし"
+"ます。"
 
 #: STRINGS.UI.TOOLTIPS.KO_IMMUNE
 msgctxt "STRINGS.UI.TOOLTIPS.KO_IMMUNE"
@@ -25662,8 +25684,8 @@ msgid ""
 "If this device has more than 2 FIREWALLS, EMP's break 2 FIREWALLS instead of "
 "disabling it."
 msgstr ""
-"このデバイスに 2枚以上の ファイアウォールが 設置されていた 場合、 EMP が ファ"
-"イアウォールを 無効化する 代わりに 2枚 破ります。"
+"この機器に 2枚以上の ファイアウォールが 設置されていた 場合、 EMP が ファイア"
+"ウォールを 無効化する 代わりに 2枚 破ります。"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE"
@@ -25832,7 +25854,7 @@ msgstr "{1} クレジットの価値"
 #: STRINGS.UI.TOOLTIPS.SCAN_VULNERABLE
 msgctxt "STRINGS.UI.TOOLTIPS.SCAN_VULNERABLE"
 msgid "VULNERABLE TO SCANS"
-msgstr ""
+msgstr "スキャン脆弱性"
 
 #: STRINGS.UI.TOOLTIPS.SCAN_VULNERABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.SCAN_VULNERABLE_DESC"
@@ -25840,6 +25862,8 @@ msgid ""
 "Scans from such things as Drones and Scan Grenades will be inconclusive "
 "drawing attention to this agent."
 msgstr ""
+"ドローンや スキャン グレネード による スキャンは この エージェントへの 注意"
+"を 惹きつける でしょう。"
 
 #: STRINGS.UI.TOOLTIPS.SEARCHED
 msgctxt "STRINGS.UI.TOOLTIPS.SEARCHED"
@@ -25963,7 +25987,7 @@ msgstr "大破"
 #: STRINGS.UI.TOOLTIP_DESTROYED_DESC
 msgctxt "STRINGS.UI.TOOLTIP_DESTROYED_DESC"
 msgid "This device has been destroyed."
-msgstr "このデバイスは 破壊されました。"
+msgstr "この機器は 破壊されました。"
 
 #: STRINGS.UI.TOOLTIP_HACKED
 msgctxt "STRINGS.UI.TOOLTIP_HACKED"
@@ -25993,12 +26017,12 @@ msgstr "全 心拍数 モニターの 位置を 識別します。"
 #: STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE"
 msgid "Captures this device in the mainframe"
-msgstr "メインフレームから このデバイスを 確保します"
+msgstr "メインフレームから この機器を 確保します"
 
 #: STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE_CAPTURED
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAINFRAME_DEVICE_CAPTURED"
 msgid "This device is under agency control"
-msgstr "このデバイスは 現在 制御下に あります。"
+msgstr "この機器は 現在 制御下に あります。"
 
 #: STRINGS.UI.TOOLTIP_HACK_MAP_DB
 msgctxt "STRINGS.UI.TOOLTIP_HACK_MAP_DB"
@@ -26291,7 +26315,7 @@ msgstr "扉の端から 除いた方が 安全です。"
 #: STRINGS.UI.WARNING_RECAPTURE
 msgctxt "STRINGS.UI.WARNING_RECAPTURE"
 msgid "Mainframe Devices Rebooting."
-msgstr "メインフレームデバイスは 再起動中です。"
+msgstr "メインフレーム 機器は 再起動中です。"
 
 #: STRINGS.UI.WARNING_TOO_MANY_DOORS
 msgctxt "STRINGS.UI.WARNING_TOO_MANY_DOORS"
