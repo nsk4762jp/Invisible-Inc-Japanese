@@ -2196,7 +2196,7 @@ msgstr "ニカ・ムラトヴァ"
 #: STRINGS.AGENTS.NIKA.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.TOOLTIP"
 msgid "Blunt Instrument"
-msgstr "人間鈍器"
+msgstr "粉砕者"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.AGE"
@@ -4925,12 +4925,12 @@ msgid ""
 "for agents, the PEIA didn't ask too many questions about how a reclusive "
 "neurvelist would have attained such skills."
 msgstr ""
-"生まれつき 感光性の 皮膚を 持つ マテイは、 古い物語や 埃まみれの本に 出てくる"
-"ような 隠者として 育った。 彼の デビューは 「データ バンパイア」で、 ちょっと"
-"した 財産を もたらしたが、 その殆どを プライバシーの 保護に 費やしてしまっ"
-"た。 変わった 強化パーツの  噂と、 気味の悪い 仕事は 実生活で どうやって 閃い"
-"たのか という質問が あまりにも 根強いので、 彼は 自身の死を 偽装して 隠遁し"
-"て しまった。\n"
+"非常に珍しい 遺伝性 光線過敏として 生まれた マテイは、 古い物語や 埃まみれの"
+"本に 出てくるような 隠者として 育った。 彼の デビューは 「データ バンパイア」"
+"で、 ちょっとした 財産を もたらしたが、 その殆どを プライバシーの 保護に 費や"
+"してしまった。 変わった 強化パーツの  噂と、 気味の悪い 仕事は 実生活で どう"
+"やって 閃いたのか という質問が あまりにも 根強いので、 彼は 自身の死を 偽装し"
+"て 隠遁して しまった。\n"
 "戦時、 大規模攻撃の 第一波として 企業の軍隊が 彼の故郷を 襲撃した時、 彼は 隠"
 "遁生活を 捨て PEIA に志願した。 PEIA は 彼を 赤貧の エージェントとして 扱"
 "い、 それだけの 技術を 持ちながら 何故 隠遁生活を  送っていたのかに ついては "
@@ -5160,9 +5160,9 @@ msgid ""
 "athleticism comes in handy once subtlety fails."
 msgstr ""
 "ラッシュは 2050年 オーグメント ゲームズの 5000m走 および 高高度ダイブの 優勝"
-"者だ。 「オーグリート」は そうそう 引退しない。 強化パーツの テストは 彼らの "
-"金が尽きるまで 何度でも 行われる 傾向にあるが、 コレットは 正道を 外れなかっ"
-"た。 そして 資源戦争が 始まった。\n"
+"者だ。 サイバネ アスリートは そうそう 引退しない。 強化パーツの テストは 彼ら"
+"の 金が尽きるまで 何度でも 行われる 傾向にあるが、 コレットは 正道を 外れな"
+"かった。 そして 資源戦争が 始まった。\n"
 "\n"
 "一夜のうちに 彼女の 後援者が 行方知れずとなり、 悪名高い 地下組織に 入るよう"
 "に 強いられると、 彼女は PEIA に 参加することを 決めた。 彼女の 目立つ経歴は "
@@ -6842,23 +6842,27 @@ msgid ""
 "then they'll find us within the hour. Sigh. I didn't want to live forever "
 "anyway."
 msgstr ""
+"ちょっと！ オペレーター、 私たちには 電源が 必要なの！ インコグニータが 死ん"
+"だら すぐにでも 見つかってしまうのよ。 はぁ...。 永遠に 生き続けるのは 嫌よ。"
 
 #: STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.1
 msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.1"
 msgid ""
 "A few more hours of juice for Incognita. Get that back to the Jet, Operator."
 msgstr ""
+"インコグニータに もう 2、3時間 頑張って もらえそうね。 オペレーター、 ジェッ"
+"トに 持ち帰って。"
 
 #: STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.2
 msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.2"
 msgid ""
 "Get that Cell back here at all costs. It is the only thing keeping us alive."
-msgstr ""
+msgstr "何に代えても 電源を 持ち帰るのよ。 これが 我々の 生命線 なんだから。"
 
 #: STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.3
 msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.3"
 msgid "Secure that Power Cell. Get it back to the Jet, Operator."
-msgstr ""
+msgstr "電力セルを確保。 オペレーター、 ジェットに 持ち帰って。"
 
 #: STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.4
 msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_GOT_POWER_CELL.4"
@@ -8371,6 +8375,8 @@ msgid ""
 "Daemons have -2 duration.\n"
 "PASSIVE"
 msgstr ""
+"デーモンの活動時間 -2。\n"
+"パッシブ"
 
 #: STRINGS.DLC1.PROGRAMS.BLESS.HUD_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.HUD_DESC"
@@ -8378,6 +8384,8 @@ msgid ""
 "DAEMONS HAVE -2 DURATION. MINIMUM OF 1 TURN.\n"
 "PASSIVE"
 msgstr ""
+"デーモンの活動時間を -2 します。 (最低 1 ターン)\n"
+"パッシブ"
 
 #: STRINGS.DLC1.PROGRAMS.BLESS.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.NAME"
@@ -8387,7 +8395,7 @@ msgstr "ブレス"
 #: STRINGS.DLC1.PROGRAMS.BLESS.SHORT_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.SHORT_DESC"
 msgid "Daemons have -2 duration"
-msgstr ""
+msgstr "デーモンの活動時間 -2"
 
 #: STRINGS.DLC1.PROGRAMS.BLESS.TIP_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.TIP_DESC"
@@ -8400,11 +8408,15 @@ msgid ""
 "Gain 3 PWR, agents get +3 AP. Agents -3 AP while on cooldown\n"
 "2 turn cooldown."
 msgstr ""
+"電力を 3 獲得し、 エージェントは AP を 3 獲得します。 クールダウン中は エー"
+"ジェントの AP が 3 減少します。\n"
+"クールダウン: 2 ターン"
 
 #: STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC"
 msgid "+3 PWR, ALL AGENTS +3 AP. ALL AGNTS -3 AP DURING COOLDOWN."
 msgstr ""
+"電力 +3、 全エージェント AP +3。 クールダウン中は 全エージェント AP -3。"
 
 #: STRINGS.DLC1.PROGRAMS.BURST.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.NAME"
@@ -8414,7 +8426,7 @@ msgstr "バースト"
 #: STRINGS.DLC1.PROGRAMS.BURST.SHORT_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.SHORT_DESC"
 msgid "Gain PWR and speed. Slow while cooling"
-msgstr ""
+msgstr "電力と スピードを 獲得。 クールダウン中は 減速する。"
 
 #: STRINGS.DLC1.PROGRAMS.BURST.TIP_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.TIP_DESC"
@@ -8424,7 +8436,7 @@ msgstr ""
 #: STRINGS.DLC1.PROGRAMS.BURST.WARNING
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.WARNING"
 msgid "BURST RECOVERY"
-msgstr ""
+msgstr "バースト回復"
 
 #: STRINGS.DLC1.PROGRAMS.CYCLE.DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.DESC"
@@ -8432,6 +8444,8 @@ msgid ""
 "All PWR is cleared at the beginning of each turn, then Gain 3 PWR.\n"
 "PASSIVE"
 msgstr ""
+"ターン開始時に 電力は クリアされ、 その後電力を 3 獲得します。\n"
+"パッシブ"
 
 #: STRINGS.DLC1.PROGRAMS.CYCLE.HUD_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.HUD_DESC"
@@ -8439,6 +8453,8 @@ msgid ""
 "ALL PWR IS CLEARED AT THE BEGINNING OF EACH TURN.\n"
 "THEN GAIN 3 PWR PER TURN."
 msgstr ""
+"ターン開始時に 電力は クリアされます\n"
+"そしてターンごとに 電力を 3 獲得します。"
 
 #: STRINGS.DLC1.PROGRAMS.CYCLE.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.NAME"
@@ -8448,12 +8464,12 @@ msgstr "サイクル"
 #: STRINGS.DLC1.PROGRAMS.CYCLE.SHORT_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.SHORT_DESC"
 msgid "All PWR is cleared each turn. Auto generate large PWR."
-msgstr ""
+msgstr "ターンごとに電力がクリアされ、 電力を 自動生成します。"
 
 #: STRINGS.DLC1.PROGRAMS.CYCLE.TIP_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.TIP_DESC"
 msgid "All PWR is cleared at the beginning of each turn, then gain 3 PWR."
-msgstr ""
+msgstr "ターン開始時に 電力は クリアされ、 その後電力を 3 獲得します。"
 
 #: STRINGS.DLC1.PROGRAMS.CYCLE.WARNING
 msgctxt "STRINGS.DLC1.PROGRAMS.CYCLE.WARNING"
@@ -8461,6 +8477,8 @@ msgid ""
 "POWER CYCLED\n"
 "3 PWR"
 msgstr ""
+"電力が 戻りました。\n"
+"電力 +3"
 
 #: STRINGS.DLC1.PROGRAMS.GOLEM.DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.DESC"
@@ -8563,7 +8581,7 @@ msgstr ""
 #: STRINGS.DLC1.REACTIVE_MOYOMER
 msgctxt "STRINGS.DLC1.REACTIVE_MOYOMER"
 msgid "Reactive Moyomer"
-msgstr ""
+msgstr "リアクティブ マイオマー"
 
 #: STRINGS.DLC1.REACTIVE_MOYOMER_FLAVOR
 msgctxt "STRINGS.DLC1.REACTIVE_MOYOMER_FLAVOR"
@@ -8571,26 +8589,30 @@ msgid ""
 "An advanced chemical solution is injected into micro piston fibers that "
 "rapidly amp the users mobility for a short time."
 msgstr ""
+"増強された薬物を マイクロ ピストン ファイバーに 注入することで、 使用者の 機"
+"動力を 短時間 強化します。"
 
 #: STRINGS.DLC1.REACTIVE_MOYOMER_TIP
 msgctxt "STRINGS.DLC1.REACTIVE_MOYOMER_TIP"
 msgid "Agents AP is reduced by 2. Agent's AP pool goes up 1 per Alarm Level"
 msgstr ""
+"エージェントの 最大 AP が 2 減少しますが、 警戒レベルごとに 最大 AP が 1 増加"
+"します。"
 
 #: STRINGS.DLC1.RESEARCH_SECURITY_DOOR
 msgctxt "STRINGS.DLC1.RESEARCH_SECURITY_DOOR"
 msgid "Security Door"
-msgstr ""
+msgstr "機密扉"
 
 #: STRINGS.DLC1.SCRUB_DATABANK
 msgctxt "STRINGS.DLC1.SCRUB_DATABANK"
 msgid "Scrub Databank"
-msgstr ""
+msgstr "データバンク洗い出し"
 
 #: STRINGS.DLC1.SCRUB_DATABANK_DESC
 msgctxt "STRINGS.DLC1.SCRUB_DATABANK_DESC"
 msgid "Scan the databank for Invisible, Inc. data and wipe its memory"
-msgstr ""
+msgstr "Invisible社の 情報を スキャンし、 メモリを 消去します。"
 
 #: STRINGS.DLC1.SITUATION_UPDATE
 msgctxt "STRINGS.DLC1.SITUATION_UPDATE"
@@ -8600,7 +8622,7 @@ msgstr "状況が変わりました"
 #: STRINGS.DLC1.SKILL_CHIP_ANARCHY
 msgctxt "STRINGS.DLC1.SKILL_CHIP_ANARCHY"
 msgid "legerdemain brain chip"
-msgstr ""
+msgstr "幻影的脳チップ"
 
 #: STRINGS.DLC1.SKILL_CHIP_ANARCHY_FLAVOR
 msgctxt "STRINGS.DLC1.SKILL_CHIP_ANARCHY_FLAVOR"
@@ -8609,16 +8631,20 @@ msgid ""
 "devices are a growth of tendrils that wholly replace synaptic regions of the "
 "brain."
 msgstr ""
+"ここでいう 「チップ」は 婉曲表現で、 実際は 脳の神経を 代替する 触手の 集合体"
+"です。"
 
 #: STRINGS.DLC1.SKILL_CHIP_ANARCHY_TIP
 msgctxt "STRINGS.DLC1.SKILL_CHIP_ANARCHY_TIP"
 msgid "Sets the agents ANARCHY skill to 3. This skill can not be upgraded"
 msgstr ""
+"エージェントの アナーキー スキルを レベル 3 にします。 このスキルは 強化でき"
+"ません。"
 
 #: STRINGS.DLC1.SKILL_CHIP_HACKING
 msgctxt "STRINGS.DLC1.SKILL_CHIP_HACKING"
 msgid "Cryptology brain chip"
-msgstr ""
+msgstr "暗号学的脳チップ"
 
 #: STRINGS.DLC1.SKILL_CHIP_HACKING_FLAVOR
 msgctxt "STRINGS.DLC1.SKILL_CHIP_HACKING_FLAVOR"
@@ -8627,16 +8653,20 @@ msgid ""
 "devices are a growth of tendrils that wholly replace synaptic regions of the "
 "brain."
 msgstr ""
+"ここでいう 「チップ」は 婉曲表現で、 実際は 脳の神経を 代替する 触手の 集合体"
+"です。"
 
 #: STRINGS.DLC1.SKILL_CHIP_HACKING_TIP
 msgctxt "STRINGS.DLC1.SKILL_CHIP_HACKING_TIP"
 msgid "Sets the agents HACKING skill to 3. This skill can not be upgraded"
 msgstr ""
+"エージェントの ハッキング スキルを レベル 3 にします。 このスキルは 強化でき"
+"ません。"
 
 #: STRINGS.DLC1.SKILL_CHIP_SPEED
 msgctxt "STRINGS.DLC1.SKILL_CHIP_SPEED"
 msgid "Kinesiology brain chip"
-msgstr ""
+msgstr "運動学的脳チップ"
 
 #: STRINGS.DLC1.SKILL_CHIP_SPEED_FLAVOR
 msgctxt "STRINGS.DLC1.SKILL_CHIP_SPEED_FLAVOR"
@@ -8645,16 +8675,20 @@ msgid ""
 "devices are a growth of tendrils that wholly replace synaptic regions of the "
 "brain."
 msgstr ""
+"ここでいう 「チップ」は 婉曲表現で、 実際は 脳の神経を 代替する 触手の 集合体"
+"です。"
 
 #: STRINGS.DLC1.SKILL_CHIP_SPEED_TIP
 msgctxt "STRINGS.DLC1.SKILL_CHIP_SPEED_TIP"
 msgid "Sets the agents SPEED skill to 3. This skill can not be upgraded"
 msgstr ""
+"エージェントの スピード スキルを レベル 3 にします。 このスキルは 強化できま"
+"せん。"
 
 #: STRINGS.DLC1.SKILL_CHIP_STRENGTH
 msgctxt "STRINGS.DLC1.SKILL_CHIP_STRENGTH"
 msgid "Physiology brain chip"
-msgstr ""
+msgstr "生理学的脳チップ"
 
 #: STRINGS.DLC1.SKILL_CHIP_STRENGTH_FLAVOR
 msgctxt "STRINGS.DLC1.SKILL_CHIP_STRENGTH_FLAVOR"
@@ -8663,33 +8697,37 @@ msgid ""
 "devices are a growth of tendrils that wholly replace synaptic regions of the "
 "brain."
 msgstr ""
+"ここでいう 「チップ」は 婉曲表現で、 実際は 脳の神経を 代替する 触手の 集合体"
+"です。"
 
 #: STRINGS.DLC1.SKILL_CHIP_STRENGTH_TIP
 msgctxt "STRINGS.DLC1.SKILL_CHIP_STRENGTH_TIP"
 msgid "Sets the agents STRENGTH skill to 3. This skill can not be upgraded"
 msgstr ""
+"エージェントの ストレングス スキルを レベル 3 にします。 このスキルは 強化で"
+"きません。"
 
 #: STRINGS.DLC1.STIM_4
 msgctxt "STRINGS.DLC1.STIM_4"
 msgid "Stim IV"
-msgstr ""
+msgstr "興奮剤 IV"
 
 #: STRINGS.DLC1.STIM_4_FLAVOR
 msgctxt "STRINGS.DLC1.STIM_4_FLAVOR"
 msgid ""
 "A highly dangerous cocktail of performance enhancing chemicals. Do not take "
 "internally."
-msgstr ""
+msgstr "極めて 危険な ドーピング剤 カクテルです。 飲んでは いけません。"
 
 #: STRINGS.DLC1.STIM_4_TOOLTIP
 msgctxt "STRINGS.DLC1.STIM_4_TOOLTIP"
 msgid "Gives an agent unlimited attacks for one turn and restores 10 AP."
-msgstr ""
+msgstr "何度でも 攻撃できる ようになり、 AP が 10 回復します。"
 
 #: STRINGS.DLC1.SUBDERMAL_PDA
 msgctxt "STRINGS.DLC1.SUBDERMAL_PDA"
 msgid "Subdermal PDA"
-msgstr ""
+msgstr "サブダーマル PDA"
 
 #: STRINGS.DLC1.SUBDERMAL_PDA_FLAVOR
 msgctxt "STRINGS.DLC1.SUBDERMAL_PDA_FLAVOR"
@@ -8697,6 +8735,8 @@ msgid ""
 "Allows for a higher attention to detail as well as custom data filters for "
 "isolating important info faster."
 msgstr ""
+"重要な 情報を 素早く 分別する カスタム フィルターを 搭載し、 重要な 気付きを "
+"得ることを 可能と します。"
 
 #: STRINGS.DLC1.SUBDERMAL_PDA_TIP
 msgctxt "STRINGS.DLC1.SUBDERMAL_PDA_TIP"
@@ -8704,6 +8744,8 @@ msgid ""
 "Door peeks have full vision.\n"
 "This agent can find corporate Intel in large safes."
 msgstr ""
+"扉から覗いた場合、完全な視界を得ます。\n"
+"また、 大型金庫から アイテムを 発見することが あります。"
 
 #: STRINGS.DLC1.TAZER_4
 msgctxt "STRINGS.DLC1.TAZER_4"
@@ -9591,7 +9633,8 @@ msgid ""
 "Mapping) to create an environment map of explored regions and automatically "
 "updates the data to the central servers."
 msgstr ""
-"この埋め込み型の装置は SLAM(地域化とマッピングを同時に行う) を提供します。"
+"この埋め込み型の装置は SLAM (地域化と マッピングを 同時に 行う) を提供しま"
+"す。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP"
@@ -10641,7 +10684,7 @@ msgid ""
 msgstr ""
 "起動中は 変装する ことが できます。\n"
 "走ったり 攻撃すると 効果が 途切れます。\n"
-"敵が 1 タイル内に いる場合、失敗します。"
+"敵が 1 タイル内に いる場合、 失敗します。"
 
 #: STRINGS.ITEMS.HOLO_MESH_WARNING
 msgctxt "STRINGS.ITEMS.HOLO_MESH_WARNING"
@@ -11836,8 +11879,8 @@ msgid ""
 "Win or lose, each campaign earns you XP that unlocks new agents and "
 "programs. "
 msgstr ""
-"ゲームクリア/ゲームオーバーに関わらず、 キャンペーンごとに エージェントやプロ"
-"グラムを アンロックするための 経験値が 得られます。"
+"ゲームクリア/ゲームオーバーに関わらず、 キャンペーンごとにエージェントやプロ"
+"グラムをアンロックするための経験値が 得られます。"
 
 #: STRINGS.LOADING_TIPS.11
 msgctxt "STRINGS.LOADING_TIPS.11"
@@ -11846,7 +11889,7 @@ msgid ""
 "program to install."
 msgstr ""
 "ファイアウォールがデーモンによって守られていることがあります。 それらをハッキ"
-"ングすると 敵性プログラムを インストールしてしまうことに なります。"
+"ングすると、 敵性プログラムをインストールしてしまうことに なります。"
 
 #: STRINGS.LOADING_TIPS.12
 msgctxt "STRINGS.LOADING_TIPS.12"
@@ -11854,8 +11897,7 @@ msgid ""
 "Consider your targets carefully. Each Corporation has different strengths "
 "and weaknesses."
 msgstr ""
-"潜入対象は 慎重に 選びましょう。 企業ごとに 異なる 長所・短所を 持っていま"
-"す。"
+"潜入対象は慎重に選びましょう。企業ごとに異なる長所・短所を 持っています。"
 
 #: STRINGS.LOADING_TIPS.13
 msgctxt "STRINGS.LOADING_TIPS.13"
