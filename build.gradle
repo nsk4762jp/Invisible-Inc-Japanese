@@ -1,5 +1,5 @@
-task install {
-  description = 'Invisible, Inc. 日本語化パックをインストールします。'
+task build {
+  description = 'Invisible, Inc. 日本語化パックをパッケージングします。'
   
   doLast {
   
@@ -33,7 +33,16 @@ task install {
       from getProperty('resource.preview')
       into workDir
     }
-    
+  }
+}
+
+task install {
+  description = 'Invisible, Inc. 日本語化パックをインストールします。'
+  
+  doLast {
+  
+    //作業用フォルダを作成
+    File workDir = file(getProperty('work.dir'))
     //作業用フォルダを Steam の Invisible, Inc. MOD インストールフォルダにコピー
     File modDir = file(getProperty('steam.invisibleinc'))
     if (modDir.exists()) {
@@ -44,6 +53,22 @@ task install {
     copy {
       from workDir
       into modDir
+    }
+    
+    workDir.deleteDir();
+  }
+}
+install.dependsOn build
+
+task update {
+  description = '翻訳ファイルを差し替えます。'
+  
+  doLast {
+    
+    //翻訳データをコピー
+    copy {
+      from getProperty('resource.translation')
+      into getProperty('steam.invisibleinc')
     }
   }
 }
