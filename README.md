@@ -2,7 +2,7 @@ Invisible, Inc. 日本語パック作成 翻訳作業所
 ====
 
 Klei Entertainment 制作 ターンベースストラテジーゲーム 「[Invisible, Inc.](https://www.kleientertainment.com/games/invisible-inc)」 の日本語化作業を行っています。  
-最終的には Steam ワークショップで公開予定です。
+ベース部分については翻訳済みで、現在 DLC の翻訳作業をしています。
 
 ## 翻訳サンプル
 <image src="https://raw.githubusercontent.com/wiki/nsk4762jp/Invisible-Inc-Japanese/sample.png" width="75%">
@@ -11,10 +11,9 @@ Klei Entertainment 制作 ターンベースストラテジーゲーム 「[Invi
 
     OPTION -> GAMEPLAY -> LANGUAGE -> Japanese
 
-__※Contingency Plan DLC がインストール済みの場合、翻訳前の英語が表示されることを確認しています。__
-
 ## インストール
-[ZIPファイル](https://github.com/nsk4762jp/Invisible-Inc-Japanese/archive/master.zip)を解凍したら、Japanese_Language_Pack フォルダを Invisible, Inc. のMODフォルダにコピーしてください。  
+[Steam ワークショップ](http://steamcommunity.com/sharedfiles/filedetails/?id=554502292)からサブスクライブしてください。  
+Steam 以外からでも利用できるように、後日リリースページにてパッケージを作る予定です。
 
 ## ライセンス
 
