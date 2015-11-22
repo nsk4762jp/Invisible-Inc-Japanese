@@ -622,7 +622,7 @@ msgstr "ダッシュ/徒歩切替"
 #: STRINGS.ABILITIES.STIM
 msgctxt "STRINGS.ABILITIES.STIM"
 msgid "Stim Dose"
-msgstr "興奮剤"
+msgstr "刺激薬"
 
 #: STRINGS.ABILITIES.STIM_DESC
 msgctxt "STRINGS.ABILITIES.STIM_DESC"
@@ -982,7 +982,7 @@ msgid ""
 "stability."
 msgstr ""
 "脳に 損傷を 負っていて さえ、 バンクスは 私が出会った中で 最も 有能な ハッ"
-"カーの 一人である。 刺激剤 および 神経状態によって 彼女は 頭脳明晰で いられる"
+"カーの 一人である。 刺激薬 および 神経状態によって 彼女は 頭脳明晰で いられる"
 "が、 何が 彼女を 長期間 安定させているのかに ついては 謎である。"
 
 #: STRINGS.AGENTS.BANKS.FILE
@@ -2196,7 +2196,7 @@ msgstr "ニカ・ムラトヴァ"
 #: STRINGS.AGENTS.NIKA.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.TOOLTIP"
 msgid "Blunt Instrument"
-msgstr "粉砕者"
+msgstr "人間凶器"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.AGE"
@@ -2231,7 +2231,7 @@ msgstr "用心棒"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.1
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.1"
 msgid "Your disappearing trick, you find it useful?"
-msgstr "アンタの 消える技ってのは 役に立つかい？"
+msgstr "アンタの 消える技 ってのは 役に立つかい？"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.10
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.10"
@@ -2251,12 +2251,12 @@ msgstr "もっと 頑張りなよ。"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.13
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.13"
 msgid "It is better to save one's energy for more important things."
-msgstr "エネルギーを 無駄遣い しないほうが いいでしょ。"
+msgstr "もっと大事なことに エネルギーを 費やす べきだろ。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.14
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.14"
 msgid "Like breaking bones."
-msgstr "骨を バキバキに 折るために。"
+msgstr "骨を バキバキに 折ること とか。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.15
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.15"
@@ -3680,7 +3680,7 @@ msgstr "あまり 喋らない 性質 なんだね。"
 #: STRINGS.AGENTS.XU.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.25"
 msgid "Like thinking?"
-msgstr "考えるため？"
+msgstr "考えることとか？"
 
 #: STRINGS.AGENTS.XU.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.XU.BANTER.CROSS.26"
@@ -4311,12 +4311,12 @@ msgstr "Chris Costa"
 #: STRINGS.DAEMONS.ALERTBLOWFISH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.ACTIVE_DESC"
 msgid "ALARM RAISED {1} BY DAEMON"
-msgstr "デーモンによる 警戒レベル上昇"
+msgstr "デーモンによる セキュリティレベル上昇"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.DESC"
 msgid "Advances tracker"
-msgstr "追跡情報の記録"
+msgstr "セキュリティレベル上昇"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.NAME
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.NAME"
@@ -4326,7 +4326,7 @@ msgstr "ブロウフィッシュ 2.0"
 #: STRINGS.DAEMONS.ALERTBLOWFISH.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.SHORT_DESC"
 msgid "Advances tracker"
-msgstr "追跡情報の記録"
+msgstr "セキュリティレベル上昇"
 
 #: STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTFRACTAL.ACTIVE_DESC"
@@ -4418,17 +4418,17 @@ msgid ""
 "GUARD ALERTED"
 msgstr ""
 "オーソリティ デーモン\n"
-"守衛に警告しました"
+"守衛に通報しました"
 
 #: STRINGS.DAEMONS.BLOWFISH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.ACTIVE_DESC"
 msgid "ALARM RAISED {1} BY DAEMON"
-msgstr "デーモンによって 警告レベルが {1} 上昇"
+msgstr "デーモンによって セキュリティレベルが {1} 上昇"
 
 #: STRINGS.DAEMONS.BLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.BLOWFISH.DESC"
 msgid "Advances tracker"
-msgstr "追跡情報の記録"
+msgstr "セキュリティレベル上昇"
 
 #: STRINGS.DAEMONS.BLOWFISH.NAME
 msgctxt "STRINGS.DAEMONS.BLOWFISH.NAME"
@@ -4649,7 +4649,7 @@ msgstr "ハック能力無効化"
 #: STRINGS.DAEMONS.RUBIKS.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.ACTIVE_DESC"
 msgid "ALL FIREWALLS RAISED BY DAEMON"
-msgstr "デーモンによって全ファイアウォールが強化されました"
+msgstr "デーモンによって 全ファイアウォールが 強化されました"
 
 #: STRINGS.DAEMONS.RUBIKS.DESC
 msgctxt "STRINGS.DAEMONS.RUBIKS.DESC"
@@ -5049,6 +5049,18 @@ msgid ""
 "when the war began, and it was no surprise when she she was chosen to lead "
 "the PEIA when its founding Director defected."
 msgstr ""
+"企業の敵として 見做される以前、 オリビア・グラッドストンは PEIA にエージェン"
+"トとして 参加していた。 元々は イギリス政府の 情報局長であった 彼女は、 でき"
+"て日の浅い組織に プロの根性を もたらした。 現場では 頭脳明晰な 戦術家であ"
+"り、 最も 差し迫った 状況下でも 沈着冷静で いられることが 彼女の 素早い昇進"
+"に 繋がった。\n"
+"\n"
+"グラッドストンは 2043年に 行われた 危険な 単独任務中に 捕まった ことがある。 "
+"どうにか 脱出に 成功したが、 拷問により 彼女の体は 現場での パフォーマンスに "
+"支障をきたす ようになった。 その後、 オペレーターと しての 訓練を積み、 スク"
+"リーンを 通して 以前と 同様のことを 行えるまでに なった。 戦争が始まると、 彼"
+"女の 任務ランキングは 他の追随を 許さなかった。 PEIA 創立者が 亡命したとき、 "
+"代わりに リーダーとして 選出されたことは 驚くに 値しない だろう。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.FULLNAME
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.FULLNAME"
@@ -5063,22 +5075,22 @@ msgstr "中心人物"
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.1"
 msgid "Well played, grunt. I'm sure you'll get a big bonus for this."
-msgstr ""
+msgstr "よくできました。 歩兵さん。 特別報酬が貰えるわね。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.2"
 msgid "Take your time and aim carefully. I don't want to wake up from this."
-msgstr ""
+msgstr "ゆっくり、 ちゃんと狙いなさい。 私は 目覚めたくないの。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.3"
 msgid "Take a good, long look. You're going to regret this for a long time."
-msgstr ""
+msgstr "じっくりと吟味なさい。 一生後悔することになるから。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.FINAL_WORDS.4"
 msgid "How much did they buy you for? Was it enough?"
-msgstr ""
+msgstr "いくらで買われたの？ その額で満足？"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.1
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.BANTER.START.1"
@@ -5266,8 +5278,8 @@ msgid ""
 "The corporation has activated alarmed doors. Opening doors will raise the "
 "alarm by one."
 msgstr ""
-"企業は 扉の 警戒装置を アクティブに しました。 扉を開けると 警戒レベルが 1 上"
-"昇します。"
+"企業は 扉の 警戒装置を アクティブに しました。 扉を開けると セキュリティ レベ"
+"ルが 1 上昇します。"
 
 #: STRINGS.DLC1.ALARM_GUARDBUFF
 msgctxt "STRINGS.DLC1.ALARM_GUARDBUFF"
@@ -5304,7 +5316,7 @@ msgstr ""
 "\n"
 "\n"
 "<c:F4FF78>セキュリティ上昇予告:</>\n"
-"扉を開くと警戒レベルが上昇します。"
+"扉を開くとセキュリティレベルが上昇します。"
 
 #: STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS
 msgctxt "STRINGS.DLC1.ALARM_NEXT_GUARDBUFFS"
@@ -5839,7 +5851,7 @@ msgctxt "STRINGS.DLC1.GEL_INJECTORS_TIP"
 msgid ""
 "Agents AP is increased by 3. Agent's AP pool goes down 1 per Alarm Level"
 msgstr ""
-"エージェントの 最大 AP が 3 増加します。 増加した分は 警戒レベルごとに 1 減少"
+"エージェントの 最大 AP が 3 増加します。 増加した分は 警報レベルごとに 1 減少"
 "します。"
 
 #: STRINGS.DLC1.GRENADE_CRY_BABY
@@ -6026,7 +6038,7 @@ msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR_FLAVOR"
 msgid ""
 "20th century watch technology with nearly a century of advancement on top if "
 "it."
-msgstr "20世紀の 監視技術は 技術の世紀を 代表するものです。"
+msgstr "20世紀の 監視技術に ほぼ 1世紀分の 技術躍進が 上乗せ されています。"
 
 #: STRINGS.DLC1.KINETIC_CAPACITOR_TIP
 msgctxt "STRINGS.DLC1.KINETIC_CAPACITOR_TIP"
@@ -7043,27 +7055,27 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.1"
 msgid "The entry point is secure. Monst3r, you are clear for transport."
-msgstr ""
+msgstr "突入ポイント確保。 モンスター、 入っても大丈夫よ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.10
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.10"
 msgid "Sounds like a plan. Don't mess it up."
-msgstr ""
+msgstr "あなたの 計画通りに やってちょうだい。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.2"
 msgid "Ugh. What a distasteful process."
-msgstr ""
+msgstr "うへぇ、 なんて不快なプロセスだ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.3
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.3"
 msgid "Is this the correct facility? It doesn't look like anything special."
-msgstr ""
+msgstr "この施設で 合ってるの？ 特別な 雰囲気は 全く しないけど。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.4
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.4"
 msgid "Something isn't as it seems. Let me re-check the coordinates."
-msgstr ""
+msgstr "何かヘンだな。 ちょっと確認させてくれ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.5
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.5"
@@ -7071,6 +7083,8 @@ msgid ""
 "This is where my deliveries were sent. It must be a false front. Hmmm. Can "
 "you run a broad spectrum backscatter scan from your plane?"
 msgstr ""
+"場所は 正しいが、 ここは 偽の入り口に 違いないな。 ふーむ。 ジェットから 広"
+"域 後方拡散型 スキャンを かけられるか？"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.6
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.6"
@@ -7080,6 +7094,10 @@ msgid ""
 "Pilot beam origin point detected. Destination coordinates are unknown. "
 "Unknowable. Unknowing. Uncaring."
 msgstr ""
+"すきゃん中...\n"
+"\n"
+"誘導びーむ源検知。 転送先ハ 不明デス。 知リ得マセン。 知リマセン。 分カリマセ"
+"ン。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.7
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.7"
@@ -7087,6 +7105,8 @@ msgid ""
 "Aha. I've heard rumour of sites like this, but never actually encountered "
 "one."
 msgstr ""
+"ふっ、 こういう場所が あるって噂を 聞いたことが あるぞ。 だが、 こんなのは 初"
+"めてだ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.8
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.8"
@@ -7095,6 +7115,8 @@ msgid ""
 "normal transport beams. The only way in is through a permanent link set up "
 "on this side."
 msgstr ""
+"研究所は この近くだ。 ただし、 通常の 転送ビーム からは 隠されて いる上に "
+"シールドで 守られている。 この階にある 固定リンクが 唯一の 通路だ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.9
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.9"
@@ -7102,6 +7124,8 @@ msgid ""
 "If we find that, we should be able to hitch a ride and recover the goods. "
 "When we're finished we can disable the shield and beam out as normal."
 msgstr ""
+"そいつを 見つけたら、 戻るための お膳立てを始めよう。 上手くやれば シールド"
+"を 無効化して 外に ビームで出られるぞ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.MONST3R_SURVIVE
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.MONST3R_SURVIVE"
@@ -7219,12 +7243,12 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.1"
 msgid "Urrrrrrgh. Feels like my head's on backwards."
-msgstr ""
+msgstr "おえっ、 頭が 前後逆に 付いてる みたいだ...。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.2"
 msgid "Monst3r, give us a status report."
-msgstr ""
+msgstr "モンスター、 状況を教えて。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.3
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.3"
@@ -7232,6 +7256,8 @@ msgid ""
 "We made it through in one piece. I don't recognize the corporate markings. "
 "It seems my contact may not have been who she claimed."
 msgstr ""
+"ちょうど やったところさ。 企業の追跡は 認められなかった。 この連絡先は 彼女の"
+"ものでは ないかも しれないな。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.4
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.4"
@@ -7240,6 +7266,8 @@ msgid ""
 "minutes to track down your precise location. Secure the prototype and await "
 "our arrival."
 msgstr ""
+"あなた、 街1個分の 距離を 移動したのよ。 そちらの 正確な 位置を 特定するまで "
+"数分かかるわ。 プロトタイプを 確保したら、 到着まで 持ちこたえて。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.1"
@@ -7271,25 +7299,25 @@ msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.1"
 msgid ""
 "Who are these people? I'm seeing elements sourced from all of the major "
 "corps."
-msgstr ""
+msgstr "なんだあいつら？ 企業の従業員か？"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.2"
 msgid ""
 "Interesting. Could this be the same conglomerate that orchestrated the raid "
 "on our headquarters?"
-msgstr ""
+msgstr "へえ。 私たちの 本部を 襲った連中と 同じ集団かしら？"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.3
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.3"
 msgid ""
 "That seems just a little bit too convenient, doesn't it? A bit too tidy?"
-msgstr ""
+msgstr "奴らよりは 扱いやすいように 見えるよな？ 小奇麗 すぎだぜ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.4
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.4"
 msgid "We can speculate later. Focus on the mission goals for now."
-msgstr ""
+msgstr "後で考えましょう。 任務を優先して。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.MONST3R_SURVIVE
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MONST3R_SURVIVE"
@@ -7307,13 +7335,15 @@ msgid ""
 "They're bringing new security measures to bear against us. This had better "
 "be worth the risk."
 msgstr ""
+"我々に 対抗して 新型セキュリティを 持ち出してきたわね。 リスクを取る 価値が "
+"あるわ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.1"
 msgid ""
 "Civilians. They're working late, aren't they? Maybe we should interrogate "
 "them."
-msgstr ""
+msgstr "文民か。 しかも残業中と来たもんだ。 尋問でもするか？"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.2"
@@ -7321,11 +7351,13 @@ msgid ""
 "There's no time. Even if they know anything useful it will be blocked behind "
 "redundant levels of memetic training."
 msgstr ""
+"そんな時間は 無いわ。 仮に 有益な情報を 持っていたとしても、 訓練された 対"
+"ミーム機構が シャットアウト するでしょう。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.3
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.3"
 msgid "Pity."
-msgstr ""
+msgstr "哀れだな。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.1"
@@ -7363,11 +7395,13 @@ msgid ""
 "Hold out until the jet arrives\n"
 "(TURN 20)"
 msgstr ""
+"ジェット到着まで持ちこたえる。\n"
+"(20 ターン)"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.1
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.1"
 msgid "Power reserve critical. Personality wave collapse imminent."
-msgstr ""
+msgstr "電力低下中。 人格まとりくすガ 崩壊シマス。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.10
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.10"
@@ -7375,11 +7409,13 @@ msgid ""
 "I'll meet you there. If I'm going to lose all of my credibility on this "
 "operation I want to see it in person."
 msgstr ""
+"現地で落ち合おう。 今回の仕事で 信用を失うかどうか、 この目で 確かめたいん"
+"だ。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.2
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.2"
 msgid "Monst3r, tell me some good news."
-msgstr ""
+msgstr "モンスター、 良いニュースは まだかしら。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.3
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.3"
@@ -7389,6 +7425,10 @@ msgid ""
 "\n"
 "I may know where we can buy you a reprieve."
 msgstr ""
+"まだ 信号の探知は 終わってないんだ。 もう少し... 了解。 こういうことは したく"
+"ないんだが、 しかし...\n"
+"\n"
+"もう少し 猶予を くれないか。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.4
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.4"
@@ -7396,6 +7436,8 @@ msgid ""
 "I trust you're not holding out on us. Derek, you know the gravity of our "
 "situation."
 msgstr ""
+"我々を 待たせない ことに かけては 信頼しているわ。 デレク、 事の重要さは 分"
+"かってる んでしょうね。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.5
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.5"
@@ -7405,6 +7447,10 @@ msgid ""
 "client's confidence it will take me years to rebuild my credibility. If you "
 "were anyone else I wouldn't even consider this."
 msgstr ""
+"も、もちろん。 クライアントを 毎回 自己破産に 巻き込むような 仕事は 期待して "
+"くれるなよ。 クライアントの 信頼を 裏切るような ことが あれば、 出直すのに 何"
+"年も かかるんだぜ。 もし あんたが 他の誰かだったら、 こんなことは 考えもしな"
+"いさ。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.6
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.6"
@@ -7412,6 +7458,7 @@ msgid ""
 "And I appreciate it. Greatly. We'll do our best to compensate you if we get "
 "through this alive."
 msgstr ""
+"感謝してるわ。 とてもよ。 これを 生き延びれたら、 償いは 何でも するから。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.7
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.7"
@@ -7424,6 +7471,12 @@ msgid ""
 "Rumor is she's building a high-capacity quantum reservoir. They're looking "
 "to use it as a life-raft for holographed psyches."
 msgstr ""
+"是非そうしてくれ。\n"
+"\n"
+"常連客の中に 上級企業研究者が 居るんだ。 極秘の仕事に 就いている。\n"
+"\n"
+"噂じゃ 大容量の 量子貯蔵器を 作ってるって ハナシだ。 電子救命ボート 代わりに"
+"は 使えるんじゃ ないか。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.8
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.8"
@@ -7433,16 +7486,19 @@ msgid ""
 "be able to hold your AI in an active state for at least a couple of hours "
 "between charges. Give or take"
 msgstr ""
+"どうも そこの CEO は死ぬのが 怖いらしく、 プランB を 用意させた らしい。 そい"
+"つは 全人類の 神経情報を 数百年分 保持できるって 代物だ。 あんたの AI も 電源"
+"さえ確保できれば、 少なくとも 数時間は 生かしたまま 保管できるぞ。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.9
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.9"
 msgid "It's a long shot, but we have no other leads. Plotting a course now."
-msgstr ""
+msgstr "望み薄ね。 でも他に道は無し。 コースを修正するわ。"
 
 #: STRINGS.DLC1.MISSIONS.NEW_FINAL_MISSION_EDITS.1
 msgctxt "STRINGS.DLC1.MISSIONS.NEW_FINAL_MISSION_EDITS.1"
 msgid "The mouse takes the cheese. Snap!"
-msgstr ""
+msgstr "ネズミがチーズを手に入れた。よし！"
 
 #: STRINGS.DLC1.MISSIONS.NEW_LAST_MISSION.1
 msgctxt "STRINGS.DLC1.MISSIONS.NEW_LAST_MISSION.1"
@@ -7455,27 +7511,27 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.OBJ_ESCAPE_CELL
 msgctxt "STRINGS.DLC1.MISSIONS.OBJ_ESCAPE_CELL"
 msgid "Escape with the Power Cell"
-msgstr ""
+msgstr "電力セルを持って 脱出する"
 
 #: STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL
 msgctxt "STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL"
 msgid "Find a Power Relay "
-msgstr ""
+msgstr "電力リレイを 見つける"
 
 #: STRINGS.DLC1.MISSIONS.OBJ_GET_CELL
 msgctxt "STRINGS.DLC1.MISSIONS.OBJ_GET_CELL"
 msgid "Get the Power Cell"
-msgstr ""
+msgstr "電力セルを 手に入れる"
 
 #: STRINGS.DLC1.MISSIONS.OBJ_ROUTER
 msgctxt "STRINGS.DLC1.MISSIONS.OBJ_ROUTER"
 msgid "Disable the Router"
-msgstr ""
+msgstr "ルーターを 無効化する"
 
 #: STRINGS.DLC1.MISSIONS.OBJ_ROUTERS
 msgctxt "STRINGS.DLC1.MISSIONS.OBJ_ROUTERS"
 msgid "Disable the Routers"
-msgstr ""
+msgstr "ルーターを 無効化する"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.1"
@@ -7483,23 +7539,26 @@ msgid ""
 "Would you look at this thing? This is beyond the technological capabilities "
 "of any known corporation. Hell, it's even beyond my own."
 msgstr ""
+"これは何かしら？ 既存の企業に こんな技術を 持った ところなんてないわ。 もちろ"
+"ん、 ウチのでもよ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.2"
 msgid "It could be a toaster oven for all I care. Turn it on."
 msgstr ""
+"トースターだか オーブンだか 俺の知った こっちゃない。 スイッチ・オンだ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.3
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.3"
 msgid ""
 "Power reserve restored. Wave integrity restored. Operating at 97.65% "
 "efficiency."
-msgstr ""
+msgstr "電源ガ 復帰シマシタ。 波長復元 完了シマシタ。 稼働率ハ 97.65% デス。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.4
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.4"
 msgid "That'll make some powerful toast."
-msgstr ""
+msgstr "凄いトーストが作れそうだな。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.5
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.5"
@@ -7509,6 +7568,10 @@ msgid ""
 "degrading. From the current rate of decay I only give us another 48 hours "
 "until she hits bottom. This is no time to slack off."
 msgstr ""
+"だけど一時的なものね。 バッテリーが この調子だと 持たないわ。 現場で 代替品"
+"を 探しましょう。 インコグニータの 人格マトリックスの 劣化は 依然進行中よ。 "
+"現在の 進行具合から 算出すると、 残り 48時間が タイムリミット。 もたもた して"
+"いる時間は 無いわね。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.6
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.6"
@@ -7519,6 +7582,11 @@ msgid ""
 "it - assuming that new corp down there is our real adversary, it may hold "
 "the key to cracking through their interference."
 msgstr ""
+"俺は ぼちぼち 失礼するよ。\n"
+"\n"
+"こいつを 見つけたときに、 怪しい 暗号データが 残されているのを 発見したん"
+"だ。 このデータの 持ち主が、 我々の 本当の敵と 思って良いだろう。 データを 復"
+"号化する キーを 持っているかもな。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.7
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.7"
@@ -7527,6 +7595,8 @@ msgid ""
 "people, I think we all stand a better chance if I go back to my safe-house "
 "and start crunching numbers."
 msgstr ""
+"さて、 俺も 生業を 捨てる 生活を 十分 満喫したな。 セーフハウスに 戻って、 暗"
+"号化データと 格闘するか。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.8
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.8"
@@ -7537,11 +7607,16 @@ msgid ""
 "prepared for heightened resistance- I have a hunch that we may have just "
 "kicked a beehive back there."
 msgstr ""
+"了解。 こっちも頑張るわ。\n"
+"オペレーター、 ロスタイムに 突入よ。 ゲームは 未だ 進行中。 モンスターが "
+"SecNet シグナルを 解読する までの間、 情報収集を 続けてちょうだい。 だけど 向"
+"こうの防衛も より強固に なっているから 注意してね。 我々は ハチの巣を 突いた"
+"んじゃ ないかって 予感が するの。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.1"
 msgid "Progress report. Is the data decrypted yet?"
-msgstr ""
+msgstr "進捗は？ 復号化にはまだ 時間が かかりそう？"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.2"
@@ -7549,6 +7624,8 @@ msgid ""
 "Only bits and pieces so far I'm afraid. I believe that the reservoir lab was "
 "indeed operated by the group that raided you."
 msgstr ""
+"まだ ほんの少し ってところだな。 あんたを 襲った 組織ってのは 良く 訓練されて"
+"るよ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.3
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.3"
@@ -7556,6 +7633,8 @@ msgid ""
 "That can't be a coincidence. Could they have somehow traced us through your "
 "researcher contact?"
 msgstr ""
+"偶然じゃ なさそうね。 あなたの お客を 通して 奴らが 我々を 追跡することって "
+"できるのかしら？"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.4
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.4"
@@ -7565,31 +7644,34 @@ msgid ""
 "willing to entertain the possibility that the universe is more complex that "
 "I once imagined."
 msgstr ""
+"いつもなら、 ノーと言うね。 俺は お客からは 積極的に 距離を 置いているんだ。 "
+"研究所で あの技術を 見た後じゃ、 世界は 予想してた よりも もっと 複雑である "
+"可能性に 賭けたくなるよ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.5
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.5"
 msgid "This is my surprised face."
-msgstr ""
+msgstr "これは 驚きね。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.6
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.6"
 msgid "Indeed. I'll see what else I can find."
-msgstr ""
+msgstr "全くだ。 やれるだけ やってみる。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.7
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.7"
 msgid "Good. You wouldn't want to see my 'disappointed' face."
-msgstr ""
+msgstr "良いわね。 私の がっかりした顔 見たくないでしょう？"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.1"
 msgid "Battery power restored."
-msgstr ""
+msgstr "電源が戻ったわ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.2"
 msgid "Another battery, another battle."
-msgstr ""
+msgstr "電源と戦いの日々、か。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.3
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.3"
@@ -7597,6 +7679,8 @@ msgid ""
 "I've uncovered more information. The reservoir wasn't built to house a human "
 "intelligence after all. It was built specifically to house an AI."
 msgstr ""
+"新しい情報だ。 この容器は 人間用じゃなくて 特定の AI 向けに 作られた 専用品だ"
+"な。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.4
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.4"
@@ -7604,6 +7688,8 @@ msgid ""
 "But then isn't it massively over-engineered? There are no known AIs other "
 "than Incognita that would come close to requiring its full capacity."
 msgstr ""
+"そうだとしても、 巧妙すぎない？ インコグニータ以外の AI で、 こいつから 最大"
+"限の 性能を 引き出すもの なんて 知らないわ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.5
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.5"
@@ -7611,11 +7697,13 @@ msgid ""
 "Exactly. So either they're hiding an as-yet undetected supermassive "
 "intelligence somewhere on the net, or…"
 msgstr ""
+"その通り。 奴らは ネットのどこかに 超巨大な 未知の AI を 隠し持っているか、 "
+"または..."
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.6
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.6"
 msgid "...Or they built it specifically to house Incognita."
-msgstr ""
+msgstr "インコグニータ専用に 作られたってことになるわね。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.7
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.7"
@@ -7623,6 +7711,8 @@ msgid ""
 "Ominous either way. Maybe you should have a chat with that thing and see if "
 "it knows anything."
 msgstr ""
+"どちらにしろ 不吉だな。 インコグニータに 何か知ってるか 詰問したほうが いいん"
+"じゃないか。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.8
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.8"
@@ -7630,11 +7720,13 @@ msgid ""
 "Incognita” is structurally incapable of hiding secrets from me. I programmed "
 "her myself, and I didn't teach her how to lie, even by omission."
 msgstr ""
+"インコグニータは 構造上、 私に 隠し事は できないように なってる。 私自身が 彼"
+"女を プログラム したんだし、 嘘をつくように 教えたことも ない。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.9
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.9"
 msgid "Still, our children do grow up to surprise us, don't they?"
-msgstr ""
+msgstr "そうは言っても、 子供ってもんは 大人を 驚かしに かかるだろう？"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_1.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_1.1"
@@ -7643,16 +7735,19 @@ msgid ""
 "forces as standard equipment. I think they're getting scared of us. It would "
 "be flattering if it didn't represent an existential threat."
 msgstr ""
+"企業は セキュリティの 標準装備に 高電圧アーマーを 導入するか 検討しているよう"
+"ね。 我々に 恐れを なしたのかしら？ 最新鋭の 脅威の象徴 でなかったら お世辞に"
+"すら ならないわね。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_1.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_1.2"
 msgid "Make sure you bring along something extra pointy for emergencies."
-msgstr ""
+msgstr "これらの 脅威にも 対処できる モノを 揃えてちょうだい。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.1"
 msgid "My bonnie lies over the ocean. My bonnie lies over the sea."
-msgstr ""
+msgstr "♪青い海の向こう 白い波間から"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.2"
@@ -7663,7 +7758,7 @@ msgid ""
 "\n"
 "This is the part where you tell me that we've found their secret "
 "headquarters, Derek."
-msgstr ""
+msgstr "時間が 無くなってきたわ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.3
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.3"
@@ -7672,11 +7767,16 @@ msgid ""
 "data, but the SecNet response is getting stronger. Between the two sources I "
 "should have something soon."
 msgstr ""
+"そう時間は かからんだろう。 復号化した データからは これ以上 解析できない"
+"が、 SecNet の反応が 強くなってきた。 2つの 情報源から すぐに 何かが 見つかる"
+"さ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.4
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.4"
 msgid "Oh bring back my bonnie to meeeeeeeeeeeeeee"
 msgstr ""
+"♪やさしい恋人を 返しておくれ\n"
+"(「恋人は海の彼方に」, スコットランド民謡)"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.1"
@@ -7684,6 +7784,8 @@ msgid ""
 "I'll spare you the technobabble, but I've set a trap. One, possibly two more "
 "SecNet alerts, and we're golden."
 msgstr ""
+"説明すると 難しいんだが、 とりあえず 罠を 仕掛けておいた。 1つ、 2つと "
+"SecNet アラームが鳴れば、 我々は 人気者だ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.2"
@@ -7692,23 +7794,25 @@ msgid ""
 "glaring hole in our defenses that's been bothering you for the past couple "
 "of days, now would be the time to fill it."
 msgstr ""
+"時間ね。 オペレーター、 これで最後よ。 ここ数日 守りの 抜け穴が あなたの手を "
+"煩わせてきたけど、 今こそ 塞がれる時。"
 
 #: STRINGS.DLC1.MISSIONS.POWER_CELL_DETECTED
 msgctxt "STRINGS.DLC1.MISSIONS.POWER_CELL_DETECTED"
 msgid "Energy Flow Detected"
-msgstr ""
+msgstr "エネルギーフローを検知しました。"
 
 #: STRINGS.DLC1.MISSIONS.POWER_CELL_DETECTED_DESC
 msgctxt "STRINGS.DLC1.MISSIONS.POWER_CELL_DETECTED_DESC"
 msgid "Retrieve the Power Cell"
-msgstr ""
+msgstr "電力セルを取得します。"
 
 #: STRINGS.DLC1.MISSIONS.SEE_GUARDS_FINAL_MISSION_EDIT.1
 msgctxt "STRINGS.DLC1.MISSIONS.SEE_GUARDS_FINAL_MISSION_EDIT.1"
 msgid ""
 "Those are the same uniforms from the research lab. We've been fighting the "
 "same adversary the entire time."
-msgstr ""
+msgstr "研究所と 同じ装備だわ。 我々が これまでに 戦ってきた 相手ね。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_ACCESS_TRANSFORMER.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_ACCESS_TRANSFORMER.1"
@@ -7716,17 +7820,19 @@ msgid ""
 "Excellent, the relay station should be open now. If we patch into the relay "
 "transformer, we'll be given a chance to sell off a large amount of PWR."
 msgstr ""
+"素晴らしい。 リレイ ステーションが 開いた頃合いね。 リレイ変圧器から 売れるほ"
+"ど 大量の 電力が 得られる でしょう。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_ACCESS_TRANSFORMER.2
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_ACCESS_TRANSFORMER.2"
 msgid "I leave it to you Operator, if you think we can spare it."
-msgstr ""
+msgstr "必要としている 分以外は、 あなたに 任せるわ。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_COMPILE_ENDED.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_COMPILE_ENDED.1"
 msgid ""
 "It's done! The compile just completed. Go see what got cooked up if you can."
-msgstr ""
+msgstr "やったわね！ コンパイル完了よ。 何が 出来上がったか 確認して。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_COMPILE_STARTED.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_COMPILE_STARTED.1"
@@ -7738,7 +7844,7 @@ msgstr "よし。 コンパイルが 始まったわ。 すぐに 終わるこ�
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE1_END.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE1_END.1"
 msgid "One down."
-msgstr ""
+msgstr "まずは１つ、と。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE1_START.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE1_START.1"
@@ -7746,16 +7852,18 @@ msgid ""
 "I'm sending you a worm virus. Install it in that databank, and it will "
 "stream a sample back to us."
 msgstr ""
+"ワームウィルスを 送ったわ。 データバンクに 感染させれば、 データサンプルを 送"
+"り返して くれるはず。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_END.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_END.1"
 msgid "That's two clean"
-msgstr ""
+msgstr "あと 2つ。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_START.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_START.1"
 msgid "Second drive is infected."
-msgstr ""
+msgstr "2つ目も 感染したようね。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE4_END.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE4_END.1"
@@ -7764,11 +7872,13 @@ msgid ""
 "just got it back, it might be prudent to find someone willing to trade it "
 "for some credit."
 msgstr ""
+"これで全部ね。 復元データ ディスクを 取り出して。  データを 取り戻した のは "
+"いいけれど、 買い手を 見つけるのは 慎重に やりましょう。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE4_START.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE4_START.1"
 msgid "This is the last one."
-msgstr ""
+msgstr "これで最後ね。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ACTIVATE.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ACTIVATE.1"
@@ -7776,11 +7886,13 @@ msgid ""
 "Those components are too delicate for field work. The tools we need are on "
 "the jet."
 msgstr ""
+"現場で 作業するには 部品が デリケート すぎるわね。 必要な機材は ジェットにあ"
+"るわ。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ACTIVATE.2
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ACTIVATE.2"
 msgid "If possible, hijack that drone and bring it to the transporter."
-msgstr ""
+msgstr "あのドローンを 乗っ取って トランスポーターまで 持っていける？"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ESCAPE.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRONE_ESCAPE.1"
@@ -7788,6 +7900,8 @@ msgid ""
 "The cargo is onboard. Monst3r can probably find a buyer for whatver secrets "
 "are in that bot. Well done Operator."
 msgstr ""
+"荷物は 回収済み。 モンスターが あのロボットの 買い手を 見つけて くれるでしょ"
+"う。 オペレーター、 よくやったわね。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SCIENTIST_REACHED_COM.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SCIENTIST_REACHED_COM.1"
@@ -7795,11 +7909,13 @@ msgid ""
 "Dammit, that Sterile Compile room has locked down. Too late for us to nick "
 "whatever software is being worked on in there."
 msgstr ""
+"くっ、 クリーン コンパイル室が 封鎖されたわ。 あそこで 開発中の ソフトウェア"
+"を 手に入れるには 遅すぎたって ことね。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SCIENTIST_REACHED_COM.2
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SCIENTIST_REACHED_COM.2"
 msgid "Maybe our timing will be better next time."
-msgstr ""
+msgstr "次回は もう少し 上手くやれる でしょう。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DATABANK.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DATABANK.1"
@@ -7807,6 +7923,8 @@ msgid ""
 "Interesting, they have a lot of on site data banks here. Might be worth a "
 "search."
 msgstr ""
+"興味深いわね。 ここには データバンクが 大量に 置いてあるわ。 漁ってみる 価値"
+"は あるかも。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DRONE.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DRONE.1"
@@ -7814,6 +7932,8 @@ msgid ""
 "What have we here. Looks like they are in the middle of striping down this "
 "drone for it's black box."
 msgstr ""
+"これは何？ ブラックボックスから ドローンに データ ストライピング している 最"
+"中のようね。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DRONE.2
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_DRONE.2"
@@ -7821,6 +7941,8 @@ msgid ""
 "Whatever it's seen, it must be important. It would be better, Operator, if "
 "we had that drone instead."
 msgstr ""
+"見えたものは何であれ、 重要事項に 違いないわ。 オペレーター、 あのドローンの "
+"制御権を 奪取しましょう。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_LAB_2ND.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_LAB_2ND.1"
@@ -7828,6 +7950,7 @@ msgid ""
 "There's that Technician's lab. I wonder what kind of software he's been "
 "cooking up in there."
 msgstr ""
+"あれが 技術者ラボよ。 あそこで どんなソフトウェアが 作られて いるのかしらね？"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST.1"
@@ -7835,6 +7958,8 @@ msgid ""
 "Incognita has IDed that technician there. He's one of the top of his field. "
 "He might have info we can use."
 msgstr ""
+"インコグニータが 技術者を 識別。 現場監督の 一人の ようね。 使える情報を 持っ"
+"ているかも。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_2ND.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_2ND.1"
@@ -7842,6 +7967,7 @@ msgid ""
 "There, that lab technician. He's probably got the code for that compiler "
 "console you located."
 msgstr ""
+"あれは... ラボ技術者。 彼が コンパイルに 必要なコードを 持っているはず。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_DOOR.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_DOOR.1"
@@ -7849,6 +7975,8 @@ msgid ""
 "You've located a Sterile Compile room. Must be some powerful software being "
 "designed here. "
 msgstr ""
+"クリーン コンパイル室を 見つけたのね。 強力な ソフトウェアが あそこで 作られ"
+"ているに 違いないわ。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_DOOR.2
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SCIENTIST_DOOR.2"
@@ -7856,6 +7984,8 @@ msgid ""
 "We'll need to find a compile code. Look for a lab technician, they will be "
 "the likely target."
 msgstr ""
+"コンパイル済みの コードが 必要ね。 ラボ技術者を 探しましょう。 有望な ター"
+"ゲットに なりそう。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SWITCH.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SWITCH.1"
@@ -7863,6 +7993,8 @@ msgid ""
 "What's that over there? A relay switch. Looks like we've hit a power relay "
 "station. If we have a lot of PWR, we can sell if off for some extra credit."
 msgstr ""
+"あれは何？ リレイ スイッチね。 電力リレイ ステーションがあるに 違いないわ。 "
+"電力が 十分確保できたら、 余剰分を 売却しましょう。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SWITCH.2
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_SWITCH.2"
@@ -7870,6 +8002,8 @@ msgid ""
 "You'll need to find a second switch. Activate them at the same time and we "
 "will have access to the power transformer, wherever that is."
 msgstr ""
+"もう1個の スイッチを 見つけて ちょうだい。 同時に 起動すれば 電源変圧器に 辿"
+"り着ける はずよ。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_TRANSFORMER.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_TRANSFORMER.1"
@@ -7878,6 +8012,9 @@ msgid ""
 "if we have some extra PWR to sell. The station only manages large exchanges "
 "though."
 msgstr ""
+"これを見て。 我々は 電力リレイ ステーションに 潜入したわ。 売却できる 電力が "
+"入手できれば 御の字ね。 このステーションは 大型電力交換しか 扱ってないみた"
+"い。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_TRANSFORMER.2
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SEE_TRANSFORMER.2"
@@ -7885,11 +8022,14 @@ msgid ""
 "Find the relay switches. Protocol says there should be two and they need to "
 "be activated at the same time. That will open the door."
 msgstr ""
+"リレイスイッチを 見つけて。 同時に 起動しないと 動作しない スイッチが 2個あ"
+"る みたいね。 それで 扉が 開けられるはず。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SWITCH_RESET.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_SWITCH_RESET.1"
 msgid "That relay switch reset. They need to be thrown at the same time."
 msgstr ""
+"リレイスイッチが リセットされたわ。 同時に スイッチを 入れて ちょうだい。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_USE_DATABANK_1.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_USE_DATABANK_1.1"
@@ -7897,11 +8037,13 @@ msgid ""
 "From that sample data packet, traces of Invisible came up. If we've got "
 "time, wiping us from all of these drives might be a wise choice."
 msgstr ""
+"データパケットのサンプルに Invisible社の トレース情報を 発見。 これらすべて"
+"の 機器から 我々の 痕跡を 消す時間が あればいいのに。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_USE_DATABANK_1.2
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_USE_DATABANK_1.2"
 msgid "We may even recover some of our stolen archives."
-msgstr ""
+msgstr "盗まれた情報が 回収できるかも しれないわ。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.DATABANK_DETECTED
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.DATABANK_DETECTED"
@@ -7909,76 +8051,78 @@ msgid ""
 "DATA BANK\n"
 "DETECTED"
 msgstr ""
+"データバンク\n"
+"検知"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_ACTIVATE_DRONE
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_ACTIVATE_DRONE"
 msgid "Activate the drone"
-msgstr ""
+msgstr "ドローンを起動する"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_COMPILE
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_COMPILE"
 msgid "Wait for compile to finish"
-msgstr ""
+msgstr "コンパイル完了まで待機する"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_DRONE_EXIT
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_DRONE_EXIT"
 msgid "Hijack the drone to the EXIT"
-msgstr ""
+msgstr "出口までドローンをジャックする"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_FIND_LAB
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_FIND_LAB"
 msgid "Find the software Lab"
-msgstr ""
+msgstr "ソフトウェアラボを見つける"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_FIND_TECH
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_FIND_TECH"
 msgid "Find the Lab technician"
-msgstr ""
+msgstr "ラボ技術者を見つける"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_GET_COMPILE_KEY
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_GET_COMPILE_KEY"
 msgid "Get the compile Key from the Technician"
-msgstr ""
+msgstr "技術者からコンパイル用キーを手に入れる"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_GET_PROGRAM
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_GET_PROGRAM"
 msgid "Retrive compiled program"
-msgstr ""
+msgstr "コンパイル済みのプログラムを受け取る"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS"
 msgid "Scrub batabanks"
-msgstr ""
+msgstr "データバンク洗い出し"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_START_THE_COMPILE
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_START_THE_COMPILE"
 msgid "Use the key on the Research Databank"
-msgstr ""
+msgstr "データバンク調査のためにキーを使用する"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_TRANSFORMER_2_SWITCHES
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_TRANSFORMER_2_SWITCHES"
 msgid "Unlock Power Station using Relay Switches"
-msgstr ""
+msgstr "リレイスイッチを 使用し、 電源ステーションを アンロックする"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_DRONE
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_DRONE"
 msgid "DATA SIGNATURE DETECTED"
-msgstr ""
+msgstr "データ信号検出"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_DRONE_SUB
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_DRONE_SUB"
 msgid "Retrieval recommended"
-msgstr ""
+msgstr "要奪回"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_SCIENTIST
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_SCIENTIST"
 msgid "VIP IDENTIFIED"
-msgstr ""
+msgstr "重要人物発見"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_SCIENTIST_SUB
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TAB_SCIENTIST_SUB"
 msgid "Lab Technician"
-msgstr ""
+msgstr "ラボ技術者"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TRANSFORMER_RELAY_SWITCH
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.TRANSFORMER_RELAY_SWITCH"
@@ -7988,7 +8132,7 @@ msgstr "リレイ スイッチ"
 #: STRINGS.DLC1.MONO_RAIL_GUN
 msgctxt "STRINGS.DLC1.MONO_RAIL_GUN"
 msgid "MONO MOLECULAR RAIL GUN"
-msgstr ""
+msgstr "単分子レールガン"
 
 #: STRINGS.DLC1.MONO_RAIL_GUN_FLAVOR
 msgctxt "STRINGS.DLC1.MONO_RAIL_GUN_FLAVOR"
@@ -7997,6 +8141,8 @@ msgid ""
 "size of the impact point and velocity, even advanced armors provide no "
 "defence."
 msgstr ""
+"電磁石の 力で ターゲットに 分子サイズの 毒弾を 撃ちます。 その大きさ および "
+"速度によって、 強化アーマー ですら 貫通します。"
 
 #: STRINGS.DLC1.MONO_RAIL_GUN_TOOLTIP
 msgctxt "STRINGS.DLC1.MONO_RAIL_GUN_TOOLTIP"
@@ -8012,22 +8158,22 @@ msgstr "スイッチ切替"
 msgctxt "STRINGS.DLC1.MULTI_UNLOCK_DESC"
 msgid ""
 "When all of the switches are activated in the same turn, the lock will open."
-msgstr ""
+msgstr "同一ターン内に すべての スイッチを 起動すると、 ロックが 外れます。"
 
 #: STRINGS.DLC1.MULTI_UNLOCK_RESET
 msgctxt "STRINGS.DLC1.MULTI_UNLOCK_RESET"
 msgid "SWITCH RESET"
-msgstr ""
+msgstr "スイッチリセット"
 
 #: STRINGS.DLC1.MULTI_UNLOCK_SWITCHED
 msgctxt "STRINGS.DLC1.MULTI_UNLOCK_SWITCHED"
 msgid "SWITCH ACTIVATED"
-msgstr ""
+msgstr "スイッチ起動"
 
 #: STRINGS.DLC1.NEURAL_MAPPER
 msgctxt "STRINGS.DLC1.NEURAL_MAPPER"
 msgid "NEURAL PATTERN GRID"
-msgstr ""
+msgstr "ニューラル パターン グリッド"
 
 #: STRINGS.DLC1.NEURAL_MAPPER_FLAVOR
 msgctxt "STRINGS.DLC1.NEURAL_MAPPER_FLAVOR"
@@ -8036,6 +8182,9 @@ msgid ""
 "changing data of a live subject. However, it is much easier to get a good "
 "data pull when the patterns remain constant and still."
 msgstr ""
+"人間の 脳神経を マッピングすること - 特に 生きた 被検体が持つ、 絶えず 変化す"
+"る データの場合 - は たやすい仕事では ありません。 しかし、 パターンが 残って"
+"いるならば、 データの抽出は 幾分か 楽になるでしょう。"
 
 #: STRINGS.DLC1.NEURAL_MAPPER_TIP
 msgctxt "STRINGS.DLC1.NEURAL_MAPPER_TIP"
@@ -8044,6 +8193,9 @@ msgid ""
 "Scanned KO guards generate a random bonus.\n"
 "Dead units scanned will give permanent skill upgrades."
 msgstr ""
+"使用者は スキルを 強化できません。\n"
+"KO した守衛を スキャンすると、 ランダムな ボーナスを 得ます。\n"
+"死体を スキャンすると、 永久的に スキルが 上昇します。"
 
 #: STRINGS.DLC1.NEURAL_SCAN
 msgctxt "STRINGS.DLC1.NEURAL_SCAN"
@@ -8053,17 +8205,17 @@ msgstr "神経 スキャン"
 #: STRINGS.DLC1.NEURAL_SCAN_DESC_DEAD
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_DESC_DEAD"
 msgid "Scan corpse for a permanent skill upgrade."
-msgstr ""
+msgstr "永久に スキルを 上昇させるために 死体を スキャンします。"
 
 #: STRINGS.DLC1.NEURAL_SCAN_DESC_KO
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_DESC_KO"
 msgid "Scan the guard for a temporary boost."
-msgstr ""
+msgstr "一時的な ブーストを 得るために 守衛を スキャンします。"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_1
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_1"
 msgid "M E M O R Y  D A T A  M A P P I N G  R E P O R T"
-msgstr ""
+msgstr "メ モ リ ー デ ー タ マ ッ ピ ン グ レ ポ ー ト"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_2
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_2"
@@ -8073,17 +8225,17 @@ msgstr "神経 スキャン"
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_3
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3"
 msgid "{1} has {2} raised {3} by one point from the scan data."
-msgstr ""
+msgstr "{1} がデータを スキャンしたことで、 {3} が {2} 1 上昇しました。"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_3_PERMANENET
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3_PERMANENET"
 msgid "permanently"
-msgstr ""
+msgstr "永久的に"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_3_TEMP
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3_TEMP"
 msgid "temporarily"
-msgstr ""
+msgstr "一時的に"
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_3_TEMP_DESC
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_3_TEMP_DESC"
@@ -8103,6 +8255,9 @@ msgid ""
 "\n"
 " "
 msgstr ""
+"役に立ちそうなデータをスキャンします:\n"
+"\n"
+" "
 
 #: STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_AP
 msgctxt "STRINGS.DLC1.NEURAL_SCAN_MODAL_BONUS_AP"
@@ -8307,16 +8462,18 @@ msgid ""
 "Delivers a cripling dose of incapacitating toxin. Increasingly used by "
 "executives for power naps between meetings."
 msgstr ""
+"不能化毒を 大量に 投与します。 企業の重役が 会議の間に 強制睡眠を 取るために "
+"使います。"
 
 #: STRINGS.DLC1.PARALYZER_4_TOOLTIP
 msgctxt "STRINGS.DLC1.PARALYZER_4_TOOLTIP"
 msgid "Use on pinned targets. KOs targets for an extra 8 turns"
-msgstr ""
+msgstr "取り押さえた 相手に 使います。 追加で 8 ターン KO状態に します。"
 
 #: STRINGS.DLC1.PARTICLE_ENVELOPE
 msgctxt "STRINGS.DLC1.PARTICLE_ENVELOPE"
 msgid "Particle Envelope"
-msgstr ""
+msgstr "パーティクル エンベロープ"
 
 #: STRINGS.DLC1.PARTICLE_ENVELOPE_FLAVOR
 msgctxt "STRINGS.DLC1.PARTICLE_ENVELOPE_FLAVOR"
@@ -8325,6 +8482,9 @@ msgid ""
 "might have outdone himself when he captured one of the earliest transport "
 "technology prototypes."
 msgstr ""
+"一番素晴らしい ものを 見つけることに 関しては デレクに 全幅の信頼を 寄せられ"
+"ます。 彼が 初期の 転送技術 試作品を 手に入れたとき、  これまでに 無いものが "
+"出来上がりました。"
 
 #: STRINGS.DLC1.PARTICLE_ENVELOPE_TIP
 msgctxt "STRINGS.DLC1.PARTICLE_ENVELOPE_TIP"
@@ -8332,11 +8492,13 @@ msgid ""
 "This agent is teleported to the TRANSPORT BEACON when the beacon is "
 "activated."
 msgstr ""
+"ビーコンが 活性状態の時、 エージェントは ビーコンの 位置まで テレポートしま"
+"す。"
 
 #: STRINGS.DLC1.PHEROMONE_FILTER
 msgctxt "STRINGS.DLC1.PHEROMONE_FILTER"
 msgid "Pheromone Filter"
-msgstr ""
+msgstr "フェロモン フィルター"
 
 #: STRINGS.DLC1.PHEROMONE_FILTER_FLAVOR
 msgctxt "STRINGS.DLC1.PHEROMONE_FILTER_FLAVOR"
@@ -8344,16 +8506,17 @@ msgid ""
 "Detecting subtle olfactory changes in the environment, the device enhances "
 "naturally occuring fight or flight reactions in the human body."
 msgstr ""
+"環境の 微妙な 匂いの 変化を 検知し、 移動や 戦闘時の 動きを サポートします。"
 
 #: STRINGS.DLC1.PHEROMONE_FILTER_TIP
 msgctxt "STRINGS.DLC1.PHEROMONE_FILTER_TIP"
 msgid "+2 AP when guards wake up"
-msgstr ""
+msgstr "守衛が目覚めたときに AP +2"
 
 #: STRINGS.DLC1.POWER_CELL
 msgctxt "STRINGS.DLC1.POWER_CELL"
 msgid "UNIVERSAL POWER CELL"
-msgstr ""
+msgstr "ユニバーサル電力セル"
 
 #: STRINGS.DLC1.POWER_CELL_FLAVOR
 msgctxt "STRINGS.DLC1.POWER_CELL_FLAVOR"
@@ -8361,6 +8524,8 @@ msgid ""
 "Plugs into most industrial devices to supply temporary backup power in case "
 "of emergencies."
 msgstr ""
+"非常用の 一時的な 電源として、 ほとんどの 工業機器に 差し込むことが できま"
+"す。"
 
 #: STRINGS.DLC1.POWER_CELL_TOOLTIP
 msgctxt "STRINGS.DLC1.POWER_CELL_TOOLTIP"
@@ -8368,6 +8533,8 @@ msgid ""
 "This cell will charge Incognita's Potrable Case. Get it back to the Jet to "
 "keep her alive"
 msgstr ""
+"このセルは インコグニータの 運搬ケースを 充電します。 彼女を 生き永らえ させ"
+"るために、 ジェットに 持ち帰りましょう。"
 
 #: STRINGS.DLC1.PROGRAMS.BLESS.DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BLESS.DESC"
@@ -8486,11 +8653,16 @@ msgid ""
 "Breaks 2 FIREWALLS for 4 PWR. -1 PWR cost/turn.\n"
 "Resets when used."
 msgstr ""
+"電力を 4 消費して、 ファイアウォールを 2枚 破壊します。 消費電力は ターンごと"
+"に -1 されます。 \n"
+"使用すると 消費電力は リセットされます。"
 
 #: STRINGS.DLC1.PROGRAMS.GOLEM.HUD_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.HUD_DESC"
 msgid "BREAKS 2 FIREWALLS,-1 PWR COST/TURN. RESETS WHEN USED"
 msgstr ""
+"ファイアウォールを 2枚 破壊。 消費電力は ターンごとに -1 されます。 使用する"
+"と 消費電力は リセットされます。"
 
 #: STRINGS.DLC1.PROGRAMS.GOLEM.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.NAME"
@@ -8500,7 +8672,7 @@ msgstr "ゴーレム"
 #: STRINGS.DLC1.PROGRAMS.GOLEM.SHORT_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.SHORT_DESC"
 msgid "Break 2 Firewalls, gets cheaper over time"
-msgstr ""
+msgstr "ファイアウォールを 2枚 破壊。 時間経過で 省電力化"
 
 #: STRINGS.DLC1.PROGRAMS.GOLEM.TIP_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.TIP_DESC"
@@ -8508,51 +8680,53 @@ msgid ""
 "BREAKS <c:FF8411>2 FIREWALLS</c>. -1 PWR COST/TURN. COST: <c:77FF77>{1} PWR</"
 "c>"
 msgstr ""
+"ファイアウォールを <c:FF8411>2枚</c> 破壊します。 消費電力は ターンごとに -1 "
+"されます。 消費電力: <c:77FF77>{1}</c>"
 
 #: STRINGS.DLC1.PROPS.DATA_NODE
 msgctxt "STRINGS.DLC1.PROPS.DATA_NODE"
 msgid "Data Bank"
-msgstr ""
+msgstr "データバンク"
 
 #: STRINGS.DLC1.PROPS.DIAGNOSTIC_TERMINAL
 msgctxt "STRINGS.DLC1.PROPS.DIAGNOSTIC_TERMINAL"
 msgid "Diagnostic Panel"
-msgstr ""
+msgstr "診断パネル"
 
 #: STRINGS.DLC1.PROPS.FTM_ROUTER
 msgctxt "STRINGS.DLC1.PROPS.FTM_ROUTER"
 msgid "FTM Security Router"
-msgstr ""
+msgstr "FTMセキュリティルーター"
 
 #: STRINGS.DLC1.PROPS.FTM_ROUTER_TAB
 msgctxt "STRINGS.DLC1.PROPS.FTM_ROUTER_TAB"
 msgid "Security Router"
-msgstr ""
+msgstr "セキュリティルーター"
 
 #: STRINGS.DLC1.PROPS.LOCK_SWITCH
 msgctxt "STRINGS.DLC1.PROPS.LOCK_SWITCH"
 msgid "Access Switch"
-msgstr ""
+msgstr "アクセススイッチ"
 
 #: STRINGS.DLC1.PROPS.POWER_CORE
 msgctxt "STRINGS.DLC1.PROPS.POWER_CORE"
 msgid "Redundant Power Relay"
-msgstr ""
+msgstr "余剰電力リレイ"
 
 #: STRINGS.DLC1.PROPS.REFIT_DRONE
 msgctxt "STRINGS.DLC1.PROPS.REFIT_DRONE"
 msgid "Deactivated Drone"
-msgstr ""
+msgstr "ドローン 停止"
 
 #: STRINGS.DLC1.PROPS.RESEARCH_SECURITY_TERMINAL
 msgctxt "STRINGS.DLC1.PROPS.RESEARCH_SECURITY_TERMINAL"
 msgid "Research Security Terminal"
-msgstr ""
+msgstr "セキュリティ端末の調査"
 
 #: STRINGS.DLC1.PROPS.TRANSFORMER_TERMINAL
 msgctxt "STRINGS.DLC1.PROPS.TRANSFORMER_TERMINAL"
 msgid "Relay Transformer"
-msgstr ""
+msgstr "リレイ変圧器"
 
 #: STRINGS.DLC1.PROTOCOL78
 msgctxt "STRINGS.DLC1.PROTOCOL78"
@@ -8575,7 +8749,7 @@ msgid ""
 "Uses a console. Raises the alarm 2 levels. Each alarm level after that, "
 "safes get +25 credits."
 msgstr ""
-"端末を 使用します。 警戒レベルを 2 上昇させますが、 金庫に 25 クレジット 追加"
+"端末を 使用します。 警報レベルを 2 上昇させますが、 金庫に 25 クレジット 追加"
 "します。"
 
 #: STRINGS.DLC1.REACTIVE_MOYOMER
@@ -8596,7 +8770,7 @@ msgstr ""
 msgctxt "STRINGS.DLC1.REACTIVE_MOYOMER_TIP"
 msgid "Agents AP is reduced by 2. Agent's AP pool goes up 1 per Alarm Level"
 msgstr ""
-"エージェントの 最大 AP が 2 減少しますが、 警戒レベルごとに 最大 AP が 1 増加"
+"エージェントの 最大 AP が 2 減少しますが、 警報レベルごとに 最大 AP が 1 増加"
 "します。"
 
 #: STRINGS.DLC1.RESEARCH_SECURITY_DOOR
@@ -8710,7 +8884,7 @@ msgstr ""
 #: STRINGS.DLC1.STIM_4
 msgctxt "STRINGS.DLC1.STIM_4"
 msgid "Stim IV"
-msgstr "興奮剤 IV"
+msgstr "刺激薬 IV"
 
 #: STRINGS.DLC1.STIM_4_FLAVOR
 msgctxt "STRINGS.DLC1.STIM_4_FLAVOR"
@@ -8890,13 +9064,13 @@ msgid ""
 "The corporations have increased their response to our incursions. Expect "
 "higher resistance as the alarm levels increases."
 msgstr ""
-"我々の 侵攻に 備えて 企業が 警備を 強化しています。 警戒レベルの 上昇に 伴っ"
+"我々の 侵攻に 備えて 企業が 警備を 強化しています。 警報レベルの 上昇に 伴っ"
 "て、 より大きな 脅威が 予想される でしょう。"
 
 #: STRINGS.DLC1.UPDATE1_TITLE
 msgctxt "STRINGS.DLC1.UPDATE1_TITLE"
 msgid "ADVANCED ALARM STAGES"
-msgstr "警戒レベル上昇"
+msgstr "警報レベル上昇"
 
 #: STRINGS.DLC1.UPDATE2_TEXT
 msgctxt "STRINGS.DLC1.UPDATE2_TEXT"
@@ -8904,13 +9078,13 @@ msgid ""
 "Incognita's new portable home consumes a lot of power. You will need to find "
 "and bring back a Universal Power Cell from each mission."
 msgstr ""
-"インコグニータの ポータブル機器は バッテリーの持ちが よく ありません。。 任務"
-"のたびに 万能型電力セルを 回収する 必要が あるでしょう。"
+"インコグニータの ポータブル機器は バッテリーの持ちが よく ありません。 任務の"
+"たびに 万能型電力セルを 回収する 必要が あるでしょう。"
 
 #: STRINGS.DLC1.UPDATE2_TITLE
 msgctxt "STRINGS.DLC1.UPDATE2_TITLE"
 msgid "ACQUIRE UNIVERSAL POWER CELLS"
-msgstr "万能電力セルを取得"
+msgstr "ユニバーサル電力セルを取得"
 
 #: STRINGS.DLC1.UPDATE3_TEXT
 msgctxt "STRINGS.DLC1.UPDATE3_TEXT"
@@ -9249,7 +9423,7 @@ msgstr "サポート要員"
 #: STRINGS.GUARD_STATUS.COMBAT
 msgctxt "STRINGS.GUARD_STATUS.COMBAT"
 msgid "ALERT"
-msgstr "警戒中"
+msgstr "警報中"
 
 #: STRINGS.GUARD_STATUS.FLEEING
 msgctxt "STRINGS.GUARD_STATUS.FLEEING"
@@ -9386,7 +9560,8 @@ msgstr ""
 msgctxt "STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_TIP"
 msgid "Kills do not increase the alarm tracker. Costs 3 PWR per kill."
 msgstr ""
-"殺害しても 警戒レベルが 上昇しません。 殺害ごとに 電力を 3 消費 します。"
+"殺害しても セキュリティ レベルが 上昇しません。 殺害ごとに 電力を 3 消費 しま"
+"す。"
 
 #: STRINGS.ITEMS.AUGMENTS.BANKS
 msgctxt "STRINGS.ITEMS.AUGMENTS.BANKS"
@@ -9600,8 +9775,8 @@ msgid ""
 "Generates PWR when ALARM LEVEL increases.\n"
 "PWR gained: 2x Alarm Level."
 msgstr ""
-"警戒レベルが 上昇すると 電力を 生成します。\n"
-"獲得できる電力: 警戒レベル x2"
+"警報レベルが 上昇すると 電力を 生成します。\n"
+"獲得できる電力: 警報レベル x2"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR"
@@ -10724,7 +10899,7 @@ msgstr "クローク"
 #: STRINGS.ITEMS.KEYWORDS.CRITICAL.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.CRITICAL.DESC"
 msgid "This effect triggers after the agent successfully makes a critical hit."
-msgstr "エージェントの 次の攻撃は クリティカル ヒットします。"
+msgstr "エージェントの 攻撃が クリティカル ヒットすると 発動します。"
 
 #: STRINGS.ITEMS.KEYWORDS.CRITICAL.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.CRITICAL.NAME"
@@ -10734,7 +10909,7 @@ msgstr "クリティカル"
 #: STRINGS.ITEMS.KEYWORDS.ITEM.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.ITEM.DESC"
 msgid "This effect triggers when the agent uses an inventory item."
-msgstr "エージェントは アイテムを 使用中です。"
+msgstr "エージェントが アイテムを 使用すると 発動します。"
 
 #: STRINGS.ITEMS.KEYWORDS.ITEM.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.ITEM.NAME"
@@ -10746,7 +10921,7 @@ msgctxt "STRINGS.ITEMS.KEYWORDS.MELEE.DESC"
 msgid ""
 "This effect triggers after this agent successfully knocks out an enemy with "
 "a melee attack."
-msgstr "エージェントは 敵を 格闘武器で KO します。"
+msgstr "エージェントが 敵を 格闘武器で KO すると 発動します。"
 
 #: STRINGS.ITEMS.KEYWORDS.MELEE.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.MELEE.NAME"
@@ -10756,7 +10931,7 @@ msgstr "格闘"
 #: STRINGS.ITEMS.KEYWORDS.NETWORK.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.NETWORK.DESC"
 msgid "This effect triggers after Incognita has fully broken any firewall."
-msgstr "インコグニータは ファイアウォールを 突破しました。"
+msgstr "インコグニータが ファイアウォールを 突破すると 発動します。"
 
 #: STRINGS.ITEMS.KEYWORDS.NETWORK.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.NETWORK.NAME"
@@ -10766,7 +10941,7 @@ msgstr "ネットワーク"
 #: STRINGS.ITEMS.KEYWORDS.STIM.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.STIM.DESC"
 msgid "This effect triggers after this agent successfully uses a stim item."
-msgstr "刺激剤 使用後に 発生する 効果です。"
+msgstr "刺激薬を 使用すると 発動します。"
 
 #: STRINGS.ITEMS.KEYWORDS.STIM.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.STIM.NAME"
@@ -10792,8 +10967,8 @@ msgid ""
 "Generates PWR when ALARM level changes if deployed.\n"
 "Alarm Level x 2 = PWR. Deploying has a 2 turn cooldown."
 msgstr ""
-"設置すると、 警戒レベル 上昇時に 電力を 生成します。\n"
-"生成される 電力 = 警戒レベル x2。 設置には 2 ターン かかります。"
+"設置すると、 警報レベル 上昇時に 電力を 生成します。\n"
+"生成される 電力 = 警報レベル x2。 再設置には 2 ターン かかります。"
 
 #: STRINGS.ITEMS.LOCK_DECODER_1
 msgctxt "STRINGS.ITEMS.LOCK_DECODER_1"
@@ -10999,8 +11174,8 @@ msgid ""
 "Infinite ammo. Can only be fired for one turn per mission. Still consumes an "
 "agent's attack. Lethal damage"
 msgstr ""
-"弾数 無制限 ですが、 任務ごとに 1回しか 使えません。 エージェントの 攻撃とし"
-"て カウント されます。 致命的な ダメージを 与えます。"
+"弾数 無制限 ですが、 任務ごとに 1ターンしか 使えません。 エージェントの 攻撃"
+"として カウント されます。 致命的な ダメージを 与えます。"
 
 #: STRINGS.ITEMS.PISTOL_FLAVOR
 msgctxt "STRINGS.ITEMS.PISTOL_FLAVOR"
@@ -11055,7 +11230,8 @@ msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_1_TOOLTIP"
 msgid ""
 "Generates 1 PWR per 2 turns when deployed. Deploying has a 2 turn cooldown."
 msgstr ""
-"設置すると 2ターンごとに 電力を 1 生成します。 設置には 2ターン かかります。"
+"設置すると 2ターンごとに 電力を 1 生成します。 再設置には 2 ターン かかりま"
+"す。"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_2
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_2"
@@ -11076,7 +11252,8 @@ msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_2_TOOLTIP"
 msgid ""
 "Generates 1 PWR per 1 turns when deployed. Deploying has a 2 turn cooldown."
 msgstr ""
-"設置すると 1ターンごとに 電力を 1 生成します。 設置には 2ターン かかります。"
+"設置すると 1ターンごとに 電力を 1 生成します。 再設置には 2 ターン かかりま"
+"す。"
 
 #: STRINGS.ITEMS.PORTABLE_SERVER_3
 msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_3"
@@ -11096,7 +11273,8 @@ msgctxt "STRINGS.ITEMS.PORTABLE_SERVER_3_TOOLTIP"
 msgid ""
 "Generates 2 PWR per 1 turn when deployed. Deploying has a 2 turn cooldown."
 msgstr ""
-"設置すると 1ターンごとに 電力を 2 生成します。 設置には 2ターン かかります。"
+"設置すると 1ターンごとに 電力を 2 生成します。 再設置には 2 ターン かかりま"
+"す。"
 
 #: STRINGS.ITEMS.PROTOCHIP
 msgctxt "STRINGS.ITEMS.PROTOCHIP"
@@ -11345,7 +11523,7 @@ msgstr ""
 #: STRINGS.ITEMS.STIM_1
 msgctxt "STRINGS.ITEMS.STIM_1"
 msgid "Stim I"
-msgstr "興奮剤 I"
+msgstr "刺激薬 I"
 
 #: STRINGS.ITEMS.STIM_1_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_1_FLAVOR"
@@ -11364,7 +11542,7 @@ msgstr "AP を 4 回復します。"
 #: STRINGS.ITEMS.STIM_2
 msgctxt "STRINGS.ITEMS.STIM_2"
 msgid "Stim II"
-msgstr "興奮剤 II"
+msgstr "刺激薬 II"
 
 #: STRINGS.ITEMS.STIM_2_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_2_FLAVOR"
@@ -11379,7 +11557,7 @@ msgstr "AP を 6 回復します。"
 #: STRINGS.ITEMS.STIM_3
 msgctxt "STRINGS.ITEMS.STIM_3"
 msgid "Stim III"
-msgstr "興奮剤 III"
+msgstr "刺激薬 III"
 
 #: STRINGS.ITEMS.STIM_3_FLAVOR
 msgctxt "STRINGS.ITEMS.STIM_3_FLAVOR"
@@ -11879,8 +12057,8 @@ msgid ""
 "Win or lose, each campaign earns you XP that unlocks new agents and "
 "programs. "
 msgstr ""
-"ゲームクリア/ゲームオーバーに関わらず、 キャンペーンごとにエージェントやプロ"
-"グラムをアンロックするための経験値が 得られます。"
+"ゲームクリア/ゲームオーバーに 関わらず、 キャンペーンごとに エージェントや プ"
+"ログラムを アンロックするための 経験値が 得られます。"
 
 #: STRINGS.LOADING_TIPS.11
 msgctxt "STRINGS.LOADING_TIPS.11"
@@ -13226,7 +13404,7 @@ msgid ""
 "But be quick about it - they noticed a disturbance when we ported in, and "
 "their alarm level is already rising."
 msgstr ""
-"だけど、 素早くね。 潜伏に 気づかれると 騒ぎが 大きくなるし、 警戒レベルは す"
+"だけど、 素早くね。 潜伏に 気づかれると 騒ぎが 大きくなるし、 警報レベルは す"
 "でに 上昇中よ。"
 
 #: STRINGS.MISSIONS.ESCAPE.GENERIC_1
@@ -13710,7 +13888,7 @@ msgid ""
 "They will detect your team's location each alarm level, make sure to shut "
 "them all down."
 msgstr ""
-"警戒レベルごとに エージェントの 位置を 検知する みたい。 確実に シャットダウ"
+"警報レベルごとに エージェントの 位置を 検知する みたい。 確実に シャットダウ"
 "ンして。"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNERS_DETECTED_3
@@ -13735,7 +13913,7 @@ msgid ""
 "It'll detect your team's location each alarm level, make sure to shut it "
 "down."
 msgstr ""
-"警戒レベルごとに エージェントの 位置を 検知する みたい。 確実に シャットダウ"
+"警報レベルごとに エージェントの 位置を 検知する みたい。 確実に シャットダウ"
 "ンして。"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_SCANNER_DETECTED_3
@@ -15526,7 +15704,7 @@ msgstr ""
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.4
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.DISPATCH.4"
 msgid "There's the secure safe. You're almost done."
-msgstr "あれが 金庫ね。 もう少しよ。"
+msgstr "あれが ロッカーね。 もう少しよ。"
 
 #: STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.1
 msgctxt "STRINGS.MISSIONS.OBJECTIVE_SIGHTED.NANOFAB.1"
@@ -15853,8 +16031,7 @@ msgid ""
 "us\n"
 " and the next SecNet is gone."
 msgstr ""
-"1分のうちに メガコーポ4社の セキュリティ装置が 俺達に 押し寄せてきたと 思った"
-"ら\n"
+"1分のうちに メガコーポ4社の 連合軍が 俺達に 押し寄せてきたと 思ったら\n"
 "お次は SecNet が消えちまった。"
 
 #: STRINGS.MOVIE_SUBS.END_33
@@ -15869,7 +16046,7 @@ msgstr ""
 #: STRINGS.MOVIE_SUBS.END_34
 msgctxt "STRINGS.MOVIE_SUBS.END_34"
 msgid "What? your AI, where is it?"
-msgstr "何だって？あんたの AI どこにいるんだ？"
+msgstr "何だって？あんたの AI は どこにいるんだ？"
 
 #: STRINGS.MOVIE_SUBS.END_35
 msgctxt "STRINGS.MOVIE_SUBS.END_35"
@@ -16029,7 +16206,7 @@ msgid ""
 "Alarm level holding steady."
 msgstr ""
 "侵入は成功。\n"
-"警戒レベルは現状を維持。"
+"警報レベルは現状を維持。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_7
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_7"
@@ -16344,13 +16521,13 @@ msgid ""
 "Generate 2 PWR points per turn. Disabled until Alarm Level 2.\n"
 "PASSIVE"
 msgstr ""
-"ターンごとに 電力を 2 生成します。 警戒レベルが 2 になるまで 使えません。\n"
+"ターンごとに 電力を 2 生成します。 警報レベルが 2 になるまで 使えません。\n"
 "パッシブ"
 
 #: STRINGS.PROGRAMS.DYNAMO.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.HUD_DESC"
 msgid "+2 PWR PER TURN AFTER ALARM LEVEL 2"
-msgstr "アラームレベル 2 以降 毎ターン 電力 +2"
+msgstr "警報レベル 2 以降 毎ターン 電力 +2"
 
 #: STRINGS.PROGRAMS.DYNAMO.NAME
 msgctxt "STRINGS.PROGRAMS.DYNAMO.NAME"
@@ -16360,7 +16537,7 @@ msgstr "ダイナモ"
 #: STRINGS.PROGRAMS.DYNAMO.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.DYNAMO.SHORT_DESC"
 msgid "Generates PWR after Alarm Level 2"
-msgstr "警戒レベル 2 以降、電力を生成"
+msgstr "警報レベル 2 以降、電力を生成"
 
 #: STRINGS.PROGRAMS.DYNAMO.WARNING
 msgctxt "STRINGS.PROGRAMS.DYNAMO.WARNING"
@@ -16476,8 +16653,7 @@ msgid ""
 "Breaks 5 FIREWALLS for 0 PWR. installs 2 daemons\n"
 "3 turn cooldown."
 msgstr ""
-"電力を 消費せずに ファイアウォールを 5枚 破り、デーモンを 2体 インストールし"
-"ます。\n"
+"消費電力 0 で ファイアウォールを 5枚 破り、デーモンを 2体 出現させます。\n"
 "クールダウン: 3 ターン"
 
 #: STRINGS.PROGRAMS.FEAST.HUD_DESC
@@ -16510,8 +16686,7 @@ msgid ""
 "Breaks 4 FIREWALLS for 0 PWR. +1 to all FIREWALLS\n"
 "3 turn cooldown."
 msgstr ""
-"電力を 消費せずに ファイアウォールを 4枚 破り、すべての ファイアウォールに 1"
-"枚 追加します。\n"
+"消費電力 0 で ファイアウォールを 4枚 破り、全ファイアウォールに +1 します。\n"
 "クールダウン: 3 ターン"
 
 #: STRINGS.PROGRAMS.FLARE.HUD_DESC
@@ -16778,13 +16953,13 @@ msgid ""
 "Control drones for an extra turn.\n"
 "PASSIVE."
 msgstr ""
-"1 ターンの間、 ドローンを 操作します。\n"
+"ドローンを 操作できる 時間が 伸びます。\n"
 "パッシブ"
 
 #: STRINGS.PROGRAMS.LEASH.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.HUD_DESC"
 msgid "CONTROL DRONES FOR +1 TURN"
-msgstr "1 ターンの間ドローン操作"
+msgstr "ドローン操作時間延長 +1"
 
 #: STRINGS.PROGRAMS.LEASH.NAME
 msgctxt "STRINGS.PROGRAMS.LEASH.NAME"
@@ -16794,7 +16969,7 @@ msgstr "リーシュ"
 #: STRINGS.PROGRAMS.LEASH.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.SHORT_DESC"
 msgid "EXTEND DRONE CONTROL"
-msgstr "ドローン操作"
+msgstr "ドローン操作時間延長"
 
 #: STRINGS.PROGRAMS.LEASH.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LEASH.TIP_DESC"
@@ -16921,7 +17096,7 @@ msgid ""
 "Breaks 2 firewalls. +2 PWR cost per use. Cost resets at each alarm Level."
 msgstr ""
 "ファイアウォールを 2枚 破ります。 使用するごとに 消費電力が +2 されます。 消"
-"費電力は 警戒レベル ごとに リセット されます。"
+"費電力は 警報レベル ごとに リセット されます。"
 
 #: STRINGS.PROGRAMS.MERCENARY.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.MERCENARY.HUD_DESC"
@@ -17239,7 +17414,7 @@ msgid ""
 "PWR cost increases by 1 each Alarm Level."
 msgstr ""
 "ファイアウォールを 1枚 破ります。\n"
-"消費電力は 警戒レベル ごとに 1 増加します。"
+"消費電力は 警報レベル ごとに 1 増加します。"
 
 #: STRINGS.PROGRAMS.RAPIER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.HUD_DESC"
@@ -17640,12 +17815,12 @@ msgstr ""
 #: STRINGS.PROPS.ADVANCED_CORP_EQUIP
 msgctxt "STRINGS.PROPS.ADVANCED_CORP_EQUIP"
 msgid "Advanced Corporate Equipment"
-msgstr "先端 企業 設備"
+msgstr "先進企業設備"
 
 #: STRINGS.PROPS.ALARM
 msgctxt "STRINGS.PROPS.ALARM"
 msgid "Alarm"
-msgstr "警戒レベル"
+msgstr "警報装置"
 
 #: STRINGS.PROPS.ARTIFACT
 msgctxt "STRINGS.PROPS.ARTIFACT"
@@ -17793,7 +17968,7 @@ msgstr "赤外線 ビーム"
 #: STRINGS.PROPS.INFRARED_BEAM_TOOLTIP
 msgctxt "STRINGS.PROPS.INFRARED_BEAM_TOOLTIP"
 msgid "The beams will advance the alarm tracker."
-msgstr "警戒レベルを 上昇させる ビームです。"
+msgstr "セキュリティレベルを 上昇させる ビームです。"
 
 #: STRINGS.PROPS.INFRARED_WALL
 msgctxt "STRINGS.PROPS.INFRARED_WALL"
@@ -17949,8 +18124,8 @@ msgstr "サウンド バグ"
 msgctxt "STRINGS.PROPS.SOUND_BUG_TOOLTIP"
 msgid "Alerts guards and raises the alarm when it hears a loud sound."
 msgstr ""
-"サウンド バグが 大きな 音を 立てると 守衛に 警戒され、 さらに 警戒レベルが 上"
-"昇します。"
+"サウンド バグが 大きな 音を 立てると 守衛に 通報され、 さらに セキュリティ レ"
+"ベルが 上昇します。"
 
 #: STRINGS.PROPS.STORE
 msgctxt "STRINGS.PROPS.STORE"
@@ -18025,7 +18200,7 @@ msgstr ""
 #: STRINGS.RESEARCH.CONSCIOUSNESS_MONITOR.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.CONSCIOUSNESS_MONITOR.UNIT_DESC"
 msgid "+2 to Alarm when KO'd"
-msgstr "KO されると 警戒レベルが 2 上昇します。"
+msgstr "KO されると セキュリティ レベルが 2 上昇します。"
 
 #: STRINGS.RESEARCH.ELECTRICAL_INTERFERENCE.NAME
 msgctxt "STRINGS.RESEARCH.ELECTRICAL_INTERFERENCE.NAME"
@@ -18077,7 +18252,7 @@ msgstr "改良型 心拍数 モニターを 装備して います。"
 #: STRINGS.RESEARCH.IMPROVED_HEART_MONITOR.UNIT_DESC
 msgctxt "STRINGS.RESEARCH.IMPROVED_HEART_MONITOR.UNIT_DESC"
 msgid "+4 to Alarm level on death, cannot be disabled."
-msgstr "死の際に警戒レベルを 4 上昇させます。 無効化 できません。"
+msgstr "死の際に 警報レベルを 4 上昇させます。 無効化 できません。"
 
 #: STRINGS.RESEARCH.LONG_RANGE_SENSORS.NAME
 msgctxt "STRINGS.RESEARCH.LONG_RANGE_SENSORS.NAME"
@@ -18757,7 +18932,7 @@ msgstr "従 業 員 偵 察"
 #: STRINGS.SCREENS.STR_2120112437
 msgctxt "STRINGS.SCREENS.STR_2120112437"
 msgid "ALARM LEVEL"
-msgstr "警戒レベル"
+msgstr "警報レベル"
 
 #: STRINGS.SCREENS.STR_2127324410
 msgctxt "STRINGS.SCREENS.STR_2127324410"
@@ -19407,7 +19582,7 @@ msgstr "実績を表示"
 #: STRINGS.SCREENS.STR_3590571042
 msgctxt "STRINGS.SCREENS.STR_3590571042"
 msgid "AUTO-INCREMENT ALARM"
-msgstr "警戒レベル自動上昇"
+msgstr "セキュリティレベル自動上昇"
 
 #: STRINGS.SCREENS.STR_3594604882
 msgctxt "STRINGS.SCREENS.STR_3594604882"
@@ -20434,7 +20609,7 @@ msgstr "扉から辺りを伺う"
 #: STRINGS.TUTORIAL_DIALOGS.PINNING
 msgctxt "STRINGS.TUTORIAL_DIALOGS.PINNING"
 msgid "PINNING"
-msgstr "張り付け"
+msgstr "取り押さえ"
 
 #: STRINGS.TUTORIAL_DIALOGS.REWINDS
 msgctxt "STRINGS.TUTORIAL_DIALOGS.REWINDS"
@@ -20611,7 +20786,7 @@ msgid ""
 msgstr ""
 "<c:a40000>セキュリティレベル上昇</>\n"
 "あなたの 活動が 上手くいく につれ、 企業は セキュリティ レベルを 引き上げ ま"
-"した。 以前と同様に、 警戒レベル 5 ごとに 新しい セキュリティ段階に 移行しま"
+"した。 以前と同様に、 セキュリティレベル 5 ごとに 新しい 警報段階に 移行しま"
 "す。"
 
 #: STRINGS.UI.AGENTS_ESCAPED
@@ -20652,7 +20827,7 @@ msgstr "クリックで詳細"
 #: STRINGS.UI.ALARM_ADD
 msgctxt "STRINGS.UI.ALARM_ADD"
 msgid "ALARM +{1}"
-msgstr "警戒レベル +{1}"
+msgstr "セキュリティレベル +{1}"
 
 #: STRINGS.UI.ALARM_BOOTING
 msgctxt "STRINGS.UI.ALARM_BOOTING"
@@ -20660,7 +20835,7 @@ msgid ""
 "They've cracked Incognita's first layer of encryption. Be careful, the next "
 "alarm levels will be quite dangerous."
 msgstr ""
-"インコグニータの暗号化レイヤー第1層が破られました。 次の警戒レベルは極めて危"
+"インコグニータの暗号化レイヤー第1層が破られました。 次の警報レベルは極めて危"
 "険です。 気を付けてください。"
 
 #: STRINGS.UI.ALARM_CAMERAS
@@ -20733,8 +20908,8 @@ msgstr ""
 "エージェントが 施設に 潜入すると 同時に、 企業は インコグニータの シグナルを "
 "検知しました。\n"
 "\n"
-"ターンごとに 警戒レベルが 上昇します。警戒レベル 5 ごとに 新しい セキュリティ"
-"段階に 移行します。"
+"ターンごとに セキュリティレベルが 上昇します。 セキュリティレベル 5 ごとに 新"
+"しい 警報段階に 移行します。"
 
 #: STRINGS.UI.ALARM_LASER_SCAN
 msgctxt "STRINGS.UI.ALARM_LASER_SCAN"
@@ -20748,12 +20923,12 @@ msgstr ""
 #: STRINGS.UI.ALARM_LEVEL
 msgctxt "STRINGS.UI.ALARM_LEVEL"
 msgid "ALARM TRACKER LEVEL"
-msgstr "警戒レベル状況"
+msgstr "セキュリティレベル状況"
 
 #: STRINGS.UI.ALARM_LEVEL_NUM
 msgctxt "STRINGS.UI.ALARM_LEVEL_NUM"
 msgid "ALARM LEVEL %d"
-msgstr "警戒レベル %d"
+msgstr "セキュリティレベル %d"
 
 #: STRINGS.UI.ALARM_NEXT_AFTER_SIX
 msgctxt "STRINGS.UI.ALARM_NEXT_AFTER_SIX"
@@ -20846,7 +21021,7 @@ msgid ""
 "ALERT\n"
 "SOUND DETECTION"
 msgstr ""
-"警戒\n"
+"警報\n"
 "音検知"
 
 #: STRINGS.UI.ALARM_SPOTTED
@@ -20868,8 +21043,8 @@ msgid ""
 msgstr ""
 "<c:F4FF78>セキュリティレベル</>\n"
 "インコグニータの 転送ビームを 施設が 検知しました。 彼らは 少しずつ ですが 信"
-"号を 追跡し、 エージェントの 位置に 守衛を 送り込んで います。 警戒レベル 5 "
-"ごとに 新しい セキュリティ段階に 移行します。"
+"号を 追跡し、 エージェントの 位置に 守衛を 送り込んで います。 セキュリティレ"
+"ベル 5 ごとに 新しい 警報段階に 移行します。"
 
 #: STRINGS.UI.ALERT_DAMAGED_HEART
 msgctxt "STRINGS.UI.ALERT_DAMAGED_HEART"
@@ -21143,8 +21318,8 @@ msgid ""
 "presence and are doubling-down on their security. Your job just got a lot "
 "tougher."
 msgstr ""
-"ハチの巣を つついたような 騒ぎです。 企業は 我々の活動に 用心し、 セキュリ"
-"ティを 更に強化 しました。 状況は 極めて やっかいです。"
+"ハチの巣を つついたような 騒ぎになってきたわ。 我々の活動も 警戒されてきて、 "
+"セキュリティも 厳しくなる 一方。 状況は 極めて やっかいね。"
 
 #: STRINGS.UI.CENTRAL_TITLE
 msgctxt "STRINGS.UI.CENTRAL_TITLE"
@@ -21540,7 +21715,7 @@ msgstr ""
 #: STRINGS.UI.DIFF_OPTION_ALARMTYPE
 msgctxt "STRINGS.UI.DIFF_OPTION_ALARMTYPE"
 msgid "ALARM STAGES"
-msgstr "開始時の警告レベル"
+msgstr "開始時の警報レベル"
 
 #: STRINGS.UI.DIFF_OPTION_ALARMTYPE_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_ALARMTYPE_TIP"
@@ -21551,11 +21726,11 @@ msgid ""
 "means the first level of security will have no dangerous effect, and will be "
 "delayed until the second security level is reached."
 msgstr ""
-"<c:FF8411>開始時の警告レベル</c>\n"
-"警告レベルが 5上昇する たびに、 企業の セキュリティが 上昇します。 セキュリ"
-"ティが 厳しく なるにつれ、 新たな脅威が レベルに 配置されます。 「簡単」 を "
-"選んだ 場合、 脅威が無い 状態から 始めること ができ、 脅威の到着を 遅らせるこ"
-"とが できます。"
+"<c:FF8411>開始時の警報レベル</c>\n"
+"セキュリティレベルが 5上昇する たびに、 企業の セキュリティが 上昇します。 セ"
+"キュリティが 厳しく なるにつれ、 新たな脅威が マップに 配置されます。 「簡"
+"単」 を 選んだ 場合、 脅威が無い 状態から 始めること ができ、 脅威の到着を 遅"
+"らせることが できます。"
 
 #: STRINGS.UI.DIFF_OPTION_ALARM_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_ALARM_TIP"
@@ -21566,15 +21741,16 @@ msgid ""
 "Alarm multiplier x5 will cause the alarm to go up 5 when discovered by a "
 "camera, or 10 when a guard is killed."
 msgstr ""
-"<c:FF8411>警告レベル上昇倍率</c>\n"
-"ゲーム中の イベントは 警告レベルを 上昇させることが あります。 この設定は イ"
-"ベント 発生時に 上昇する 警告レベルに 掛け算 されます。 例えば、 x5 に設定す"
-"ると、 カメラ捕捉時に 5、 守衛殺害時に 10、 警告レベルが上昇します。"
+"<c:FF8411>セキュリティレベル上昇倍率</c>\n"
+"ゲーム中の イベントは セキュリティ レベルを 上昇させることが あります。 この"
+"設定は イベント 発生時に 上昇する セキュリティ レベルに 掛け算 されます。 例"
+"えば、 x5 に設定すると、 カメラ捕捉時に 5、 守衛殺害時に 10、 セキュリティ レ"
+"ベルが 上昇します。"
 
 #: STRINGS.UI.DIFF_OPTION_AUTOALARM
 msgctxt "STRINGS.UI.DIFF_OPTION_AUTOALARM"
 msgid "AUTO-INCREMENT ALARM"
-msgstr "警戒レベル自動上昇"
+msgstr "セキュリティレベル自動上昇"
 
 #: STRINGS.UI.DIFF_OPTION_AUTOALARM_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_AUTOALARM_TIP"
@@ -21587,11 +21763,11 @@ msgid ""
 "move when it is triggered by some event such as a guard being killed or an "
 "agent being discovered by a camera."
 msgstr ""
-"<c:FF8411>警戒レベル自動上昇</c>\n"
-"オンにすると 敵のターン終了時に 警戒レベルが 1ずつ上昇します。\n"
+"<c:FF8411>セキュリティレベル自動上昇</c>\n"
+"オンにすると 敵のターン終了時に セキュリティ レベルが 1ずつ上昇します。\n"
 "\n"
 "オフにした場合、監視カメラに捕捉されたり 守衛を殺害する等の イベントによって"
-"のみ 警戒レベルが上昇します。"
+"のみ セキュリティ レベルが 上昇します。"
 
 #: STRINGS.UI.DIFF_OPTION_BEGINNER_PATROLS
 msgctxt "STRINGS.UI.DIFF_OPTION_BEGINNER_PATROLS"
@@ -24006,7 +24182,7 @@ msgid ""
 "customer alive."
 msgstr ""
 "三角の 元重役が 新型デーモンを 横流し してきたから 送っておいた。 おっと、感"
-"謝するのは よしてくれ。 顧客に 死なれちゃ 商売 あがったり なんでな。"
+"謝するのは よしてくれ。 クライアントに 死なれちゃ 商売 あがったり なんでな。"
 
 #: STRINGS.UI.MONST3R.NOBUY.1
 msgctxt "STRINGS.UI.MONST3R.NOBUY.1"
@@ -25045,7 +25221,7 @@ msgstr "ゲームを続ける"
 #: STRINGS.UI.SAVESLOTS.DAYS_SPENT
 msgctxt "STRINGS.UI.SAVESLOTS.DAYS_SPENT"
 msgid "{1} {2:DAY|DAYS} / {3} {4:HOUR|HOURS}"
-msgstr "{1} 日目 / {3} 時間経過"
+msgstr "{1}日目 / {3}時間経過"
 
 #: STRINGS.UI.SAVESLOTS.DELETE_AREYOUSURE
 msgctxt "STRINGS.UI.SAVESLOTS.DELETE_AREYOUSURE"
@@ -25508,7 +25684,7 @@ msgid ""
 "Each time this unit is KOed or Alerted mainframe devices within {1} tiles "
 "get +{2} Firewalls"
 msgstr ""
-"ユニットが KO されるか、 {1} タイル内の メインフレーム 機器に 警戒されると、 "
+"ユニットが KO されるか、 {1} タイル内の メインフレーム 機器に 通報されると、 "
 "ファイア ウォールに +{2} されます。"
 
 #: STRINGS.UI.TOOLTIPS.BARRIER
@@ -25652,7 +25828,7 @@ msgstr "心拍数モニター"
 #: STRINGS.UI.TOOLTIPS.HEART_MONITOR_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.HEART_MONITOR_DESC"
 msgid "The alarm is increased if this unit dies."
-msgstr "ユニットが死ぬと、 警戒レベルが 上昇します。"
+msgstr "ユニットが死ぬと、 セキュリティ レベルが 上昇します。"
 
 #: STRINGS.UI.TOOLTIPS.HEAVY_ARMOR
 msgctxt "STRINGS.UI.TOOLTIPS.HEAVY_ARMOR"
@@ -25672,7 +25848,7 @@ msgstr "アダプティブ ハーデニング"
 #: STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.KO_ARMOR_BUFF_DESC"
 msgid "Each time this unit is KOed or alerted its ARMOR increases by {1}."
-msgstr "このユニットが KO されるか 警戒されると、 アーマーが {1} 増加します。"
+msgstr "このユニットが KO されるか 通報されると、 アーマーが {1} 増加します。"
 
 #: STRINGS.UI.TOOLTIPS.KO_DEAMON
 msgctxt "STRINGS.UI.TOOLTIPS.KO_DEAMON"
@@ -25726,8 +25902,8 @@ msgid ""
 "If this device has more than 2 FIREWALLS, EMP's break 2 FIREWALLS instead of "
 "disabling it."
 msgstr ""
-"この機器に 2枚以上の ファイアウォールが 設置されていた 場合、 EMP が ファイア"
-"ウォールを 無効化する 代わりに 2枚 破ります。"
+"ファイアウォールが 2枚 以上ある時、 EMP が ファイアウォールを 無効化する 代わ"
+"りに 2枚 破ります。"
 
 #: STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE
 msgctxt "STRINGS.UI.TOOLTIPS.MAINFRAME_ACTIVE"
@@ -25951,8 +26127,8 @@ msgstr "盗む"
 msgctxt "STRINGS.UI.TOOLTIPS.STEAL_DESC"
 msgid "Steal credits from logged in accounts at the cost of raising the alarm."
 msgstr ""
-"警戒レベル 上昇と 引き換えに ログイン済みの アカウントから クレジットを 窃取"
-"します。"
+"セキュリティ レベル 上昇と 引き換えに ログイン済みの アカウントから クレジッ"
+"トを 窃取します。"
 
 #: STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR
 msgctxt "STRINGS.UI.TOOLTIPS.TEAM_SELECT_NOPWR"
@@ -26128,7 +26304,7 @@ msgstr "エージェントの 位置を 検知"
 #: STRINGS.UI.TOOLTIP_SCANNER_DESC
 msgctxt "STRINGS.UI.TOOLTIP_SCANNER_DESC"
 msgid "Sends a guard to investigate your location each alarm level"
-msgstr "警戒レベルごとに 守衛が エージェントの 位置を 操作します。"
+msgstr "警報レベルごとに 守衛が エージェントの 位置を 操作します。"
 
 #: STRINGS.UI.TOOLTIP_TAGGED
 msgctxt "STRINGS.UI.TOOLTIP_TAGGED"
@@ -26241,8 +26417,8 @@ msgid ""
 "alarm increases when knocking out guards, and you start with less PWR."
 msgstr ""
 "判別可能な 危険地帯は 自分の場所から 見える敵 のみに 限定されます。 加えて、"
-"守衛を KO するたびに 警戒レベルは 上昇し、 少ない電力で スタートすることに な"
-"ります。"
+"守衛を KO するたびに セキュリティ レベルは 上昇し、 少ない電力で スタートする"
+"ことに なります。"
 
 #: STRINGS.UI.VERY_HARD_DIFFICULTY
 msgctxt "STRINGS.UI.VERY_HARD_DIFFICULTY"
@@ -26270,7 +26446,7 @@ msgid ""
 "ALERT\n"
 "CONSCIOUSNESS MONITOR"
 msgstr ""
-"警戒\n"
+"警報\n"
 "意識 モニター"
 
 #: STRINGS.UI.WARNING_MAX_AGENTS
