@@ -849,7 +849,7 @@ msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.19"
 msgid ""
 "Since the accident I hear things too! Like how angry the floor gets when you "
 "walk on it!"
-msgstr "私も聞いたことあるわ！ あなたが歩くと 床が怒るような ものでしょ。"
+msgstr "私も聞いたことあるわ！ あなたが歩くと 床が軋むような ものでしょ。"
 
 #: STRINGS.AGENTS.BANKS.BANTER.CROSS.2
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.CROSS.2"
@@ -1900,7 +1900,7 @@ msgstr ""
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.38
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.38"
 msgid "That sounds… useful."
-msgstr "それは... 便利そうね。"
+msgstr "そう... かもね。"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.39
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.CROSS.39"
@@ -3057,7 +3057,7 @@ msgstr "ああ、そうだな。"
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.40
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.40"
 msgid "This is just a job. I haven’t felt anything since 2057."
-msgstr ""
+msgstr "ただの仕事さ。 2057年以来何も感じないよ。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.5
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.5"
@@ -6425,11 +6425,13 @@ msgid ""
 "INTERVIEW TRANSCRIPT\n"
 "Nika Muratova"
 msgstr ""
+"インタビュー の記録\n"
+"ニカ・ムラトヴァ"
 
 #: STRINGS.DLC1.LOGS.LOG06_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG06_TITLE"
 msgid "INTERVIEW TRANSCRIPT"
-msgstr ""
+msgstr "インタビュー の記録"
 
 #: STRINGS.DLC1.LOGS.LOG07
 msgctxt "STRINGS.DLC1.LOGS.LOG07"
@@ -6484,12 +6486,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG07_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG07_FILE"
 msgid "TEXT DUMP OF SUBNET POST"
-msgstr ""
+msgstr "サブネットに投稿されたテキストの断片"
 
 #: STRINGS.DLC1.LOGS.LOG07_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG07_TITLE"
 msgid "TEXT DUMP OF SUBNET POST"
-msgstr ""
+msgstr "サブネットに投稿されたテキストの断片"
 
 #: STRINGS.DLC1.LOGS.LOG08
 msgctxt "STRINGS.DLC1.LOGS.LOG08"
@@ -6554,12 +6556,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG08_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG08_FILE"
 msgid "\"The Istanbul Four (2070)\""
-msgstr ""
+msgstr "『イスタンブール 4 (2070年)』"
 
 #: STRINGS.DLC1.LOGS.LOG08_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG08_TITLE"
 msgid "ONLINE REVIEW: \"The Istanbul Four\" (2070)"
-msgstr ""
+msgstr "オンラインレビュー: 『イスタンブール 4』 (2070年)"
 
 #: STRINGS.DLC1.LOGS.LOG09
 msgctxt "STRINGS.DLC1.LOGS.LOG09"
@@ -6616,16 +6618,65 @@ msgid ""
 "\n"
 "Now. Let's begin again, shall we? But for real, this time.</>"
 msgstr ""
+"2043/12/23 アークトゥ社 セキュリティ分室にて\n"
+"\n"
+"<c:FAFD68>尋問者:</>  <c:62B3B3>もう一度聞くことにしましょう。 あなたの名前"
+"は？</>\n"
+"\n"
+"被験者:  <c:62B3B3>... エレン・リプリー</>\n"
+"<c:969696><電撃が走る音、および呻き声></>\n"
+"\n"
+"<c:FAFD68>尋問者:</>  <c:62B3B3>うん、その映画は観たことありますよ。あなたの"
+"名前は？</>\n"
+"\n"
+"被験者:  <c:62B3B3>あなたの名前、 あなたの-</>\n"
+"<c:969696><電撃が走る音、および呻き声></>\n"
+"\n"
+"<c:FAFD68>尋問者:</>  <c:62B3B3>アプローチを変えましょう。 雇い主は誰です？</"
+">\n"
+"\n"
+"被験者:  <c:62B3B3>すでに話したでしょう。 私は FTM 買収担当部署の 支局長よ。 "
+"アークトゥ社へ 商談に 来たの。 あなたのことを 雇ってあげても-</>\n"
+"<c:969696><電撃が走る音、および呻き声></>\n"
+"\n"
+"<c:FAFD68>尋問者:</>  <c:62B3B3>FTMに確認しましたよ。 FTMの交渉人は 打ち合わ"
+"せに 行く途中で 行方不明に なったそうです。 あなたは 詐欺師です。 しかも 立ち"
+"入り禁止区域に 首を突っ込んだ 詐欺師。</>\n"
+"\n"
+"被験者:  <c:62B3B3>風呂場を探していて、 道を間違えたの！</>\n"
+"<c:969696>< 静寂 ></>\n"
+"<c:62B3B3>なに、急に電気代でも心配になったの？</>\n"
+"\n"
+"<c:FAFD68>尋問者:</>  <c:62B3B3>いいえ。 あなたの 強化パーツは あの程度の 電"
+"撃を 全然通さない ようです。バイタルサインが そう言っています。 痛いフリを す"
+"るのは やめてください。 失礼ですよ。</>\n"
+"\n"
+"被験者:  <c:62B3B3>分かったわ。 フリをするのも 飽きてきたところ。 この辺で 一"
+"休みしましょう？</>\n"
+"\n"
+"<c:FAFD68>尋問者:</>  <c:62B3B3>被験者は アメリカ中西部訛りに ついての 認識"
+"が 乏しいと いうことを 記録して おいてくれ。</>\n"
+"\n"
+"被験者:  <c:62B3B3>認識が乏しい？ その乏しい認識が あなたのところの セキュリ"
+"ティ最深部まで 届くことを 教えて あげましょうか。 誰に向かって 口をきいている"
+"のか 分からないようね？</>\n"
+"\n"
+"<c:FAFD68>尋問者:</>  <c:62B3B3>おやおや！ 我々は あなたのことを よく知ってい"
+"ますよ。 ミス・グラッドストン。我々は 記録のために あなたの口から 確認 した"
+"かったんです。 あなたの 精神を 切り刻んで、そのお喋りな 歯を PEIA へ 警告代わ"
+"りに 送り付ける 前にね。\n"
+"\n"
+"尋問を 再開しましょうか？ 今回は 真面目に お願いしますよ。</>"
 
 #: STRINGS.DLC1.LOGS.LOG09_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG09_FILE"
 msgid "DEPROGRAMMING TRANSCRIPT"
-msgstr ""
+msgstr "デプログラミング の記録"
 
 #: STRINGS.DLC1.LOGS.LOG09_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG09_TITLE"
 msgid "DEPROGRAMMING TRANSCRIPT"
-msgstr ""
+msgstr "デプログラミング の記録"
 
 #: STRINGS.DLC1.LOGS.LOG10
 msgctxt "STRINGS.DLC1.LOGS.LOG10"
@@ -6688,12 +6739,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG10_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG10_FILE"
 msgid "SUBNET CHAT LOG"
-msgstr ""
+msgstr "サブネット チャットログ"
 
 #: STRINGS.DLC1.LOGS.LOG10_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG10_TITLE"
 msgid "INTERCEPTED SUBNET CHAT LOG"
-msgstr ""
+msgstr "傍受した サブネット チャットログ"
 
 #: STRINGS.DLC1.LOGS.LOG11
 msgctxt "STRINGS.DLC1.LOGS.LOG11"
@@ -6772,16 +6823,84 @@ msgid ""
 "<c:FF8CFF>ANNOUNCER 1:</> <c:62B3B3>And that wasn't her only event, can we "
 "see the 1000 meter dash, too?</>"
 msgstr ""
+"閉会式の記録\n"
+"\n"
+"<c:969696>映像: チャペック競技場を埋め尽くす観客の上空映像</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>以上で、 第23回オーグメントゲームは 終了で"
+"す。</>\n"
+"\n"
+"<c:FAFD68>実況者 2:</> <c:62B3B3>今年も 大変盛り上がりましたね。</>\n"
+"\n"
+"<c:969696>映像: 長机に座る二人の実況者</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>そうですね。 今回は 実に多くの 記録が出まし"
+"た。 サイバネアスリートは まさに 人の限界を 押し上げる存在ですね。</>\n"
+"\n"
+"<c:FAFD68>実況者 2:</> <c:62B3B3>いやはやまったく。 数も多いですし、 数だけ"
+"じゃないですよ、 これは歴史、 人類の歴史 だってことが、 今回はっきり分かりま"
+"した。 特に -</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>仰らなくても分かりますよ。</>\n"
+"\n"
+"<c:FAFD68>実況者 2:</> <c:62B3B3>あなたもですか！ そうですよね！ 彼女以外に "
+"ありえませんよ。</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>コレット・ファン！</>\n"
+"\n"
+"<c:FAFD68>実況者 2:</> <c:62B3B3>ファンの間では ラッシュ！ この四日間で さら"
+"に ファンが 増えたこと でしょう。</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>あの高高度ダイブといったら！ 信じられません"
+"よ。 その時の 映像は ありますか？</>\n"
+"\n"
+"<c:969696>映像: 高高度飛び込み台の ドローン映像。 重装備の フライトスーツ、 "
+"呼吸器具を 着込んだ 作業スタッフが 調整を 行っている。 彼らは 強風の中で 動く"
+"のも やっとのようだ。</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>こちらがその映像です。 世界中の観客をうっと"
+"りさせますね。</>\n"
+"\n"
+"<c:969696>映像: エレベーターの 扉が開き、艶のある 競泳水着に 身を包んだ ラッ"
+"シュが 出てくる。 作業スタッフは 彼女に 駆け寄り、 呼吸器具の 装着を 依頼す"
+"る。 しかし 彼女は スタッフを 軽蔑的に 追い払い、 飛び込み台へと のんびり 歩"
+"き出す。</>\n"
+"\n"
+"<c:FAFD68>実況者 2:</> <c:62B3B3>この大胆さ！ 彼女は実に マイペースですね。 "
+"助成金が どっと 入るのも 頷けるでしょう。</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>これ、 息を止めてるんですか？ あそこじゃ 呼"
+"吸もできませんよね？</>\n"
+"\n"
+"<c:FAFD68>実況者 2:</> <c:62B3B3>そうですね。 「私は」できません、 とだけ お"
+"伝えしておきます。 アハハハ。</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>ま、 待ってください。 このシーンです。 無線"
+"に向かって...、 ここ、見ていて くださいね、 何か喋ってます。</>\n"
+"\n"
+"<c:969696>映像: ラッシュは 小型マイクを持ち、辺りを一瞥すると 肩を竦める。</"
+">\n"
+"\n"
+"<c:F48011>ラッシュ:</> <c:62B3B3>ハッ。 もっと高ければ いいンだけど。</>\n"
+"\n"
+"<c:969696>映像: ラッシュは 小型マイクを 投げ返す。 そして 軽やかに 虚空へと "
+"飛び込む。 カメラは デスク画面に 切り替わる。</>\n"
+"\n"
+"<c:FAFD68>実況者 2:</> <c:62B3B3>そして彼女は 総合優勝したのです！ まさに有言"
+"実行！ 三角重工の 審査員でさえ 10点満点を 出しました。 信じられません！</>\n"
+"\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>彼女の 魅せ場は これだけじゃ ありません。 "
+"1000m走の映像も 出せますか？</>"
 
 #: STRINGS.DLC1.LOGS.LOG11_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG11_FILE"
 msgid "2050 AUGMENT GAMES TRANSCRIPT"
-msgstr ""
+msgstr "2050年 オーグメント ゲーム の記録"
 
 #: STRINGS.DLC1.LOGS.LOG11_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG11_TITLE"
 msgid "2050 AUGMENT GAMES TRANSCRIPT"
-msgstr ""
+msgstr "2050年 オーグメント ゲーム の記録"
 
 #: STRINGS.DLC1.LOGS.LOG12
 msgctxt "STRINGS.DLC1.LOGS.LOG12"
@@ -6836,16 +6955,62 @@ msgid ""
 "\n"
 "\tShe was a hunter, and this was her net.</>"
 msgstr ""
+"(13章 「アビー プラグ イン」 より抜粋)\t\t\n"
+"\n"
+"\t<c:62B3B3>アビーは 街灯の下で 立ち止まった。 ほんの 一瞬のことで あったが、"
+"それは とても長く 感じられた。 肌に 奇妙な 嫌悪感を 覚える。 後ずさり、影の中"
+"に 納まると、 蕩けた 気持ちに なった。 彼女は コートの 襟を立て、 通りを 歩い"
+"て行った。\n"
+"\n"
+"\t気分が 悪くなってきた。 LED の 冷たい光 でさえも 我慢できない。 むき出しの "
+"裸電球なぞ もってのほかだ。  分厚い コンクリートの 壁を通して でさえ、 ひどい"
+"頭痛を もたらすには 十分。 彼女は 陽の下に 出なくなった。\n"
+"\n"
+"\tこれ以上 拒否する こともない。 また、 狩りに 出ようじゃないか。\n"
+"\n"
+"\t初回は 散々だった。 そして 偶然だった。 彼女は 二度と 起こらない ようにと "
+"願った。 その出来事は 彼女の 記憶から 遮断された。 彼女は それに 対応する 手"
+"段を 持って いなかった のだ。 悪い 白昼夢に 違いない。 過労と ストレスから 生"
+"まれた 悪夢で、 本物じゃ ないんだ。\n"
+"\n"
+"\tしかし 空腹は 本物だ。 日を追うごとに ひしひしと 感じられる。 彼女は いつも"
+"の やり方で 空腹を 紛らわそうと した。 始めのうちは うまく いった。 個人貿易"
+"商から 買った、工場直送を 偽装した ブラッド プリンで 最低限の 渇きを 癒す。 "
+"しかし 空腹は 常に 戻ってきて、 回を増すごとに 強くなってくる。 彼女に やれ"
+"と 命令する。 最初は 暇なときにしか 浮かばなかったが、 次第に 彼女の 頭の中"
+"を 占めるように なった。\n"
+"\n"
+"\tだんだん エスカレート していった。 雑貨屋で 買った ネズミの 干し肉。 朝ま"
+"で やってる店の 高価な ハンバーガー。 普通は 手の届かない (しかし 気にしな"
+"い) 郊外の レストランで 食べる レアステーキ。 盗んだ プラズマの 袋。 野良"
+"猫。 自分の飼い猫。 最悪だ。\n"
+"\n"
+"\tこれが 数週間前まで 厳格な ベジタリアン だった人間だと 信じられる だろう"
+"か。 しかし 彼女は すぐに 順応した。 最初は 血を見ただけで 吐き気を 催すほど "
+"だったが、 今は 血を見ないと 吐き気を 催すのだった。\n"
+"\n"
+"\t光線過敏性が 酷くなってきた。 夜も昼も 眠れなくなった。 彼女が 座り込んで "
+"いると、 心臓は 鼓動を 速め、 神経は 剃刀の刃 のように 鋭くなった。 彼女の体"
+"が 最後の気力を 神経に 注ぎ込み、 「狩りだ！ おい！ 狩りの時間だ！」 と叫ん"
+"で いるよう だった。 ついに その時が 来た。 負けを 認めなければ 死あるのみ"
+"だ。 既に 新しい形質を 拒むことが できなく なっていた。\n"
+"\n"
+"\t通りの終端には 路地があった。 彼女は 懐から データパッドを 取り出した。 連"
+"絡先を なぞり、探していた 相手を 見つける。 電磁化された データストリームの "
+"太い触手が 獲物を 捕らえる 様子を 想像した。 誘惑し、 締め付け、 巻き取る - "
+"殺すために。\n"
+"\n"
+"\t彼女はハンターだ。 そしてこれは彼女の罠だ。</>"
 
 #: STRINGS.DLC1.LOGS.LOG12_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG12_FILE"
 msgid "WRITING SAMPLE: Matei Cernat "
-msgstr ""
+msgstr "小論文: マテイ・カーネット "
 
 #: STRINGS.DLC1.LOGS.LOG12_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG12_TITLE"
 msgid "\"THE DATA VAMPIRES\" BY MATEI CERNAT"
-msgstr ""
+msgstr "『データ ヴァンパイア』 マテイ・カーネット著"
 
 #: STRINGS.DLC1.MISSIONS.CENTRAL_FAIL_TO_GET_POWER_CELL.1
 msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_FAIL_TO_GET_POWER_CELL.1"
@@ -6882,6 +7047,8 @@ msgid ""
 "Well done Operator, now get that Cell back here. Incognita's living on "
 "borrowed time."
 msgstr ""
+"オペレーター、 よくやったわね。 電力セルが 戻ったから、 インコグニータも 何と"
+"か 生き延びられたわ。"
 
 #: STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.1
 msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.1"
@@ -6889,6 +7056,8 @@ msgid ""
 "I'm getting a red flag on my network security monitor. Looks like FTM has "
 "been installing security routers in a lot of their facilities."
 msgstr ""
+"ネットワーク セキュリティ モニターに フラグが立ったわ。 FTM は 各地の施設に "
+"セキュリティ ルーターを インストール している ようね。"
 
 #: STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.2
 msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.2"
@@ -6896,6 +7065,7 @@ msgid ""
 "It's going to keep bumping up the firewalls around here until you take it "
 "out."
 msgstr ""
+"ルーターを 解除するまで、 ファイアウォールが 強化され 続けるから 気を付けて。"
 
 #: STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.3
 msgctxt "STRINGS.DLC1.MISSIONS.CENTRAL_ROUTER_DETECTED.3"
@@ -6903,16 +7073,18 @@ msgid ""
 "Well done. That router's been taken care of. That equipment would fetch a "
 "high price if you managed to lift it."
 msgstr ""
+"よくやったわ。 あのルーターには お世話に なったわね。 高く売れる 部品だか"
+"ら、 できれば 持ち帰ってきて。"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.DESCRIPTION
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.DESCRIPTION"
 msgid "Acquire the Quantum Reservoir project."
-msgstr ""
+msgstr "量子貯蔵器プロジェクトを手に入れます。"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TITLE
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TITLE"
 msgid "QUANTUM RESEVOIR"
-msgstr ""
+msgstr "量子貯蔵器"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TXT
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TXT"
@@ -6922,6 +7094,10 @@ msgid ""
 "it has been nice working with you. Monst3r will meet you at the location. "
 "Our agents are expendable, but make sure he survives."
 msgstr ""
+"オペレーター、 正直に言うわ。 これは 情報収集よ。 もし貯蔵器が 存在すれば、 "
+"SecNet の根っこを 探すだけの 時間が できる。 もし 存在しなかったら...、 これ"
+"までの 働きに 感謝するわ。 モンスターが 現地で 落ち合うと 言っている。 エー"
+"ジェントを 犠牲にしてでも、 彼を 生かして 帰して ちょうだい。 "
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.MORE_INFO
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.MORE_INFO"
@@ -6929,26 +7105,28 @@ msgid ""
 "There hasn't been enough time to gather intelligence on this site. Keep your "
 "eyes open and adapt to what you find."
 msgstr ""
+"この施設で 目的のものを 手に入れる 時間は わずかしか ありません。 よく目を 凝"
+"らして、 見えるものに 対応してください。"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.NAME
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.NAME"
 msgid "Reseach Facility"
-msgstr ""
+msgstr "研究施設"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.REWARD
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.REWARD"
 msgid "With luck we will extend Incognita's life so we can solve this mess."
-msgstr ""
+msgstr "運が良ければ、 インコグニータの 寿命を 伸ばすことが できます。"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.DESCRIPTION
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.DESCRIPTION"
 msgid "Find and access the transport pad to find the secret R&D lab."
-msgstr ""
+msgstr "転送パッドを 使用し、 秘密の 研究開発室を 見つけてください。"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.INSET_TITLE
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.INSET_TITLE"
 msgid "OFF BOOKS R&D LABORATORY"
-msgstr ""
+msgstr "廃棄された研究開発室"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.INSET_TXT
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.INSET_TXT"
@@ -6957,6 +7135,8 @@ msgid ""
 "should be some advanced computer gear that we can use to upgrade Incognita's "
 "living quarters."
 msgstr ""
+"転送装置が 我々を 送り出した 先は ここだと モンスターは 睨んでいます。 ここに"
+"は インコグニータの リビングを 強化できる コンピュータ部品が あるはずです。"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.MORE_INFO
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.MORE_INFO"
@@ -6966,26 +7146,27 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.NAME
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.NAME"
 msgid "Foundry Lab"
-msgstr ""
+msgstr "製造研究所"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.REWARD
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION2.REWARD"
 msgid ""
 "With luck we will be able to extend Incognita's life so we can solve this "
 "mess."
-msgstr ""
+msgstr "運が良ければ、 インコグニータの 寿命を 伸ばすことが できます。"
 
 #: STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.1
 msgctxt "STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.1"
 msgid "They're paying attention, but I can't yet pin them down."
 msgstr ""
+"向こうも だいぶ 警戒態勢に 入ってきたな。 だけど こちらは 手がかり なしだ。"
 
 #: STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.2
 msgctxt "STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.2"
 msgid ""
 "Damn it, they were supposed to show their hand by now. What other options do "
 "we have?"
-msgstr ""
+msgstr "くっ。 奴らも 手の内を 見せ始めた わね。 他に 手段は 無いの？"
 
 #: STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.3
 msgctxt "STRINGS.DLC1.MISSIONS.MAP_DAY_3_MISSION_3.3"
@@ -6993,11 +7174,13 @@ msgid ""
 "Precious few. I'll run the numbers again. Maybe we missed something the "
 "first time."
 msgstr ""
+"ほんの少しならな。 もう一度 復号化を 走らせる。 何か 見落として いるものが あ"
+"るかも しれん。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.ACCESS_SWITCH
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ACCESS_SWITCH"
 msgid "ACCESS SWITCH"
-msgstr ""
+msgstr "アクセススイッチ"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.ACCESS_SWITCH_DESC
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ACCESS_SWITCH_DESC"
@@ -7005,21 +7188,23 @@ msgid ""
 "Requires simultaneous\n"
 "activation"
 msgstr ""
+"二人同時に\n"
+"操作してください。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.ACTIVATE_SWITCHES
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ACTIVATE_SWITCHES"
 msgid "Activate both switches"
-msgstr ""
+msgstr "2つの スイッチを 起動する"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.ACTIVATE_TRANSPORTER
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ACTIVATE_TRANSPORTER"
 msgid "Use the site to site Transporter"
-msgstr ""
+msgstr "直通転送装置を 使う"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN.1"
 msgid "The security system has been deactivated."
-msgstr ""
+msgstr "セキュリティ システムが 停止したぞ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN.2"
@@ -7027,13 +7212,15 @@ msgid ""
 "Serves them right for buying cheap knockoff equipment. If they had bought "
 "those parts from me, we'd still be locked out."
 msgstr ""
+"安物の 部品なんか 使ってる からだ。 俺が売る 部品を 使ってたら、 まだまだ 足"
+"止めを 食らってた だろうな。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN_NO_MONSTER.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.DOOR_OPEN_NO_MONSTER.1"
 msgid ""
 "The transport room is unlocked, but you need to recover Monst3r before we "
 "continue."
-msgstr ""
+msgstr "転送室が開いたわ。 でもまずはモンスターを起こしてからよ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.ESCAPED.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.ESCAPED.1"
@@ -7041,16 +7228,17 @@ msgid ""
 "And here were are. Brace yourselves, there will be some turbulence as we "
 "tunnel through the site's transport shielding."
 msgstr ""
+"さあて、 覚悟を決めな。 転送装置の シールドを 抜ける際、 ちょっと 揺れるぜ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.FIND_SWITCHES
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.FIND_SWITCHES"
 msgid "Find both switches"
-msgstr ""
+msgstr "2つの スイッチを 見つける"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.FIND_TRANSPORTER
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.FIND_TRANSPORTER"
 msgid "Find the site to site transporter"
-msgstr ""
+msgstr "直通転送装置を 見つける"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.1"
@@ -7065,7 +7253,7 @@ msgstr "あなたの 計画通りに やってちょうだい。"
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.2"
 msgid "Ugh. What a distasteful process."
-msgstr "うへぇ、 なんて不快なプロセスだ。"
+msgstr "うへぇ、 なんて不快な道中だ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.3
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.INTRO_CONVO.3"
@@ -7130,7 +7318,7 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.MONST3R_SURVIVE
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.MONST3R_SURVIVE"
 msgid "Monst3r must leave first"
-msgstr ""
+msgstr "モンスターを 最初に 脱出させる"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.SEE_DOOR.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SEE_DOOR.1"
@@ -7138,17 +7326,21 @@ msgid ""
 "There's the transport pad, but It's locked down. There must be a failsafe "
 "mechanism somewhere that we can override."
 msgstr ""
+"あそこが転送パッドだが、 封鎖されているな。 どこかに フェイルセーフ 装置が あ"
+"るはずだ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.SEE_DOOR_AFTER.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SEE_DOOR_AFTER.1"
 msgid "There's the transport pad, all warmed up and ready."
-msgstr ""
+msgstr "転送パッドじゃないか。 いつでも動かせるな。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH1.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH1.1"
 msgid ""
 "Ah. That terminal over there is a ring-0 security switch. They come in pairs."
 msgstr ""
+"おっ、 あの端末は リング0 セキュリティ スイッチ じゃないか。 2個で 1セット な"
+"んだ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH1.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH1.2"
@@ -7156,11 +7348,13 @@ msgid ""
 "The transporter must have a two man security lock. Somewhere nearby will be "
 "this switch's partner."
 msgstr ""
+"転送装置は 二人同行制 ロックが かけられているに 違いない。 近くに このスイッ"
+"チの 相方が あるはずだ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH2.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH2.1"
 msgid "There's the other security switch."
-msgstr ""
+msgstr "もう片方のスイッチがあったぞ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH_RESET.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.SWITCH_RESET.1"
@@ -7170,46 +7364,50 @@ msgid ""
 "If either goes down alone it gets restored by its partner. We'll have to hit "
 "them both at the same time."
 msgstr ""
+"このスイッチは もう一方と リンクしているな。\n"
+"\n"
+"片方がダウンすると もう片方から 復帰させるようだ。 同時に スイッチを 入れる "
+"必要があるぞ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.TRANSPORT_CONDUIT
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.TRANSPORT_CONDUIT"
 msgid "Transport Conduit"
-msgstr ""
+msgstr "転送管"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.UNLOCK_TRANSPORTER
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.UNLOCK_TRANSPORTER"
 msgid "Unlock the transporter"
-msgstr ""
+msgstr "転送装置を アンロックする"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION1.USE_TRANSPORTER
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION1.USE_TRANSPORTER"
 msgid "Depart using the transporter"
-msgstr ""
+msgstr "転送装置で 脱出する"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPE
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPE"
 msgid "Use the transporter to escape with the tech"
-msgstr ""
+msgstr "脱出するために 転送装置を 使う"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPED.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPED.1"
 msgid "The device is secure."
-msgstr ""
+msgstr "装置は確保したわね。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPED.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.ESCAPED.2"
 msgid "Now let's see what this thing can do."
-msgstr ""
+msgstr "さて、 これで 何が できるのかしら。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.1"
 msgid "No! We were so close."
-msgstr ""
+msgstr "駄目よ！ もう少しなのに。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.2"
 msgid "Shutting down"
-msgstr ""
+msgstr "しゃっとだうん シマス。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.3
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.FAIL.3"
@@ -7218,27 +7416,29 @@ msgid ""
 "I'd say it's been a pleasure, but would you really want the last thing you "
 "ever hear to be a lie? See you in hell, operator."
 msgstr ""
+"終わりね。 すぐに見つかって撃ち落とされるわ。 楽しかったと 言いたいけれど、 "
+"最後に 嘘をついて 欲しいのかしら？ オペレーター、 地獄で また逢いましょう。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.FIND_NEW_HOUSING
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.FIND_NEW_HOUSING"
 msgid "Get the new case for Incognita"
-msgstr ""
+msgstr "インコグニータの 格納ケースを 手に入れる"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE.1"
 msgid ""
 "Finally. Now get back to the teleport room before they notice it's gone."
-msgstr ""
+msgstr "とうとうやったな。 奴らに 気付かれる前に 転送室まで 戻るんだ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE_NO_JET.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE_NO_JET.1"
 msgid "We've got it. Don't leave us twisting in the wind for too long now."
-msgstr ""
+msgstr "手に入れたぜ。 苦しい状況下なんだ、 待たせてくれるなよ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE_NO_JET.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.GOT_CASE_NO_JET.2"
 msgid "We're almost there. Get back to the teleport room and stop whining."
-msgstr ""
+msgstr "もう少しで着くわ。 転送室に戻って。 文句ばかり言わないの。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.1"
@@ -7256,8 +7456,8 @@ msgid ""
 "We made it through in one piece. I don't recognize the corporate markings. "
 "It seems my contact may not have been who she claimed."
 msgstr ""
-"ちょうど やったところさ。 企業の追跡は 認められなかった。 この連絡先は 彼女の"
-"ものでは ないかも しれないな。"
+"ちょうど 転送が 終わった ところさ。 企業の追跡は 認められなかった。 この連絡"
+"先は 彼女のものでは ないかも しれないな。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.4
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.INTRO_CONVO.4"
@@ -7272,17 +7472,17 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.1"
 msgid "We are at your location, and ready for transport."
-msgstr ""
+msgstr "到着したわ。 転送の準備もOK。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.2"
 msgid "My hero."
-msgstr ""
+msgstr "やったぜ大将。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.3
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.JET_ARRIVED.3"
 msgid "Don't get used to it."
-msgstr ""
+msgstr "変な呼び方しないで。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.KNOWN_THREAT
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.KNOWN_THREAT"
@@ -7292,7 +7492,7 @@ msgstr "脅威を 認識"
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.LOCATE_LAB
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.LOCATE_LAB"
 msgid "Locate the laboratory"
-msgstr ""
+msgstr "研究所を 見つける"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MID_DIALOGUE.1"
@@ -7322,12 +7522,12 @@ msgstr "後で考えましょう。 任務を優先して。"
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.MONST3R_SURVIVE
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.MONST3R_SURVIVE"
 msgid "Monst3r must leave first"
-msgstr ""
+msgstr "モンスターを 最初に 脱出させる"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.NEW_ALARM.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.NEW_ALARM.1"
 msgid "That's new."
-msgstr ""
+msgstr "こりゃ新しいな。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.NEW_ALARM.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.NEW_ALARM.2"
@@ -7343,7 +7543,7 @@ msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.1"
 msgid ""
 "Civilians. They're working late, aren't they? Maybe we should interrogate "
 "them."
-msgstr "文民か。 しかも残業中と来たもんだ。 尋問でもするか？"
+msgstr "一般従業員か。 しかも残業中と来たもんだ。 尋問でもするか？"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SCIENTISTS.2"
@@ -7362,27 +7562,27 @@ msgstr "哀れだな。"
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.1
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.1"
 msgid "Ah. There's our macguffin."
-msgstr ""
+msgstr "あぁ、 あれがマクガフィンか。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.2
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.2"
 msgid "Our what?"
-msgstr ""
+msgstr "マク... 何ですって？"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.3
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.SEE_DEVICE.3"
 msgid "It's a.. technical term."
-msgstr ""
+msgstr "なに、専門用語さ。"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE"
 msgid "Unique Power Signature"
-msgstr ""
+msgstr "特殊な出力信号"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE_DESC
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE_DESC"
 msgid "Capture and extract"
-msgstr ""
+msgstr "確保して抽出する"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.UNKNOWN_THREAT
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.UNKNOWN_THREAT"
@@ -7395,7 +7595,7 @@ msgid ""
 "Hold out until the jet arrives\n"
 "(TURN 20)"
 msgstr ""
-"ジェット到着まで持ちこたえる。\n"
+"ジェット到着まで持ちこたえる\n"
 "(20 ターン)"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.1
@@ -7507,6 +7707,9 @@ msgid ""
 "Monst3r might yet come through with something. Make sure we are prepared for "
 "whatever might come."
 msgstr ""
+"次の任務は 慎重に 選んで ちょうだい。 インコグニータの 電力も 殆ど尽きてる。 "
+"だけど モンスターが 何か 情報を 持ってくるでしょう。 何が 来るにしても、 準備"
+"は 万端に しておいて。"
 
 #: STRINGS.DLC1.MISSIONS.OBJ_ESCAPE_CELL
 msgctxt "STRINGS.DLC1.MISSIONS.OBJ_ESCAPE_CELL"
@@ -7539,14 +7742,14 @@ msgid ""
 "Would you look at this thing? This is beyond the technological capabilities "
 "of any known corporation. Hell, it's even beyond my own."
 msgstr ""
-"これは何かしら？ 既存の企業に こんな技術を 持った ところなんてないわ。 もちろ"
-"ん、 ウチのでもよ。"
+"こいつは何なんだ？ 既存の企業に こんな技術を 持った ところなんてないぜ。 もち"
+"ろん、 俺のでもない。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.2"
 msgid "It could be a toaster oven for all I care. Turn it on."
 msgstr ""
-"トースターだか オーブンだか 俺の知った こっちゃない。 スイッチ・オンだ。"
+"トースターだか オーブンだか 私の知った こっちゃないわ。 スイッチ・オン。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.3
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_1.3"
@@ -7645,23 +7848,23 @@ msgid ""
 "I once imagined."
 msgstr ""
 "いつもなら、 ノーと言うね。 俺は お客からは 積極的に 距離を 置いているんだ。 "
-"研究所で あの技術を 見た後じゃ、 世界は 予想してた よりも もっと 複雑である "
-"可能性に 賭けたくなるよ。"
+"研究所で あの技術を 見た後じゃ、 世界は 予想してた よりも もっと 複雑だって "
+"思うぜ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.5
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.5"
 msgid "This is my surprised face."
-msgstr "これは 驚きね。"
+msgstr "あら、そう。 これは 驚きね。 (驚いているとは 言っていない)"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.6
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.6"
 msgid "Indeed. I'll see what else I can find."
-msgstr "全くだ。 やれるだけ やってみる。"
+msgstr "い、いや、全くだ。 やれるだけ やってみる。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.7
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.7"
 msgid "Good. You wouldn't want to see my 'disappointed' face."
-msgstr "良いわね。 私の がっかりした顔 見たくないでしょう？"
+msgstr "良いわね。 私の がっかりした顔 見たくない でしょう？"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.1"
@@ -7747,7 +7950,7 @@ msgstr "これらの 脅威にも 対処できる モノを 揃えてちょう�
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.1"
 msgid "My bonnie lies over the ocean. My bonnie lies over the sea."
-msgstr "♪青い海の向こう 白い波間から"
+msgstr "♪青イ海ノ向コウ 白イ波間カラ"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.2"
@@ -7758,7 +7961,12 @@ msgid ""
 "\n"
 "This is the part where you tell me that we've found their secret "
 "headquarters, Derek."
-msgstr "時間が 無くなってきたわ。"
+msgstr ""
+"時間が 無くなってきたわ。 バッテリーが あってもなくても、 この貯蔵庫は インコ"
+"グニータの 人格マトリクスを 安定かつ 稼働状態に させておくには ちょっと 容量"
+"が 足りないようね。\n"
+"\n"
+"デレク、 奴らの 隠された 本部を 見つけるのは あなたの 領分よ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.3
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.3"
@@ -7775,7 +7983,7 @@ msgstr ""
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.4"
 msgid "Oh bring back my bonnie to meeeeeeeeeeeeeee"
 msgstr ""
-"♪やさしい恋人を 返しておくれ\n"
+"♪ヤサシイ恋人ヲ 返シテオクレ\n"
 "(「恋人は海の彼方に」, スコットランド民謡)"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.1
@@ -8516,7 +8724,7 @@ msgstr "守衛が目覚めたときに AP +2"
 #: STRINGS.DLC1.POWER_CELL
 msgctxt "STRINGS.DLC1.POWER_CELL"
 msgid "UNIVERSAL POWER CELL"
-msgstr "ユニバーサル電力セル"
+msgstr "汎用電力セル"
 
 #: STRINGS.DLC1.POWER_CELL_FLAVOR
 msgctxt "STRINGS.DLC1.POWER_CELL_FLAVOR"
@@ -9078,13 +9286,13 @@ msgid ""
 "Incognita's new portable home consumes a lot of power. You will need to find "
 "and bring back a Universal Power Cell from each mission."
 msgstr ""
-"インコグニータの ポータブル機器は バッテリーの持ちが よく ありません。 任務の"
-"たびに 万能型電力セルを 回収する 必要が あるでしょう。"
+"インコグニータの 新しい住処は バッテリーの持ちが 良くありません。 任務のたび"
+"に 汎用電力セルを 回収する 必要が あるでしょう。"
 
 #: STRINGS.DLC1.UPDATE2_TITLE
 msgctxt "STRINGS.DLC1.UPDATE2_TITLE"
 msgid "ACQUIRE UNIVERSAL POWER CELLS"
-msgstr "ユニバーサル電力セルを取得"
+msgstr "汎用電力セルを取得"
 
 #: STRINGS.DLC1.UPDATE3_TEXT
 msgctxt "STRINGS.DLC1.UPDATE3_TEXT"
@@ -9093,7 +9301,7 @@ msgid ""
 "memory capacity. She has space to install an additional program."
 msgstr ""
 "悪いこと ばかりでは ありません。 量子貯蔵器が インコグニータの メモリ容量を "
-"増加させました。 追加の プログラムが インストールできます。"
+"増加させました。 追加の プログラムが インストール できます。"
 
 #: STRINGS.DLC1.UPDATE3_TITLE
 msgctxt "STRINGS.DLC1.UPDATE3_TITLE"
@@ -10404,7 +10612,7 @@ msgstr ""
 #: STRINGS.ITEMS.CREDCHIP
 msgctxt "STRINGS.ITEMS.CREDCHIP"
 msgid "Credchip"
-msgstr "クレドチップ"
+msgstr "クレジットチップ"
 
 #: STRINGS.ITEMS.DAEMON_BLOCKER
 msgctxt "STRINGS.ITEMS.DAEMON_BLOCKER"
@@ -12662,7 +12870,7 @@ msgid ""
 "the ones that you opted not to find. Good work."
 msgstr ""
 "エージェントを 死なせない ために 何が 一番か 知ってる でしょう？ 強化パーツ"
-"よ。 あなたが 見つけられ なかった もの。 お疲れさま。"
+"よ。 あなたが 取って こなかった もの。 お疲れさま。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.SAW.1
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.CYBERLAB.SAW.1"
@@ -12723,7 +12931,7 @@ msgid ""
 "This is a sad day, but at least we spared them from corporate deprogramming. "
 "They went down fighting."
 msgstr ""
-"今日は 残念だった わね。 少なくとも、 企業の サイバネ 分解室 じゃなくて、 "
+"今日は 残念だった わね。 少なくとも、 企業の デプログラミング室 じゃなくて、 "
 "戦って 死んだのが せめてもの 慰め。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.2
@@ -14020,8 +14228,8 @@ msgid ""
 "Look for a secure holding facility. They use them to deprogram contractors - "
 "it's a good way to find new vulnerabilities."
 msgstr ""
-"機密情報を 保持している 施設を 探しましょう。 哀れな業者の サイバネ解体用に "
-"使っているはず。 脆弱性を 見つける 近道なのよ。"
+"機密情報を 保持している 施設を 探しましょう。 哀れな業者の デプログラミング用"
+"に 使っているはず。 脆弱性を 見つける 近道なのよ。"
 
 #: STRINGS.MISSIONS.ESCAPE.SECURITYROOM_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.SECURITYROOM_4"
@@ -15225,7 +15433,7 @@ msgid ""
 "\n"
 "There may be intercepted Invisible agents on-site."
 msgstr ""
-"拘置所には 重要人物が 尋問と サイバネ解体の ために 拘束されて います。\n"
+"拘置所には 重要人物が 尋問と デプログラミングの ために 拘束されて います。\n"
 "\n"
 "Invisible 社の エージェントが 現地に いるかも しれません。"
 
@@ -23468,8 +23676,8 @@ msgid ""
 "\n"
 "I won't see the inside of another."
 msgstr ""
-"そうなったら、我々は 海の藻屑と 消えるさだめ。  企業の サイバネ 解体室も 見学"
-"できない でしょうよ。\n"
+"そうなったら、我々は 海の藻屑と 消えるさだめ。  企業の デプログラミング室も "
+"見学できない でしょうよ。\n"
 "\n"
 "まあ、私はどっちも見たくないけど。"
 
