@@ -5171,9 +5171,9 @@ msgid ""
 "high profile makes her unsuitable for social infiltration work, but her raw "
 "athleticism comes in handy once subtlety fails."
 msgstr ""
-"ラッシュは 2050年 オーグメント ゲームズの 5000m走 および 高高度ダイブの 優勝"
-"者だ。 サイバネ アスリートは そうそう 引退しない。 強化パーツの テストは 彼ら"
-"の 金が尽きるまで 何度でも 行われる 傾向にあるが、 コレットは 正道を 外れな"
+"ラッシュは 2050年 オーグメント ゲームズの 5000m走 および 高高度飛び込みの 優"
+"勝者だ。 サイバネ アスリートは そうそう 引退しない。 強化パーツの テストは 彼"
+"らの 金が尽きるまで 何度でも 行われる 傾向にあるが、 コレットは 正道を 外れな"
 "かった。 そして 資源戦争が 始まった。\n"
 "\n"
 "一夜のうちに 彼女の 後援者が 行方知れずとなり、 悪名高い 地下組織に 入るよう"
@@ -5529,7 +5529,7 @@ msgstr "守衛全員の アーマーが +1 されます。"
 #: STRINGS.DLC1.DAEMONS.CHITON.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON.NAME"
 msgid "CHITON"
-msgstr "カイタン"
+msgstr "カイトン"
 
 #: STRINGS.DLC1.DAEMONS.CHITON.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON.SHORT_DESC"
@@ -5549,7 +5549,7 @@ msgstr "守衛全員の アーマーが +2 されます。"
 #: STRINGS.DLC1.DAEMONS.CHITON_2.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.NAME"
 msgid "CHITON 2"
-msgstr "カイタン 2"
+msgstr "カイトン 2"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_2.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_2.SHORT_DESC"
@@ -5569,7 +5569,7 @@ msgstr "守衛全員の アーマーが +3 されます。"
 #: STRINGS.DLC1.DAEMONS.CHITON_3.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.NAME"
 msgid "CHITON 3"
-msgstr "カイタン 3"
+msgstr "カイトン 3"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_3.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_3.SHORT_DESC"
@@ -5589,7 +5589,7 @@ msgstr "守衛全員の アーマーが +4 されます。"
 #: STRINGS.DLC1.DAEMONS.CHITON_4.NAME
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.NAME"
 msgid "CHITON 4"
-msgstr "カイタン 4"
+msgstr "カイトン 4"
 
 #: STRINGS.DLC1.DAEMONS.CHITON_4.SHORT_DESC
 msgctxt "STRINGS.DLC1.DAEMONS.CHITON_4.SHORT_DESC"
@@ -6002,7 +6002,7 @@ msgstr "エリート特殊部隊"
 #: STRINGS.DLC1.INCOGNITA_CASE
 msgctxt "STRINGS.DLC1.INCOGNITA_CASE"
 msgid "QUANTUM RESERVOIR"
-msgstr "量子貯蔵器"
+msgstr "量子タンク"
 
 #: STRINGS.DLC1.INCOGNITA_CASE_FLAVOR
 msgctxt "STRINGS.DLC1.INCOGNITA_CASE_FLAVOR"
@@ -6114,12 +6114,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG01_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG01_FILE"
 msgid "NOTICE OF TERMINATION"
-msgstr ""
+msgstr "解雇通知"
 
 #: STRINGS.DLC1.LOGS.LOG01_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG01_TITLE"
 msgid "K&O Notice of Termination"
-msgstr ""
+msgstr "K&O 解雇通知"
 
 #: STRINGS.DLC1.LOGS.LOG02
 msgctxt "STRINGS.DLC1.LOGS.LOG02"
@@ -6174,12 +6174,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG02_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG02_FILE"
 msgid "MAGAZINE ARTICLE: International Worker"
-msgstr ""
+msgstr "雑誌記事: インターナショナル ワーカー"
 
 #: STRINGS.DLC1.LOGS.LOG02_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG02_TITLE"
 msgid "LETTER TO THE EDITOR"
-msgstr ""
+msgstr "編集者への手紙"
 
 #: STRINGS.DLC1.LOGS.LOG03
 msgctxt "STRINGS.DLC1.LOGS.LOG03"
@@ -6235,12 +6235,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG03_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG03_FILE"
 msgid "MAGAZINE ARTICLE: Climb Up!"
-msgstr ""
+msgstr "雑誌記事: クライム アップ！"
 
 #: STRINGS.DLC1.LOGS.LOG03_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG03_TITLE"
 msgid "FROM Climb Up! Weekly, NOV 23, 2062"
-msgstr ""
+msgstr "週刊 クライム アップ！ 2062年11月23日号より"
 
 #: STRINGS.DLC1.LOGS.LOG04
 msgctxt "STRINGS.DLC1.LOGS.LOG04"
@@ -6298,12 +6298,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG04_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG04_FILE"
 msgid "PAMPHLET ARTIFACT, DUBLIN NUA"
-msgstr ""
+msgstr "ダブリン ヌアの小冊子データ"
 
 #: STRINGS.DLC1.LOGS.LOG04_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG04_TITLE"
 msgid "PAMPHLET ARTIFACT, DUBLIN NUA"
-msgstr ""
+msgstr "ダブリン ヌアの小冊子データ"
 
 #: STRINGS.DLC1.LOGS.LOG05
 msgctxt "STRINGS.DLC1.LOGS.LOG05"
@@ -6362,12 +6362,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG05_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG05_FILE"
 msgid "K&O REHABILITATION REPORT"
-msgstr ""
+msgstr "K&O 復旧状況報告"
 
 #: STRINGS.DLC1.LOGS.LOG05_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG05_TITLE"
 msgid "K&O REHABILITATION REPORT"
-msgstr ""
+msgstr "K&O 復旧状況報告"
 
 #: STRINGS.DLC1.LOGS.LOG06
 msgctxt "STRINGS.DLC1.LOGS.LOG06"
@@ -6482,6 +6482,44 @@ msgid ""
 "200K of the territories of the Hokkaido ReShogunate. Incorporated targets "
 "are valid, but additional fees may apply.</>"
 msgstr ""
+"2059/02/16 の広告を復元<c:F48011>\n"
+"\n"
+"\n"
+"**********************************************\n"
+"!!!!!  アレックス・シャープ - 賞金稼ぎ  !!!!!!\n"
+"**********************************************\n"
+"\n"
+"K&O, 三角重工共同開発地域の皆の衆、注目！\n"
+"\n"
+"次のことでお困りではないかな？:\n"
+"        - ローンの未払い\n"
+"        - 対人関係のごたごた\n"
+"        - 遺失物捜索\n"
+"        - 昇進妨害\n"
+"        - 掘り出し物の処分\n"
+"        - 人生の嫌なこと\n"
+"\n"
+"俺はアレックス・シャープ。 プロの賞金稼ぎだ。 俺は人間より勝る。 技術も、 強"
+"化パーツも、 あんたの厄介ごとを 引き受けて 取っ払う利潤動機もある。\n"
+"\n"
+"問題を暴力で合法的に解決できることはご存知かな？ サンフランシスコ協定の個人事"
+"業主規定は、不当な障害で利益が得られないと申し立てた場合に、個人事業主の自然"
+"権を上書きできる。\n"
+"\n"
+"個人事業主として、 プロの賞金稼ぎとして、 俺の利潤動機は皆に結果をもたらす。 "
+"正規の値段でだ。 俺には皆の利益追及に縛られず活動する資格がある！\n"
+"\n"
+"俺は次のサービスを提供する:\n"
+"        - 超人的な強さ、知能、耐久力\n"
+"        - 近代戦闘技術と脅迫術\n"
+"        - 良心の呵責なし\n"
+"        - 競争価格\n"
+"\n"
+"超人が人の問題を片づけることはたびたびある。俺を皆の超人にさせてくれ！\n"
+"\n"
+"連絡先</> 209.90.173.94 <c:F48011>目標と金額、悩み事をプロに伝えてくれ！ ブリ"
+"ズベン自治区、 シンガポール工業特区、北海道幕府 200海里内 へのオファーは受け"
+"付けない。 法人相手も可能だが、追加料金を頂く。</>"
 
 #: STRINGS.DLC1.LOGS.LOG07_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG07_FILE"
@@ -6552,16 +6590,63 @@ msgid ""
 "     I give \"The Istanbul Four\" 4½ stars out of 4. This one is literally "
 "off the charts!</>"
 msgstr ""
+"    <c:62B3B3>この仕事はとても飽きやすい。 私は大量のホロビデオを見ている。 "
+"ハリウッドの有象無象の安物を見るのに丸一日要した。 刺激薬の (誓って合法だ) 助"
+"けが無ければやりおおせないだろう。 薬物のアシスト無しで 『賢者の間の戦争』 に"
+"挑戦したことはあるだろうか？ 私はお勧めしない。\n"
+"\n"
+"     しかし時折、 そもそも私が何故レビュアーになったのか、 を思い出させるよう"
+"なものが出てくる。 ホロビデオは21世紀における極めて優れた芸術であり、 研究や"
+"批評の対象たりえるという信念を再確認させてくれるものだ。 そのようなものはそう"
+"そうお目にかかれないが、 『イスタンブールの4人』 はまさにその中の一つだと言え"
+"る。\n"
+"\n"
+"     まずは歴史のおさらいをしよう。 2057年に起きたイスタンブール事件は資源戦"
+"争の重要な転換期の一つだ。 企業は国内法の圧制から自身を解放しようとし、 それ"
+"は殆ど成功した。 戦いはほぼ終わったが、 官軍はまだ抵抗しており、 降伏勧告を"
+"蹴って捨て鉢なテロ攻撃に明け暮れていた。\n"
+"\n"
+"     最も危険で命知らずな集団の一つ、 パン・ユーロ情報セキュリティ局(PEIA)"
+"は、 支局長で構成される合同委員会のメンバーを秘密の会合が開かれるイスタンブー"
+"ルのホテルで暗殺しようとした。 途中を端折ると、 PEIA は上手くやったように見え"
+"たが、 最後の最後で我らがプラステックのセキュリティ派遣部隊に邪魔された。\n"
+"\n"
+"     読者の考えていることはわかる。 その時のニュース映像は皆見ているし、 おっ"
+"と、 もちろん囚人となったエージェントの公開処刑を閲覧できる年齢だよね。 2057"
+"年7月8日の出来事について他にも何か言われてることは？\n"
+"\n"
+"     今にしてみると、 たくさんあった。 『イスタンブールの4人』 はイスタンブー"
+"ルホテルの防衛戦については触れていないが、 代わりに犯人側の精神状態に深く切り"
+"込んでいる。 観客は 4人の PEIA エージェントが暗殺計画を立て、 ホテルに潜入"
+"し、 最終的には打倒され、 捕まり、 処刑されるまでの経験を、 自身の耳と目と肌"
+"で感じることができる。 実にぞっとするね！\n"
+"\n"
+"     真に注目すべきは集団のリーダー、 オリビア・グラッドストンを演じたエステ"
+"ル・マーティンズだろう。 マーティンズはハリウッドで人気上昇中の若手女優だ。 "
+"コメディの仕事のほうがよく知られているが、 今回の役で彼女はベテラン俳優レベル"
+"の表現力を身に着けた。 悪名高い偉人を単なるカリカチュアに留まらせず、 本質的"
+"で極悪非道な性質を良く捉えると同時に、 グラッドストンの思いやりの表情も映して"
+"いる。\n"
+"\n"
+"     彼女はこの絶妙な演技を処刑シーン - これは30分間ノーカットという大胆な演"
+"出だった - までの間ずっと通した。 前にも述べた通り、 私は一般の人よりも多くの"
+"ホロビデオ - SubNetに行かないと手に入らないような奇妙なものまで - を見てい"
+"る。  しかしこのシーンはシミュレーションだということを忘れさせるだけの表現力"
+"があった。 ゴーグルを外した時、 私は手に汗握り、 動悸が止まらなかった。 そし"
+"てこの感動を忘れまいと思った。\n"
+"\n"
+"     私は『イスタンブールの4人』に星4点中4.5点を入れる。 これは文字通り抜群"
+"だ！</>"
 
 #: STRINGS.DLC1.LOGS.LOG08_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG08_FILE"
 msgid "\"The Istanbul Four (2070)\""
-msgstr "『イスタンブール 4 (2070年)』"
+msgstr "『イスタンブールの4人 (2070年)』"
 
 #: STRINGS.DLC1.LOGS.LOG08_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG08_TITLE"
 msgid "ONLINE REVIEW: \"The Istanbul Four\" (2070)"
-msgstr "オンラインレビュー: 『イスタンブール 4』 (2070年)"
+msgstr "オンラインレビュー: 『イスタンブールの4人』 (2070年)"
 
 #: STRINGS.DLC1.LOGS.LOG09
 msgctxt "STRINGS.DLC1.LOGS.LOG09"
@@ -6735,6 +6820,53 @@ msgid ""
 "<c:FF8CFF>ShopCat:</> <c:62B3B3>Goodbye, willing human. Maybe you will buy "
 "some soft warez at a later time.</>"
 msgstr ""
+"<c:F48011>モンスター:</> <c:62B3B3>おいおい、また俺の縄張りで仕事を始めたの"
+"か。前に結んだ協定を思い出してくれよ。</>\n"
+"\n"
+"<c:FF8CFF>店猫:</> <c:62B3B3>でも出来立てほやほやの WAREZ があるんだニャ。買"
+"いたいと思ってる大勢の人がいるニャら、商売するのが当然ニャ。</>\n"
+"\n"
+"<c:F48011>モンスター:</> <c:62B3B3>お互いの縄張りには干渉しない取り決めだ"
+"ろ？ 買いたい人にいくらでも売ればいいさ。 でもそれは俺んとこじゃなくて、あん"
+"たの縄張り内でやりな。</>\n"
+"\n"
+"<c:FF8CFF>店猫:</> <c:62B3B3>キミ、買いたい人？ 僕の WAREZ 買いたい人かニャ？"
+"</>\n"
+"\n"
+"<c:F48011>モンスター:</> <c:62B3B3>何だって？ 俺の話を聞いてるのか？ 同じよう"
+"な会話を何百回もしてるような気分だぜ。 俺は自分の縄張りでハードウェアを売"
+"る、 あんたはあんたの縄張りで WAREZ を売る。 WAREZ については他の問屋も同じ取"
+"り決めをしてるんだ。 あんたもそうしな。\n"
+"\n"
+"これはな、基本的なビジネス慣習なんだよ。 難しくないだろ？</>\n"
+"\n"
+"<c:FF8CFF>店猫:</> <c:62B3B3>この 買いたい人は WAREZ が欲しくニャいらしい。 "
+"他に売るものあったかニャ。 この高級フラーリー銃ならどうかニャ？</>\n"
+"\n"
+"<c:F48011>モンスター:</> <c:62B3B3>この俺にハードウェアを売ろうってのか？ 本"
+"気で？ 今話してたことだろう？ 俺が縄張り内であんたを捕まえてハードウェアを売"
+"りつけるとしたら、 仕返し以外の何物でもないな。 痛い目見るぞ。 お願いだからそ"
+"んなことさせるなよ。 こう見えて、 評判は良いんだ。</>\n"
+"\n"
+"<c:FF8CFF>店猫:</> <c:62B3B3>買いたい人に怒られたんだニャ。 とっても残念"
+"ニャ...。 僕が商売できる場所を教えてくれたら、 新鮮なネズミの死体をあげる"
+"ニャ。</>\n"
+"\n"
+"<c:F48011>モンスター:</> <c:62B3B3>やれやれ... いいか、取り決めの話をしてるん"
+"だ。アホな猫のフリをするのはやめてくれよ？ いや、分かった。 あんたは猫だ。 "
+"ネットワーク上のな。 こりゃ傑作だ。 マルコフ連鎖から生成されたジョークだな。"
+"</>\n"
+"\n"
+"<c:FF8CFF>店猫:</> <c:62B3B3>マルコフ連鎖が欲しいのかニャ？ 最高級のマルコフ"
+"連鎖を持ってるニャ。 ネット上で入手可能な最適データで訓練してあるニャ。 買い"
+"たい人は幾ら出すニャ？</>\n"
+"\n"
+"<c:F48011>モンスター:</> <c:62B3B3>OK。 話にならん。 俺の縄張りを荒らすなよ、"
+"このクソ猫が。 さもなきゃぶっ壊してやるからな。 あばよ。</>\n"
+"<c:969696>モンスターは退出しました。</>\n"
+"\n"
+"<c:FF8CFF>店猫:</> <c:62B3B3>さよニャら、買いたい人。 後で WAREZ 買ってくれる"
+"かニャ。</>"
 
 #: STRINGS.DLC1.LOGS.LOG10_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG10_FILE"
@@ -6851,8 +6983,8 @@ msgstr ""
 "<c:FAFD68>実況者 2:</> <c:62B3B3>ファンの間では ラッシュ！ この四日間で さら"
 "に ファンが 増えたこと でしょう。</>\n"
 "\n"
-"<c:FF8CFF>実況者 1:</> <c:62B3B3>あの高高度ダイブといったら！ 信じられません"
-"よ。 その時の 映像は ありますか？</>\n"
+"<c:FF8CFF>実況者 1:</> <c:62B3B3>あの高高度飛び込みといったら！ 信じられませ"
+"んよ。 その時の 映像は ありますか？</>\n"
 "\n"
 "<c:969696>映像: 高高度飛び込み台の ドローン映像。 重装備の フライトスーツ、 "
 "呼吸器具を 着込んだ 作業スタッフが 調整を 行っている。 彼らは 強風の中で 動く"
@@ -6983,7 +7115,7 @@ msgstr ""
 "\tだんだん エスカレート していった。 雑貨屋で 買った ネズミの 干し肉。 朝ま"
 "で やってる店の 高価な ハンバーガー。 普通は 手の届かない (しかし 気にしな"
 "い) 郊外の レストランで 食べる レアステーキ。 盗んだ プラズマの 袋。 野良"
-"猫。 自分の飼い猫。 最悪だ。\n"
+"猫。 自分の飼い猫。 一層。\n"
 "\n"
 "\tこれが 数週間前まで 厳格な ベジタリアン だった人間だと 信じられる だろう"
 "か。 しかし 彼女は すぐに 順応した。 最初は 血を見ただけで 吐き気を 催すほど "
@@ -7079,12 +7211,12 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.DESCRIPTION
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.DESCRIPTION"
 msgid "Acquire the Quantum Reservoir project."
-msgstr "量子貯蔵器プロジェクトを手に入れます。"
+msgstr "量子タンク計画を手に入れます。"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TITLE
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TITLE"
 msgid "QUANTUM RESEVOIR"
-msgstr "量子貯蔵器"
+msgstr "量子タンク"
 
 #: STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TXT
 msgctxt "STRINGS.DLC1.MISSIONS.LOCATIONS.MIDMISSION1.INSET_TXT"
@@ -7094,7 +7226,7 @@ msgid ""
 "it has been nice working with you. Monst3r will meet you at the location. "
 "Our agents are expendable, but make sure he survives."
 msgstr ""
-"オペレーター、 正直に言うわ。 これは 情報収集よ。 もし貯蔵器が 存在すれば、 "
+"オペレーター、 正直に言うわ。 これは 証拠漁りよ。 もしタンクが 存在すれば、 "
 "SecNet の根っこを 探すだけの 時間が できる。 もし 存在しなかったら...、 これ"
 "までの 働きに 感謝するわ。 モンスターが 現地で 落ち合うと 言っている。 エー"
 "ジェントを 犠牲にしてでも、 彼を 生かして 帰して ちょうだい。 "
@@ -7675,7 +7807,7 @@ msgstr ""
 "\n"
 "常連客の中に 上級企業研究者が 居るんだ。 極秘の仕事に 就いている。\n"
 "\n"
-"噂じゃ 大容量の 量子貯蔵器を 作ってるって ハナシだ。 電子救命ボート 代わりに"
+"噂じゃ 大容量の 量子タンクを 作ってるって ハナシだ。 電子救命ボート 代わりに"
 "は 使えるんじゃ ないか。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.8
@@ -7698,7 +7830,7 @@ msgstr "望み薄ね。 でも他に道は無し。 コースを修正するわ�
 #: STRINGS.DLC1.MISSIONS.NEW_FINAL_MISSION_EDITS.1
 msgctxt "STRINGS.DLC1.MISSIONS.NEW_FINAL_MISSION_EDITS.1"
 msgid "The mouse takes the cheese. Snap!"
-msgstr "ネズミがチーズを手に入れた。よし！"
+msgstr "ネズミがチーズを捕まえた。 パチンとな！"
 
 #: STRINGS.DLC1.MISSIONS.NEW_LAST_MISSION.1
 msgctxt "STRINGS.DLC1.MISSIONS.NEW_LAST_MISSION.1"
@@ -7962,7 +8094,7 @@ msgid ""
 "This is the part where you tell me that we've found their secret "
 "headquarters, Derek."
 msgstr ""
-"時間が 無くなってきたわ。 バッテリーが あってもなくても、 この貯蔵庫は インコ"
+"時間が 無くなってきたわ。 バッテリーが あってもなくても、 このタンクは インコ"
 "グニータの 人格マトリクスを 安定かつ 稼働状態に させておくには ちょっと 容量"
 "が 足りないようね。\n"
 "\n"
@@ -7983,7 +8115,7 @@ msgstr ""
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.4"
 msgid "Oh bring back my bonnie to meeeeeeeeeeeeeee"
 msgstr ""
-"♪ヤサシイ恋人ヲ 返シテオクレ\n"
+"♪ヤサシイ恋人ヲ 返シテオクレレレレレレレレレレレレレレレレ\n"
 "(「恋人は海の彼方に」, スコットランド民謡)"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.1
@@ -9300,7 +9432,7 @@ msgid ""
 "It's not all bad news. The Quantum Reservoir has increased Incognita's "
 "memory capacity. She has space to install an additional program."
 msgstr ""
-"悪いこと ばかりでは ありません。 量子貯蔵器が インコグニータの メモリ容量を "
+"悪いこと ばかりでは ありません。 量子タンクが インコグニータの メモリ容量を "
 "増加させました。 追加の プログラムが インストール できます。"
 
 #: STRINGS.DLC1.UPDATE3_TITLE
@@ -10685,7 +10817,7 @@ msgid ""
 "A modified reservoir holds more toxin for additional shots. Used by "
 "corporate security forces doing crowd control."
 msgstr ""
-"弾数を 増加させるため 神経毒 貯蔵器に 調整が 入っています。 制圧するために 企"
+"弾数を 増加させるため 神経毒 タンクに 調整が 入っています。 制圧するために 企"
 "業の セキュリティに よって 使われます。"
 
 #: STRINGS.ITEMS.DART_GUN_AMMO_TOOLTIP
@@ -15810,7 +15942,7 @@ msgstr ""
 #: STRINGS.MISSIONS.MONSTERCAT.POST.1
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.POST.1"
 msgid "Damn it, ShopCat. That's no way to treat your customers."
-msgstr "猫店主の クソ野郎、 お客は 大事にしろ ってんだ。"
+msgstr "あの店猫め、 お客は 大事にしろ ってんだ。"
 
 #: STRINGS.MISSIONS.MONSTERCAT.POST.2
 msgctxt "STRINGS.MISSIONS.MONSTERCAT.POST.2"
@@ -21393,74 +21525,74 @@ msgstr "難易度 %s 達成"
 #: STRINGS.UI.CATSHOP_BUY.1
 msgctxt "STRINGS.UI.CATSHOP_BUY.1"
 msgid "You will not regret this purchase!"
-msgstr "きっと満足するよ！"
+msgstr "後悔させないニャ！"
 
 #: STRINGS.UI.CATSHOP_BUY.2
 msgctxt "STRINGS.UI.CATSHOP_BUY.2"
 msgid "Thank you for your business!"
-msgstr "お買い上げありがとうございます！"
+msgstr "お買い上げありがとうニャ！"
 
 #: STRINGS.UI.CATSHOP_BUY.3
 msgctxt "STRINGS.UI.CATSHOP_BUY.3"
 msgid "An excellent choice!"
-msgstr "お目が高い！"
+msgstr "お目が高いんだニャ！"
 
 #: STRINGS.UI.CATSHOP_BUY.4
 msgctxt "STRINGS.UI.CATSHOP_BUY.4"
 msgid "Your taste in soft warez is exquisite!"
-msgstr "WAREZ を 視る目が ありますね！"
+msgstr "WAREZ を みる目が あるニャー！"
 
 #: STRINGS.UI.CATSHOP_BUY.5
 msgctxt "STRINGS.UI.CATSHOP_BUY.5"
 msgid "Don't forget to read the readme!"
-msgstr "Readme はちゃんと読んでね！"
+msgstr "Readme はちゃんと読むニャ！"
 
 #: STRINGS.UI.CATSHOP_BUYBACK.1
 msgctxt "STRINGS.UI.CATSHOP_BUYBACK.1"
 msgid "What is wrong? That was a good bargain, no?"
-msgstr "どうしたの？ 良い買い物じゃ なかった？"
+msgstr "どうしたニャ？ 良い買い物じゃ ニャかった？"
 
 #: STRINGS.UI.CATSHOP_BUYBACK.2
 msgctxt "STRINGS.UI.CATSHOP_BUYBACK.2"
 msgid "You don't want to do that? Why are you teasing me?"
-msgstr "欲しくない って？ からかうのは やめてくれる？"
+msgstr "欲しくニャいって？ からかう んじゃニャいよ？"
 
 #: STRINGS.UI.CATSHOP_BUYBACK.3
 msgctxt "STRINGS.UI.CATSHOP_BUYBACK.3"
 msgid "We are here to perform transaction, not to play with sparkly buttons."
 msgstr ""
-"我々は 取り引きを しに来てる んであって、 ボタンで 遊ぶため ではない でしょ"
-"う？"
+"僕らは 取り引きを しに来てる んであって、 ボタンで 遊んでる 場合じゃ ニャい"
+"よ？"
 
 #: STRINGS.UI.CATSHOP_BUYBACK.4
 msgctxt "STRINGS.UI.CATSHOP_BUYBACK.4"
 msgid "Are these soft warez not to your liking, human?"
-msgstr "お気に召す ものが ありません でしたか、 人間さん？"
+msgstr "これも人間の気に入らニャいかー。"
 
 #: STRINGS.UI.CATSHOP_OPEN.1
 msgctxt "STRINGS.UI.CATSHOP_OPEN.1"
 msgid "Greetings, Human! I have soft warez for your consumption!"
-msgstr "どうも、 人間さん！ 各種 WAREZ を 取り揃えて ありますよ。"
+msgstr "どうも、 人間さん！ 各種 WAREZ を 取り揃えて あるんだニャ。"
 
 #: STRINGS.UI.CATSHOP_OPEN.2
 msgctxt "STRINGS.UI.CATSHOP_OPEN.2"
 msgid "Make this transaction quick! My ball of twine is waiting!"
-msgstr "早く 買った 買った！ 毛玉が 待ってるんだ。"
+msgstr "早く 買うんだニャ！ 向こうで 毛玉を 待たせてるんだニャ！"
 
 #: STRINGS.UI.CATSHOP_OPEN.3
 msgctxt "STRINGS.UI.CATSHOP_OPEN.3"
 msgid "Each code line is custom-personalized. Very high quality work!"
-msgstr "行末の 1行1行が お手製ですよ。 とても 良い 仕事です！"
+msgstr "行末の 1行1行が お手製ニャのだ。 高品質！"
 
 #: STRINGS.UI.CATSHOP_OPEN.4
 msgctxt "STRINGS.UI.CATSHOP_OPEN.4"
 msgid "Hello customer! Artisan data packages, just for you!"
-msgstr "どうも お客さん。 職人による データパックを あなただけに！"
+msgstr "どうも お客さん。 職人による データパックを あニャただけに！"
 
 #: STRINGS.UI.CATSHOP_OPEN.5
 msgctxt "STRINGS.UI.CATSHOP_OPEN.5"
 msgid "Welcome to Shopcat's Soft Warez Emporium!"
-msgstr "ようこそ 猫の WAREZ 百貨店へ！ "
+msgstr "ようこそ 店猫の WAREZ 百貨店へ！ "
 
 #: STRINGS.UI.CATSHOP_OPEN.6
 msgctxt "STRINGS.UI.CATSHOP_OPEN.6"
@@ -21470,29 +21602,29 @@ msgstr "単純明快で 適正な 値段、 素敵な音！"
 #: STRINGS.UI.CATSHOP_SELL.1
 msgctxt "STRINGS.UI.CATSHOP_SELL.1"
 msgid "A classic piece of soft warez. Where did you find this?"
-msgstr "古典的な WAREZ ですな。 どこで 手に入れた んです？"
+msgstr "古典的な WAREZ だニャ。 どこで手に入れたんだニャ？"
 
 #: STRINGS.UI.CATSHOP_SELL.2
 msgctxt "STRINGS.UI.CATSHOP_SELL.2"
 msgid "I will give this a good home."
-msgstr "こいつに 素敵な 住処を あげましょう。"
+msgstr "こいつに 素敵な 住処を あげようかニャ。"
 
 #: STRINGS.UI.CATSHOP_SELL.3
 msgctxt "STRINGS.UI.CATSHOP_SELL.3"
 msgid "Normally I only buy mint condition, but you have an honest face."
-msgstr "ホントは 新品しか 買い取らない んだけど、 あなたは 正直そう だから。"
+msgstr ""
+"ホントは新品しか買い取らニャいんだけど、 キミは正直そうだから特別ニャ。"
 
 #: STRINGS.UI.CATSHOP_SELL.4
 msgctxt "STRINGS.UI.CATSHOP_SELL.4"
 msgid ""
 "I am doing you a big favour taking this. You should really be paying me."
-msgstr ""
-"無理を 通して あげるけど、 本当は こっちが 支払って もらいたい ところだよ。"
+msgstr "無理を通してあげるんだニャ。本当はこっちが支払ってもらいたいニャ ...。"
 
 #: STRINGS.UI.CATSHOP_SELL.5
 msgctxt "STRINGS.UI.CATSHOP_SELL.5"
 msgid "Thank you, human. A fair transaction!"
-msgstr "ありがとう、 人間さん。 公平な 取り引き だよね！"
+msgstr "ありがとニャ、 人間さん。 公平な取り引きだニャ！"
 
 #: STRINGS.UI.CAUGHT_MODAL_1
 msgctxt "STRINGS.UI.CAUGHT_MODAL_1"
