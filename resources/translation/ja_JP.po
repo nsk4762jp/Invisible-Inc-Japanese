@@ -2320,12 +2320,12 @@ msgstr "試行錯誤が 最も効果的だね。"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.25"
 msgid "There is no such thing as luck. Only mistakes."
-msgstr "幸運から 学ぶこと なんて ないよ。 常に 失敗から。"
+msgstr "そんなことは起こらないよ。 常に失敗だけさ。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.26"
 msgid "Very rarely."
-msgstr ""
+msgstr "滅多にないね。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.27
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.27"
@@ -2333,16 +2333,18 @@ msgid ""
 "I enjoy working with you. It is good that you were never paid to eliminate "
 "someone under my protection."
 msgstr ""
+"アンタと 一緒に仕事できて 楽しいよ。 アタシがいる限り、 アンタは 誰かを 抹消"
+"することに 気を取られなくて 済むんだからさ。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.28
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.28"
 msgid "You would have been stopped. It would have been messy and sad."
-msgstr ""
+msgstr "そういう質問、 やめたら？ 見てて哀れだよ。"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.29
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.29"
 msgid "How many people have you killed?"
-msgstr ""
+msgstr "これまで何人殺ったんだ？"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.3"
@@ -2352,7 +2354,7 @@ msgstr "楽勝さ。 質問にすら ならない。"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.30
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.30"
 msgid "I have killed 83. It sometimes… troubles me. Does it trouble you?"
-msgstr ""
+msgstr "あたしは83人。 たまに問題になることもあったさ。 アンタはどうなんだい？"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.4
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.4"
@@ -2362,7 +2364,7 @@ msgstr "いやいや、 それだけじゃ 勝てないよ。"
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.5
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.5"
 msgid "Your hat is not very… fashionable, is it?"
-msgstr "アンタの その帽子、 今風って... ワケじゃないよな？"
+msgstr "アンタの その帽子、 最近の流行って... ワケじゃないよな？"
 
 #: STRINGS.AGENTS.NIKA.BANTER.CROSS.6
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.CROSS.6"
@@ -2965,12 +2967,12 @@ msgstr "あー、 了解。 任務には 適用しないでくれよ。"
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.25"
 msgid "You’re pretty handy with that thing. Where did you learn?"
-msgstr ""
+msgstr "あんた結構やるじゃないか。 どこで習ったんだ？"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.26"
 msgid "Really? Wasn’t that dangerous?"
-msgstr ""
+msgstr "本当か？ かなり危ない橋を 渡ってきたんだろう。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.27
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.27"
@@ -2978,17 +2980,18 @@ msgid ""
 "You’re good, but you get too close. Someone’s going to get a lucky hit in "
 "one day."
 msgstr ""
+"ちょっと 相手との距離が 近すぎるな。 いつかラ ッキーパンチを 食らっちまうぞ。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.28
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.28"
 msgid "And you never make mistakes?"
-msgstr ""
+msgstr "しくじったこともないのか？"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.29
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.29"
 msgid ""
 "What happens when an unstoppable force meets an immovable object, right?"
-msgstr ""
+msgstr "物体に 不可抗力が 加わったら 何が 起こるか 知ってるだろう？"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.3"
@@ -3003,12 +3006,12 @@ msgstr "あんたが そう言うなら そうなんだろうな。"
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.31
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.31"
 msgid "I lost track."
-msgstr ""
+msgstr "数えるのは止めたよ。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.32
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.32"
 msgid "No. Not since I lost track."
-msgstr ""
+msgstr "いいや。 おっと、 数えるのを 止めたから じゃないぜ。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.33
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.33"
@@ -3016,16 +3019,18 @@ msgid ""
 "You would get more respect if you cleaned up a bit. A fine suit goes a long "
 "way."
 msgstr ""
+"もうちょっと 小綺麗にしてくれれば、 あんたも皆のウケが良くなるよ。 成功は 身"
+"だしなみから ってね。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.34
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.34"
 msgid "You dress like Decker."
-msgstr ""
+msgstr "服装の趣味がデッカーにそっくりなんだよ。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.35
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.35"
 msgid "Watch how a professional gets things done."
-msgstr ""
+msgstr "プロの仕事を見せてやる。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.36
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.36"
@@ -3033,16 +3038,18 @@ msgid ""
 "A vat of nutri-paste and a fine stake are both food, but they’re not the "
 "same thing."
 msgstr ""
+"栄養補助ペーストも 旨いステーキも 食べ物にゃ 違いないが、 同じ物ってわけじゃ"
+"ないな。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.37
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.37"
 msgid "No thank you, I have to see myself every morning when I shave."
-msgstr ""
+msgstr "いや結構。 毎朝 ひげを剃る時に 自分の顔を 見ないと いけないんでね。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.38
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.38"
 msgid "Ooh. You have a technical solution for everything, don’t you."
-msgstr ""
+msgstr "おっ、 あんたは 何でも 技術的に 解決するんだってな。"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.CROSS.39
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.CROSS.39"
@@ -3339,23 +3346,24 @@ msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.22"
 msgid ""
 "Why would I care for such trivialities? My clothing is perfectly adequate."
 msgstr ""
+"何で俺様がそんな瑣末事に気を付けねばならんのだ？ この格好で十分だろう。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.23
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.23"
 msgid "Perhaps you have a point."
-msgstr ""
+msgstr "あんたの言う通りかもしれんな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.24
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.24"
 msgid ""
 "I too sold my martial skills for cash. We are fellow guns for hire. We are "
 "the same thing."
-msgstr ""
+msgstr "俺様も 格闘スキルは捨てた。 俺達は 銃を扱う者 同士。 同じだな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.25
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.25"
 msgid "I dislike food metaphors."
-msgstr ""
+msgstr "食べ物で例えるのはやめろ。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.26
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.26"
@@ -3363,16 +3371,18 @@ msgid ""
 "You could improve your kill ratio with a couple of augmentations. An "
 "external tracking eye, for example, to better analyze ballistics."
 msgstr ""
+"強化パーツを 身に着ければ、 キルレシオが ぐんと上がるぞ。 例えば、 拡張トラッ"
+"キングアイで 射線分析とかな。"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.27
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.27"
 msgid "You can get synthetic skin like mine, and never have to shave again!"
-msgstr ""
+msgstr "俺様のように 合成皮膚にすりゃ、 ヒゲ剃りも不要だ！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.28
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.28"
 msgid "Today is a good day. Let’s kill some people!"
-msgstr ""
+msgstr "今日は良い日だ。 ぶっ殺してやろうぜ！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.29
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.29"
@@ -3380,6 +3390,8 @@ msgid ""
 "You don’t feel a little rush when you take a human life? It’s like popping "
 "bubble wrap to me!"
 msgstr ""
+"あんたは仕事中、 そういう 衝動に 駆られないのか？ そうだとしたら、 俺様にとっ"
+"ちゃ エアバッグ みたいな もんだな！"
 
 #: STRINGS.AGENTS.SHARP.BANTER.CROSS.3
 msgctxt "STRINGS.AGENTS.SHARP.BANTER.CROSS.3"
@@ -4880,6 +4892,16 @@ msgid ""
 "disrupter in the right hands at the right time can make all the difference "
 "in the world."
 msgstr ""
+"デレクは 利己的に 振舞っているが、 彼が望む 以上の ものを このゲームで 手に入"
+"れた。 彼は 孤児だったころ マンチェスターで 企業の汚れた一面を 見た。 彼は 生"
+"涯忘れないだろう。 彼は 仕事に 私情を 挟むが、 儲かると 踏んだ場合は その限り"
+"ではない。\n"
+"\n"
+"私が捕縛されたとき、 組織は 私の記録を 抹消した。 組織を責めたりはしない。 洗"
+"脳室に 連行されて、 そのままの 状態で 戻ってくる人間など そう多くは ないのだ"
+"から。 しかし、デレクは 私を見捨てなかった。 彼は 私が捕らえられている 施設"
+"を 突き止め、 リモートから 自販機を ハックした。 必要な時、 必要な場所に あ"
+"る スタンガンは 世界を 変えることが できるのだ。"
 
 #: STRINGS.DLC1.AGENTS.DEREK.FILE
 msgctxt "STRINGS.DLC1.AGENTS.DEREK.FILE"
@@ -5002,6 +5024,17 @@ msgid ""
 "Some day I'll get around to that silly vampire book. Who has time to read "
 "nowadays, anyway?"
 msgstr ""
+"ドラコのやり方は 型に嵌らない。 そのため私は 彼を雇い入れたことについて 非難"
+"された。 しかし、私が 最も 誤解していたのは、 我々が 戦っている舞台は 通常の"
+"戦争 ではないと いうこと、 通常のやり方を 取り入れることで 自身を 制限してい"
+"たことだ。 企業は 我々よりも 豊かな 財源を 持っており、 我々の 申し入れは 国"
+"際司法には 通用しないだろう。\n"
+"\n"
+"私は おとなしく 捕まるほど 暇じゃない。 自身が及ぶ限り 企業の セキュリティを "
+"抑制する 任を負っている。 不運にも 彼等の死体が 転がったとしても、 私は 特に"
+"謝罪しない。\n"
+"\n"
+"いつか彼の小説を読んでみようと思う。 今は 読んでる時間 なんて ないでしょう？"
 
 #: STRINGS.DLC1.AGENTS.DRACO.FILE
 msgctxt "STRINGS.DLC1.AGENTS.DRACO.FILE"
@@ -5126,6 +5159,13 @@ msgid ""
 "before he gave away too many of our operational secrets. I pulled the "
 "trigger myself, and I would do it again in a heartbeat."
 msgstr ""
+"何と言えばいいかしら？ 情報戦の 扱いに 関しては、 私の右に出る者はいない。 こ"
+"れは自慢ではなく、 長い経験から 導き出された 否定できない 事実だ。\n"
+"\n"
+"我々は戦争に勝つはずだった。 今でもそう信じている。 我々の努力は 厳しい状況"
+"を 受け入れることを 良しとしない 無能な 指導者に よって 妨げられた。 彼が企業"
+"に嵌められたと気づいた時、 私は 機密情報流出の前に 彼を確保することを 我々の "
+"最優先事項とした。 私は自身に何度も活を入れた。"
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.FILE
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.FILE"
@@ -5246,6 +5286,12 @@ msgid ""
 "maintained better discipline amongst the PEIA agents we may not have lost "
 "the Istanbul Run."
 msgstr ""
+"コレットは 強情で、 攻撃的で、 気まぐれで、 尊大であるため、 ともに仕事をする"
+"には 向いていないし、もし そうすれば 必ず問題が 起こるだろう。 彼女は ウィン"
+"ドウ破りの 達人だった。 現場で 彼女の 攻撃性と スピードに ついていける エー"
+"ジェントは 見たことがない。 後になってみれば、 それが彼女の 破滅に 繋がったの"
+"だろう。 私が もう少し PEIA のエージェント達を 教育していれば、 イスタンブー"
+"ル作戦で 敗走することも 無かっただろう。"
 
 #: STRINGS.DLC1.AGENTS.RUSH.FILE
 msgctxt "STRINGS.DLC1.AGENTS.RUSH.FILE"
@@ -6299,7 +6345,7 @@ msgid ""
 "    So thank you, Shalem 11, for making this one reporter's evening just a "
 "little more bearable!</>"
 msgstr ""
-"祝祭で謎の紳士がやってくれた\n"
+"祝祭で謎の紳士が花を咲かせた\n"
 "\n"
 "    <c:62B3B3>クライム・アップ！編集部周辺にはマズい秘密がある。 我々の中では"
 "公然の秘密だ。 読者にだけこっそり教えてあげよう。 企業主催の祝祭は恐ろしく退"
@@ -6324,17 +6370,17 @@ msgstr ""
 "方マネージャーである ガンナー・フロム氏と話していた時に、 彼の脳漿が 私の顔に"
 "飛び散ったんだ！\n"
 "    \n"
-"    彼の脳漿がどの部位だったかは重要だ。 なんせガンナーは即死だったからな。 "
-"その時点で 重役は机に隠れるわ 警備は武器を持ち出すわで 部屋は大騒ぎさ。 ナイ"
-"スミドルが ダンスルームに スイッと入ってきたとき、 俺は顔を拭っていたところ"
-"だった。 彼は 殺人ライセンスを 片手に持ち、 もう片方には ガンナーを対象とし"
-"た 依頼書を持っていた。\n"
+"    彼の脳漿が どの部位だったかは 重要だ。 なんせガンナーは 即死だったから"
+"な。 その時点で 重役は机に隠れるわ 警備は武器を持ち出すわで 部屋は大騒ぎさ。 "
+"ナイスミドルが ダンスルームに スイッと入ってきたとき、 俺は顔を拭っていた と"
+"ころだった。 彼は 殺人ライセンスを 片手に持ち、 もう片方には ガンナーを対象と"
+"した 依頼書を持っていた。\n"
 "    \n"
 "    そのナイスミドルの書類が確認されるや、パーティーは続行されたよ。 彼は 自"
-"身を 「シェイレム 11」 と名乗った。追記しておくと、 とても要領の良い奴なん"
-"だ。 私は彼としばらくの間、 部外者お断りのエリアで 食事をした。 彼は私に奢っ"
-"てくれただけでなく、 俺の髪にべったり着いた ガンナーを落とすのに ハンカチを "
-"貸してくれたんだ。 なんて紳士なんだろう！ \n"
+"身を 「シェイレム 11」 と名乗った。追記しておくと、 とても口の良い奴なんだ。 "
+"私は彼としばらくの間、 部外者お断りのエリアで 食事をした。 彼は私に奢ってくれ"
+"ただけでなく、 俺の髪にべったり着いた ガンナーを落とすのに ハンカチを 貸して"
+"くれたんだ。 なんて紳士なんだろう！ \n"
 "    \n"
 "    退屈な夜を 我慢できるように してくれて ありがとう、シェイレム 11！</>"
 
@@ -6400,6 +6446,44 @@ msgid ""
 "\n"
 "Slán go fóill!</>"
 msgstr ""
+"ダブリン市民の真の友人\n"
+"(この小冊子はダブリン・ヌア籠城戦中に廃墟となった建物から発見された)\n"
+"\n"
+"<c:62B3B3>正直に言うと、 私は善良な ダブリン市民では ありません。 我々は困難"
+"な状況下にいます。 花開いた基本的人権を、 敵対勢力に全く妥協せず、 忍耐を以っ"
+"て守り通すことは、 張り裂けんばかりの反乱へと なりました。\n"
+"\n"
+"時折、簡単に決意を失うことがあります。 冷たくなってきます。 暗くなってきま"
+"す。 お腹も空いてきます。 因果応報です。 これ以上 尋ねることは とても心苦し"
+"い のですが、 私は 続けなければ なりません。 子供たちの夢や人生は、 我々の人"
+"生の上に 成り立って いるのです！\n"
+"\n"
+"しかし、すべてが暗い見通しというわけではありません！ 試練の時は 我々に素晴ら"
+"しいものを もたらしてくれました。 その一例として、 我らが ジョリー・マー"
+"フィーを 紹介します。\n"
+"\n"
+"ジョリーは 自身の 短い人生に おいて 順風満帆と いうわけでは ありませんでし"
+"た。 彼女は 貧乏でした。 企業の 厳しいルールの 下で 育った彼女は、 生き延びる"
+"ために 犯罪に手を染めるしか ありませんでした。 企業から盗み、 上手くやりおお"
+"せました。 とても上手く。 実際彼女は まだ生きています。 付け加えると、 実に裕"
+"福な身分となって。\n"
+"\n"
+"我々が問題に 直面すると、 ジョリーは 本当は何が起こったのかを 知りました。 企"
+"業メディアが 暴動や略奪を 取り上げ始めると、 彼女は 我々が不正に搾取されたも"
+"のを 取り戻しているんだと 理解しました。 彼女は ゲームのやり方 および 八百長"
+"に 通じています。 彼女の人生そのものですから。\n"
+"\n"
+"攻城戦が宣戦されると、 彼女は 安全のために 国外逃亡 することを諦め、ダブリン"
+"のために 戻ってきました。 彼女が我々に もたらした財産は、 我々から搾取してき"
+"た相手から 窃取してきたものでした。 その資金を使って、 武器を、 食料を、 電磁"
+"トラップを、 ガスを、 生存に必要な種々のものを 買うことができます。 これらす"
+"べてのことは、自身の身を顧みず、我々の戦いに 価値を見出した、 ここにいる たっ"
+"た一人の女性に よって可能となりました。\n"
+"\n"
+"この小さな幸運のおかげで、 我々は 冬を持ちこたえることが 可能となるでしょ"
+"う。 そして、 おそらくですが、 我々の自由が 勝利することと なりましょう。\n"
+"\n"
+"さようなら！</>"
 
 #: STRINGS.DLC1.LOGS.LOG04_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG04_FILE"
@@ -6948,12 +7032,12 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG09_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG09_FILE"
 msgid "DEPROGRAMMING TRANSCRIPT"
-msgstr "デプログラミング の記録"
+msgstr "洗脳 の記録"
 
 #: STRINGS.DLC1.LOGS.LOG09_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG09_TITLE"
 msgid "DEPROGRAMMING TRANSCRIPT"
-msgstr "デプログラミング の記録"
+msgstr "洗脳 の記録"
 
 #: STRINGS.DLC1.LOGS.LOG10
 msgctxt "STRINGS.DLC1.LOGS.LOG10"
@@ -13255,8 +13339,8 @@ msgid ""
 "This is a sad day, but at least we spared them from corporate deprogramming. "
 "They went down fighting."
 msgstr ""
-"今日は 残念だった わね。 少なくとも、 企業の デプログラミング室 じゃなくて、 "
-"戦って 死んだのが せめてもの 慰め。"
+"今日は 残念だった わね。 少なくとも、 企業の 洗脳室 じゃなくて、 戦って 死ん"
+"だのが せめてもの 慰め。"
 
 #: STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.2
 msgctxt "STRINGS.MISSIONS.CENTRAL_JUDGEMENT.DETENTION.LOSTAGENT.2"
@@ -14552,8 +14636,8 @@ msgid ""
 "Look for a secure holding facility. They use them to deprogram contractors - "
 "it's a good way to find new vulnerabilities."
 msgstr ""
-"機密情報を 保持している 施設を 探しましょう。 哀れな業者の デプログラミング用"
-"に 使っているはず。 脆弱性を 見つける 近道なのよ。"
+"機密情報を 保持している 施設を 探しましょう。 哀れな業者の 洗脳用に 使ってい"
+"るはず。 脆弱性を 見つける 近道なのよ。"
 
 #: STRINGS.MISSIONS.ESCAPE.SECURITYROOM_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.SECURITYROOM_4"
@@ -15757,7 +15841,7 @@ msgid ""
 "\n"
 "There may be intercepted Invisible agents on-site."
 msgstr ""
-"拘置所には 重要人物が 尋問と デプログラミングの ために 拘束されて います。\n"
+"拘置所には 重要人物が 尋問と 洗脳の ために 拘束されて います。\n"
 "\n"
 "Invisible 社の エージェントが 現地に いるかも しれません。"
 
@@ -24000,8 +24084,8 @@ msgid ""
 "\n"
 "I won't see the inside of another."
 msgstr ""
-"そうなったら、我々は 海の藻屑と 消えるさだめ。  企業の デプログラミング室も "
-"見学できない でしょうよ。\n"
+"そうなったら、我々は 海の藻屑と 消えるさだめ。  企業の 洗脳室も 見学できない "
+"でしょうよ。\n"
 "\n"
 "まあ、私はどっちも見たくないけど。"
 
