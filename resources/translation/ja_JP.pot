@@ -4343,7 +4343,7 @@ msgstr ""
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.BIO
 msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.BIO"
-msgid "Olivia Gladstone first joined the PEIA as an agent, long before the outbreak of the open hostilities. Originally an intelligence officer for the British government, she brought a degree of professionalism to the fledgling organization. A brilliant tactician on the field, she quickly gained a reputation for keeping her composure in even the most dire of situations.\n\nGladstone was captured during a risky solo mission in 2043. While she eventually escaped, her time in captivity left lasting injuries that impaired her field performance. After retraining as an Operator, she proved even more formidable behind the screen. Her mission ranking was unparalleled when the war began, and it was no surprise when she she was chosen to lead the PEIA when its founding Director defected."
+msgid "Olivia Gladstone first joined the PEIA as an agent, long before the outbreak of the open hostilities. Originally an intelligence officer for the British government, she brought a degree of professionalism to the fledgling organization. A brilliant tactician on the field, she quickly gained a reputation for keeping her composure in even the most dire of situations.\n\nGladstone was captured during a risky solo mission in 2043. While she eventually escaped, her time in captivity left lasting injuries that impaired her field performance. After retraining as an Operator, she proved even more formidable behind the screen. Her mission ranking was unparalleled when the war began, and it was no surprise when she was chosen to lead the PEIA when its founding Director defected."
 msgstr ""
 
 #: STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.FULLNAME
@@ -5053,7 +5053,7 @@ msgstr ""
 
 #: STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE_TIP
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE_TIP"
-msgid "Teleports the holder of the PARTICLE ENVELOPE AUGMENT to this location, as long as it is clear."
+msgid "Teleports the holder of the PARTICLE ENVELOPE AUGMENT to this location, as long as it is clear. Uses 4 PWR."
 msgstr ""
 
 #: STRINGS.DLC1.GUARDS.AKUMA_2
@@ -5858,7 +5858,7 @@ msgstr ""
 
 #: STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL
 msgctxt "STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL"
-msgid "Find a Power Relay "
+msgid "Find a Power Relay"
 msgstr ""
 
 #: STRINGS.DLC1.MISSIONS.OBJ_GET_CELL
@@ -5933,7 +5933,7 @@ msgstr ""
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.4
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.4"
-msgid "Normally, I would say no. I go to positively heroic lengths to isolate my customers. After seeing the technology on display in that lab, however, I'm willing to entertain the possibility that the universe is more complex that I once imagined."
+msgid "Normally, I would say no. I go to positively heroic lengths to isolate my customers. After seeing the technology on display in that lab, however, I'm willing to entertain the possibility that the universe is more complex than I once imagined."
 msgstr ""
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.5
@@ -6243,7 +6243,7 @@ msgstr ""
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS"
-msgid "Scrub batabanks"
+msgid "Scrub databanks"
 msgstr ""
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_START_THE_COMPILE
@@ -6563,7 +6563,7 @@ msgstr ""
 
 #: STRINGS.DLC1.POWER_CELL_TOOLTIP
 msgctxt "STRINGS.DLC1.POWER_CELL_TOOLTIP"
-msgid "This cell will charge Incognita's Potrable Case. Get it back to the Jet to keep her alive"
+msgid "This cell will charge Incognita's Portable Case. Get it back to the Jet to keep her alive"
 msgstr ""
 
 #: STRINGS.DLC1.PROGRAMS.BLESS.DESC
@@ -6598,7 +6598,7 @@ msgstr ""
 
 #: STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC"
-msgid "+3 PWR, ALL AGENTS +3 AP. ALL AGNTS -3 AP DURING COOLDOWN."
+msgid "+3 PWR, ALL AGENTS +3 AP. ALL AGENTS -3 AP DURING COOLDOWN."
 msgstr ""
 
 #: STRINGS.DLC1.PROGRAMS.BURST.NAME
@@ -6928,7 +6928,7 @@ msgstr ""
 
 #: STRINGS.DLC1.TAZER_ARMOR_4_FLAVOR
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_4_FLAVOR"
-msgid "PWR is surged into the targets armor in the form of heat, temporarily weakeing it enough for the disrupter to do it's work."
+msgid "PWR is surged into the targets armor in the form of heat, temporarily weakening it enough for the disrupter to do its work."
 msgstr ""
 
 #: STRINGS.DLC1.TAZER_ARMOR_4_TOOLTIP
@@ -7608,7 +7608,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP"
-msgid "Knock out all enemies in a small area around this agent"
+msgid "Knock out all enemies in a small area around this agent. 2 turn KO."
 msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS
@@ -14771,6 +14771,11 @@ msgctxt "STRINGS.SCREENS.STR_141375972"
 msgid "Background FX"
 msgstr ""
 
+#: STRINGS.SCREENS.STR_1437796216
+msgctxt "STRINGS.SCREENS.STR_1437796216"
+msgid "COMMENTARY \nMUTED"
+msgstr ""
+
 #: STRINGS.SCREENS.STR_1446328094
 msgctxt "STRINGS.SCREENS.STR_1446328094"
 msgid "Voice-over Captions"
@@ -16139,6 +16144,11 @@ msgstr ""
 #: STRINGS.SCREENS.STR_897435471
 msgctxt "STRINGS.SCREENS.STR_897435471"
 msgid "Agents can look around corners without exposing themselves to danger."
+msgstr ""
+
+#: STRINGS.SCREENS.STR_912553807
+msgctxt "STRINGS.SCREENS.STR_912553807"
+msgid "Mute Central's commentary"
 msgstr ""
 
 #: STRINGS.SCREENS.STR_916358079
@@ -20568,7 +20578,7 @@ msgstr ""
 
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC"
-msgid "This unit will not be distracted from it's patrols or hunts."
+msgid "This unit will not be distracted from its patrols or hunts."
 msgstr ""
 
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD

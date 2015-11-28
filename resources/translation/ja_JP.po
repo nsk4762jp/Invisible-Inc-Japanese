@@ -5079,8 +5079,8 @@ msgid ""
 "eventually escaped, her time in captivity left lasting injuries that "
 "impaired her field performance. After retraining as an Operator, she proved "
 "even more formidable behind the screen. Her mission ranking was unparalleled "
-"when the war began, and it was no surprise when she she was chosen to lead "
-"the PEIA when its founding Director defected."
+"when the war began, and it was no surprise when she was chosen to lead the "
+"PEIA when its founding Director defected."
 msgstr ""
 "企業の敵として 見做される以前、 オリビア・グラッドストンは PEIA にエージェン"
 "トとして 参加していた。 元々は イギリス政府の 情報局長であった 彼女は、 でき"
@@ -5985,10 +5985,10 @@ msgstr "ビーコン発動"
 msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE_TIP"
 msgid ""
 "Teleports the holder of the PARTICLE ENVELOPE AUGMENT to this location, as "
-"long as it is clear."
+"long as it is clear. Uses 4 PWR."
 msgstr ""
-"パーティクル エンベロープ 所持者を、 視線が 通っている 場合のみ、 この場所へ "
-"移動させます。"
+"視界が通っている場合、 パーティクル エンベロープの 所持者を この位置まで 転送"
+"します。 消費電力 4"
 
 #: STRINGS.DLC1.GUARDS.AKUMA_2
 msgctxt "STRINGS.DLC1.GUARDS.AKUMA_2"
@@ -8126,7 +8126,7 @@ msgstr "電力セルを持って 脱出する"
 
 #: STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL
 msgctxt "STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL"
-msgid "Find a Power Relay "
+msgid "Find a Power Relay"
 msgstr "電力リレイを 見つける"
 
 #: STRINGS.DLC1.MISSIONS.OBJ_GET_CELL
@@ -8252,7 +8252,7 @@ msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.4"
 msgid ""
 "Normally, I would say no. I go to positively heroic lengths to isolate my "
 "customers. After seeing the technology on display in that lab, however, I'm "
-"willing to entertain the possibility that the universe is more complex that "
+"willing to entertain the possibility that the universe is more complex than "
 "I once imagined."
 msgstr ""
 "いつもなら、 ノーと言うね。 俺は お客からは 積極的に 距離を 置いているんだ。 "
@@ -8707,7 +8707,7 @@ msgstr "コンパイル済みのプログラムを受け取る"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS"
-msgid "Scrub batabanks"
+msgid "Scrub databanks"
 msgstr "データバンク洗い出し"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_START_THE_COMPILE
@@ -8959,7 +8959,7 @@ msgstr ""
 "<c:FF8411>デーモン</c>\n"
 "キャッスル\n"
 "ショック\n"
-"サイタン\n"
+"カイトン\n"
 "ジョルト\n"
 "エコー\n"
 "ポートカリス"
@@ -9146,7 +9146,7 @@ msgstr ""
 #: STRINGS.DLC1.POWER_CELL_TOOLTIP
 msgctxt "STRINGS.DLC1.POWER_CELL_TOOLTIP"
 msgid ""
-"This cell will charge Incognita's Potrable Case. Get it back to the Jet to "
+"This cell will charge Incognita's Portable Case. Get it back to the Jet to "
 "keep her alive"
 msgstr ""
 "このセルは インコグニータの 運搬ケースを 充電します。 彼女を 生き永らえ させ"
@@ -9191,13 +9191,13 @@ msgid ""
 "Gain 3 PWR, agents get +3 AP. Agents -3 AP while on cooldown\n"
 "2 turn cooldown."
 msgstr ""
-"電力を 3 獲得し、 エージェントは AP を 3 獲得します。 クールダウン中は エー"
-"ジェントの AP が 3 減少します。\n"
+"電力を 3 獲得し、 エージェントの AP が +3 されます。 クールダウン中は エー"
+"ジェントの AP が -3 されます。\n"
 "クールダウン: 2 ターン"
 
 #: STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC"
-msgid "+3 PWR, ALL AGENTS +3 AP. ALL AGNTS -3 AP DURING COOLDOWN."
+msgid "+3 PWR, ALL AGENTS +3 AP. ALL AGENTS -3 AP DURING COOLDOWN."
 msgstr ""
 "電力 +3、 全エージェント AP +3。 クールダウン中は 全エージェント AP -3。"
 
@@ -9614,7 +9614,7 @@ msgstr "サーマル スタンガン IV"
 msgctxt "STRINGS.DLC1.TAZER_ARMOR_4_FLAVOR"
 msgid ""
 "PWR is surged into the targets armor in the form of heat, temporarily "
-"weakeing it enough for the disrupter to do it's work."
+"weakening it enough for the disrupter to do its work."
 msgstr "電力を 熱に 変換し、 一時的に アーマーを 弱体化させます。"
 
 #: STRINGS.DLC1.TAZER_ARMOR_4_TOOLTIP
@@ -10364,8 +10364,10 @@ msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP"
-msgid "Knock out all enemies in a small area around this agent"
-msgstr "エージェントの 近くにいる すべての敵を KO します。"
+msgid "Knock out all enemies in a small area around this agent. 2 turn KO."
+msgstr ""
+"このエージェントを 中心とした 小範囲内の すべての敵を 2 ターンの間 KO しま"
+"す。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS"
@@ -19325,6 +19327,13 @@ msgctxt "STRINGS.SCREENS.STR_141375972"
 msgid "Background FX"
 msgstr "背景"
 
+#: STRINGS.SCREENS.STR_1437796216
+msgctxt "STRINGS.SCREENS.STR_1437796216"
+msgid ""
+"COMMENTARY \n"
+"MUTED"
+msgstr "解説 オフ"
+
 #: STRINGS.SCREENS.STR_1446328094
 msgctxt "STRINGS.SCREENS.STR_1446328094"
 msgid "Voice-over Captions"
@@ -20954,6 +20963,11 @@ msgstr ""
 "エージェントは 相手に 気取られることなく 曲がり角から 周囲を 見回すことが で"
 "きます。"
 
+#: STRINGS.SCREENS.STR_912553807
+msgctxt "STRINGS.SCREENS.STR_912553807"
+msgid "Mute Central's commentary"
+msgstr "セントラルの解説を聞かない"
+
 #: STRINGS.SCREENS.STR_916358079
 msgctxt "STRINGS.SCREENS.STR_916358079"
 msgid "Shadow Quality"
@@ -22127,6 +22141,9 @@ msgid ""
 "\n"
 "Are you sure you want to delete this data log?"
 msgstr ""
+"次回以降の任務で 削除済みの データログを 見つけることが あります。\n"
+"\n"
+"このデータログを 削除しますか？"
 
 #: STRINGS.UI.DIALOGS.AGENT_RESCUED
 msgctxt "STRINGS.UI.DIALOGS.AGENT_RESCUED"
@@ -25105,7 +25122,7 @@ msgstr "準備完了"
 #: STRINGS.UI.NEW_LOG
 msgctxt "STRINGS.UI.NEW_LOG"
 msgid "LOGS - NEW DATA"
-msgstr ""
+msgstr "新着ログ"
 
 #: STRINGS.UI.NEXT
 msgctxt "STRINGS.UI.NEXT"
@@ -25160,6 +25177,9 @@ msgid ""
 "\n"
 "RECOMMEND CORPORATE DATA MINING TO RETRIEVE MISSING FILES."
 msgstr ""
+"企業による データ押収 により、 対象に 関する 全ファイルは 消去されました。\n"
+"\n"
+"失われたファイルを見つけるために、 企業のデータを漁りましょう。"
 
 #: STRINGS.UI.OK
 msgctxt "STRINGS.UI.OK"
@@ -25511,7 +25531,7 @@ msgstr "デーモンが いません。"
 #: STRINGS.UI.REASON.NO_EQUIPPED_PROGRAM
 msgctxt "STRINGS.UI.REASON.NO_EQUIPPED_PROGRAM"
 msgid "No equipped program"
-msgstr ""
+msgstr "装備中の プログラムは ありません。"
 
 #: STRINGS.UI.REASON.NO_FREE_SOCKETS
 msgctxt "STRINGS.UI.REASON.NO_FREE_SOCKETS"
@@ -25566,7 +25586,7 @@ msgstr "プログラムを 装備していません。"
 #: STRINGS.UI.REASON.NO_PROGRAMS
 msgctxt "STRINGS.UI.REASON.NO_PROGRAMS"
 msgid "NO COMPILED CODE"
-msgstr ""
+msgstr "コンパイル済みの コードが ありません。"
 
 #: STRINGS.UI.REASON.NO_ROOM_FOR_DAEMON
 msgctxt "STRINGS.UI.REASON.NO_ROOM_FOR_DAEMON"
@@ -25744,22 +25764,22 @@ msgstr "救助"
 #: STRINGS.UI.RESEARCH_OPEN.1
 msgctxt "STRINGS.UI.RESEARCH_OPEN.1"
 msgid "PLEASE SEE THE READ.ME"
-msgstr ""
+msgstr "READ.ME をお読みください"
 
 #: STRINGS.UI.RESEARCH_OPEN.2
 msgctxt "STRINGS.UI.RESEARCH_OPEN.2"
 msgid "ADD TO TASK BAR? Y/N"
-msgstr ""
+msgstr "タスクバーを追加しますか？ [Y/N]"
 
 #: STRINGS.UI.RESEARCH_OPEN.3
 msgctxt "STRINGS.UI.RESEARCH_OPEN.3"
 msgid "AUTO OPEN ON INSTALL? Y/N"
-msgstr ""
+msgstr "インストール後に開きますか？[Y/N]"
 
 #: STRINGS.UI.RESEARCH_OPEN.4
 msgctxt "STRINGS.UI.RESEARCH_OPEN.4"
 msgid "REQUIRES DIRECT.EX 25.0"
-msgstr ""
+msgstr "DIRECT.EX 25.0 が必要です"
 
 #: STRINGS.UI.RETIRE_AGENCY
 msgctxt "STRINGS.UI.RETIRE_AGENCY"
@@ -26411,8 +26431,8 @@ msgstr "フォーカス AI"
 
 #: STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC"
-msgid "This unit will not be distracted from it's patrols or hunts."
-msgstr "このユニットは 巡回中 または 追跡中 状態から 通常状態に 復帰しません。"
+msgid "This unit will not be distracted from its patrols or hunts."
+msgstr "このユニットは 巡回中 または 追跡中に 攪乱されません。"
 
 #: STRINGS.UI.TOOLTIPS.GRENADE_GUARD
 msgctxt "STRINGS.UI.TOOLTIPS.GRENADE_GUARD"
@@ -27210,6 +27230,91 @@ msgid ""
 msgstr ""
 "プレイしてくれて ありがとう。\n"
 "タイムアタックや エンドレスも お試しください。"
+
+#~ msgctxt "STRINGS.DLC1.AGENTS.OLIVIA.ALT_1.BIO"
+#~ msgid ""
+#~ "Olivia Gladstone first joined the PEIA as an agent, long before the "
+#~ "outbreak of the open hostilities. Originally an intelligence officer for "
+#~ "the British government, she brought a degree of professionalism to the "
+#~ "fledgling organization. A brilliant tactician on the field, she quickly "
+#~ "gained a reputation for keeping her composure in even the most dire of "
+#~ "situations.\n"
+#~ "\n"
+#~ "Gladstone was captured during a risky solo mission in 2043. While she "
+#~ "eventually escaped, her time in captivity left lasting injuries that "
+#~ "impaired her field performance. After retraining as an Operator, she "
+#~ "proved even more formidable behind the screen. Her mission ranking was "
+#~ "unparalleled when the war began, and it was no surprise when she she was "
+#~ "chosen to lead the PEIA when its founding Director defected."
+#~ msgstr ""
+#~ "企業の敵として 見做される以前、 オリビア・グラッドストンは PEIA にエージェ"
+#~ "ントとして 参加していた。 元々は イギリス政府の 情報局長であった 彼女は、 "
+#~ "できて日の浅い組織に プロの根性を もたらした。 現場では 頭脳明晰な 戦術家"
+#~ "であり、 最も 差し迫った 状況下でも 沈着冷静で いられることが 彼女の 素早"
+#~ "い昇進に 繋がった。\n"
+#~ "\n"
+#~ "グラッドストンは 2043年に 行われた 危険な 単独任務中に 捕まった ことがあ"
+#~ "る。 どうにか 脱出に 成功したが、 拷問により 彼女の体は 現場での パフォー"
+#~ "マンスに 支障をきたす ようになった。 その後、 オペレーターと しての 訓練を"
+#~ "積み、 スクリーンを 通して 以前と 同様のことを 行えるまでに なった。 戦争"
+#~ "が始まると、 彼女の 任務ランキングは 他の追随を 許さなかった。 PEIA 創立者"
+#~ "が 亡命したとき、 代わりに リーダーとして 選出されたことは 驚くに 値しな"
+#~ "い だろう。"
+
+#~ msgctxt "STRINGS.DLC1.GRENADE_TRANSPORT_BEACON_USE_TIP"
+#~ msgid ""
+#~ "Teleports the holder of the PARTICLE ENVELOPE AUGMENT to this location, "
+#~ "as long as it is clear."
+#~ msgstr ""
+#~ "パーティクル エンベロープ 所持者を、 視線が 通っている 場合のみ、 この場所"
+#~ "へ 移動させます。"
+
+#~ msgctxt "STRINGS.DLC1.MISSIONS.OBJ_FIND_CELL"
+#~ msgid "Find a Power Relay "
+#~ msgstr "電力リレイを 見つける"
+
+#~ msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_2.4"
+#~ msgid ""
+#~ "Normally, I would say no. I go to positively heroic lengths to isolate my "
+#~ "customers. After seeing the technology on display in that lab, however, "
+#~ "I'm willing to entertain the possibility that the universe is more "
+#~ "complex that I once imagined."
+#~ msgstr ""
+#~ "いつもなら、 ノーと言うね。 俺は お客からは 積極的に 距離を 置いているん"
+#~ "だ。 研究所で あの技術を 見た後じゃ、 世界は 予想してた よりも もっと 複雑"
+#~ "だって 思うぜ。"
+
+#~ msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.OBJ_SCRUB_DATABANKS"
+#~ msgid "Scrub batabanks"
+#~ msgstr "データバンク洗い出し"
+
+#~ msgctxt "STRINGS.DLC1.POWER_CELL_TOOLTIP"
+#~ msgid ""
+#~ "This cell will charge Incognita's Potrable Case. Get it back to the Jet "
+#~ "to keep her alive"
+#~ msgstr ""
+#~ "このセルは インコグニータの 運搬ケースを 充電します。 彼女を 生き永らえ さ"
+#~ "せるために、 ジェットに 持ち帰りましょう。"
+
+#~ msgctxt "STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC"
+#~ msgid "+3 PWR, ALL AGENTS +3 AP. ALL AGNTS -3 AP DURING COOLDOWN."
+#~ msgstr ""
+#~ "電力 +3、 全エージェント AP +3。 クールダウン中は 全エージェント AP -3。"
+
+#~ msgctxt "STRINGS.DLC1.TAZER_ARMOR_4_FLAVOR"
+#~ msgid ""
+#~ "PWR is surged into the targets armor in the form of heat, temporarily "
+#~ "weakeing it enough for the disrupter to do it's work."
+#~ msgstr "電力を 熱に 変換し、 一時的に アーマーを 弱体化させます。"
+
+#~ msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP"
+#~ msgid "Knock out all enemies in a small area around this agent"
+#~ msgstr "エージェントの 近くにいる すべての敵を KO します。"
+
+#~ msgctxt "STRINGS.UI.TOOLTIPS.FOCUSED_AI_DESC"
+#~ msgid "This unit will not be distracted from it's patrols or hunts."
+#~ msgstr ""
+#~ "このユニットは 巡回中 または 追跡中 状態から 通常状態に 復帰しません。"
 
 #~ msgctxt "STRINGS.ABILITIES.RECHARGE_CHARGES_DESC"
 #~ msgid "Use Charge Pack to refill the items Charges."
