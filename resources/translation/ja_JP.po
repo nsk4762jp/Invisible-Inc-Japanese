@@ -4323,7 +4323,7 @@ msgstr "Chris Costa"
 #: STRINGS.DAEMONS.ALERTBLOWFISH.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.ACTIVE_DESC"
 msgid "ALARM RAISED {1} BY DAEMON"
-msgstr "デーモンによる セキュリティレベル上昇"
+msgstr "デーモンにより セキュリティレベル {1} 上昇"
 
 #: STRINGS.DAEMONS.ALERTBLOWFISH.DESC
 msgctxt "STRINGS.DAEMONS.ALERTBLOWFISH.DESC"
@@ -4363,12 +4363,12 @@ msgstr "デーモン召喚"
 #: STRINGS.DAEMONS.ALERTMODULATE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.ACTIVE_DESC"
 msgid "+2 PWR COST TO PROGRAMS FOR {1} {1:turn|turns}"
-msgstr "{1} ターンの間、 プログラムは電力を 2 余計に消費する"
+msgstr "{1} ターンの間、 プログラムは 消費電力が +2 されます。"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.DESC"
 msgid "Programs cost +2 PWR to use."
-msgstr "プログラムは、 電力を 2 余計に消費します。"
+msgstr "プログラムは 消費電力が +2 されます。"
 
 #: STRINGS.DAEMONS.ALERTMODULATE.NAME
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.NAME"
@@ -4378,7 +4378,7 @@ msgstr "モジュレート 2.0"
 #: STRINGS.DAEMONS.ALERTMODULATE.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ALERTMODULATE.SHORT_DESC"
 msgid "PWR COST"
-msgstr "消費電力量"
+msgstr "消費電力"
 
 #: STRINGS.DAEMONS.ALERTPULSE.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.ALERTPULSE.ACTIVE_DESC"
@@ -4503,7 +4503,7 @@ msgid ""
 "Firewalls on safes are increased x{1}.\n"
 "Credits are increased by 10%"
 msgstr ""
-"金庫のファイアウォールが {1} 枚増加します。\n"
+"金庫のファイアウォールが {1} 倍化します。\n"
 "金庫のクレジットが 10% 増えます。"
 
 #: STRINGS.DAEMONS.FELIX_NEW.ALERT
@@ -6251,11 +6251,11 @@ msgstr ""
 "\n"
 "<c:62B3B3>編集部へ。\n"
 "\n"
-"     私は 長らく インタナショナル ワーカーの 熱心な読者です。 最新の記事を い"
-"つも 楽しみに していましたが、 ここのところ 私と 編集部の 間に 意見の相違が "
-"出てきました。 この相違が 私たちの関係を 終わらせて しまうのでは ないかと 危"
-"惧しています。 同志の間から 上がってきた 意見だとしても、 道義上 反革命の 立"
-"場を 取ることは できません。\n"
+"     私は 長い間、 インタナショナル ワーカーの 熱心な読者です。 最新の記事を "
+"いつも 楽しみに していましたが、 ここのところ 私と 編集部の 間に 意見の相違"
+"が 出てきました。 この相違が 私たちの関係を 終わらせて しまうのでは ないかと "
+"危惧しています。 同志の間から 上がってきた 意見だとしても、 道義上 反革命の "
+"立場を 取ることは できません。\n"
 "\n"
 "     私が言っているのは、 もちろん、 サンフランシスコ 協定に 譲歩した 論調の "
 "4号の 社説 「歩み寄りの時」 について です。  この態度は、良くて 変化の うねり"
@@ -8055,10 +8055,9 @@ msgid ""
 "client's confidence it will take me years to rebuild my credibility. If you "
 "were anyone else I wouldn't even consider this."
 msgstr ""
-"も、もちろん。 クライアントを 毎回 自己破産に 巻き込むような 仕事は 期待して "
-"くれるなよ。 クライアントの 信頼を 裏切るような ことが あれば、 出直すのに 何"
-"年も かかるんだぜ。 もし あんたが 他の誰かだったら、 こんなことは 考えもしな"
-"いさ。"
+"も、もちろん。 クライアントを 毎回 自己破産させる ような奴だと 思ってくれるな"
+"よ。 クライアントの 信頼を 裏切るような ことが あれば、 出直すのに 何年も か"
+"かるんだぜ。 もし あんたが 他の誰かだったら、 こんなことは 考えもしないさ。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.6
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.6"
@@ -8095,8 +8094,8 @@ msgid ""
 "between charges. Give or take"
 msgstr ""
 "どうも そこの CEO は死ぬのが 怖いらしく、 プランB を 用意させた らしい。 そい"
-"つは 全人類の 神経情報を 数百年分 保持できるって 代物だ。 あんたの AI も 電源"
-"さえ確保できれば、 少なくとも 数時間は 生かしたまま 保管できるぞ。"
+"つは 全人類の 神経情報を 百年分 保持できるって 代物だ。 あんたの AI も 電源さ"
+"え確保できれば、 少なくとも 数時間は 生かしたまま 保管できるぞ。"
 
 #: STRINGS.DLC1.MISSIONS.MID_MISSION.9
 msgctxt "STRINGS.DLC1.MISSIONS.MID_MISSION.9"
@@ -8277,12 +8276,12 @@ msgstr "良いわね。 私の がっかりした顔 見たくない でしょ�
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.1
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.1"
 msgid "Battery power restored."
-msgstr "電源が戻ったわ。"
+msgstr "電力ガ回復シマシタ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.2
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.2"
 msgid "Another battery, another battle."
-msgstr "電源と戦いの日々、か。"
+msgstr "電源集めに奔走する日々、ね。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.3
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.3"
@@ -8299,7 +8298,7 @@ msgid ""
 "But then isn't it massively over-engineered? There are no known AIs other "
 "than Incognita that would come close to requiring its full capacity."
 msgstr ""
-"そうだとしても、 巧妙すぎない？ インコグニータ以外の AI で、 こいつから 最大"
+"そうだとしても、 豪華すぎない？ インコグニータ以外の AI で、 こいつから 最大"
 "限の 性能を 引き出すもの なんて 知らないわ。"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_1_MISSION_3.5
@@ -8391,7 +8390,7 @@ msgstr ""
 msgctxt "STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_2.4"
 msgid "Oh bring back my bonnie to meeeeeeeeeeeeeee"
 msgstr ""
-"♪ヤサシイ恋人ヲ 返シテオクレレレレレレレレレレレレレレレレ\n"
+"♪ヤサシイ恋人ヲ 返シテオクレレレレレレ\n"
 "(「恋人は海の彼方に」, スコットランド民謡)"
 
 #: STRINGS.DLC1.MISSIONS.POST_MID_DAY_2_MISSION_3.1
@@ -8474,7 +8473,7 @@ msgstr ""
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_END.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_END.1"
 msgid "That's two clean"
-msgstr "あと 2つ。"
+msgstr "これで2つ。"
 
 #: STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_START.1
 msgctxt "STRINGS.DLC1.MISSIONS.SIDEMISSIONS.CENTRAL_DRIVE2_START.1"
@@ -9191,15 +9190,13 @@ msgid ""
 "Gain 3 PWR, agents get +3 AP. Agents -3 AP while on cooldown\n"
 "2 turn cooldown."
 msgstr ""
-"電力を 3 獲得し、 エージェントの AP が +3 されます。 クールダウン中は エー"
-"ジェントの AP が -3 されます。\n"
+"電力を +3 、 AP を +3 獲得します。 クールダウン中は AP が -3 されます。\n"
 "クールダウン: 2 ターン"
 
 #: STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.HUD_DESC"
 msgid "+3 PWR, ALL AGENTS +3 AP. ALL AGENTS -3 AP DURING COOLDOWN."
-msgstr ""
-"電力 +3、 全エージェント AP +3。 クールダウン中は 全エージェント AP -3。"
+msgstr "電力 +3、 AP +3。 クールダウン中は AP -3。"
 
 #: STRINGS.DLC1.PROGRAMS.BURST.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.BURST.NAME"
@@ -9269,16 +9266,13 @@ msgid ""
 "Breaks 2 FIREWALLS for 4 PWR. -1 PWR cost/turn.\n"
 "Resets when used."
 msgstr ""
-"電力を 4 消費して、 ファイアウォールを 2枚 破壊します。 消費電力は ターンごと"
-"に -1 されます。 \n"
-"使用すると 消費電力は リセットされます。"
+"ファイアウォールを 2枚 破壊します。 -1 消費電力/ターン。 \n"
+"使用後はリセットされます。"
 
 #: STRINGS.DLC1.PROGRAMS.GOLEM.HUD_DESC
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.HUD_DESC"
 msgid "BREAKS 2 FIREWALLS,-1 PWR COST/TURN. RESETS WHEN USED"
-msgstr ""
-"ファイアウォールを 2枚 破壊。 消費電力は ターンごとに -1 されます。 使用する"
-"と 消費電力は リセットされます。"
+msgstr "ファイアウォールを 2枚 破壊。 -1 消費電力/ターン。 使用後リセット。"
 
 #: STRINGS.DLC1.PROGRAMS.GOLEM.NAME
 msgctxt "STRINGS.DLC1.PROGRAMS.GOLEM.NAME"
@@ -9296,8 +9290,8 @@ msgid ""
 "BREAKS <c:FF8411>2 FIREWALLS</c>. -1 PWR COST/TURN. COST: <c:77FF77>{1} PWR</"
 "c>"
 msgstr ""
-"ファイアウォールを <c:FF8411>2枚</c> 破壊します。 消費電力は ターンごとに -1 "
-"されます。 消費電力: <c:77FF77>{1}</c>"
+"ファイアウォールを <c:FF8411>2枚</c> 破壊します。 -1 消費電力/ターン。 消費電"
+"力: <c:77FF77>{1}</c>"
 
 #: STRINGS.DLC1.PROPS.DATA_NODE
 msgctxt "STRINGS.DLC1.PROPS.DATA_NODE"
@@ -11413,8 +11407,8 @@ msgid ""
 "Throw to place a fake cover item. The projector can be heard 1 tile away. "
 "Can be recovered."
 msgstr ""
-"投げ込むと 偽の人影を 投影します。 1 タイル 離れた位置から 音を聞く ことが で"
-"きます。 回収 できます。"
+"投げ込むと 偽の 遮蔽物を 投影します。 守衛が 1マス以内に 近づくと 看破されま"
+"す。 回収 できます。"
 
 #: STRINGS.ITEMS.GRENADE_SCAN
 msgctxt "STRINGS.ITEMS.GRENADE_SCAN"
@@ -12584,8 +12578,8 @@ msgid ""
 "Each use of this item takes a charge. Recharges between missions. Use charge "
 "Packs to refill during missions."
 msgstr ""
-"このアイテムは 使用回数が あり、 任務ごとに リセットされます。 任務中に 回復"
-"させるには チャージパックを 使ってください。"
+"使用回数 制限が あり、 任務ごとに リセットされます。 チャージパックで 充填で"
+"きます。"
 
 #: STRINGS.ITEMS.TURRET
 msgctxt "STRINGS.ITEMS.TURRET"
@@ -16624,8 +16618,7 @@ msgstr "<c:8CFFFF>アナタハ十分役ニ立ッテクレマシタネ。</>"
 msgctxt "STRINGS.MOVIE_SUBS.END_29"
 msgid ""
 "<c:8CFFFF>You have been rewarded for your service and will not be harmed.</>"
-msgstr ""
-"<c:8CFFFF>ソノ働キニ免ジテ、危害ヲ加エルヨウナコトハシナイデオキマス。</>"
+msgstr "<c:8CFFFF>ソノ働キニ免ジテ、身ノ安全ハ保障シマス。</>"
 
 #: STRINGS.MOVIE_SUBS.END_3
 msgctxt "STRINGS.MOVIE_SUBS.END_3"
@@ -16983,7 +16976,7 @@ msgid ""
 "PASSIVE: +10% chance of DAEMON REVERSAL."
 msgstr ""
 "電力を 3 消費して ファイアウォールを 1枚 破ります。\n"
-"パッシブ: 10% の 確率で デーモンを 反転させます。"
+"パッシブ: デーモン反転率 +10%"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.HUD_DESC"
@@ -19557,7 +19550,7 @@ msgstr "従 業 員 偵 察"
 #: STRINGS.SCREENS.STR_2120112437
 msgctxt "STRINGS.SCREENS.STR_2120112437"
 msgid "ALARM LEVEL"
-msgstr "警報レベル"
+msgstr "セキュリティレベル"
 
 #: STRINGS.SCREENS.STR_2127324410
 msgctxt "STRINGS.SCREENS.STR_2127324410"
@@ -21553,12 +21546,12 @@ msgstr ""
 #: STRINGS.UI.ALARM_LEVEL
 msgctxt "STRINGS.UI.ALARM_LEVEL"
 msgid "ALARM TRACKER LEVEL"
-msgstr "セキュリティレベル状況"
+msgstr "セキュリティレベル"
 
 #: STRINGS.UI.ALARM_LEVEL_NUM
 msgctxt "STRINGS.UI.ALARM_LEVEL_NUM"
 msgid "ALARM LEVEL %d"
-msgstr "セキュリティレベル %d"
+msgstr "警報レベル %d"
 
 #: STRINGS.UI.ALARM_NEXT_AFTER_SIX
 msgctxt "STRINGS.UI.ALARM_NEXT_AFTER_SIX"
@@ -22327,12 +22320,12 @@ msgstr "難易度"
 #: STRINGS.UI.DIFF_OPTION_ALARM
 msgctxt "STRINGS.UI.DIFF_OPTION_ALARM"
 msgid "ALARM MULTIPLIER"
-msgstr "警告レベル上昇倍率"
+msgstr "セキュリティレベル上昇倍率"
 
 #: STRINGS.UI.DIFF_OPTION_ALARMKO
 msgctxt "STRINGS.UI.DIFF_OPTION_ALARMKO"
 msgid "ALARM WHEN GUARDS KO"
-msgstr "守衛KO時に警告レベル上昇"
+msgstr "守衛KO時にセキュリティレベル上昇"
 
 #: STRINGS.UI.DIFF_OPTION_ALARMKO_TIP
 msgctxt "STRINGS.UI.DIFF_OPTION_ALARMKO_TIP"
@@ -22342,8 +22335,8 @@ msgid ""
 "that will activate even when they have been knocked out. KOing a guard will "
 "cause the alarm to go up 1 point."
 msgstr ""
-"<c:FF8411>守衛KO時に警告レベル上昇</c>\n"
-"守衛を KOすると 警告レベルが 1上昇します。"
+"<c:FF8411>守衛KO時にセキュリティレベル上昇</c>\n"
+"守衛を KOすると セキュリティレベルが 1上昇します。"
 
 #: STRINGS.UI.DIFF_OPTION_ALARMTYPE
 msgctxt "STRINGS.UI.DIFF_OPTION_ALARMTYPE"
@@ -25432,7 +25425,7 @@ msgstr "ハックした ドローンは 監視状態に なりません。"
 #: STRINGS.UI.REASON.INCOGNITA_LOCKED_DOWN
 msgctxt "STRINGS.UI.REASON.INCOGNITA_LOCKED_DOWN"
 msgid "Incognita locked down"
-msgstr "インコグニータが ロックされました。"
+msgstr "インコグニータが ロックされました"
 
 #: STRINGS.UI.REASON.INVALID_TARGET
 msgctxt "STRINGS.UI.REASON.INVALID_TARGET"
