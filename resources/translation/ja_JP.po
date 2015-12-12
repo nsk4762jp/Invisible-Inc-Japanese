@@ -4619,8 +4619,7 @@ msgstr "消費電力量"
 #: STRINGS.DAEMONS.PANIC.ACTIVE_DESC
 msgctxt "STRINGS.DAEMONS.PANIC.ACTIVE_DESC"
 msgid "ONE GUARD SENT TO INVESTIGATE THE LOCATION OF AN AGENT EACH TURN"
-msgstr ""
-"毎ターン、 エージェントの 位置を 捜査すべく、 守衛が 一人 送り込まれます。"
+msgstr "毎ターン、 エージェント 一人の 位置が 守衛に バレます。"
 
 #: STRINGS.DAEMONS.PANIC.DESC
 msgctxt "STRINGS.DAEMONS.PANIC.DESC"
@@ -6246,16 +6245,16 @@ msgid ""
 "Maria Valdez</>"
 msgstr ""
 "読者からの便り \n"
-"インターナショナルワーカー 52巻 5号 2060年5月1日 発行\n"
+"インターナショナル ワーカー 52巻 5号 2060年5月1日 発行\n"
 "\n"
 "\n"
 "<c:62B3B3>編集部へ。\n"
 "\n"
-"     私は 長い間、 インタナショナル ワーカーの 熱心な読者です。 最新の記事を "
-"いつも 楽しみに していましたが、 ここのところ 私と 編集部の 間に 意見の相違"
-"が 出てきました。 この相違が 私たちの関係を 終わらせて しまうのでは ないかと "
-"危惧しています。 同志の間から 上がってきた 意見だとしても、 道義上 反革命の "
-"立場を 取ることは できません。\n"
+"     私は 長い間、 インターナショナル ワーカーの 熱心な読者です。 最新の記事"
+"を いつも 楽しみに していましたが、 ここのところ 私と 編集部の 間に 意見の相"
+"違が 出てきました。 この相違が 私たちの関係を 終わらせて しまうのでは ないか"
+"と 危惧しています。 同志の間から 上がってきた 意見だとしても、 道義上 反革命"
+"の 立場を 取ることは できません。\n"
 "\n"
 "     私が言っているのは、 もちろん、 サンフランシスコ 協定に 譲歩した 論調の "
 "4号の 社説 「歩み寄りの時」 について です。  この態度は、良くて 変化の うねり"
@@ -6288,7 +6287,7 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG02_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG02_FILE"
 msgid "MAGAZINE ARTICLE: International Worker"
-msgstr "雑誌記事: インターナショナル ワーカー"
+msgstr "雑誌記事: ｲﾝﾀｰﾅｼｮﾅﾙ ﾜｰｶｰ"
 
 #: STRINGS.DLC1.LOGS.LOG02_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG02_TITLE"
@@ -6392,7 +6391,7 @@ msgstr "雑誌記事: クライム アップ！"
 #: STRINGS.DLC1.LOGS.LOG03_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG03_TITLE"
 msgid "FROM Climb Up! Weekly, NOV 23, 2062"
-msgstr "週刊 クライム アップ！ 2062年11月23日号より"
+msgstr "週刊 クライム アップ！ 2062年11月23日号"
 
 #: STRINGS.DLC1.LOGS.LOG04
 msgctxt "STRINGS.DLC1.LOGS.LOG04"
@@ -6488,7 +6487,7 @@ msgstr ""
 #: STRINGS.DLC1.LOGS.LOG04_FILE
 msgctxt "STRINGS.DLC1.LOGS.LOG04_FILE"
 msgid "PAMPHLET ARTIFACT, DUBLIN NUA"
-msgstr "ダブリン ヌアの小冊子データ"
+msgstr "ダブリン ヌアの 小冊子データ"
 
 #: STRINGS.DLC1.LOGS.LOG04_TITLE
 msgctxt "STRINGS.DLC1.LOGS.LOG04_TITLE"
@@ -7990,7 +7989,7 @@ msgstr "特殊な出力信号"
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE_DESC
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.UNIQUE_POWER_SIGNATURE_DESC"
 msgid "Capture and extract"
-msgstr "確保して抽出する"
+msgstr "確保して取り出す"
 
 #: STRINGS.DLC1.MISSIONS.MIDMISSION2.UNKNOWN_THREAT
 msgctxt "STRINGS.DLC1.MISSIONS.MIDMISSION2.UNKNOWN_THREAT"
@@ -11597,7 +11596,7 @@ msgstr "暗号化された 鍵を 解除できる、 コンパクトな 機器�
 #: STRINGS.ITEMS.LOCK_DECODER_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.LOCK_DECODER_1_TOOLTIP"
 msgid "Place on a locked door to decode and disable the lock in 2 turns."
-msgstr "施錠された 扉に 設置すると 2 ターンの間 ロックが外れます。"
+msgstr "施錠された 扉に 設置すると 2 ターン後に ロックが外れます。"
 
 #: STRINGS.ITEMS.MED_GEL
 msgctxt "STRINGS.ITEMS.MED_GEL"
@@ -14422,7 +14421,7 @@ msgstr "施錠されたロッカーを見つける"
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY_2
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SECURITY_2"
 msgid "Investigate locker contents"
-msgstr "ロッカーの中身を捜査する"
+msgstr "ロッカーの中身を捜索する"
 
 #: STRINGS.MISSIONS.ESCAPE.OBJ_SERVERFARM
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_SERVERFARM"
@@ -15959,7 +15958,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.NAME"
 msgid "Security Dispatch"
-msgstr "セキュリティ派遣"
+msgstr "警備員室"
 
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.REWARD"
@@ -16527,7 +16526,7 @@ msgstr "\"マザー\""
 #: STRINGS.MOVIE_SUBS.END_14
 msgctxt "STRINGS.MOVIE_SUBS.END_14"
 msgid "<c:8CFFFF>This host is... acceptable.</>"
-msgstr "<c:8CFFFF>コノほすと端末ナラ... 受ケ入レラレル。</>"
+msgstr "<c:8CFFFF>コノほすとナラ... 丁度イイ。</>"
 
 #: STRINGS.MOVIE_SUBS.END_15
 msgctxt "STRINGS.MOVIE_SUBS.END_15"
@@ -18771,7 +18770,7 @@ msgstr "ジェネレータ 切替"
 #: STRINGS.PROPS.TURRET_GENERATOR_TOGGLE_TIP
 msgctxt "STRINGS.PROPS.TURRET_GENERATOR_TOGGLE_TIP"
 msgid "Toggles nearby turret power ON or OFF."
-msgstr "近くにあるタレットの電源をON/OFFします。"
+msgstr "隣のタレットの電源を ON/OFF します。"
 
 #: STRINGS.PROPS.VALUABLE_TECH
 msgctxt "STRINGS.PROPS.VALUABLE_TECH"
@@ -21962,7 +21961,7 @@ msgstr "清掃費"
 #: STRINGS.UI.COMBAT_PANEL_ARMORED
 msgctxt "STRINGS.UI.COMBAT_PANEL_ARMORED"
 msgid "ARMORED"
-msgstr "アーマー装備"
+msgstr "重装備"
 
 #: STRINGS.UI.COMBAT_PANEL_COOLDOWN
 msgctxt "STRINGS.UI.COMBAT_PANEL_COOLDOWN"
