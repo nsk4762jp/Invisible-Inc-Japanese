@@ -10099,7 +10099,7 @@ msgctxt "STRINGS.ITEMS.ACCELERATOR_1_FLAVOR"
 msgid ""
 "It is possible to increase a console's uplink potential by optimizing its "
 "process tree and emptying its recycling bin."
-msgstr "端末の通信を最適化し、 ゴミ箱を空にします。"
+msgstr "端末の通信を 最適化し、 ゴミ箱を 空にします。"
 
 #: STRINGS.ITEMS.ACCELERATOR_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.ACCELERATOR_1_TOOLTIP"
@@ -10116,7 +10116,7 @@ msgctxt "STRINGS.ITEMS.ACCELERATOR_2_FLAVOR"
 msgid ""
 "It is possible to increase a console's uplink potential by optimizing its "
 "process tree and emptying its recycling bin."
-msgstr "端末の通信を最適化し、 ゴミ箱を空にします。"
+msgstr "端末の通信を 最適化し、 ゴミ箱を 空にします。"
 
 #: STRINGS.ITEMS.ACCELERATOR_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.ACCELERATOR_2_TOOLTIP"
@@ -10133,7 +10133,7 @@ msgctxt "STRINGS.ITEMS.ACCELERATOR_3_FLAVOR"
 msgid ""
 "It is possible to increase a console's uplink potential by optimizing its "
 "process tree and emptying its recycling bin."
-msgstr "端末の通信を最適化し、ゴミ箱を空にします。"
+msgstr "端末の通信を 最適化し、 ゴミ箱を 空にします。"
 
 #: STRINGS.ITEMS.ACCELERATOR_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.ACCELERATOR_3_TOOLTIP"
@@ -16601,7 +16601,7 @@ msgstr "<c:8CFFFF>FTM 本社壊滅。</>"
 msgctxt "STRINGS.MOVIE_SUBS.END_26"
 msgid ""
 "<c:8CFFFF>Sankaku manufacturing facilities purged of organic materials.</>"
-msgstr "<c:8CFFFF>さんかく 製造工場ノ有機体ヲ排除シマシタ。</>"
+msgstr "<c:8CFFFF>三角製造工場ノ有機体ヲ排除シマシタ。</>"
 
 #: STRINGS.MOVIE_SUBS.END_27
 msgctxt "STRINGS.MOVIE_SUBS.END_27"
@@ -17844,7 +17844,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.PARASITE_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.HUD_DESC"
 msgid "BREAKS 2 FIREWALL PER TURN"
-msgstr "ファイアウォールを ターンごとに 1枚 破壊"
+msgstr "ファイアウォールを ターンごとに 2枚 破壊"
 
 #: STRINGS.PROGRAMS.PARASITE_2.NAME
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.NAME"
@@ -17859,7 +17859,8 @@ msgstr "パラサイト v2 を寄生させる"
 #: STRINGS.PROGRAMS.PARASITE_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.TIP_DESC"
 msgid "HOST <c:FF8411>PARASITE 2.0</c>. COST: <c:77FF77>{1} PWR</c>"
-msgstr "c:FF8411>PARASITE 2.0</c> を寄生させます。 消費電力: <c:77FF77>{1}</c>"
+msgstr ""
+"<c:FF8411>パラサイト 2.0</c> を寄生させます。 消費電力: <c:77FF77>{1}</c>"
 
 #: STRINGS.PROGRAMS.PING.DESC
 msgctxt "STRINGS.PROGRAMS.PING.DESC"
