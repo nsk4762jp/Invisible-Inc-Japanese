@@ -1783,7 +1783,7 @@ msgstr ""
 
 #: STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN"
-msgid "Internationionale is one of the best all-round operatives I've ever seen, but she's held back by an unfortunate abundance of social concern. If used correctly, she's the bedrock upon which you can build a winning team. Just don't ask her about the plight of the global proletariat."
+msgid "Internationale is one of the best all-round operatives I've ever seen, but she's held back by an unfortunate abundance of social concern. If used correctly, she's the bedrock upon which you can build a winning team. Just don't ask her about the plight of the global proletariat."
 msgstr ""
 
 #: STRINGS.AGENTS.INTERNATIONALE.FILE
@@ -2813,7 +2813,7 @@ msgstr ""
 
 #: STRINGS.AGENTS.SHARP.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.SHARP.ALT_2.BIO"
-msgid "Sharp's technological make-up is in constant flux as he tinkers with, and replaces his augmentations. During his bounty hunting days, he prefered a more methodical, precise approach. Freed from the biological weaknesses like fatigue and hunger, he would slowly but relentlessly track down targets and eliminate them from a safe distance. And from down wind, since he hadn't yet worked out the finer details of his waste disposal subsystem."
+msgid "Sharp's technological make-up is in constant flux as he tinkers with, and replaces his augmentations. During his bounty hunting days, he preferred a more methodical, precise approach. Freed from the biological weaknesses like fatigue and hunger, he would slowly but relentlessly track down targets and eliminate them from a safe distance. And from down wind, since he hadn't yet worked out the finer details of his waste disposal subsystem."
 msgstr ""
 
 #: STRINGS.AGENTS.SHARP.ALT_2.FULLNAME
@@ -7483,7 +7483,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_FLAVOR"
-msgid "Replacement Myomer bundles that produce an accessable compartment in unused body space."
+msgid "Replacement Myomer bundles that produce an accessible compartment in unused body space."
 msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_TIP
@@ -7498,7 +7498,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS_FLAVOR"
-msgid "The highly confidental work of a Daemon engineer, this subdermal chip re-routes PWR from other networked subroutines. Rumor has it that Central has the only prototype."
+msgid "The highly confidential work of a Daemon engineer, this subdermal chip re-routes PWR from other networked subroutines. Rumor has it that Central has the only prototype."
 msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS_TIP
@@ -7828,7 +7828,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.SHARP_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SHARP_2_FLAVOR"
-msgid "Each of Alex's earlier MCF designs had their own share of advantages and disadvantages. The X2 had particularly useful benefits, but the bladder containment trouble proved to be too embarassing."
+msgid "Each of Alex's earlier MCF designs had their own share of advantages and disadvantages. The X2 had particularly useful benefits, but the bladder containment trouble proved to be too embarrassing."
 msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.SHARP_2_TOOLTIP
@@ -7843,7 +7843,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION_FLAVOR"
-msgid "Nano constucted fiber webbing surrounds the bones, vastly reducing the risk of arthritis."
+msgid "Nano constructed fiber webbing surrounds the bones, vastly reducing the risk of arthritis."
 msgstr ""
 
 #: STRINGS.ITEMS.AUGMENTS.SKELETAL_SUSPENSION_TIP
@@ -8558,7 +8558,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.MED_GEL_FLAVOR
 msgctxt "STRINGS.ITEMS.MED_GEL_FLAVOR"
-msgid "A Medgel capsule contains a swarm of cellular-resotration nanobots suspended in a slurry of nutrients, antibiotics, and synthetic blood vessels. They taste like guava."
+msgid "A Medgel capsule contains a swarm of cellular-restoration nanobots suspended in a slurry of nutrients, antibiotics, and synthetic blood vessels. They taste like guava."
 msgstr ""
 
 #: STRINGS.ITEMS.MED_GEL_TOOLTIP
@@ -9328,7 +9328,7 @@ msgstr ""
 
 #: STRINGS.ITEMS.TOOLTIPS.MELEE_BOOST_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.MELEE_BOOST_DESC"
-msgid "+{1} ARMOR PIRECING and KO DAMAGE"
+msgid "+{1} ARMOR PIERCING and KO DAMAGE"
 msgstr ""
 
 #: STRINGS.ITEMS.TOOLTIPS.RANGE
@@ -9433,7 +9433,7 @@ msgstr ""
 
 #: STRINGS.LOADING.ERR_BODY
 msgctxt "STRINGS.LOADING.ERR_BODY"
-msgid "There was an error loading. Pressing CONTINUE will load to the state before the error occured.\n<font1_10_r>\n{1}</>"
+msgid "There was an error loading. Pressing CONTINUE will load to the state before the error occurred.\n<font1_10_r>\n{1}</>"
 msgstr ""
 
 #: STRINGS.LOADING.ERR_TITLE
@@ -12293,7 +12293,7 @@ msgstr ""
 
 #: STRINGS.MOVIE_SUBS.END_10
 msgctxt "STRINGS.MOVIE_SUBS.END_10"
-msgid "<c:FF8C00>Warning, security personnel have been notified and are enroute.</>"
+msgid "<c:FF8C00>Warning, security personnel have been notified and are en route.</>"
 msgstr ""
 
 #: STRINGS.MOVIE_SUBS.END_11
@@ -12413,7 +12413,7 @@ msgstr ""
 
 #: STRINGS.MOVIE_SUBS.END_32
 msgctxt "STRINGS.MOVIE_SUBS.END_32"
-msgid "One minute the combined security aparatus of 4 megacorps is bearing down on us\n and the next SecNet is gone."
+msgid "One minute the combined security apparatus of 4 megacorps is bearing down on us\n and the next SecNet is gone."
 msgstr ""
 
 #: STRINGS.MOVIE_SUBS.END_33
@@ -16693,7 +16693,7 @@ msgstr ""
 
 #: STRINGS.UI.ALARM_TOOLTIP
 msgctxt "STRINGS.UI.ALARM_TOOLTIP"
-msgid "<c:F4FF78>SECURITY LEVEL</>\nThe facility detected Incognita's distrubance as she beamed you in. They are slowly tracking her signal down, and raising their defences as it locks onto your team's location. New security measures are added every 5 increments."
+msgid "<c:F4FF78>SECURITY LEVEL</>\nThe facility detected Incognita's disturbance as she beamed you in. They are slowly tracking her signal down, and raising their defences as it locks onto your team's location. New security measures are added every 5 increments."
 msgstr ""
 
 #: STRINGS.UI.ALERT_DAMAGED_HEART
@@ -17248,7 +17248,7 @@ msgstr ""
 
 #: STRINGS.UI.DIFFICULTYDESC.6
 msgctxt "STRINGS.UI.DIFFICULTYDESC.6"
-msgid "Expect lethal resistance from the moment you enter the facilty."
+msgid "Expect lethal resistance from the moment you enter the facility."
 msgstr ""
 
 #: STRINGS.UI.DIFFICULTY_FORMAT
@@ -17258,7 +17258,7 @@ msgstr ""
 
 #: STRINGS.UI.DIFFICULTY_OMNI
 msgctxt "STRINGS.UI.DIFFICULTY_OMNI"
-msgid "Expect lethal resistance from the moment you enter the facilty."
+msgid "Expect lethal resistance from the moment you enter the facility."
 msgstr ""
 
 #: STRINGS.UI.DIFFICULTY_STR
@@ -19098,12 +19098,22 @@ msgstr ""
 
 #: STRINGS.UI.MODS_REFRESH_COMPLETE
 msgctxt "STRINGS.UI.MODS_REFRESH_COMPLETE"
-msgid "Finished refreshing mods and language packs from Steam Workshop."
+msgid "Finished refreshing language packs from Steam Workshop."
+msgstr ""
+
+#: STRINGS.UI.MODS_REFRESH_SCHEDULED
+msgctxt "STRINGS.UI.MODS_REFRESH_SCHEDULED"
+msgid "Mods and language packs will refresh the next time you start the game.\n\nIt may take several moments depending on the size of the mods."
 msgstr ""
 
 #: STRINGS.UI.MODS_UPDATE
 msgctxt "STRINGS.UI.MODS_UPDATE"
 msgid "REFRESH MODS"
+msgstr ""
+
+#: STRINGS.UI.MODS_UPDATED
+msgctxt "STRINGS.UI.MODS_UPDATED"
+msgid "MODS AND LANGUAGE PACKS HAVE BEEN UPDATED"
 msgstr ""
 
 #: STRINGS.UI.MODS_UPDATING
@@ -19438,7 +19448,7 @@ msgstr ""
 
 #: STRINGS.UI.NO_DATA_LOGS
 msgctxt "STRINGS.UI.NO_DATA_LOGS"
-msgid "ALL FILES ON THIS SUBJECT HAVE BEEN LOST DUE TO DUE TO CORPORATE SIEZURE OF DATA ASSETS.\n\nRECOMMEND CORPORATE DATA MINING TO RETRIEVE MISSING FILES."
+msgid "ALL FILES ON THIS SUBJECT HAVE BEEN LOST DUE TO DUE TO CORPORATE SEIZURE OF DATA ASSETS.\n\nRECOMMEND CORPORATE DATA MINING TO RETRIEVE MISSING FILES."
 msgstr ""
 
 #: STRINGS.UI.OK
@@ -21053,7 +21063,7 @@ msgstr ""
 
 #: STRINGS.UI.TOOLTIP_UNLIMITED_ATTACKS_DESC
 msgctxt "STRINGS.UI.TOOLTIP_UNLIMITED_ATTACKS_DESC"
-msgid "This agents has unlimted attacks."
+msgid "This agents has unlimited attacks."
 msgstr ""
 
 #: STRINGS.UI.TOTAL_CREDITS
