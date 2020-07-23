@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 2.3.1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: STRINGS.ABILITIES.ACCESS_BANK
@@ -15616,7 +15616,7 @@ msgstr ""
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_PINNED
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PINNED"
 msgid "Brutal, but effective. <c:faff0a>Proceed to the next door</>."
-msgstr "野蛮だけど 効果的。 <c:faff0a>次の扉まで進んで/>。"
+msgstr "野蛮だけど 効果的。 <c:faff0a>次の扉まで進んで</>。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_REMIND_INCOGNITA
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_REMIND_INCOGNITA"
@@ -26402,12 +26402,12 @@ msgstr "空きスロット"
 #: STRINGS.UI.TOOLTIPS.EMP_VULNERABLE
 msgctxt "STRINGS.UI.TOOLTIPS.EMP_VULNERABLE"
 msgid "EMP VULNERABLE"
-msgstr "EMP 障害発生中"
+msgstr "EMP 脆弱性"
 
 #: STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.EMP_VULNERABLE_DESC"
 msgid "EMP effects destroy this unit's delicate electronics permanently."
-msgstr "EMP 効果によって このユニットの 電子部品は 破壊されました。"
+msgstr "EMP効果を 受けると、 このユニットの 繊細な 電子部品は 破壊されます。"
 
 #: STRINGS.UI.TOOLTIPS.ENCUMBERED
 msgctxt "STRINGS.UI.TOOLTIPS.ENCUMBERED"
